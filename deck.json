@@ -35,10 +35,10 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 20
+                "perDay": 50
             },
-            "newGatherPriority": 0,
-            "newMix": 0,
+            "newGatherPriority": 4,
+            "newMix": 1,
             "newPerDayMinimum": 0,
             "newSortOrder": 0,
             "promotion_deck": null,
@@ -55,12 +55,12 @@
             "retirement_suspend": false,
             "retirement_tag": "",
             "rev": {
-                "bury": true,
+                "bury": false,
                 "ease4": 1.3,
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
-                "perDay": 200
+                "perDay": 500
             },
             "reviewOrder": 0,
             "scheduling_enabled": false,
@@ -87,7 +87,7 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "crowdanki_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "css": ".card {\n    font-family: arial;\n    font-size: 32px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
             "flds": [
                 {
@@ -96,7 +96,7 @@
                     "name": "Front",
                     "ord": 0,
                     "rtl": false,
-                    "size": 20,
+                    "size": 32,
                     "sticky": false
                 },
                 {
@@ -105,20 +105,28 @@
                     "name": "Back",
                     "ord": 1,
                     "rtl": false,
-                    "size": 20,
+                    "size": 32,
                     "sticky": false
                 }
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic (and reversed card) copy",
             "req": [
                 [
                     0,
                     "any",
                     [
                         0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        0,
+                        1
                     ]
                 ]
             ],
@@ -134,60 +142,17 @@
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "css": ".card {\n    font-family: arial;\n    font-size: 34px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
-            "flds": [
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 34,
-                    "sticky": false
                 },
                 {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 34,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic (type in the answer)",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0,
-                        1
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tmpls": [
-                {
-                    "afmt": "{{Front}}\n\n<hr id=answer>\n\n{{type:Back}}",
+                    "afmt": "{{Back}}\n\n<hr id=answer>\n\n{{type:Front}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}\n\n{{type:Back}}"
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}\n\n{{type:Front}}"
                 }
             ],
             "type": 0
@@ -201,31 +166,7 @@
                 "like "
             ],
             "guid": "v/q=:z3L?A",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "like",
-                "ชอบ"
-            ],
-            "guid": "yVIfgGa>:0",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Pad thai",
-                "ผัดไทย"
-            ],
-            "guid": "LMLE?:SFhL",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -237,7 +178,7 @@
                 "pad thai "
             ],
             "guid": "h8.U*r[E5m",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -249,7 +190,7 @@
                 "person"
             ],
             "guid": "NXC&5p$0Uc",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -261,7 +202,7 @@
                 "beautiful "
             ],
             "guid": "G%9nw{Gv_*",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -273,7 +214,7 @@
                 "eat "
             ],
             "guid": "LuAe@vGtBk",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -285,7 +226,7 @@
                 "food "
             ],
             "guid": "N=CYxF&!Us",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -297,67 +238,7 @@
                 "spicy "
             ],
             "guid": "IJkKCVYUJn",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "person",
-                "คน"
-            ],
-            "guid": "K,#r$W2#vo",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "beautiful",
-                "สวย"
-            ],
-            "guid": "fjy2O3Kz.2",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "eat",
-                "กิน"
-            ],
-            "guid": "nyo:Y1[Gtm",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "food",
-                "อาหาร"
-            ],
-            "guid": "ln6V$*BRks",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "spicy",
-                "เผ็ด"
-            ],
-            "guid": "nh#x,#W?d8",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -369,7 +250,7 @@
                 "rice (food) "
             ],
             "guid": "M.U`)A@zj#",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -381,31 +262,7 @@
                 "pizza "
             ],
             "guid": "i]nO=S#3HA",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "rice (food)",
-                "ข้าว"
-            ],
-            "guid": "D]qI`<!H]Z",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "pizza",
-                "พิซซ่า"
-            ],
-            "guid": "N%jIk(rCRM",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -417,7 +274,7 @@
                 "kid "
             ],
             "guid": "goXD~gnZ6w",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -429,7 +286,7 @@
                 "to sleep"
             ],
             "guid": "rU=<O#I*5+",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -441,7 +298,7 @@
                 "hamburger "
             ],
             "guid": "y(8)ssZtdX",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -453,7 +310,7 @@
                 "he "
             ],
             "guid": "F8dcuh]qH<",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -465,7 +322,7 @@
                 "drink "
             ],
             "guid": "y;NN!t$D^]",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -477,7 +334,7 @@
                 "coffee "
             ],
             "guid": "F_s@+le#u",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -489,128 +346,7 @@
                 "tea "
             ],
             "guid": "@$cc#HiB?",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "kid",
-                "เด็ก\t"
-            ],
-            "guid": "c679D9JIfV",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "sleep",
-                "นอน"
-            ],
-            "guid": "ilFBXri/c_",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "hamburger",
-                "เบอร์เกอร์"
-            ],
-            "guid": "gsY#o[$.2a",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "he&nbsp;",
-                "เขา"
-            ],
-            "guid": "cFmH4J5sx)",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "drink",
-                "ดื่ม"
-            ],
-            "guid": "dn:c$`?8(V",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "coffee",
-                "กาแฟ"
-            ],
-            "guid": "tq:zd]gt8*",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "tea",
-                "ชา"
-            ],
-            "guid": "F2{n6Qwo&>",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "I drink coffee every day",
-                "ผมดื่มกาแฟทุกวัน"
-            ],
-            "guid": "LnCl;)Vk,`",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "I feed my cat every day",
-                "ผมให้อาหารแมวทุกวัน"
-            ],
-            "guid": "f>KM`Ob/4T",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure",
-                "question_for_teacher"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "give",
-                "ให้"
-            ],
-            "guid": "x6y7:n`8|l",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -622,7 +358,7 @@
                 "give "
             ],
             "guid": "pRHPI]_or>",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -634,163 +370,7 @@
                 "cat "
             ],
             "guid": "M,y~pjaC6/",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "cat",
-                "แมว"
-            ],
-            "guid": "w5OlMkLzX",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Did you drink coffee yet?",
-                "วันนี้คุณดื่มกาแฟหรือยัง"
-            ],
-            "guid": "LN_-E~IyV6",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "not yet",
-                "ยัง"
-            ],
-            "guid": "iQc:O_THt2",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Drank already ",
-                "ดื่มแล้ว"
-            ],
-            "guid": "e$3[R/b@kJ",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "or",
-                "หรือ"
-            ],
-            "guid": "C5E.c8ygI[",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "yet",
-                "ยัง"
-            ],
-            "guid": "u};tIV;a#d",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "swim",
-                "ว่ายน้ำ"
-            ],
-            "guid": "NL@qI!|a`:",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "man",
-                "ผู้ชาย"
-            ],
-            "guid": "ym>(PkqVx3",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "to play",
-                "เล่น"
-            ],
-            "guid": "MU0F~>i0$g",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "golf",
-                "กอล์ฟ"
-            ],
-            "guid": "A|TFMH:|}u",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "woman",
-                "ผู้หญิง"
-            ],
-            "guid": "MgY|.)<3rQ",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "car",
-                "รถ"
-            ],
-            "guid": "F2`c&j#dg^",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "wash",
-                "ล้าง"
-            ],
-            "guid": "ok$)[vcx~W",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -802,7 +382,7 @@
                 "swim "
             ],
             "guid": "D$G[{3twpz",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -814,7 +394,7 @@
                 "man "
             ],
             "guid": "iSuRA~QC4*",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -826,7 +406,7 @@
                 "play "
             ],
             "guid": "F,Oyltdxo!",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -838,7 +418,7 @@
                 "golf "
             ],
             "guid": "EwG)(XD-kd",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -850,7 +430,7 @@
                 "woman "
             ],
             "guid": "qSLpPJjBi`",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -862,7 +442,7 @@
                 "wash "
             ],
             "guid": "c[!1Sz|cG>",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -874,7 +454,7 @@
                 "car "
             ],
             "guid": "d!As857oy|",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -886,7 +466,7 @@
                 "study "
             ],
             "guid": "G[5TN}Ako)",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -898,7 +478,7 @@
                 "vietnam "
             ],
             "guid": "e0nuL7[deB",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -910,7 +490,7 @@
                 "china "
             ],
             "guid": "q#BPqs*`lO",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -922,7 +502,7 @@
                 "japan "
             ],
             "guid": "L{Po,Q~TT2",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -934,175 +514,7 @@
                 "before "
             ],
             "guid": "oKoy6/c}:[",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "study",
-                "เรียน"
-            ],
-            "guid": "Dl9AI!]$J&",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "thai",
-                "ไทย"
-            ],
-            "guid": "m)dx(GKTmU",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "before",
-                "ก่อน"
-            ],
-            "guid": "Ofs3MIEJ!n",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "china",
-                "จีน"
-            ],
-            "guid": "iwp(m5tKhV",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "japan",
-                "ญี่ปุ่น"
-            ],
-            "guid": "x%81D_KqYn",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "vietnam",
-                "เวียดนาม"
-            ],
-            "guid": "svxVwx|bI:",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Korea",
-                "เกาหลี"
-            ],
-            "guid": "hh(:sZ#afN",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "work",
-                "ทำงาน"
-            ],
-            "guid": "Bk1FHNn;Ti",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "a lot",
-                "เยอะ"
-            ],
-            "guid": "iq=Gg$cKR=",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "and",
-                "และ"
-            ],
-            "guid": "zd@`KlO;()",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "already",
-                "แล้ว"
-            ],
-            "guid": "yn,Sh3>1mr",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "yesterday",
-                "เมื่อวาน"
-            ],
-            "guid": "pnYL+Ka]s6",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "this morning",
-                "เมื่อเช้า"
-            ],
-            "guid": "dFA;CNr363",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "last",
-                "ที่แล้ว"
-            ],
-            "guid": "s>@{,!~_Xt",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1114,7 +526,7 @@
                 "work "
             ],
             "guid": "ra~lN[awy*",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1126,7 +538,7 @@
                 "and "
             ],
             "guid": "DNA)lmB2[?",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1138,7 +550,7 @@
                 "already "
             ],
             "guid": "rRXguO(]A?",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1150,7 +562,7 @@
                 "yesterday "
             ],
             "guid": "P+XPG<T[@p",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1162,9 +574,10 @@
                 "this morning "
             ],
             "guid": "F:BP|t!i6@",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
-                "Basic_Structure"
+                "Basic_Structure",
+                "question_for_teacher"
             ]
         },
         {
@@ -1174,7 +587,7 @@
                 "last"
             ],
             "guid": "zF0?|htCL1",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1186,7 +599,7 @@
                 "wake up "
             ],
             "guid": "B.{tnc&(4W",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1198,7 +611,7 @@
                 "shower "
             ],
             "guid": "cEN,`4T?;b",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1210,7 +623,7 @@
                 "go "
             ],
             "guid": "CNdJ;*F^)-",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1222,7 +635,7 @@
                 "to shop "
             ],
             "guid": "ewm:]h=n-:",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1234,79 +647,7 @@
                 "to buy "
             ],
             "guid": "jrsxr`VRK>",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "to wake up",
-                "ตื่น"
-            ],
-            "guid": "KA,{-#/!uc",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "to shower",
-                "อาบน้ำ"
-            ],
-            "guid": "D4c(J,./#I",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "to go",
-                "ไป"
-            ],
-            "guid": "F!mO+w8*V8",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "to shop",
-                "ชอปปิ้ง"
-            ],
-            "guid": "Lhe-@>{r6)",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "to buy",
-                "ซื้อ"
-            ],
-            "guid": "bpg9BluTGt",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "computer",
-                "คอมพิวเตอร์"
-            ],
-            "guid": "Jx8v;/:M+6",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1318,7 +659,7 @@
                 "computer "
             ],
             "guid": "qo*g7BZTt8",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1330,7 +671,7 @@
                 "tomorrow "
             ],
             "guid": "i=Vh%GD`@%",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1342,67 +683,7 @@
                 "will "
             ],
             "guid": "Fj94qfnF,u",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "will",
-                "จะ"
-            ],
-            "guid": "m2#s<Rib/H",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "tomorrow",
-                "พรุ่งนี้"
-            ],
-            "guid": "Bz^|q@xAI4",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "read",
-                "อ่าน"
-            ],
-            "guid": "v<ALjLapnx",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "book",
-                "หนังสือ"
-            ],
-            "guid": "M(hs6UyCL@",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "piano",
-                "เปียโน"
-            ],
-            "guid": "ns:llolC0;",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1414,7 +695,7 @@
                 "read "
             ],
             "guid": "x0ldhwSD)+",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1426,7 +707,7 @@
                 "book"
             ],
             "guid": "xxw{ZeApl-",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1438,7 +719,7 @@
                 "piano "
             ],
             "guid": "qe;sw&xB$>",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1450,7 +731,7 @@
                 "now "
             ],
             "guid": "M&UO<8h7=A",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1462,7 +743,7 @@
                 "with "
             ],
             "guid": "EOQ!rDCK/o",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1474,43 +755,7 @@
                 "speak "
             ],
             "guid": "p~iAQ+q`)f",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "with",
-                "กับ"
-            ],
-            "guid": "yUyb6X+Vm<",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "speak",
-                "พูด"
-            ],
-            "guid": "bn/3t*~lDY",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "have",
-                "มี"
-            ],
-            "guid": "e,>C<0v%L6",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1522,7 +767,7 @@
                 "have "
             ],
             "guid": "v*B[^<ECJ^",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1534,7 +779,7 @@
                 "well... I am ok "
             ],
             "guid": "B1ujnu_Wnh",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1546,7 +791,7 @@
                 "how are you?"
             ],
             "guid": "O&CyL&OMp$",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1558,7 +803,7 @@
                 "how is everything? "
             ],
             "guid": "mj.}IbDwkO",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Basic_Structure"
             ]
@@ -1570,7 +815,7 @@
                 "question "
             ],
             "guid": "vR[|<]I)DK",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -1582,7 +827,7 @@
                 "ask "
             ],
             "guid": "Pc_XSwqzaQ",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -1594,7 +839,7 @@
                 "word "
             ],
             "guid": "ILu13q]T35",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -1606,91 +851,7 @@
                 "to do "
             ],
             "guid": "dZGUul7)si",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "question",
-                "คำถาม"
-            ],
-            "guid": "d(_mr/:wjF",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "to ask",
-                "ถาม"
-            ],
-            "guid": "r?qtTvk}*!",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "word",
-                "คำ"
-            ],
-            "guid": "v&;m!i~7ES",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "to do",
-                "ทำ"
-            ],
-            "guid": "yfS=]4y6O;",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "to want",
-                "อยาก"
-            ],
-            "guid": "C#mvIsP@Iv",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "yes",
-                "ใช่ "
-            ],
-            "guid": "zZruT)m(m^",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "no",
-                "ไม่ใช่"
-            ],
-            "guid": "M<8|ZJ[M${",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -1702,7 +863,7 @@
                 "want "
             ],
             "guid": "jroJXj2YbU",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -1714,7 +875,7 @@
                 "yes "
             ],
             "guid": "tKE-N{K17m",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -1726,7 +887,7 @@
                 "no"
             ],
             "guid": "Ip&Ela4pqd",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "question_for_teacher",
                 "Question_Words"
@@ -1739,7 +900,7 @@
                 "carrot "
             ],
             "guid": "u_LRn7,_q>",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -1751,7 +912,7 @@
                 "nickname "
             ],
             "guid": "G?rU{t:(Un",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -1763,7 +924,7 @@
                 "yes or no? "
             ],
             "guid": "rO+-B^*Qrc",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -1775,104 +936,7 @@
                 "pattaya&nbsp; "
             ],
             "guid": "tnj&@EApB}",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "pattaya",
-                "พัทยา"
-            ],
-            "guid": "h)D<<?xQwY",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "vehicle",
-                "คัน"
-            ],
-            "guid": "NFrml<G!Qq",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "classifer",
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "yes or no?",
-                "ใช่ไหม"
-            ],
-            "guid": "KVQ.*9[rVz",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Can?",
-                "ได้ไหม"
-            ],
-            "guid": "l!;|:)GU?M",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "park",
-                "จอด"
-            ],
-            "guid": "X)ENXd9GM",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "here",
-                "ตรงนี้"
-            ],
-            "guid": "hvHg^<b_Pw",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "but",
-                "แต่"
-            ],
-            "guid": "z71h]^hW;B",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "kind",
-                "ใจดีม"
-            ],
-            "guid": "IYcP@)QL2/",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -1884,7 +948,7 @@
                 "park "
             ],
             "guid": "c@q,XFvIIq",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -1896,7 +960,7 @@
                 "here "
             ],
             "guid": "qF6nr5hK5]",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -1908,7 +972,7 @@
                 "can?"
             ],
             "guid": "N_$)m|cl{r",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -1920,7 +984,7 @@
                 "but"
             ],
             "guid": "G`P%Pp}fO.",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -1932,7 +996,7 @@
                 "room "
             ],
             "guid": "ymykW.EGnb",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -1944,7 +1008,7 @@
                 "available "
             ],
             "guid": "klKK8*kY-0",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -1956,7 +1020,7 @@
                 "money "
             ],
             "guid": "oM$dfS_JfN",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -1968,79 +1032,7 @@
                 "poor "
             ],
             "guid": "u8}Kc2nD&?",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "room",
-                "ห้อง"
-            ],
-            "guid": "FncseJn|/A",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "available",
-                "ว่าง"
-            ],
-            "guid": "rBp{M~XLeL",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "money",
-                "ไหม"
-            ],
-            "guid": "iq~W(lgS_;",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "poor",
-                "จน"
-            ],
-            "guid": "p*/DYHe`^o",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "fish",
-                "ปลา"
-            ],
-            "guid": "gujmMD@z&8",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "sea",
-                "ทะเล"
-            ],
-            "guid": "n<BmCDus:F",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2052,7 +1044,7 @@
                 "fish "
             ],
             "guid": "e:R1E.}=td",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2064,7 +1056,7 @@
                 "sea "
             ],
             "guid": "CcY/d2-#ZS",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2076,91 +1068,7 @@
                 "when "
             ],
             "guid": "wKqMkhOK{n",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "when?",
-                "เมื่อไหร่"
-            ],
-            "guid": "b>:`Cnpw7:",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "where?",
-                "ที่ไหน"
-            ],
-            "guid": "GXvaZAEq^V",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "which spot?",
-                "ตรงไหน"
-            ],
-            "guid": "BWOZ.<4_yj",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "house",
-                "บ้าน"
-            ],
-            "guid": "rZl1|f]dae",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "be",
-                "อยู่"
-            ],
-            "guid": "I?;:g@i0!o",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "where are you?",
-                "อยู่ไหน"
-            ],
-            "guid": "pVe{U_*xXj",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "restroom",
-                "ห้องน้ำ"
-            ],
-            "guid": "g)~BCq9%&^",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2172,7 +1080,7 @@
                 "where "
             ],
             "guid": "bO$=q<T8=D",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2184,7 +1092,7 @@
                 "which spot? "
             ],
             "guid": "OppBU:r;7N",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2196,7 +1104,7 @@
                 "be "
             ],
             "guid": "hZV[d/i4/R",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2208,7 +1116,7 @@
                 "house"
             ],
             "guid": "ti?k<X`eLD",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2220,7 +1128,7 @@
                 "restroom "
             ],
             "guid": "r<&2)X@~_8",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2232,7 +1140,7 @@
                 "why? "
             ],
             "guid": "P&Il82hx)D",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2244,7 +1152,7 @@
                 "because"
             ],
             "guid": "D$)qp]ox);",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "question_for_teacher",
                 "Question_Words"
@@ -2257,7 +1165,7 @@
                 "save "
             ],
             "guid": "fJOJwKhVfX",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2269,7 +1177,7 @@
                 "expensive "
             ],
             "guid": "N})<R(R~{x",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2281,91 +1189,7 @@
                 "cheap "
             ],
             "guid": "HG?a>EIQtH",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "why?",
-                "ทำไม"
-            ],
-            "guid": "r3Mp?=@Rx[",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "save",
-                "ประหยัด"
-            ],
-            "guid": "Jf5+R9.itD",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "expensive",
-                "แพง"
-            ],
-            "guid": "oR>>Epx]?)",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "cheap",
-                "ถูก"
-            ],
-            "guid": "M+S`/8@3](",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "who?",
-                "ใคร"
-            ],
-            "guid": "rOP<LP3-aq",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "friend（ภาษาไทย)",
-                "เพื่อน"
-            ],
-            "guid": "qjaS*5Dg`,",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "gf/bf",
-                "แฟน"
-            ],
-            "guid": "C8kl+P#qpX",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2377,7 +1201,7 @@
                 "gf/bf "
             ],
             "guid": "hWUqEf~@@:",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2389,7 +1213,7 @@
                 "friend "
             ],
             "guid": "z94B=U%g3a",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2401,7 +1225,7 @@
                 "who? "
             ],
             "guid": "fd4NQN{.O=",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2413,43 +1237,7 @@
                 "bag "
             ],
             "guid": "I|wi$w4se?",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "bag",
-                "กระเป๋า"
-            ],
-            "guid": "Iq/SKTt}|.",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "how?",
-                "อย่างไร"
-            ],
-            "guid": "H7CJuv(u;D",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "delicious",
-                "อร่อย"
-            ],
-            "guid": "M6w4cYPi[%",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2461,7 +1249,7 @@
                 "delicious "
             ],
             "guid": "tsqhjO1qD5",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2473,7 +1261,7 @@
                 "how? "
             ],
             "guid": "DvN>z.!.0Y",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2485,7 +1273,7 @@
                 "how much? "
             ],
             "guid": "gAS2AWSoXn",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2497,82 +1285,8 @@
                 "price "
             ],
             "guid": "w0ZRx3dIu9",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "price",
-                "ราคา"
-            ],
-            "guid": "NTw&7sR0s)",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "how much?",
-                "เท่าไหร่"
-            ],
-            "guid": "i`aazAGw72",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "want something",
-                "เอา"
-            ],
-            "guid": "DIKTY<7ai0",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "question_for_teacher",
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "how many wanted?",
-                "เอากี่อัน"
-            ],
-            "guid": "kj0O#b-CnP",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "how many/much (needs classifier)",
-                "กี่"
-            ],
-            "guid": "j)vAf/5THY",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "how much is this? (in thailand's currency)",
-                "อันนี้ราคากี่บาทครับ"
-            ],
-            "guid": "FiU3F2QUd?",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "question_for_teacher",
                 "Question_Words"
             ]
         },
@@ -2583,7 +1297,7 @@
                 "want something "
             ],
             "guid": "pV4Lg:Xh|<",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2595,7 +1309,7 @@
                 "thai currency "
             ],
             "guid": "xHL_cDq;}m",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2607,7 +1321,7 @@
                 "stir fired "
             ],
             "guid": "E{js:vZH}&",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2619,7 +1333,7 @@
                 "deep fried "
             ],
             "guid": "s%v*WKC$Mg",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2631,81 +1345,9 @@
                 "insect&nbsp;"
             ],
             "guid": "jx8.uS#:*N",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "question_for_teacher",
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "insect",
-                "แมลง"
-            ],
-            "guid": "K*Oc#d}iH4",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "deep fried",
-                "ทอด"
-            ],
-            "guid": "gb|XGb2A%S",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "stir fried",
-                "ผัด"
-            ],
-            "guid": "IHJkmLre/",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "drink (noun)",
-                "เครื่องดื่ม"
-            ],
-            "guid": "o>8&xaSUn^",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "boost",
-                "ชู"
-            ],
-            "guid": "{G=Hc}Mj3",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "power (noun)",
-                "กำลัง"
-            ],
-            "guid": "p3yGIZq|q#",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
                 "Question_Words"
             ]
         },
@@ -2716,7 +1358,7 @@
                 "drink (noun) "
             ],
             "guid": "b&6ma*{]/0",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2728,7 +1370,7 @@
                 "power "
             ],
             "guid": "GTbhgCdDns",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2740,7 +1382,7 @@
                 "boost "
             ],
             "guid": "ioG`T^xil&",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2752,7 +1394,7 @@
                 "find "
             ],
             "guid": "s21!W-zuq:",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2764,31 +1406,7 @@
                 "fierce "
             ],
             "guid": "szH+qD&sYn",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "fierce",
-                "ดุ"
-            ],
-            "guid": "NI5g)Rjtxp",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "work/job (noun)",
-                "งาน"
-            ],
-            "guid": "JyP{()9q=<",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2800,7 +1418,7 @@
                 "work/job (noun) "
             ],
             "guid": "K_U[Dht&]v",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
             ]
@@ -2812,93 +1430,9 @@
                 "this "
             ],
             "guid": "p5HM14>uAQ",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "this",
-                "นี้"
-            ],
-            "guid": "QeMA-1.)q*",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Question_Words"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "well… I am ok",
-                "ก็โอเค"
-            ],
-            "guid": "dY;t`#lh2-",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "see you later",
-                "แล้วเจอกัน"
-            ],
-            "guid": "wJM*Hfjs.e",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "how is everything?",
-                "เป็นยังไงบ้าง"
-            ],
-            "guid": "bt^o9Zu>1J",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "how are you?",
-                "สบายดีไหม"
-            ],
-            "guid": "tII4qyG_EM",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                " a lot",
-                "เยอะ"
-            ],
-            "guid": "nC6T9glJAj",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Basic_Structure"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What's up?",
-                "เป็นไง"
-            ],
-            "guid": "y01/1EAAlX",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
             ]
         },
         {
@@ -2908,19 +1442,7 @@
                 "No worry "
             ],
             "guid": "Q)Rd{xqs->",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "No worry",
-                "<b><span style=\"font-weight: 400;\">ไม่เป็นไร</span></b>"
-            ],
-            "guid": "Cj#rY7*RG|",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -2932,19 +1454,7 @@
                 "bangkok"
             ],
             "guid": "xqM)O?:E_)",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "bangkok",
-                "<b><span style=\"font-weight: 400;\">กรุงเทพฯ</span></b>"
-            ],
-            "guid": "r5b&]?H2O#",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -2956,19 +1466,7 @@
                 "-ing particle"
             ],
             "guid": "onvCB4*o]~",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "-ing particle",
-                "กำลัง"
-            ],
-            "guid": "si6Z|.4&Yx",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -2980,19 +1478,7 @@
                 "request"
             ],
             "guid": "Bl]ey+,Bfd",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "request",
-                "ขอ"
-            ],
-            "guid": "f.Ftv6,WvE",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3004,19 +1490,7 @@
                 "thank you"
             ],
             "guid": "HB!(c.24ea",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "thank you",
-                "ขอบคุณ"
-            ],
-            "guid": "lGwDOYtXmf",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3028,19 +1502,7 @@
                 "sorry/excuse me"
             ],
             "guid": "LmHYAYhI[P",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "sorry/excuse me",
-                "ขอโทษ"
-            ],
-            "guid": "B8ln:Ww5DK",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3052,7 +1514,7 @@
                 "enjoy yourself"
             ],
             "guid": "E+l%tzO/;s",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3064,19 +1526,7 @@
                 "polite particle male"
             ],
             "guid": "Ew)o2-q`8y",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "polite particle male",
-                "<b>ครับ</b>"
-            ],
-            "guid": "A4@A-?42F$",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3088,19 +1538,7 @@
                 "teacher"
             ],
             "guid": "rU38nbQO]^",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "teacher (ไทย)",
-                "<b><span style=\"font-weight: 400;\">ครู</span></b>"
-            ],
-            "guid": "Or;OB@Athc",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3112,22 +1550,9 @@
                 "I'm sick"
             ],
             "guid": "t0=tsf2owe",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "I'm sick",
-                "ไม่<b>สบาย&nbsp;</b>"
-            ],
-            "guid": "v8RQbLN~2e",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings",
-                "question_for_teacher"
             ]
         },
         {
@@ -3137,19 +1562,7 @@
                 "no problem"
             ],
             "guid": "Gc#.1Z;-vv",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "no problem",
-                "ไม่มีปัญหา"
-            ],
-            "guid": "CY%B,MhWIY",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3161,19 +1574,7 @@
                 "Not good"
             ],
             "guid": "iJpy(Gs^3j",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Not good",
-                "<b>ไม่ดี</b>"
-            ],
-            "guid": "zg#;Uq?2-<",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3185,19 +1586,7 @@
                 "not true"
             ],
             "guid": "kCvokIB.1D",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "not true",
-                "ไม่จริง"
-            ],
-            "guid": "tz-7#P/nzD",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3209,19 +1598,7 @@
                 "programmer "
             ],
             "guid": "z.S0mMi:Mm",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "programmer",
-                "โปรแกรมเมอร์"
-            ],
-            "guid": "AnNaDJ8^ad",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3233,7 +1610,7 @@
                 "program"
             ],
             "guid": "sT,)N6hK,$",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3245,7 +1622,7 @@
                 "see you later"
             ],
             "guid": "qS[fl~CJ40",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3257,19 +1634,7 @@
                 "and you?"
             ],
             "guid": "pKR%7UmL>9",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "and you?",
-                "แล้วคุณล่ะ"
-            ],
-            "guid": "Mp_Pz?(3Z3",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3281,19 +1646,7 @@
                 "hurry up!"
             ],
             "guid": "b1*/SKPj~O",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "hurry up!",
-                "เร็วๆ"
-            ],
-            "guid": "n^BT5m/)&&",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3305,19 +1658,7 @@
                 "fast"
             ],
             "guid": "O%*wz6jU-#",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "fast",
-                "เร็ว"
-            ],
-            "guid": "o)8?cbZXhK",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3329,19 +1670,7 @@
                 "so so"
             ],
             "guid": "MwFx}#G>@r",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "so so",
-                "เรื่อยๆ"
-            ],
-            "guid": "mTL>r8!FYq",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3353,19 +1682,7 @@
                 "travel"
             ],
             "guid": "Dcq>*LwMjm",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "travel",
-                "เดินทาง"
-            ],
-            "guid": "tj&Zi]4il0",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3377,19 +1694,7 @@
                 "<b><span style=\"font-weight: 400;\">same to you</span></b>"
             ],
             "guid": "JV?Ob9b&X8",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<b><span style=\"font-weight: 400;\">same to you</span></b>",
-                "เช่นกัน"
-            ],
-            "guid": "BR.,q6E}@M",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3401,19 +1706,7 @@
                 "see you tommorow"
             ],
             "guid": "fT1%n/YTxo",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "see you tommorow",
-                "<b><span style=\"font-weight: 400;\">เจอกันพรุ่งนี้</span></b>"
-            ],
-            "guid": "KVEsGC`KCW",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3425,31 +1718,7 @@
                 "see you<br>"
             ],
             "guid": "K)Lv~@U^!y",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "program",
-                "โปรแกรม"
-            ],
-            "guid": "JbFnw>$()8",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "enjoy yourself",
-                "ขอให้สนุก"
-            ],
-            "guid": "AdbrpC*WUX",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3461,19 +1730,7 @@
                 "america"
             ],
             "guid": "o/jSC<~(HG",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "america",
-                "<b><span style=\"font-weight: 400;\">อเมริกา</span></b>"
-            ],
-            "guid": "izF@;9Rz$/",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3485,19 +1742,7 @@
                 "<b><span style=\"font-weight: 400;\">How old are you?</span></b>"
             ],
             "guid": "r,U^LRSK!l",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<b><span style=\"font-weight: 400;\">How old are you?</span></b>",
-                "อายุเท่าไหร่"
-            ],
-            "guid": "O;?/WiI@)m",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3509,19 +1754,7 @@
                 "recover"
             ],
             "guid": "M*U@ndSlzy",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "recover",
-                "หาย"
-            ],
-            "guid": "L=M}L&m<FT",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3533,19 +1766,7 @@
                 "<b>dog</b>"
             ],
             "guid": "A(<^fLw}A,",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<b>dog</b>",
-                "<b>หมา</b>"
-            ],
-            "guid": "Q?J%8$_=vA",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3557,19 +1778,7 @@
                 "health"
             ],
             "guid": "G[}(x)zmc-",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "health",
-                "สุขภาพ"
-            ],
-            "guid": "mg8~{.vl<N",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3581,19 +1790,7 @@
                 "I'm good&nbsp;"
             ],
             "guid": "Bq6[%A!qBO",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "I'm good",
-                "สบายดี"
-            ],
-            "guid": "d(I<Pw?Mx2",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3605,19 +1802,7 @@
                 "fun"
             ],
             "guid": "x$tc7haPzg",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "fun",
-                "สนุก"
-            ],
-            "guid": "l|*~*RyeRl",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3629,19 +1814,7 @@
                 "day"
             ],
             "guid": "M)!abd=<M=",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "day",
-                "วัน"
-            ],
-            "guid": "qc`8:xT@C_",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3653,19 +1826,7 @@
                 "just kidding"
             ],
             "guid": "NaHp8B=SqV",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "just kidding",
-                "ล้อเล่น"
-            ],
-            "guid": "qRST((<l(e",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3677,19 +1838,7 @@
                 "goodbye forever"
             ],
             "guid": "ic,4mR2&F6",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "goodbye forever",
-                "ลาก่อน"
-            ],
-            "guid": "q&dCFwD3-w",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3701,19 +1850,7 @@
                 "pleasure that to get to know (Nice to meet you)"
             ],
             "guid": "jlR!w0^Zq#",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "pleasure that to get to know (Nice to meet you)",
-                "ยินดีที่ได้รู้จัก"
-            ],
-            "guid": "Q1;Hf|g,&A",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3725,19 +1862,7 @@
                 "My pleasure"
             ],
             "guid": "m{ynm9?]9#",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "My pleasure",
-                "<b><span style=\"font-weight: 400;\">ยินดี</span></b>"
-            ],
-            "guid": "gXiP,GkUGw",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3749,19 +1874,7 @@
                 "<b>horse</b>"
             ],
             "guid": "fGm2K;gR>(",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<b>horse</b>",
-                "<b>ม้า</b>"
-            ],
-            "guid": "g6uHca(tD7",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3773,19 +1886,7 @@
                 "where are you from?"
             ],
             "guid": "bla5`]0*A#",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "where are you from?",
-                "มาจากไหน"
-            ],
-            "guid": "I9Fp=FPf8C",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3797,19 +1898,7 @@
                 "very"
             ],
             "guid": "B,nIj+6u#r",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "very",
-                "มาก"
-            ],
-            "guid": "OdGf2BPk.t",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3821,19 +1910,7 @@
                 "to come"
             ],
             "guid": "qGukl*GXa9",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "to come",
-                "มา"
-            ],
-            "guid": "n7LCK;0vy|",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3845,19 +1922,7 @@
                 "english language"
             ],
             "guid": "bn>[=lM1Uu",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "english language",
-                "ภาษาอังกฤษ"
-            ],
-            "guid": "HI6/vksofh",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3869,19 +1934,7 @@
                 "happiness"
             ],
             "guid": "E9q86`u$2)",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "happiness",
-                "ความสุข"
-            ],
-            "guid": "BV3BOX/;Y!",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3893,19 +1946,7 @@
                 "polite particle female"
             ],
             "guid": "gv!>lCwz:d",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "polite particle female",
-                "<b>คะ</b>"
-            ],
-            "guid": "ysR:vUF-!o",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3917,31 +1958,7 @@
                 "Really?"
             ],
             "guid": "sOKa>08G]=",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Really?",
-                "จริงหรอ"
-            ],
-            "guid": "Joq]:1D<%{",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "see you",
-                "เจอกัน"
-            ],
-            "guid": "yXGR(y-;#d",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3953,19 +1970,7 @@
                 "language"
             ],
             "guid": "O:!tJ5%?qX",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "language (ไทน)",
-                "<b><span style=\"font-weight: 400;\">ภาษา</span></b>"
-            ],
-            "guid": "peFB2&JD/W",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -3977,19 +1982,7 @@
                 "sweet dreams "
             ],
             "guid": "vu&o)`4@ev",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "sweet dreams",
-                "<b><span style=\"font-weight: 400;\">ฝันดี</span></b>"
-            ],
-            "guid": "jEZ.)6@w:I",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -4001,19 +1994,7 @@
                 "safe"
             ],
             "guid": "m]K$VpSow#",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "safe",
-                "ปลอดภัย"
-            ],
-            "guid": "wg;2Znl+$}",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -4025,19 +2006,7 @@
                 "country"
             ],
             "guid": "E]SX`aZcbo",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "country",
-                "ประเทศ"
-            ],
-            "guid": "O.ASKv_DdY",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -4049,19 +2018,7 @@
                 "cute particle"
             ],
             "guid": "Imv;]fu&_+",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "cute particle",
-                "<b>นะ</b>"
-            ],
-            "guid": "l|{!O<~McE",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -4073,19 +2030,7 @@
                 "every"
             ],
             "guid": "CJ~h/~`H*h",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "every",
-                "ทุก"
-            ],
-            "guid": "n{gG25CaIp",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -4097,19 +2042,7 @@
                 "What are you up to?"
             ],
             "guid": "oHTAf9`i@i",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are you up to?",
-                "<b>ทำไร</b>"
-            ],
-            "guid": "N],LoQfpAP",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -4121,22 +2054,10 @@
                 "take care"
             ],
             "guid": "CRrl+G/30O",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings",
                 "question_for_teacher"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "take care",
-                "ดูแล"
-            ],
-            "guid": "f1C6G[,[kj",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
             ]
         },
         {
@@ -4146,19 +2067,7 @@
                 "Great"
             ],
             "guid": "k?&3C}A`.u",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Great",
-                "<span style=\"font-weight: 700;\">ดีมาก</span>"
-            ],
-            "guid": "cr@H.,?gC3",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -4170,19 +2079,7 @@
                 "What is your name?"
             ],
             "guid": "DHtlXZt/t$",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is your name?",
-                "ชื่ออะไร"
-            ],
-            "guid": "J%4d-T!Veo",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -4194,19 +2091,7 @@
                 "true!"
             ],
             "guid": "jNC/a;qDG0",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Greetings"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "true!",
-                "จริงๆ"
-            ],
-            "guid": "q7apM7suEt",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Greetings"
             ]
@@ -4218,7 +2103,7 @@
                 "0 "
             ],
             "guid": "xn=1k29tZ#",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4230,7 +2115,7 @@
                 "1 "
             ],
             "guid": "w8g2+7f:+o",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4242,7 +2127,7 @@
                 "2 "
             ],
             "guid": "M0dPo5Ejn.",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4254,7 +2139,7 @@
                 "3&nbsp;&nbsp;"
             ],
             "guid": "Dj3oD?d;I8",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4266,7 +2151,7 @@
                 "4 "
             ],
             "guid": "et5CAr;8.[",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4278,7 +2163,7 @@
                 "5 "
             ],
             "guid": "DQwY0lRNz{",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4290,7 +2175,7 @@
                 "6 "
             ],
             "guid": "v(!CW%QP_s",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4302,7 +2187,7 @@
                 "7 "
             ],
             "guid": "rlA~y/:5-a",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4314,7 +2199,7 @@
                 "8 "
             ],
             "guid": "j1.h`,}Dvc",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4326,7 +2211,7 @@
                 "9&nbsp;&nbsp;"
             ],
             "guid": "cqLlz_@nYv",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4338,7 +2223,7 @@
                 "10 "
             ],
             "guid": "n_KW6~tjkJ",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4350,7 +2235,7 @@
                 "11 "
             ],
             "guid": "z%H+hFlt%A",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4362,7 +2247,7 @@
                 "21 "
             ],
             "guid": "uPUZ9]2EA@",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4374,7 +2259,7 @@
                 "hundred "
             ],
             "guid": "t,`g9*Km55",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4386,7 +2271,7 @@
                 "thousand "
             ],
             "guid": "cE|X_`mio<",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4398,7 +2283,7 @@
                 "ten thousand "
             ],
             "guid": "De$hHU|TIU",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4410,7 +2295,7 @@
                 "hundred thousand "
             ],
             "guid": "wBladEejt3",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4422,7 +2307,7 @@
                 "million "
             ],
             "guid": "A49XJ/{e0(",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4434,33 +2319,10 @@
                 "Day before yesterday"
             ],
             "guid": "D(Raa1vEPj",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Day before yesterday",
-                "เมื่อวานซืน"
-            ],
-            "guid": "rR?VSM3A<*",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Day after tomorrow",
-                "วันมะรืน"
-            ],
-            "guid": "MrHBQw|BnZ",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
+                "Numbers,Days,Months",
+                "question_for_teacher"
             ]
         },
         {
@@ -4470,7 +2332,7 @@
                 "Day after tomorrow"
             ],
             "guid": "M>gh?cs|>`",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4482,19 +2344,7 @@
                 "Week"
             ],
             "guid": "I_X{t<$!]6",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Week",
-                "อาทิตย์"
-            ],
-            "guid": "mk9%NR$6~X",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4506,19 +2356,7 @@
                 "This week"
             ],
             "guid": "r][<].h~5*",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This week",
-                "อาทิตย์นี้"
-            ],
-            "guid": "l{vVT=sojO",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4530,19 +2368,7 @@
                 "Next week"
             ],
             "guid": "hd,FKaKH7}",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Next week",
-                "อาทิตย์หน้า"
-            ],
-            "guid": "sZ+5G+5I<*",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4554,19 +2380,7 @@
                 "Last week"
             ],
             "guid": "o*`_eE<qds",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Last week",
-                "อาทิตย์ที่แล้ว"
-            ],
-            "guid": "GY?n!+:Q`2",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4578,19 +2392,7 @@
                 "Thailand"
             ],
             "guid": "Kk]7dT|3%.",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Thailand",
-                "ไทยปีนี้"
-            ],
-            "guid": "FdZrJ1bcMD",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4602,19 +2404,7 @@
                 "Month"
             ],
             "guid": "Gsb#5[HG9L",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Month",
-                "เดือน"
-            ],
-            "guid": "kR?%m0|g:&",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4626,19 +2416,7 @@
                 "year"
             ],
             "guid": "u=ojEt#Q=0",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "year",
-                "ปี"
-            ],
-            "guid": "hmF94v`Vnv",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4650,19 +2428,7 @@
                 "monday"
             ],
             "guid": "oj;+P2[|0$",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "monday",
-                "วันจันทร์"
-            ],
-            "guid": "j?uZ-bqw{H",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4674,19 +2440,7 @@
                 "tuesday"
             ],
             "guid": "Egc#||#r_|",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "tuesday",
-                "วันอังคาร"
-            ],
-            "guid": "xa$RMZ,81*",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4698,31 +2452,7 @@
                 "wednesday"
             ],
             "guid": "CSDkEq7DyT",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Wednesday",
-                "วันพุธ"
-            ],
-            "guid": "r)IQQbKG>^",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Thursday",
-                "วันพฤหัส"
-            ],
-            "guid": "bJyc<=|.$",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4734,7 +2464,7 @@
                 "Thursday"
             ],
             "guid": "B!gsZgi2]@",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4746,31 +2476,7 @@
                 "Friday"
             ],
             "guid": "FZ+K>UU=nd",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Friday",
-                "วันศุกร์"
-            ],
-            "guid": "I+wa]gm}ru",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Saturday",
-                "วันเสาร์"
-            ],
-            "guid": "raJAt/l)J#",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4782,19 +2488,7 @@
                 "Saturday"
             ],
             "guid": "KHgGssYtM`",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Sunday",
-                "วันอาทิตย์"
-            ],
-            "guid": "I!&{FUQ?Nh",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4806,7 +2500,7 @@
                 "Sunday"
             ],
             "guid": "JV&eoX7ib;",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4818,19 +2512,7 @@
                 "weekend"
             ],
             "guid": "E>jAL4^c?p",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "weekend (ไทย)",
-                "เสาร์อาทิตย์"
-            ],
-            "guid": "f%6M|x)C9N",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4842,19 +2524,7 @@
                 "January"
             ],
             "guid": "fsi?K_*iSU",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "January",
-                "มกราคม"
-            ],
-            "guid": "k?HN*C!7ZT",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4866,19 +2536,7 @@
                 "February "
             ],
             "guid": "y2h8MTn1uo",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "February",
-                "กุมภาพันธ์"
-            ],
-            "guid": "iQ9P9E>lx{",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4890,7 +2548,7 @@
                 "March"
             ],
             "guid": "N`OWuCKKC9",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4902,19 +2560,7 @@
                 "April"
             ],
             "guid": "s_UWJNP!7e",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "April",
-                "เมษายน"
-            ],
-            "guid": "s0/V>tpV*&",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4926,31 +2572,7 @@
                 "May"
             ],
             "guid": "msIZ>e,U=O",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "May",
-                "พฤษภาคม"
-            ],
-            "guid": "J}u!ChMA3}",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "June",
-                "มิถุนายน"
-            ],
-            "guid": "nXHXy5,qK>",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4962,7 +2584,7 @@
                 "June"
             ],
             "guid": "BsG{o&QL=v",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4974,19 +2596,7 @@
                 "July"
             ],
             "guid": "n$ci7WrT[A",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "July",
-                "กรกฎาคม"
-            ],
-            "guid": "z?F{Zsf~,a",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -4998,31 +2608,7 @@
                 "August"
             ],
             "guid": "AYv4,q+jE1",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "August",
-                "สิงหาคม"
-            ],
-            "guid": "F7gqNk>6}L",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "September",
-                "กันยายน"
-            ],
-            "guid": "AsZP(eC^f#",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -5034,7 +2620,7 @@
                 "September"
             ],
             "guid": "zp=nPgs,8q",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -5046,19 +2632,7 @@
                 "October"
             ],
             "guid": "DqhmA|!^*p",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "october",
-                "ตุลาคม"
-            ],
-            "guid": "x=0}0V%yRI",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -5070,32 +2644,7 @@
                 "November"
             ],
             "guid": "c).0L8(YCC",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "November",
-                "พฤศจิกายน"
-            ],
-            "guid": "k<k=I==#}.",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months",
-                "question_for_teacher"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "December",
-                "ธันวาคม"
-            ],
-            "guid": "D8ngNIt?o2",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -5107,7 +2656,7 @@
                 "December"
             ],
             "guid": "Ma&GtH9r2e",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -5119,31 +2668,7 @@
                 "in"
             ],
             "guid": "Ja(|!([|kD",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "in",
-                "ใน"
-            ],
-            "guid": "MS):}5QkBa",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "more",
-                "อีก"
-            ],
-            "guid": "h$&(8qDsp3",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -5155,7 +2680,7 @@
                 "more"
             ],
             "guid": "Nwk*ixw/>8",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -5167,31 +2692,7 @@
                 "heart/mind"
             ],
             "guid": "c:Yf*w$]#M",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "heart/mind",
-                "ใจ "
-            ],
-            "guid": "N{ln>7*b0u",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "enter",
-                "เข้า"
-            ],
-            "guid": "PUkq~>E@Y:",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -5203,7 +2704,7 @@
                 "enter"
             ],
             "guid": "Bfzd,pH*UC",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -5215,32 +2716,7 @@
                 "know"
             ],
             "guid": "iMKfn2W@tO",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "know",
-                "รู้"
-            ],
-            "guid": "s_=I7u=3*<",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months",
-                "question_for_teacher"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "understand",
-                "เข้าใจ"
-            ],
-            "guid": "bbV<~cdGQE",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -5252,7 +2728,7 @@
                 "understand"
             ],
             "guid": "CSU6zHs=,]",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -5264,19 +2740,7 @@
                 "whole day"
             ],
             "guid": "LEw77Fa104",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "whole day",
-                "ทั้งวัน"
-            ],
-            "guid": "PM!7(J|j=F",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -5288,19 +2752,7 @@
                 "hard/heavy "
             ],
             "guid": "Q/yRj_7RBy",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "hard/heavy",
-                "หนัก"
-            ],
-            "guid": "yHl+G*C;&M",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -5312,31 +2764,7 @@
                 "usually"
             ],
             "guid": "dOo4_nZ%io",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "usally",
-                "ปกติ"
-            ],
-            "guid": "h_3g2j+#h?",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "a little",
-                "นิดหน่อย"
-            ],
-            "guid": "Qw%wA:25NP",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -5348,7 +2776,7 @@
                 "a little"
             ],
             "guid": "C!)lbL@boR",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -5360,19 +2788,7 @@
                 "exercise"
             ],
             "guid": "PQ4$+@0?+K",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "exercise",
-                "ออกกำลังกาย "
-            ],
-            "guid": "ncayxImUfF",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -5384,19 +2800,7 @@
                 "the date"
             ],
             "guid": "T$}P|6f]1",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "the date&nbsp;",
-                "วันที่"
-            ],
-            "guid": "FDtg6h)gBF",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
@@ -5408,19 +2812,7 @@
                 "born/happen"
             ],
             "guid": "NXW~%|bZZC",
-            "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "tags": [
-                "Numbers,Days,Months"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "born/happen",
-                "เกิด"
-            ],
-            "guid": "veMVQKskU)",
-            "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
+            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
             "tags": [
                 "Numbers,Days,Months"
             ]
