@@ -82,127 +82,7 @@
     "extendNew": 0,
     "extendRev": 0,
     "md": true,
-    "media_files": [
-        "google-08923caa-29091bf4-79d1de6b-ac7b67ef-8b0675f8.mp3",
-        "google-0c771f0d-bedb4416-98955660-e583121c-546ac098.mp3",
-        "google-0fbf49f8-e99a880c-b8f90a28-f73a016d-0a6cd400.mp3",
-        "google-169a06cf-3243c4fc-85e07ebe-6937381d-45526692.mp3",
-        "google-17df8f33-a3ecf7c9-588bd1aa-c5a6361a-4097d84a.mp3",
-        "google-194f4b32-9fc1aed7-7654b80c-c2d6b93f-65801cd5.mp3",
-        "google-1a12e9c9-8b2a908d-4d9e57c5-acd39961-35f41d88.mp3",
-        "google-1a8e11a8-879e92e9-a6a3a716-83ab08c4-55ee0650.mp3",
-        "google-20a75dd7-97bf6574-256a8a4c-8a52ea39-5dc38560.mp3",
-        "google-21665e8e-36182523-df59df0c-3517c712-e8d2154c.mp3",
-        "google-21fddebb-43895d06-f719d043-46ad536b-d3163e2f.mp3",
-        "google-24110d48-28b8794a-f81a2a14-c982c26c-1ae4addf.mp3",
-        "google-270b88ac-6480ec1a-171e8661-edb3ffff-4408ed7e.mp3",
-        "google-28829b87-5d518fed-a6eebdfd-06c2ee5e-7ede4df4.mp3",
-        "google-293d33ed-21d91354-41f799c0-6ba3491d-40f2c868.mp3",
-        "google-29ba0fb4-0d6e2f16-bb9fb8af-8d23cb12-5c3cdb85.mp3",
-        "google-2beea0d2-d8aae833-248c4752-0a56bbd9-ca0dab4b.mp3",
-        "google-2c87729b-52496df3-83c101c8-e6738063-9f2ab897.mp3",
-        "google-2f682f5a-640df752-4b7f18dc-c9e0361f-cf809a06.mp3",
-        "google-3014f07f-a8181993-cb937bdd-5f64d159-f524bb7e.mp3",
-        "google-30c01f64-e3b8e074-0d6b30dd-8028ddea-4d381a30.mp3",
-        "google-326a006b-555e23c7-6b703818-50663cc0-053381dc.mp3",
-        "google-33cab12b-6de26561-15c5ad06-137e0717-4a327182.mp3",
-        "google-36d8c6e0-8c814bc3-be3c29e5-a082a0c3-95f766bb.mp3",
-        "google-3ee25de7-8d25526a-d423a8e1-026c49a3-08069fc3.mp3",
-        "google-3f81409a-e5abc881-e57251f5-b288974a-cb1a4dbf.mp3",
-        "google-42a352ef-2a6fb82b-81a533ad-fd19a841-a6a15a52.mp3",
-        "google-45228d50-6a1338d1-b549542e-30ef3974-3dd9c067.mp3",
-        "google-468eb6ac-56cc657e-163c714e-ab69dc14-9ba13c92.mp3",
-        "google-47f9f6a9-7a45be85-87044ef5-9dc1bd2a-fbf7753c.mp3",
-        "google-4a132e10-bcd6b77b-0336a10b-28cbf203-5345594e.mp3",
-        "google-4cdfb1e4-d16134ff-beb2bed8-d9097205-1f3807a2.mp3",
-        "google-4d4f8e55-18273a8b-f2dcc6dd-01d9c798-459f115d.mp3",
-        "google-4dca41dd-003a033b-8473adbf-d7ad9e4c-ad89337e.mp3",
-        "google-4f09ba1c-486a6e30-8c749a75-f12bbe43-b36615aa.mp3",
-        "google-50f0b863-2d865436-b83ce1bb-634f40f8-2555b53b.mp3",
-        "google-5169d3fe-ba045c0d-d8bd05f6-f9f3d04f-00a62ef0.mp3",
-        "google-55e886de-3eea468e-fb41a8d2-e38a4cf3-641d105f.mp3",
-        "google-5603e54d-4374dc44-5e42ff3e-0e320f81-66f51218.mp3",
-        "google-59136194-f457b074-47b06dbf-7d6e0b84-205cb08f.mp3",
-        "google-5a77c3b7-12a50ac4-5763e86e-3f13148b-459e5cdd.mp3",
-        "google-5c47cc5e-03f54be1-155c6018-46c2b9e6-bc370783.mp3",
-        "google-5c8b3898-bb7772be-96a1a606-e7fc3709-3cf9d7cd.mp3",
-        "google-5d8934a6-694533de-7a10fe10-05eecd61-2658b6e3.mp3",
-        "google-6286f53b-df22052b-d1b7e25d-7d46893d-7c7caba8.mp3",
-        "google-672aa94b-e94406ba-083a30ee-326b3aa0-b7837764.mp3",
-        "google-674a2453-0bd64684-ec47fce2-0ddf2a8d-48c5e6dc.mp3",
-        "google-67ff2418-7135a620-ce0eb708-d885f3a0-c0db7b8d.mp3",
-        "google-6aa8b905-ca2fa3b6-c1d456f1-4aa52378-7faf0fb9.mp3",
-        "google-6acaccb5-f05cf2e0-b4e9d2e4-6241c888-7b93102a.mp3",
-        "google-6fb44b97-5c3ab6da-e5ef96f3-c0df5c7c-8645dc89.mp3",
-        "google-702d22e7-e03db97e-25e12b2b-d5a2018c-e35ff0cc.mp3",
-        "google-71bcc9b7-4b4f15ad-707dbc05-75a56529-4565c8e7.mp3",
-        "google-72cf5850-c488e207-a51ae587-8a54388a-e41b31e2.mp3",
-        "google-7309dbd6-7942ef38-d46607a0-858bb7e5-76d06ae2.mp3",
-        "google-74416368-092ce9fe-fec4ed93-9dfbe88f-3a07bc66.mp3",
-        "google-784abc57-ef6e18dd-5560a633-a76ef49b-fae2c4e5.mp3",
-        "google-789a0b37-a78b9696-97fcda54-662c12f0-e30f891d.mp3",
-        "google-7c846fbf-97a2f9e9-3058dfc0-6c63665b-64b890a7.mp3",
-        "google-7ce689cc-e714a6c5-bc9cac42-e75189eb-79adabec.mp3",
-        "google-7cfaeb29-5eef0990-d458c7cf-06b93843-cb16c67c.mp3",
-        "google-7d46e43f-2480fc51-7dcf4021-f356f61a-f4c4086c.mp3",
-        "google-8069cd41-17379ebf-a78ea899-5147fb4d-0487fa75.mp3",
-        "google-8435e0c0-22a303f6-458da7f8-d25b6bcc-5b88fef2.mp3",
-        "google-858d86a0-c3b4628a-533b669c-cc718af2-d3faddc6.mp3",
-        "google-8786b957-35e671ea-81588ce6-489475c5-4aaae3bc.mp3",
-        "google-8c1cda72-fedb7e09-8befa9a4-b31de5a7-fd545dfd.mp3",
-        "google-8e36f3c0-025987c0-c67c1d16-d042cee5-4241115a.mp3",
-        "google-92d2cd89-1228a2eb-4f648ee0-7864e6b9-07c74513.mp3",
-        "google-92ebed48-2cf1186c-69a3acb4-387834e1-877028a5.mp3",
-        "google-970daa47-c834aafd-178a9edf-b055c93f-e08f82cb.mp3",
-        "google-9cbc4a09-5dd6c88f-4bc22ced-99a8dec8-512a3808.mp3",
-        "google-9fcfb747-c4c31123-9b098f6c-9604d397-963c9182.mp3",
-        "google-a0b88f8d-8c16b4a9-bfc06c33-b9efb97d-3e99390a.mp3",
-        "google-a161be41-9ff9ed4c-a7984050-607a71d8-3c8edbf9.mp3",
-        "google-a47d2647-63ec258c-0e07d09f-186e955a-120b4d7b.mp3",
-        "google-a7161efc-d7a9538b-e56e6a71-20f16533-e3af035f.mp3",
-        "google-a7309571-dd9ff6ae-25e7f0e3-ad984467-6cb762a8.mp3",
-        "google-a808fb81-ee580b38-43357bd9-112a2d65-663efe0b.mp3",
-        "google-a8829bec-96548128-5f51320e-381cfa4e-bd6429c4.mp3",
-        "google-a96bd29e-5196fd16-d2eec35b-bfcc4595-26a1857d.mp3",
-        "google-aa284526-0e0fb17c-d2371aea-4093c3bc-a6924b6a.mp3",
-        "google-aa3cf7e1-29b8f941-33551a7d-6e28fc4b-8f1a5ebf.mp3",
-        "google-ac61f924-6f095cfd-2e73b026-5785b4df-eb412cb0.mp3",
-        "google-aecde098-9a308e4f-b4d23d2f-6a975830-3bc2ab47.mp3",
-        "google-b10c1f08-0a4e4c19-b33c0cb4-2005dd60-616dce49.mp3",
-        "google-b1f5dc70-3e244287-637d7b47-9e80485b-2f5daf63.mp3",
-        "google-b3232342-f63f1ed5-9bc19031-034c607e-737714d1.mp3",
-        "google-b548a5d0-08146ef4-f2ad0f41-635c1d86-87156bb2.mp3",
-        "google-b6c53cb2-8c41b1d7-624b5540-23f77faf-ca0b11ab.mp3",
-        "google-bf9c019c-99d2f2e3-86b51307-12eb1ab3-6b8ff175.mp3",
-        "google-c144a4dc-26740677-6b82642c-68e3a8ec-8e23ff2a.mp3",
-        "google-c1831513-f26a5c5f-1f72e891-f0de7800-da0bd6ed.mp3",
-        "google-c34d182e-c8742d74-2b36ccba-22d1e9b8-c1cb338b.mp3",
-        "google-c3774e60-ff570bad-2c7c1c10-b49676b8-9830ac3c.mp3",
-        "google-c4fe2648-30a986e7-bcf0881a-8f6e34ab-b950085c.mp3",
-        "google-c97fb4f8-87322fb7-03cfb2a8-11351439-a0b992c1.mp3",
-        "google-cade292f-12a25d1b-50be500b-50d80b6d-59c507e1.mp3",
-        "google-cb7f0309-c450835f-0533e158-7681d0b0-9ed1770e.mp3",
-        "google-cbc74219-d607c827-f9c46346-c607f30a-12f6ba1a.mp3",
-        "google-ccbe4895-1fa214fb-f22acae6-8c8c5a71-d2120b71.mp3",
-        "google-d5062371-f30a3899-1c2c6687-b9c696f1-3c930a55.mp3",
-        "google-d5a22dcf-267a188b-5c9a1fed-a80ee084-343561ca.mp3",
-        "google-d5bb7dd4-27e7be7d-57d45617-00c9c81f-d7ab2496.mp3",
-        "google-d71a1a15-f68326f6-bdf705dd-0a269c51-cb313381.mp3",
-        "google-df411b68-210fedd1-65551281-fef59559-93d98a21.mp3",
-        "google-e73fd50b-79427d38-2182e676-68ec2861-b8e9a9db.mp3",
-        "google-e8c46545-5bbc533f-80b731f5-9642c4d1-9ce9a882.mp3",
-        "google-e99bbfc1-17764098-12b65bab-92e7a630-2b1c0dc9.mp3",
-        "google-ed64e09f-b3f05ab7-e19ea90b-71012ecc-7e95d427.mp3",
-        "google-ed835708-6353d326-ad239974-c3f77345-e6e7bebe.mp3",
-        "google-ef3f8f26-8dab4f83-87c30f72-ce2512ef-1bb96c41.mp3",
-        "google-f487a380-beef49ff-ce65e3ed-afb007e7-f5374c68.mp3",
-        "google-f5b26bb8-df0e43e3-7479b2dd-7eea000c-d730e19f.mp3",
-        "google-f636ed67-4861e4be-8b81af3e-c1f0e822-df70e5d2.mp3",
-        "google-fb29ac33-fc277120-2bec3496-21c8895c-5b1334f6.mp3",
-        "google-fb30c8bc-a279bb0e-5880720e-f1b9f667-fdc20207.mp3",
-        "google-fdeb6173-861e3655-660b66ea-ae484117-8082c024.mp3",
-        "google-fe5c1ba9-9ddd98fb-232a1b95-cc8f0964-a369890f.mp3"
-    ],
+    "media_files": [],
     "name": "pasathai",
     "note_models": [
         {
@@ -318,7 +198,7 @@
             "__type__": "Note",
             "fields": [
                 "ชอบ",
-                "like [sound:google-c3774e60-ff570bad-2c7c1c10-b49676b8-9830ac3c.mp3]"
+                "like "
             ],
             "guid": "v/q=:z3L?A",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -354,7 +234,7 @@
             "__type__": "Note",
             "fields": [
                 "ผัดไทย",
-                "pad thai [sound:google-24110d48-28b8794a-f81a2a14-c982c26c-1ae4addf.mp3]"
+                "pad thai "
             ],
             "guid": "h8.U*r[E5m",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -378,7 +258,7 @@
             "__type__": "Note",
             "fields": [
                 "สวย",
-                "beautiful [sound:google-cbc74219-d607c827-f9c46346-c607f30a-12f6ba1a.mp3]"
+                "beautiful "
             ],
             "guid": "G%9nw{Gv_*",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -390,7 +270,7 @@
             "__type__": "Note",
             "fields": [
                 "กิน",
-                "eat [sound:google-7ce689cc-e714a6c5-bc9cac42-e75189eb-79adabec.mp3]"
+                "eat "
             ],
             "guid": "LuAe@vGtBk",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -402,7 +282,7 @@
             "__type__": "Note",
             "fields": [
                 "อาหาร",
-                "food [sound:google-29ba0fb4-0d6e2f16-bb9fb8af-8d23cb12-5c3cdb85.mp3]"
+                "food "
             ],
             "guid": "N=CYxF&!Us",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -414,7 +294,7 @@
             "__type__": "Note",
             "fields": [
                 "เผ็ด",
-                "spicy [sound:google-6aa8b905-ca2fa3b6-c1d456f1-4aa52378-7faf0fb9.mp3]"
+                "spicy "
             ],
             "guid": "IJkKCVYUJn",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -486,7 +366,7 @@
             "__type__": "Note",
             "fields": [
                 "ข้าว",
-                "rice (food) [sound:google-0c771f0d-bedb4416-98955660-e583121c-546ac098.mp3]"
+                "rice (food) "
             ],
             "guid": "M.U`)A@zj#",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -498,7 +378,7 @@
             "__type__": "Note",
             "fields": [
                 "พิซซ่า",
-                "pizza [sound:google-f487a380-beef49ff-ce65e3ed-afb007e7-f5374c68.mp3]"
+                "pizza "
             ],
             "guid": "i]nO=S#3HA",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -534,7 +414,7 @@
             "__type__": "Note",
             "fields": [
                 "เด็ก",
-                "kid [sound:google-8786b957-35e671ea-81588ce6-489475c5-4aaae3bc.mp3]"
+                "kid "
             ],
             "guid": "goXD~gnZ6w",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -558,7 +438,7 @@
             "__type__": "Note",
             "fields": [
                 "เบอร์เกอร์",
-                "hamburger [sound:google-2c87729b-52496df3-83c101c8-e6738063-9f2ab897.mp3]"
+                "hamburger "
             ],
             "guid": "y(8)ssZtdX",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -570,7 +450,7 @@
             "__type__": "Note",
             "fields": [
                 "เขา",
-                "he [sound:google-4dca41dd-003a033b-8473adbf-d7ad9e4c-ad89337e.mp3]"
+                "he "
             ],
             "guid": "F8dcuh]qH<",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -582,7 +462,7 @@
             "__type__": "Note",
             "fields": [
                 "ดื่ม",
-                "drink [sound:google-47f9f6a9-7a45be85-87044ef5-9dc1bd2a-fbf7753c.mp3]"
+                "drink "
             ],
             "guid": "y;NN!t$D^]",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -594,7 +474,7 @@
             "__type__": "Note",
             "fields": [
                 "กาแฟ",
-                "coffee [sound:google-21fddebb-43895d06-f719d043-46ad536b-d3163e2f.mp3]"
+                "coffee "
             ],
             "guid": "F_s@+le#u",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -606,7 +486,7 @@
             "__type__": "Note",
             "fields": [
                 "ชา",
-                "tea [sound:google-b10c1f08-0a4e4c19-b33c0cb4-2005dd60-616dce49.mp3]"
+                "tea "
             ],
             "guid": "@$cc#HiB?",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -739,7 +619,7 @@
             "__type__": "Note",
             "fields": [
                 "ให้",
-                "give [sound:google-b6c53cb2-8c41b1d7-624b5540-23f77faf-ca0b11ab.mp3]"
+                "give "
             ],
             "guid": "pRHPI]_or>",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -751,7 +631,7 @@
             "__type__": "Note",
             "fields": [
                 "แมว",
-                "cat [sound:google-ef3f8f26-8dab4f83-87c30f72-ce2512ef-1bb96c41.mp3]"
+                "cat "
             ],
             "guid": "M,y~pjaC6/",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -919,7 +799,7 @@
             "__type__": "Note",
             "fields": [
                 "ว่ายน้ำ\t",
-                "swim [sound:google-a808fb81-ee580b38-43357bd9-112a2d65-663efe0b.mp3]"
+                "swim "
             ],
             "guid": "D$G[{3twpz",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -931,7 +811,7 @@
             "__type__": "Note",
             "fields": [
                 "ผู้ชาย",
-                "man [sound:google-50f0b863-2d865436-b83ce1bb-634f40f8-2555b53b.mp3]"
+                "man "
             ],
             "guid": "iSuRA~QC4*",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -943,7 +823,7 @@
             "__type__": "Note",
             "fields": [
                 "เล่น",
-                "play [sound:google-30c01f64-e3b8e074-0d6b30dd-8028ddea-4d381a30.mp3]"
+                "play "
             ],
             "guid": "F,Oyltdxo!",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -955,7 +835,7 @@
             "__type__": "Note",
             "fields": [
                 "กอล์ฟ",
-                "golf [sound:google-4d4f8e55-18273a8b-f2dcc6dd-01d9c798-459f115d.mp3]"
+                "golf "
             ],
             "guid": "EwG)(XD-kd",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -967,7 +847,7 @@
             "__type__": "Note",
             "fields": [
                 "ผู้หญิง",
-                "woman [sound:google-d71a1a15-f68326f6-bdf705dd-0a269c51-cb313381.mp3]"
+                "woman "
             ],
             "guid": "qSLpPJjBi`",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -979,7 +859,7 @@
             "__type__": "Note",
             "fields": [
                 "ล้าง",
-                "wash [sound:google-f636ed67-4861e4be-8b81af3e-c1f0e822-df70e5d2.mp3]"
+                "wash "
             ],
             "guid": "c[!1Sz|cG>",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -991,7 +871,7 @@
             "__type__": "Note",
             "fields": [
                 "รถ",
-                "car [sound:google-a47d2647-63ec258c-0e07d09f-186e955a-120b4d7b.mp3]"
+                "car "
             ],
             "guid": "d!As857oy|",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1003,7 +883,7 @@
             "__type__": "Note",
             "fields": [
                 "เรียน",
-                "study [sound:google-2beea0d2-d8aae833-248c4752-0a56bbd9-ca0dab4b.mp3]"
+                "study "
             ],
             "guid": "G[5TN}Ako)",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1015,7 +895,7 @@
             "__type__": "Note",
             "fields": [
                 "เวียดนาม",
-                "vietnam [sound:google-36d8c6e0-8c814bc3-be3c29e5-a082a0c3-95f766bb.mp3]"
+                "vietnam "
             ],
             "guid": "e0nuL7[deB",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1027,7 +907,7 @@
             "__type__": "Note",
             "fields": [
                 "จีน",
-                "china [sound:google-d5a22dcf-267a188b-5c9a1fed-a80ee084-343561ca.mp3]"
+                "china "
             ],
             "guid": "q#BPqs*`lO",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1039,7 +919,7 @@
             "__type__": "Note",
             "fields": [
                 "ญี่ปุ่น",
-                "japan [sound:google-7309dbd6-7942ef38-d46607a0-858bb7e5-76d06ae2.mp3]"
+                "japan "
             ],
             "guid": "L{Po,Q~TT2",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1051,7 +931,7 @@
             "__type__": "Note",
             "fields": [
                 "ก่อน",
-                "before [sound:google-3ee25de7-8d25526a-d423a8e1-026c49a3-08069fc3.mp3]"
+                "before "
             ],
             "guid": "oKoy6/c}:[",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1231,7 +1111,7 @@
             "__type__": "Note",
             "fields": [
                 "ทำงาน",
-                "work [sound:google-72cf5850-c488e207-a51ae587-8a54388a-e41b31e2.mp3]"
+                "work "
             ],
             "guid": "ra~lN[awy*",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1243,7 +1123,7 @@
             "__type__": "Note",
             "fields": [
                 "และ",
-                "and [sound:google-45228d50-6a1338d1-b549542e-30ef3974-3dd9c067.mp3]"
+                "and "
             ],
             "guid": "DNA)lmB2[?",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1255,7 +1135,7 @@
             "__type__": "Note",
             "fields": [
                 "แล้ว&nbsp;",
-                "already [sound:google-8435e0c0-22a303f6-458da7f8-d25b6bcc-5b88fef2.mp3]"
+                "already "
             ],
             "guid": "rRXguO(]A?",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1267,7 +1147,7 @@
             "__type__": "Note",
             "fields": [
                 "เมื่อวาน",
-                "yesterday [sound:google-20a75dd7-97bf6574-256a8a4c-8a52ea39-5dc38560.mp3]"
+                "yesterday "
             ],
             "guid": "P+XPG<T[@p",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1279,7 +1159,7 @@
             "__type__": "Note",
             "fields": [
                 "เมื่อเช้า",
-                "this morning [sound:google-5603e54d-4374dc44-5e42ff3e-0e320f81-66f51218.mp3]"
+                "this morning "
             ],
             "guid": "F:BP|t!i6@",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1303,7 +1183,7 @@
             "__type__": "Note",
             "fields": [
                 "ตื่น",
-                "wake up [sound:google-ac61f924-6f095cfd-2e73b026-5785b4df-eb412cb0.mp3]"
+                "wake up "
             ],
             "guid": "B.{tnc&(4W",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1315,7 +1195,7 @@
             "__type__": "Note",
             "fields": [
                 "อาบน้ำ\t",
-                "shower [sound:google-784abc57-ef6e18dd-5560a633-a76ef49b-fae2c4e5.mp3]"
+                "shower "
             ],
             "guid": "cEN,`4T?;b",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1327,7 +1207,7 @@
             "__type__": "Note",
             "fields": [
                 "ไป",
-                "go [sound:google-6acaccb5-f05cf2e0-b4e9d2e4-6241c888-7b93102a.mp3]"
+                "go "
             ],
             "guid": "CNdJ;*F^)-",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1339,7 +1219,7 @@
             "__type__": "Note",
             "fields": [
                 "ชอปปิ้ง",
-                "to shop [sound:google-aa284526-0e0fb17c-d2371aea-4093c3bc-a6924b6a.mp3]"
+                "to shop "
             ],
             "guid": "ewm:]h=n-:",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1351,7 +1231,7 @@
             "__type__": "Note",
             "fields": [
                 "ซื้อ",
-                "to buy [sound:google-e99bbfc1-17764098-12b65bab-92e7a630-2b1c0dc9.mp3]"
+                "to buy "
             ],
             "guid": "jrsxr`VRK>",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1435,7 +1315,7 @@
             "__type__": "Note",
             "fields": [
                 "คอมพิวเตอร์",
-                "computer [sound:google-0fbf49f8-e99a880c-b8f90a28-f73a016d-0a6cd400.mp3]"
+                "computer "
             ],
             "guid": "qo*g7BZTt8",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1447,7 +1327,7 @@
             "__type__": "Note",
             "fields": [
                 "พรุ่งนี้&nbsp;",
-                "tomorrow [sound:google-7cfaeb29-5eef0990-d458c7cf-06b93843-cb16c67c.mp3]"
+                "tomorrow "
             ],
             "guid": "i=Vh%GD`@%",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1459,7 +1339,7 @@
             "__type__": "Note",
             "fields": [
                 "จะ",
-                "will [sound:google-33cab12b-6de26561-15c5ad06-137e0717-4a327182.mp3]"
+                "will "
             ],
             "guid": "Fj94qfnF,u",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1531,7 +1411,7 @@
             "__type__": "Note",
             "fields": [
                 "อ่าน",
-                "read [sound:google-bf9c019c-99d2f2e3-86b51307-12eb1ab3-6b8ff175.mp3]"
+                "read "
             ],
             "guid": "x0ldhwSD)+",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1555,7 +1435,7 @@
             "__type__": "Note",
             "fields": [
                 "เปียโน",
-                "piano [sound:google-c4fe2648-30a986e7-bcf0881a-8f6e34ab-b950085c.mp3]"
+                "piano "
             ],
             "guid": "qe;sw&xB$>",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1567,7 +1447,7 @@
             "__type__": "Note",
             "fields": [
                 "ตอนนี้",
-                "now [sound:google-6fb44b97-5c3ab6da-e5ef96f3-c0df5c7c-8645dc89.mp3]"
+                "now "
             ],
             "guid": "M&UO<8h7=A",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1579,7 +1459,7 @@
             "__type__": "Note",
             "fields": [
                 "กับ",
-                "with [sound:google-71bcc9b7-4b4f15ad-707dbc05-75a56529-4565c8e7.mp3]"
+                "with "
             ],
             "guid": "EOQ!rDCK/o",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1591,7 +1471,7 @@
             "__type__": "Note",
             "fields": [
                 "พูด",
-                "speak [sound:google-b1f5dc70-3e244287-637d7b47-9e80485b-2f5daf63.mp3]"
+                "speak "
             ],
             "guid": "p~iAQ+q`)f",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1639,7 +1519,7 @@
             "__type__": "Note",
             "fields": [
                 "มี",
-                "have [sound:google-5c47cc5e-03f54be1-155c6018-46c2b9e6-bc370783.mp3]"
+                "have "
             ],
             "guid": "v*B[^<ECJ^",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1651,7 +1531,7 @@
             "__type__": "Note",
             "fields": [
                 "ก็โอเค",
-                "well... I am ok [sound:google-67ff2418-7135a620-ce0eb708-d885f3a0-c0db7b8d.mp3]"
+                "well... I am ok "
             ],
             "guid": "B1ujnu_Wnh",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1675,7 +1555,7 @@
             "__type__": "Note",
             "fields": [
                 "เป็นยังไงบ้าง",
-                "how is everything? [sound:google-326a006b-555e23c7-6b703818-50663cc0-053381dc.mp3]"
+                "how is everything? "
             ],
             "guid": "mj.}IbDwkO",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1687,7 +1567,7 @@
             "__type__": "Note",
             "fields": [
                 "คำถาม",
-                "question [sound:google-74416368-092ce9fe-fec4ed93-9dfbe88f-3a07bc66.mp3]"
+                "question "
             ],
             "guid": "vR[|<]I)DK",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1699,7 +1579,7 @@
             "__type__": "Note",
             "fields": [
                 "ถาม",
-                "ask [sound:google-4a132e10-bcd6b77b-0336a10b-28cbf203-5345594e.mp3]"
+                "ask "
             ],
             "guid": "Pc_XSwqzaQ",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1711,7 +1591,7 @@
             "__type__": "Note",
             "fields": [
                 "คำ",
-                "word [sound:google-674a2453-0bd64684-ec47fce2-0ddf2a8d-48c5e6dc.mp3]"
+                "word "
             ],
             "guid": "ILu13q]T35",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1723,7 +1603,7 @@
             "__type__": "Note",
             "fields": [
                 "ทำ",
-                "to do [sound:google-fdeb6173-861e3655-660b66ea-ae484117-8082c024.mp3]"
+                "to do "
             ],
             "guid": "dZGUul7)si",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1819,7 +1699,7 @@
             "__type__": "Note",
             "fields": [
                 "อยาก",
-                "want [sound:google-cade292f-12a25d1b-50be500b-50d80b6d-59c507e1.mp3]"
+                "want "
             ],
             "guid": "jroJXj2YbU",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1831,7 +1711,7 @@
             "__type__": "Note",
             "fields": [
                 "ใช่",
-                "yes [sound:google-1a12e9c9-8b2a908d-4d9e57c5-acd39961-35f41d88.mp3]"
+                "yes "
             ],
             "guid": "tKE-N{K17m",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1856,7 +1736,7 @@
             "__type__": "Note",
             "fields": [
                 "แครอท",
-                "carrot [sound:google-df411b68-210fedd1-65551281-fef59559-93d98a21.mp3]"
+                "carrot "
             ],
             "guid": "u_LRn7,_q>",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1868,7 +1748,7 @@
             "__type__": "Note",
             "fields": [
                 "ชื่อเล่น",
-                "nickname [sound:google-e8c46545-5bbc533f-80b731f5-9642c4d1-9ce9a882.mp3]"
+                "nickname "
             ],
             "guid": "G?rU{t:(Un",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1880,7 +1760,7 @@
             "__type__": "Note",
             "fields": [
                 "ใช่ไหม",
-                "yes or no? [sound:google-8069cd41-17379ebf-a78ea899-5147fb4d-0487fa75.mp3]"
+                "yes or no? "
             ],
             "guid": "rO+-B^*Qrc",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -1892,7 +1772,7 @@
             "__type__": "Note",
             "fields": [
                 "พัทยา",
-                "pattaya&nbsp; [sound:google-169a06cf-3243c4fc-85e07ebe-6937381d-45526692.mp3]"
+                "pattaya&nbsp; "
             ],
             "guid": "tnj&@EApB}",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2001,7 +1881,7 @@
             "__type__": "Note",
             "fields": [
                 "จอด",
-                "park [sound:google-fb30c8bc-a279bb0e-5880720e-f1b9f667-fdc20207.mp3]"
+                "park "
             ],
             "guid": "c@q,XFvIIq",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2013,7 +1893,7 @@
             "__type__": "Note",
             "fields": [
                 "ตรงนี้",
-                "here [sound:google-17df8f33-a3ecf7c9-588bd1aa-c5a6361a-4097d84a.mp3]"
+                "here "
             ],
             "guid": "qF6nr5hK5]",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2049,7 +1929,7 @@
             "__type__": "Note",
             "fields": [
                 "ห้อง",
-                "room [sound:google-789a0b37-a78b9696-97fcda54-662c12f0-e30f891d.mp3]"
+                "room "
             ],
             "guid": "ymykW.EGnb",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2061,7 +1941,7 @@
             "__type__": "Note",
             "fields": [
                 "ว่าง",
-                "available [sound:google-858d86a0-c3b4628a-533b669c-cc718af2-d3faddc6.mp3]"
+                "available "
             ],
             "guid": "klKK8*kY-0",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2073,7 +1953,7 @@
             "__type__": "Note",
             "fields": [
                 "เงิน",
-                "money [sound:google-d5bb7dd4-27e7be7d-57d45617-00c9c81f-d7ab2496.mp3]"
+                "money "
             ],
             "guid": "oM$dfS_JfN",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2085,7 +1965,7 @@
             "__type__": "Note",
             "fields": [
                 "จน&nbsp;",
-                "poor [sound:google-a7161efc-d7a9538b-e56e6a71-20f16533-e3af035f.mp3]"
+                "poor "
             ],
             "guid": "u8}Kc2nD&?",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2169,7 +2049,7 @@
             "__type__": "Note",
             "fields": [
                 "ปลา",
-                "fish [sound:google-21665e8e-36182523-df59df0c-3517c712-e8d2154c.mp3]"
+                "fish "
             ],
             "guid": "e:R1E.}=td",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2181,7 +2061,7 @@
             "__type__": "Note",
             "fields": [
                 "ทะเล",
-                "sea [sound:google-28829b87-5d518fed-a6eebdfd-06c2ee5e-7ede4df4.mp3]"
+                "sea "
             ],
             "guid": "CcY/d2-#ZS",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2193,7 +2073,7 @@
             "__type__": "Note",
             "fields": [
                 "เมื่อไหร่",
-                "when [sound:google-d5062371-f30a3899-1c2c6687-b9c696f1-3c930a55.mp3]"
+                "when "
             ],
             "guid": "wKqMkhOK{n",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2289,7 +2169,7 @@
             "__type__": "Note",
             "fields": [
                 "ที่ไหน",
-                "where [sound:google-a8829bec-96548128-5f51320e-381cfa4e-bd6429c4.mp3]"
+                "where "
             ],
             "guid": "bO$=q<T8=D",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2301,7 +2181,7 @@
             "__type__": "Note",
             "fields": [
                 "ตรงไหน",
-                "which spot? [sound:google-a0b88f8d-8c16b4a9-bfc06c33-b9efb97d-3e99390a.mp3]"
+                "which spot? "
             ],
             "guid": "OppBU:r;7N",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2313,7 +2193,7 @@
             "__type__": "Note",
             "fields": [
                 "อยู่",
-                "be [sound:google-ed64e09f-b3f05ab7-e19ea90b-71012ecc-7e95d427.mp3]"
+                "be "
             ],
             "guid": "hZV[d/i4/R",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2337,7 +2217,7 @@
             "__type__": "Note",
             "fields": [
                 "ห้องน้ำ",
-                "restroom [sound:google-aecde098-9a308e4f-b4d23d2f-6a975830-3bc2ab47.mp3]"
+                "restroom "
             ],
             "guid": "r<&2)X@~_8",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2349,7 +2229,7 @@
             "__type__": "Note",
             "fields": [
                 "ทำไม",
-                "why? [sound:google-c97fb4f8-87322fb7-03cfb2a8-11351439-a0b992c1.mp3]"
+                "why? "
             ],
             "guid": "P&Il82hx)D",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2374,7 +2254,7 @@
             "__type__": "Note",
             "fields": [
                 "ประหยัด",
-                "save [sound:google-468eb6ac-56cc657e-163c714e-ab69dc14-9ba13c92.mp3]"
+                "save "
             ],
             "guid": "fJOJwKhVfX",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2386,7 +2266,7 @@
             "__type__": "Note",
             "fields": [
                 "แพง",
-                "expensive [sound:google-92ebed48-2cf1186c-69a3acb4-387834e1-877028a5.mp3]"
+                "expensive "
             ],
             "guid": "N})<R(R~{x",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2398,7 +2278,7 @@
             "__type__": "Note",
             "fields": [
                 "ถูก",
-                "cheap [sound:google-f5b26bb8-df0e43e3-7479b2dd-7eea000c-d730e19f.mp3]"
+                "cheap "
             ],
             "guid": "HG?a>EIQtH",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2494,7 +2374,7 @@
             "__type__": "Note",
             "fields": [
                 "แฟน",
-                "gf/bf [sound:google-8c1cda72-fedb7e09-8befa9a4-b31de5a7-fd545dfd.mp3]"
+                "gf/bf "
             ],
             "guid": "hWUqEf~@@:",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2506,7 +2386,7 @@
             "__type__": "Note",
             "fields": [
                 "เพื่อน",
-                "friend [sound:google-4cdfb1e4-d16134ff-beb2bed8-d9097205-1f3807a2.mp3]"
+                "friend "
             ],
             "guid": "z94B=U%g3a",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2518,7 +2398,7 @@
             "__type__": "Note",
             "fields": [
                 "ใคร",
-                "who? [sound:google-4f09ba1c-486a6e30-8c749a75-f12bbe43-b36615aa.mp3]"
+                "who? "
             ],
             "guid": "fd4NQN{.O=",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2530,7 +2410,7 @@
             "__type__": "Note",
             "fields": [
                 "กระเป๋า",
-                "bag [sound:google-3014f07f-a8181993-cb937bdd-5f64d159-f524bb7e.mp3]"
+                "bag "
             ],
             "guid": "I|wi$w4se?",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2578,7 +2458,7 @@
             "__type__": "Note",
             "fields": [
                 "อร่อย",
-                "delicious [sound:google-6286f53b-df22052b-d1b7e25d-7d46893d-7c7caba8.mp3]"
+                "delicious "
             ],
             "guid": "tsqhjO1qD5",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2590,7 +2470,7 @@
             "__type__": "Note",
             "fields": [
                 "อย่างไร",
-                "how? [sound:google-ed835708-6353d326-ad239974-c3f77345-e6e7bebe.mp3]"
+                "how? "
             ],
             "guid": "DvN>z.!.0Y",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2602,7 +2482,7 @@
             "__type__": "Note",
             "fields": [
                 "เท่าไหร่",
-                "how much? [sound:google-59136194-f457b074-47b06dbf-7d6e0b84-205cb08f.mp3]"
+                "how much? "
             ],
             "guid": "gAS2AWSoXn",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2614,7 +2494,7 @@
             "__type__": "Note",
             "fields": [
                 "ราคา",
-                "price [sound:google-b548a5d0-08146ef4-f2ad0f41-635c1d86-87156bb2.mp3]"
+                "price "
             ],
             "guid": "w0ZRx3dIu9",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2700,7 +2580,7 @@
             "__type__": "Note",
             "fields": [
                 "เอา",
-                "want something [sound:google-5d8934a6-694533de-7a10fe10-05eecd61-2658b6e3.mp3]"
+                "want something "
             ],
             "guid": "pV4Lg:Xh|<",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2712,7 +2592,7 @@
             "__type__": "Note",
             "fields": [
                 "บาท",
-                "thai currency [sound:google-194f4b32-9fc1aed7-7654b80c-c2d6b93f-65801cd5.mp3]"
+                "thai currency "
             ],
             "guid": "xHL_cDq;}m",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2724,7 +2604,7 @@
             "__type__": "Note",
             "fields": [
                 "ผัด",
-                "stir fired [sound:google-cb7f0309-c450835f-0533e158-7681d0b0-9ed1770e.mp3]"
+                "stir fired "
             ],
             "guid": "E{js:vZH}&",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2736,7 +2616,7 @@
             "__type__": "Note",
             "fields": [
                 "ทอด ",
-                "deep fried [sound:google-5a77c3b7-12a50ac4-5763e86e-3f13148b-459e5cdd.mp3]"
+                "deep fried "
             ],
             "guid": "s%v*WKC$Mg",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2748,7 +2628,7 @@
             "__type__": "Note",
             "fields": [
                 "แมลง",
-                "insect&nbsp;[sound:google-8e36f3c0-025987c0-c67c1d16-d042cee5-4241115a.mp3]"
+                "insect&nbsp;"
             ],
             "guid": "jx8.uS#:*N",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2833,7 +2713,7 @@
             "__type__": "Note",
             "fields": [
                 "เครื่องดื่ม",
-                "drink (noun) [sound:google-aa3cf7e1-29b8f941-33551a7d-6e28fc4b-8f1a5ebf.mp3]"
+                "drink (noun) "
             ],
             "guid": "b&6ma*{]/0",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2845,7 +2725,7 @@
             "__type__": "Note",
             "fields": [
                 "กำลัง (noun)",
-                "power [sound:google-a161be41-9ff9ed4c-a7984050-607a71d8-3c8edbf9.mp3]"
+                "power "
             ],
             "guid": "GTbhgCdDns",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2857,7 +2737,7 @@
             "__type__": "Note",
             "fields": [
                 "ชู",
-                "boost [sound:google-3f81409a-e5abc881-e57251f5-b288974a-cb1a4dbf.mp3]"
+                "boost "
             ],
             "guid": "ioG`T^xil&",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2869,7 +2749,7 @@
             "__type__": "Note",
             "fields": [
                 "หา",
-                "find [sound:google-92d2cd89-1228a2eb-4f648ee0-7864e6b9-07c74513.mp3]"
+                "find "
             ],
             "guid": "s21!W-zuq:",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2881,7 +2761,7 @@
             "__type__": "Note",
             "fields": [
                 "ดุ\t",
-                "fierce [sound:google-7d46e43f-2480fc51-7dcf4021-f356f61a-f4c4086c.mp3]"
+                "fierce "
             ],
             "guid": "szH+qD&sYn",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2917,7 +2797,7 @@
             "__type__": "Note",
             "fields": [
                 "งาน",
-                "work/job (noun) [sound:google-293d33ed-21d91354-41f799c0-6ba3491d-40f2c868.mp3]"
+                "work/job (noun) "
             ],
             "guid": "K_U[Dht&]v",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -2929,7 +2809,7 @@
             "__type__": "Note",
             "fields": [
                 "นี้",
-                "this [sound:google-970daa47-c834aafd-178a9edf-b055c93f-e08f82cb.mp3]"
+                "this "
             ],
             "guid": "p5HM14>uAQ",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -3025,7 +2905,7 @@
             "__type__": "Note",
             "fields": [
                 "<b><span style=\"font-weight: 400;\">ไม่เป็นไร</span></b>",
-                "No worry [sound:google-7c846fbf-97a2f9e9-3058dfc0-6c63665b-64b890a7.mp3]"
+                "No worry "
             ],
             "guid": "Q)Rd{xqs->",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -3325,7 +3205,7 @@
             "__type__": "Note",
             "fields": [
                 "โปรแกรมเมอร์",
-                "programmer [sound:google-a96bd29e-5196fd16-d2eec35b-bfcc4595-26a1857d.mp3]"
+                "programmer "
             ],
             "guid": "z.S0mMi:Mm",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4093,7 +3973,7 @@
             "__type__": "Note",
             "fields": [
                 "<b><span style=\"font-weight: 400;\">ฝันดี</span></b>&nbsp;",
-                "sweet dreams [sound:google-c144a4dc-26740677-6b82642c-68e3a8ec-8e23ff2a.mp3]"
+                "sweet dreams "
             ],
             "guid": "vu&o)`4@ev",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4333,7 +4213,7 @@
             "__type__": "Note",
             "fields": [
                 "ศูนย์",
-                "0 [sound:google-5c8b3898-bb7772be-96a1a606-e7fc3709-3cf9d7cd.mp3]"
+                "0 "
             ],
             "guid": "xn=1k29tZ#",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4345,7 +4225,7 @@
             "__type__": "Note",
             "fields": [
                 "หนึ่ง",
-                "1 [sound:google-b3232342-f63f1ed5-9bc19031-034c607e-737714d1.mp3]"
+                "1 "
             ],
             "guid": "w8g2+7f:+o",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4357,7 +4237,7 @@
             "__type__": "Note",
             "fields": [
                 "สอง",
-                "2 [sound:google-9cbc4a09-5dd6c88f-4bc22ced-99a8dec8-512a3808.mp3]"
+                "2 "
             ],
             "guid": "M0dPo5Ejn.",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4369,7 +4249,7 @@
             "__type__": "Note",
             "fields": [
                 "สาม",
-                "3&nbsp;&nbsp;[sound:google-42a352ef-2a6fb82b-81a533ad-fd19a841-a6a15a52.mp3]"
+                "3&nbsp;&nbsp;"
             ],
             "guid": "Dj3oD?d;I8",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4381,7 +4261,7 @@
             "__type__": "Note",
             "fields": [
                 "สี่",
-                "4 [sound:google-5169d3fe-ba045c0d-d8bd05f6-f9f3d04f-00a62ef0.mp3]"
+                "4 "
             ],
             "guid": "et5CAr;8.[",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4393,7 +4273,7 @@
             "__type__": "Note",
             "fields": [
                 "ห้า",
-                "5 [sound:google-55e886de-3eea468e-fb41a8d2-e38a4cf3-641d105f.mp3]"
+                "5 "
             ],
             "guid": "DQwY0lRNz{",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4405,7 +4285,7 @@
             "__type__": "Note",
             "fields": [
                 "หก",
-                "6 [sound:google-672aa94b-e94406ba-083a30ee-326b3aa0-b7837764.mp3]"
+                "6 "
             ],
             "guid": "v(!CW%QP_s",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4417,7 +4297,7 @@
             "__type__": "Note",
             "fields": [
                 "เจ็ด",
-                "7 [sound:google-1a8e11a8-879e92e9-a6a3a716-83ab08c4-55ee0650.mp3]"
+                "7 "
             ],
             "guid": "rlA~y/:5-a",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4429,7 +4309,7 @@
             "__type__": "Note",
             "fields": [
                 "แปด",
-                "8 [sound:google-a7309571-dd9ff6ae-25e7f0e3-ad984467-6cb762a8.mp3]"
+                "8 "
             ],
             "guid": "j1.h`,}Dvc",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4441,7 +4321,7 @@
             "__type__": "Note",
             "fields": [
                 "เก้า",
-                "9&nbsp;&nbsp;[sound:google-ccbe4895-1fa214fb-f22acae6-8c8c5a71-d2120b71.mp3]"
+                "9&nbsp;&nbsp;"
             ],
             "guid": "cqLlz_@nYv",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4453,7 +4333,7 @@
             "__type__": "Note",
             "fields": [
                 "สิบ",
-                "10 [sound:google-c34d182e-c8742d74-2b36ccba-22d1e9b8-c1cb338b.mp3]"
+                "10 "
             ],
             "guid": "n_KW6~tjkJ",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4465,7 +4345,7 @@
             "__type__": "Note",
             "fields": [
                 "สิบเอ็ด",
-                "11 [sound:google-2f682f5a-640df752-4b7f18dc-c9e0361f-cf809a06.mp3]"
+                "11 "
             ],
             "guid": "z%H+hFlt%A",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4477,7 +4357,7 @@
             "__type__": "Note",
             "fields": [
                 "ยี่สิบเอ็ด",
-                "21 [sound:google-9fcfb747-c4c31123-9b098f6c-9604d397-963c9182.mp3]"
+                "21 "
             ],
             "guid": "uPUZ9]2EA@",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4489,7 +4369,7 @@
             "__type__": "Note",
             "fields": [
                 "ร้อย",
-                "hundred [sound:google-fb29ac33-fc277120-2bec3496-21c8895c-5b1334f6.mp3]"
+                "hundred "
             ],
             "guid": "t,`g9*Km55",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4501,7 +4381,7 @@
             "__type__": "Note",
             "fields": [
                 "พัน",
-                "thousand [sound:google-270b88ac-6480ec1a-171e8661-edb3ffff-4408ed7e.mp3]"
+                "thousand "
             ],
             "guid": "cE|X_`mio<",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4513,7 +4393,7 @@
             "__type__": "Note",
             "fields": [
                 "หมื่น",
-                "ten thousand [sound:google-702d22e7-e03db97e-25e12b2b-d5a2018c-e35ff0cc.mp3]"
+                "ten thousand "
             ],
             "guid": "De$hHU|TIU",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4525,7 +4405,7 @@
             "__type__": "Note",
             "fields": [
                 "แสน",
-                "hundred thousand [sound:google-fe5c1ba9-9ddd98fb-232a1b95-cc8f0964-a369890f.mp3]"
+                "hundred thousand "
             ],
             "guid": "wBladEejt3",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4537,7 +4417,7 @@
             "__type__": "Note",
             "fields": [
                 "ล้าน",
-                "million [sound:google-c1831513-f26a5c5f-1f72e891-f0de7800-da0bd6ed.mp3]"
+                "million "
             ],
             "guid": "A49XJ/{e0(",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -4981,7 +4861,7 @@
             "__type__": "Note",
             "fields": [
                 "กุมภาพันธ์",
-                "February [sound:google-e73fd50b-79427d38-2182e676-68ec2861-b8e9a9db.mp3]"
+                "February "
             ],
             "guid": "y2h8MTn1uo",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
@@ -5403,7 +5283,7 @@
             "__type__": "Note",
             "fields": [
                 "หนัก",
-                "hard/heavy [sound:google-08923caa-29091bf4-79d1de6b-ac7b67ef-8b0675f8.mp3]"
+                "hard/heavy "
             ],
             "guid": "Q/yRj_7RBy",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
