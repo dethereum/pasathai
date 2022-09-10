@@ -55,7 +55,7 @@
             "retirement_suspend": false,
             "retirement_tag": "",
             "rev": {
-                "bury": false,
+                "bury": true,
                 "ease4": 1.3,
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
@@ -88,7 +88,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
-            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "css": ".card {\n    font-family: arial;\n    font-size: 32px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
             "flds": [
                 {
                     "description": "",
@@ -141,7 +141,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
-            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "css": ".card {\n    font-family: arial;\n    font-size: 34px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
             "flds": [
                 {
                     "description": "",
@@ -149,7 +149,7 @@
                     "name": "Front",
                     "ord": 0,
                     "rtl": false,
-                    "size": 20,
+                    "size": 34,
                     "sticky": false
                 },
                 {
@@ -158,7 +158,7 @@
                     "name": "Back",
                     "ord": 1,
                     "rtl": false,
-                    "size": 20,
+                    "size": 34,
                     "sticky": false
                 }
             ],
@@ -2566,7 +2566,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "how much is this? (in thailand)",
+                "how much is this? (in thailand's currency)",
                 "อันนี้ราคากี่บาทครับ"
             ],
             "guid": "FiU3F2QUd?",
@@ -3126,7 +3126,8 @@
             "guid": "v8RQbLN~2e",
             "note_model_uuid": "4ea7f8c6-30f8-11ed-9bbf-2f560b994ad5",
             "tags": [
-                "Greetings"
+                "Greetings",
+                "question_for_teacher"
             ]
         },
         {
@@ -4122,7 +4123,8 @@
             "guid": "CRrl+G/30O",
             "note_model_uuid": "4ea7f77c-30f8-11ed-9bbf-2f560b994ad5",
             "tags": [
-                "Greetings"
+                "Greetings",
+                "question_for_teacher"
             ]
         },
         {
@@ -5390,7 +5392,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the date",
+                "the date&nbsp;",
                 "วันที่"
             ],
             "guid": "FDtg6h)gBF",
