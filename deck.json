@@ -82,7 +82,9 @@
     "extendNew": 0,
     "extendRev": 0,
     "md": true,
-    "media_files": [],
+    "media_files": [
+        "rec1662895677.mp3"
+    ],
     "name": "pasathai",
     "note_models": [
         {
@@ -1234,7 +1236,7 @@
             "__type__": "Note",
             "fields": [
                 "กระเป๋า",
-                "bag "
+                "bag&nbsp;&nbsp;[sound:rec1662895677.mp3]"
             ],
             "guid": "I|wi$w4se?",
             "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
