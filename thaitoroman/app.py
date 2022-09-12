@@ -4,12 +4,20 @@ from pythainlp.transliterate import transliterate
 test_data="โรงหนัง"
 
 data = ["มา", "ไก่", "ได้", "นับ", "ฉัน"]
+engines = [
+#    "icu",
+    "ipa",
+    "thaig2p",
+    "tltk_ipa",
+    "tltk_g2p",
+    "iso_11940"
+]
+
 
 def my_function():
-    print(word_tokenize(test_data))
+    for engine in engines:
+        print("Using {}".format(engine))
 
-    print(transliterate(test_data, engine="iso_11940"))
-
-    for d in data:
-        print(transliterate(d, engine="icu"))
+        for d in data:
+            print(transliterate(d, engine=engine))
 
