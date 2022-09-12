@@ -1,11 +1,11 @@
 from setuptools import setup
 
 setup(
-    name='thaitoroman',
+    name='thaibow',
     entry_points={
         'console_scripts': [
-            'thaitoroman = thaitoroman.cli:main',
+            'thaibow = thaibow.cli:main',
         ],
     },
-    packages=['thaitoroman']
+    packages=['thaibow']
 )

@@ -1,4 +1,4 @@
-from thaitoroman.app import my_function
+from thaibow.app import my_function
 
 
 def main():
