@@ -5,11 +5,13 @@ from pythainlp.transliterate import transliterate
 
 test_data="กรุงเทพเป็นเมืองหลวงของประเทศไทย"
 
-data = ["มา", "ไก่", "ได้", "นับ", "ฉัน"]
-engines = [
-    "tltk_ipa",
-    "tltk_g2p",
-]
+tone_dict = {
+    '1': (125, 125, 125),
+    '2': (230, 138, 0),
+    '3': (0, 128, 43),
+    '4': (0, 92, 230),
+    '5': (230, 0, 0)
+}
 
 RESET = '\033[0m'
 def get_color_escape(r, g, b, background=False):
@@ -17,16 +19,6 @@ def get_color_escape(r, g, b, background=False):
 
 def get_last_index(word):
     return len(word) - 1 
-
-def print_tones():
-    for engine in engines:
-        print("Using {}\n".format(engine))
-
-        for d in data:
-            print(transliterate(d, engine=engine))
-
-    print("\n")
-
 
 def my_function():
     words = word_tokenize(test_data)
@@ -45,12 +37,12 @@ def my_function():
         info_store.append((tones, tone_indexes, word))
 
     print(words)
-    print("\n")
 
-    for index, data in enumerate(info_store):
-        (tones, brk, word) = data
-        print(tones)
-        print(brk)
-        print(word + " " + str(get_last_index(word)))
-        print("\n")
-            # print(get_color_escape(r, g, b, background=False) + tonei[0])
+    for tones, brk, word in info_store:
+        print(get_color_escape(255, 255, 255, background=True))
+        for tone in tones:
+            print(get_color_escape(0, 0, 0, background=True) + get_color_escape(255, 255, 255, background=False))
+
+            (r, g, b) = tone_dict[tone]
+            colored_word = get_color_escape(r, g, b, background=False) + word
+            print(tones, brk, word, str(get_last_index(word)), "\t", colored_word)
