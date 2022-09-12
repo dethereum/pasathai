@@ -83,7 +83,9 @@
     "extendRev": 0,
     "md": true,
     "media_files": [
-        "rec1662895677.mp3"
+        "rec1662895677.mp3",
+        "rec1662897126.mp3",
+        "rec1662980923.mp3"
     ],
     "name": "pasathai",
     "note_models": [
@@ -165,7 +167,7 @@
             "__type__": "Note",
             "fields": [
                 "ชอบ",
-                "like "
+                "like&nbsp;[sound:rec1662980923.mp3]"
             ],
             "guid": "v/q=:z3L?A",
             "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
@@ -177,7 +179,7 @@
             "__type__": "Note",
             "fields": [
                 "ผัดไทย",
-                "pad thai "
+                "pad thai&nbsp;[sound:rec1662897126.mp3]"
             ],
             "guid": "h8.U*r[E5m",
             "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
