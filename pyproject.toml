@@ -7,8 +7,11 @@ authors = [
 ]
 dependencies = [
     "pythainlp>=3.0.8",
+    "torch>=1.12.1",
+    "icu>=0.0.1",
+    "numpy>=1.21.6",
 ]
-requires-python = ">=3.10"
+requires-python = ">=3.7, <3.10"
 readme = "README.md"
 license = {text = "MIT"}
 
