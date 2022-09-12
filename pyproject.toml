@@ -18,3 +18,5 @@ build-backend = "pdm.pep517.api"
 
 [tool]
 [tool.pdm]
+[tool.pdm.scripts]
+cli = {call = "thaitoroman.cli:main"}
