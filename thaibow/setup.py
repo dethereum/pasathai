@@ -7,6 +7,6 @@ setup(
             'thaibow = thaibow.cli:main',
         ],
     },
-    include_package_data=True,
+    include_package_data=False,
     packages=['thaibow']
 )

@@ -30,8 +30,8 @@ def get_indexes_of_sub(str, sub):
 def get_last_index(word):
     return len(word) - 1
 
-def get_tone_store(text):
-    words = word_tokenize(text)
+def get_tone_store(text, engine):
+    words = word_tokenize(text, engine=engine)
 
     info_store = []
     for word in words:
@@ -39,22 +39,26 @@ def get_tone_store(text):
 
         tones = []
         tone_indexes = []
+        roman_syllabes = []
 
         for syllable in syllables:
             syllable_indexs = get_indexes_of_sub(word, syllable)
-            syllable_tone = re.sub("[^1-5]", "", transliterate(syllable, engine="tltk_ipa"))
+            roman_syllabe = transliterate(syllable, engine="tltk_ipa")
+            syllable_tone = re.sub("[^1-5]", "", roman_syllabe)
 
             tone_indexes.append(syllable_indexs)
             tones.append(syllable_tone)
+            roman_syllabes.append(roman_syllabe)
 
-        info_store.append((tones, tone_indexes, word))
+        info_store.append((tones, tone_indexes, word, roman_syllabes))
     return info_store
 
-def my_function(text):
-    info = get_tone_store(text)
+def my_function(text, engine):
+    info = get_tone_store(text, engine)
 
     colored_words = []
-    for tones, splits, word in info:
+    roman_words = []
+    for tones, splits, word, roman_syllables in info:
         colored_syllables = []
         for i in range(len(tones)):
             (lt, ri) = splits[i]
@@ -64,8 +68,10 @@ def my_function(text):
             colored_syllables.append(color + word[lt:ri])
 
         colored_words.append(functools.reduce(lambda a,b : a + '' + b, colored_syllables))
+        roman_words.append(functools.reduce(lambda a,b : a + '' + b, roman_syllables))
     final_colored = functools.reduce(lambda a,b : a + '' + b, colored_words)
+    roman_text = functools.reduce(lambda a,b : a + '' + b, roman_words)
 
-    return final_colored
+    return (final_colored, roman_text)
 
 
