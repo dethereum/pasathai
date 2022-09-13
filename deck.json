@@ -2946,6 +2946,230 @@
             "tags": [
                 "pasathai::Community_Places"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ร้านกาแฟ",
+                "Coffee shop",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "I4r<3XeWc*",
+            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+            "tags": [
+                "pasathai::Community_Places"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "คาเฟ่",
+                "cafe",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "soe[g%cY55",
+            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+            "tags": [
+                "pasathai::Community_Places"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ร้านอาหาร",
+                "Restaurant",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "B?Cv4r}gM~",
+            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+            "tags": [
+                "pasathai::Community_Places"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ห้าง",
+                "Shopping mall",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "O;0nSeTRx&",
+            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+            "tags": [
+                "pasathai::Community_Places"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "สินค้า",
+                "product",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "(h2SOvMi,",
+            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+            "tags": [
+                "pasathai::Community_Places"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ตลาด",
+                "Market",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "D)U(aH&2Cd",
+            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+            "tags": [
+                "pasathai::Community_Places"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ตลาดสด",
+                "fresh market",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "If$#fD/cka",
+            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+            "tags": [
+                "pasathai::Community_Places"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ตลาดน้ำ",
+                "floating market",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "O@6xs3y6$)",
+            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+            "tags": [
+                "pasathai::Community_Places"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ภาพยนตร์",
+                "movie/film",
+                "",
+                "formal",
+                "",
+                ""
+            ],
+            "guid": "D!M]MwlO|o",
+            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+            "tags": [
+                "pasathai::Community_Places"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "หนัง",
+                "movie/film",
+                "",
+                "casual",
+                "",
+                ""
+            ],
+            "guid": "E_5*/%xgwU",
+            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+            "tags": [
+                "pasathai::Community_Places"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "โรงหนัง",
+                "Movie theater",
+                "",
+                "casual",
+                "",
+                ""
+            ],
+            "guid": "vwJ!C8(:qz",
+            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+            "tags": [
+                "pasathai::Community_Places"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "โรงภาพยนตร์",
+                "Movie theater",
+                "",
+                "formal",
+                "",
+                ""
+            ],
+            "guid": "rq:t:8<R/R",
+            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+            "tags": [
+                "pasathai::Community_Places"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "โบสถ์",
+                "church",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Jgot{-9/Ml",
+            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+            "tags": [
+                "pasathai::Community_Places"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "วัด",
+                "Temple",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "E$.FHO@fSo",
+            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+            "tags": [
+                "pasathai::Community_Places"
+            ]
         }
     ]
 }
