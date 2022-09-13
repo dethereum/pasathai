@@ -1,9 +1,7 @@
-from thaibow.app import my_function
-
+from thaibow.deck import get_notes_data
 
 def main():
-    my_function()
+    get_notes_data()
 
 if __name__ == "__main__":
-    """This runs when you execute 'pdm run cli'"""
     main()
