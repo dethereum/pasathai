@@ -204,78 +204,6 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
-            "css": ".card {\n    font-family: arial;\n    font-size: 32px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
-            "flds": [
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 32,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 32,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic (and reversed card) copy",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ],
-                [
-                    1,
-                    "any",
-                    [
-                        0,
-                        1
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                },
-                {
-                    "afmt": "{{Back}}\n\n<hr id=answer>\n\n{{type:Front}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Card 2",
-                    "ord": 1,
-                    "qfmt": "{{Back}}\n\n{{type:Front}}"
-                }
-            ],
-            "type": 0
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
             "css": ".card {\n\t\tfont-family: 'Noto Sans Thai', sans-serif;    font-size: 32px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
             "flds": [
@@ -405,6 +333,78 @@
         },
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
+            "css": ".card {\n    font-family: arial;\n    font-size: 32px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 32,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 32,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card) copy",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        0,
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{Back}}\n\n<hr id=answer>\n\n{{type:Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}\n\n{{type:Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "c24d0d1c-3372-11ed-9a4a-736a04d18ce7",
             "css": ".card {\n    font-family: arial;\n    font-size: 32px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
             "flds": [
@@ -517,10 +517,14 @@
             "__type__": "Note",
             "fields": [
                 "ชอบ",
-                "like&nbsp;[sound:rec1662980923.mp3]"
+                "like",
+                "",
+                "",
+                "[sound:rec1662980923.mp3]",
+                ""
             ],
             "guid": "v/q=:z3L?A",
-            "note_model_uuid": "0f29a080-312c-11ed-bb65-83a6f05f8cc6",
+            "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
             "tags": [
                 "pasathai::lesson::Basic_Structure"
             ]
