@@ -17,6 +17,11 @@ engines = [
 
 url = 'https://www.thai2english.com/_next/data/qqerWs1vgtpJGScVYNO0N/index.json'
 
+def handle_repeater(text):
+    if "ๆ" in text:
+        return text.replace("ๆ", text.replace("ๆ", ""))
+    return text
+
 def get_notes_data():
     with open('../deck.json') as json_file:
         notes = json.load(json_file)['children'][2]["notes"]
@@ -34,7 +39,7 @@ def get_notes_data():
                 table.add_column(column)
 
             for engine in engines:
-                (output, roman_text) = my_function(text, engine)
+                (output, roman_text) = my_function(handle_repeater(text), engine)
                 row = [roman_text, output]
                 table.add_row(*row, style='bright_green')
 
