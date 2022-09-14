@@ -4,13 +4,24 @@
 
 from __future__ import annotations
 
-from typing import Any, List, Optional, Union
+from typing import List, Optional, Literal
 
-from pydantic import BaseModel
+from pydantic import BaseModel, validator, Extra
+
+part_of_speech = List[Literal['Noun', 'Verb', 'StativeVerb', 'Adjective', 'Adverb',
+                              'IndefinitePronoun', 'Pronoun', 'ComparativeAdjective', 'PersonalPronoun', 'Phrase', 'Interjection', 'Preposition', 'Conjunction', 'None', 'Classifier', 'Particle', 'RelativePronoun', 'DemonstrativeAdjective', 'AdverbAuxiliary', 'Interrogative', 'NEG', 'Quantifier', 'Repeater', 'Determiner', 'Prefix', 'PreposedAdjective', 'TopicMarker', 'SecondaryVerb', 'PrecedingIntensifier', 'Boundelement']]
+
+commoness = Literal['Very commonly', 'Commonly',
+                    'Sometimes', 'Rarely', 'Very rarely']
+
+etymology = Literal["", "Pali/Sanskrit", "English", "Thai", "Khmer", "Chinese"]
 
 
 class Meaning(BaseModel):
     meaning: str
+
+    class Config:
+        extra = Extra.forbid
 
 
 class Word(BaseModel):
@@ -19,427 +30,58 @@ class Word(BaseModel):
     phonetic: str
     word: str
 
-
-class Meaning1(BaseModel):
-    meaning: str
-
-
-class Word1(BaseModel):
-    isThai: bool
-    meanings: List[Meaning1]
-    phonetic: str
-    word: str
+    class Config:
+        extra = Extra.forbid
 
 
-class Meaning2(BaseModel):
-    meaning: str
-
-
-class Meaning3(BaseModel):
-    meaning: str
-
-
-class Word2(BaseModel):
-    isThai: bool
-    meanings: List[Union[Meaning2, Meaning3]]
-    phonetic: str
-    word: str
-
-
-class Meaning4(BaseModel):
-    meaning: str
-
-
-class Word3(BaseModel):
-    isThai: bool
-    meanings: List[Meaning4]
-    phonetic: str
-    word: str
-
-
-class Meaning5(BaseModel):
-    meaning: str
-
-
-class Word4(BaseModel):
-    isThai: bool
-    meanings: List[Meaning5]
-    phonetic: str
-    word: str
-
-
-class ExampleSentence(BaseModel):
+class OuterExampleSentence(BaseModel):
     engSentence: str
     id: int
     phonetic: str
     thaiSentence: str
     thaiSentenceSpaced: str
-    words: List[Union[Word, Word1, Word2, Word3, Word4]]
+    words: List[Word]
 
+    class Config:
+        extra = Extra.forbid
 
-class Meaning6(BaseModel):
-    meaning: str
 
-
-class Word5(BaseModel):
-    isThai: bool
-    meanings: List[Meaning6]
-    phonetic: str
-    word: str
-
-
-class Meaning7(BaseModel):
-    meaning: str
-
-
-class Word6(BaseModel):
-    isThai: bool
-    meanings: List[Meaning7]
-    phonetic: str
-    word: str
-
-
-class Meaning8(BaseModel):
-    meaning: str
-
-
-class Word7(BaseModel):
-    isThai: bool
-    meanings: List[Meaning8]
-    phonetic: str
-    word: str
-
-
-class Meaning9(BaseModel):
-    meaning: str
-
-
-class Word8(BaseModel):
-    isThai: bool
-    meanings: List[Meaning9]
-    phonetic: str
-    word: str
-
-
-class ExampleSentence1(BaseModel):
-    engSentence: str
-    id: int
-    phonetic: str
-    thaiSentence: str
-    thaiSentenceSpaced: str
-    words: List[Union[Word5, Word6, Word7, Word8]]
-
-
-class Meaning10(BaseModel):
-    meaning: str
-
-
-class Word9(BaseModel):
-    isThai: bool
-    meanings: List[Meaning10]
-    phonetic: str
-    word: str
-
-
-class Meaning11(BaseModel):
-    meaning: str
-
-
-class Word10(BaseModel):
-    isThai: bool
-    meanings: List[Meaning11]
-    phonetic: str
-    word: str
-
-
-class Meaning12(BaseModel):
-    meaning: str
-
-
-class Word11(BaseModel):
-    isThai: bool
-    meanings: List[Meaning12]
-    phonetic: str
-    word: str
-
-
-class Meaning13(BaseModel):
-    meaning: str
-
-
-class Word12(BaseModel):
-    isThai: bool
-    meanings: List[Meaning13]
-    phonetic: str
-    word: str
-
-
-class Meaning14(BaseModel):
-    meaning: str
-
-
-class Word13(BaseModel):
-    isThai: bool
-    meanings: List[Meaning14]
-    phonetic: str
-    word: str
-
-
-class Meaning15(BaseModel):
-    meaning: str
-
-
-class Word14(BaseModel):
-    isThai: bool
-    meanings: List[Meaning15]
-    phonetic: str
-    word: str
-
-
-class ExampleSentence2(BaseModel):
-    engSentence: str
-    id: int
-    phonetic: str
-    thaiSentence: str
-    thaiSentenceSpaced: str
-    words: List[Union[Word9, Word10, Word11, Word12, Word13, Word14]]
-
-
-class Meaning16(BaseModel):
-    meaning: str
-
-
-class Word15(BaseModel):
-    isThai: bool
-    meanings: List[Meaning16]
-    phonetic: str
-    word: str
-
-
-class Meaning17(BaseModel):
-    meaning: str
-
-
-class Word16(BaseModel):
-    isThai: bool
-    meanings: List[Meaning17]
-    phonetic: str
-    word: str
-
-
-class Word17(BaseModel):
-    isThai: bool
-    meanings: List
-    phonetic: str
-    word: str
-
-
-class Meaning18(BaseModel):
-    meaning: str
-
-
-class Word18(BaseModel):
-    isThai: bool
-    meanings: List[Meaning18]
-    phonetic: str
-    word: str
-
-
-class Meaning19(BaseModel):
-    meaning: str
-
-
-class Word19(BaseModel):
-    isThai: bool
-    meanings: List[Meaning19]
-    phonetic: str
-    word: str
-
-
-class ExampleSentence3(BaseModel):
-    engSentence: str
-    id: int
-    phonetic: str
-    thaiSentence: str
-    thaiSentenceSpaced: str
-    words: List[Union[Word15, Word16, Word17, Word18, Word19]]
-
-
-class Meaning20(BaseModel):
-    meaning: str
-
-
-class Word20(BaseModel):
-    isThai: bool
-    meanings: List[Meaning20]
-    phonetic: str
-    word: str
-
-
-class Meaning21(BaseModel):
-    meaning: str
-
-
-class Meaning22(BaseModel):
-    meaning: str
-
-
-class Word21(BaseModel):
-    isThai: bool
-    meanings: List[Union[Meaning21, Meaning22]]
-    phonetic: str
-    word: str
-
-
-class Meaning23(BaseModel):
-    meaning: str
-
-
-class Word22(BaseModel):
-    isThai: bool
-    meanings: List[Meaning23]
-    phonetic: str
-    word: str
-
-
-class Meaning24(BaseModel):
-    meaning: str
-
-
-class Word23(BaseModel):
-    isThai: bool
-    meanings: List[Meaning24]
-    phonetic: str
-    word: str
-
-
-class ExampleSentence4(BaseModel):
-    engSentence: str
-    id: int
-    phonetic: str
-    thaiSentence: str
-    thaiSentenceSpaced: str
-    words: List[Union[Word20, Word21, Word22, Word23]]
-
-
-class Meaning25(BaseModel):
-    meaning: str
-
-
-class Word24(BaseModel):
-    isThai: bool
-    meanings: List[Meaning25]
-    phonetic: str
-    word: str
-
-
-class Meaning26(BaseModel):
-    meaning: str
-
-
-class Word25(BaseModel):
-    isThai: bool
-    meanings: List[Meaning26]
-    phonetic: str
-    word: str
-
-
-class Meaning27(BaseModel):
-    meaning: str
-
-
-class Word26(BaseModel):
-    isThai: bool
-    meanings: List[Meaning27]
-    phonetic: str
-    word: str
-
-
-class ExampleSentence5(BaseModel):
-    engSentence: str
-    id: int
-    phonetic: str
-    thaiSentence: str
-    thaiSentenceSpaced: str
-    words: List[Union[Word24, Word25, Word26]]
-
-
-class ExampleSentence6(BaseModel):
+class InnerExampleSentence(BaseModel):
     engSentence: str
     id: int
     thaiSentence: str
     thaiSentenceSpaced: str
 
-
-class ExampleSentence7(BaseModel):
-    engSentence: str
-    id: int
-    thaiSentence: str
-    thaiSentenceSpaced: str
-
-
-class ExampleSentence8(BaseModel):
-    engSentence: str
-    id: int
-    thaiSentence: str
-    thaiSentenceSpaced: str
-
-
-class ExampleSentence9(BaseModel):
-    engSentence: str
-    id: int
-    thaiSentence: str
-    thaiSentenceSpaced: str
-
-
-class ExampleSentence10(BaseModel):
-    engSentence: str
-    id: int
-    thaiSentence: str
-    thaiSentenceSpaced: str
-
-
-class ExampleSentence11(BaseModel):
-    engSentence: str
-    id: int
-    thaiSentence: str
-    thaiSentenceSpaced: str
+    class Config:
+        extra = Extra.forbid
 
 
 class Component(BaseModel):
     childId: int
     corpusScore: int
     displayOrder: int
-    etymology: str
-    explanation: Any
+    etymology: etymology
+    explanation: str | None
     hasSoundFile: bool
     id: int
     legacyWordId: int
     meaning: str
     parentId: int
-    partOfSpeech: str
+    partOfSpeech: part_of_speech
     t2e: str
     usage: str
-    verified: Any
+    verified: str | None
     word: str
 
+    @validator('partOfSpeech', pre=True)
+    def pre_process_pos(cls, v: str):
+        if " ; " in v:
+            pos_list = v.split(" ; ")
+            return pos_list
+        return [v]
 
-class Component1(BaseModel):
-    childId: int
-    corpusScore: int
-    displayOrder: int
-    etymology: str
-    explanation: Any
-    hasSoundFile: bool
-    id: int
-    legacyWordId: int
-    meaning: str
-    parentId: int
-    partOfSpeech: str
-    t2e: str
-    usage: str
-    verified: Any
-    word: str
+    class Config:
+        extra = Extra.forbid
 
 
 class EngTranslationWord(BaseModel):
@@ -447,133 +89,84 @@ class EngTranslationWord(BaseModel):
     text: str
     word: str
 
-
-class EngTranslationWord1(BaseModel):
-    isEngDictionaryWord: bool
-    text: str
-    word: str
+    class Config:
+        extra = Extra.forbid
 
 
 class Example(BaseModel):
     childId: int
     corpusScore: int
     displayOrder: int
-    etymology: str
-    explanation: Any
+    etymology: etymology
+    explanation: str | None
     hasSoundFile: bool
     id: int
     legacyWordId: int
     meaning: str
     parentId: int
-    partOfSpeech: str
+    partOfSpeech: part_of_speech
     t2e: str
     usage: str
-    verified: Any
+    verified: str | None
     word: str
 
+    @validator('partOfSpeech', pre=True)
+    def pre_process_pos(cls, v: str):
+        if " ; " in v:
+            pos_list = v.split(" ; ")
+            return pos_list
+        return [v]
 
-class Example1(BaseModel):
-    childId: int
-    corpusScore: int
+    class Config:
+        extra = Extra.forbid
+
+
+class ComplexMeaning(BaseModel):
+    components: List[Component]
     displayOrder: int
-    etymology: str
-    explanation: Any
-    hasSoundFile: bool
-    id: int
-    legacyWordId: int
-    meaning: str
-    parentId: int
-    partOfSpeech: str
-    t2e: str
-    usage: str
-    verified: Any
-    word: str
-
-
-class Example2(BaseModel):
-    childId: int
-    corpusScore: int
-    displayOrder: int
-    etymology: str
-    explanation: Any
-    hasSoundFile: bool
-    id: int
-    legacyWordId: int
-    meaning: str
-    parentId: int
-    partOfSpeech: str
-    t2e: str
-    usage: str
-    verified: Any
-    word: str
-
-
-class Example3(BaseModel):
-    childId: int
-    corpusScore: int
-    displayOrder: int
-    etymology: str
-    explanation: Any
-    hasSoundFile: bool
-    id: int
-    legacyWordId: int
-    meaning: str
-    parentId: int
-    partOfSpeech: str
-    t2e: str
-    usage: str
-    verified: Any
-    word: str
-
-
-class Meaning28(BaseModel):
-    components: List[Union[Component, Component1]]
-    displayOrder: int
-    engTranslationWords: List[Union[EngTranslationWord, EngTranslationWord1]]
-    etymology: str
-    examples: List[Union[Example, Example1, Example2, Example3]]
-    explanation: Any
+    engTranslationWords: List[EngTranslationWord]
+    etymology: etymology
+    examples: List[Example]
+    explanation: str | None
     id: int
     isUncommon: bool
     meaning: str
-    partOfSpeech: str
+    partOfSpeech: part_of_speech
     usage: str
     word: str
+
+    @validator('partOfSpeech', pre=True)
+    def pre_process_pos(cls, v: str):
+        if " ; " in v:
+            pos_list = v.split(" ; ")
+            return pos_list
+        return [v]
+
+    class Config:
+        extra = Extra.forbid
 
 
 class FirestoreWord(BaseModel):
     corpusScore: int
-    exampleSentences: List[
-        Union[
-            ExampleSentence6,
-            ExampleSentence7,
-            ExampleSentence8,
-            ExampleSentence9,
-            ExampleSentence10,
-            ExampleSentence11,
-        ]
-    ]
+    exampleSentences: List[InnerExampleSentence]
+    meanings: List[ComplexMeaning]
+    t2e: str
+    verified: str | None
+    word: str
     hasSoundFile: bool
     legacyWordId: int
-    meanings: List[Meaning28]
-    t2e: str
-    verified: Any
-    word: str
+
+    class Config:
+        extra = Extra.forbid
 
 
 class Model(BaseModel):
-    commonessText: str
-    exampleSentences: List[
-        Union[
-            ExampleSentence,
-            ExampleSentence1,
-            ExampleSentence2,
-            ExampleSentence3,
-            ExampleSentence4,
-            ExampleSentence5,
-        ]
-    ]
+    commonessText: commoness
+    exampleSentences: List[OuterExampleSentence]
     firestoreWord: FirestoreWord
     greenBarCount: int
     pageUrl: str
-    type: str
+    type: Literal['thai-word']
+
+    class Config:
+        extra = Extra.forbid
