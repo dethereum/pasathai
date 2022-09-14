@@ -23,24 +23,29 @@ tag_prefix = "pasathai::meta::"
 url = 'https://www.thai2english.com/_next/data/qqerWs1vgtpJGScVYNO0N/index.json'
 
 
-def init_phrase_note(phrase, target, target_meaning):
+def init_phrase_note(example, meaning):
     return {
         "__type__" : "Note",
-        "fields" : [phrase, target, target_meaning, "", ""],
+        "fields" : [example.word, meaning.word, meaning.meaning, "", "", example.meaning],
         "guid" : shortuuid.uuid()[:10],
         "note_model_uuid" : "945aebac-33ec-11ed-8670-f7b6016c17e6",
         "tags" : []
     }
 
 # EXAMPLE
-# 0 ไม่มีปัญหา phrase
-# 1 ปัญหา target
-# 2 problem target meaning
+#
+# 3 and 4 are audio files to be inputed manually
+#
+# 0 ไม่มีปัญหา           phrase
+# 1 ปัญหา              target
+# 2 problem           target meaning
+# 5 no have problem   phrase meaning
 def make_phrase_notes(meaning):
     phrase_notes = []
     
-    for example in meaning.examples:
-        note = init_phrase_note(example.word, meaning.word, meaning.meaning)
+    # make decision to use at most 2 examples of every meaning
+    for example in meaning.examples[:2]:
+        note = init_phrase_note(example, meaning)
 
         if example.etymology != "":
             note["tags"].append(tag_prefix + "etymology::" + example.etymology.lower())
@@ -136,10 +141,11 @@ def get_notes_data():
                 note["tags"].append(tag_prefix + "multiple_meanings")
 
                 for meaning in thai_word_data.firestoreWord.meanings:
-                    phrase_notes = make_phrase_notes(meaning)
+                    if len(meaning.examples) > 0: 
+                        phrase_notes = make_phrase_notes(meaning)
 
-                    for phrase_note in phrase_notes:
-                        anki['children'][1]["notes"].append(phrase_note)
+                        for phrase_note in phrase_notes:
+                            anki['children'][1]["notes"].append(phrase_note)
             else:
                 meaning = thai_word_data.firestoreWord.meanings[0]
 
