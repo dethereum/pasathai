@@ -85,12 +85,28 @@ def get_notes_data():
 
             amt_meanings = len(thai_word_data.firestoreWord.meanings)
 
+            note["tags"].append("pasathai::meta::usage::" + thai_word_data.commonessText.replace(" ", "_").lower())
+
             if amt_meanings > 1:
                 note["tags"].append("pasathai::meta::multiple_meanings")
 
                 for meaning in thai_word_data.firestoreWord.meanings:
                     if len(meaning.components) > 1:
                         note["tags"].append("pasathai::meta::component_word")
+                    if meaning.etymology != "":
+                        note["tags"].append("pasathai::meta::etymology::" + meaning.etymology.lower())
+                    for pos in meaning.partOfSpeech:
+                        note["tags"].append("pasathai::meta::part_of_speech::" + pos.lower())
+            else:
+                meaning = thai_word_data.firestoreWord.meanings[0]
+
+                if len(meaning.components) > 1:
+                        note["tags"].append("pasathai::meta::component_word")
+                if meaning.etymology != "":
+                        note["tags"].append("pasathai::meta::etymology::" + meaning.etymology.lower())
+
+                for pos in meaning.partOfSpeech:
+                    note["tags"].append("pasathai::meta::part_of_speech::" + pos.lower())
 
         note["tags"].append("pasathai::meta::processed")
         note["tags"] = unique(note["tags"])
