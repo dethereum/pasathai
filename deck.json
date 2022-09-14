@@ -26,8 +26,8 @@
                     "guid": "wtVGw1/&:O",
                     "note_model_uuid": "c24d0d1c-3372-11ed-9a4a-736a04d18ce7",
                     "tags": [
-                        "pasathai::script::class::mid",
-                        "pasathai::script::[g]"
+                        "pasathai::script::[g]",
+                        "pasathai::script::class::mid"
                     ]
                 },
                 {
@@ -1041,8 +1041,8 @@
                     "guid": "Ip&Ela4pqd",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
                     "tags": [
-                        "question_for_teacher",
-                        "pasathai::lesson::Question_Words"
+                        "pasathai::lesson::Question_Words",
+                        "question_for_teacher"
                     ]
                 },
                 {
@@ -1372,8 +1372,8 @@
                     "guid": "D$)qp]ox);",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
                     "tags": [
-                        "question_for_teacher",
-                        "pasathai::lesson::Question_Words"
+                        "pasathai::lesson::Question_Words",
+                        "question_for_teacher"
                     ]
                 },
                 {
@@ -1613,8 +1613,8 @@
                     "guid": "jx8.uS#:*N",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
                     "tags": [
-                        "question_for_teacher",
-                        "pasathai::lesson::Question_Words"
+                        "pasathai::lesson::Question_Words",
+                        "question_for_teacher"
                     ]
                 },
                 {
@@ -1644,8 +1644,8 @@
                     "guid": "GTbhgCdDns",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
                     "tags": [
-                        "pasathai::lesson::Question_Words",
-                        "look_at_after"
+                        "look_at_after",
+                        "pasathai::lesson::Question_Words"
                     ]
                 },
                 {
