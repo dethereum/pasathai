@@ -68,7 +68,6 @@ def get_tone_store(text, engine):
 
     info_store = []
     for word in words:
-
         syllables = syllable_tokenize(word)
 
         tones = []
@@ -79,13 +78,18 @@ def get_tone_store(text, engine):
         for syllable in syllables:
             syllable_indexs = get_indexes_of_sub(word, syllable)
             
-            if "์" in syllable: 
-                roman_syllable = handle_silent_marker(transliterate(syllable, engine="tltk_ipa"))
-                syllable_tone = re.sub("[^1-5]", "", roman_syllable)
-                tones.append(syllable_tone)
-                roman_syllables.append(roman_syllable)
-                final_word_parts.append(syllable)
-                tone_indexes.append(syllable_indexs)
+            if "์" in syllable:
+                original_roman_syllable = transliterate(syllable, engine="tltk_ipa") 
+                roman_syllable = handle_silent_marker(original_roman_syllable)
+
+                if "." in roman_syllable:
+                    handle_linking_syllable(roman_syllable, syllable, tones, roman_syllables, final_word_parts, tone_indexes, syllable_indexs)
+                else:
+                    syllable_tone = re.sub("[^1-5]", "", roman_syllable)
+                    tones.append(syllable_tone)
+                    roman_syllables.append(roman_syllable)
+                    final_word_parts.append(syllable)
+                    tone_indexes.append(syllable_indexs)
             else:
                 roman_syllable = transliterate(syllable, engine="tltk_ipa")
                 if "." in roman_syllable:
