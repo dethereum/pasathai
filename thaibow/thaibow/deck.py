@@ -4,6 +4,7 @@ from rich.table import Table
 
 import json
 import requests
+import shortuuid
 
 from thaibow.validator import api_external_validator
 
@@ -17,15 +18,54 @@ engines = [
     # "tltk",
 ]
 
+tag_prefix = "pasathai::meta::"
+
 url = 'https://www.thai2english.com/_next/data/qqerWs1vgtpJGScVYNO0N/index.json'
+
+
+def init_phrase_note(phrase, target, target_meaning):
+    return {
+        "__type__" : "Note",
+        "fields" : [phrase, target, target_meaning, "", ""],
+        "guid" : shortuuid.uuid()[:10],
+        "note_model_uuid" : "945aebac-33ec-11ed-8670-f7b6016c17e6",
+        "tags" : []
+    }
+
+# EXAMPLE
+# 0 ไม่มีปัญหา phrase
+# 1 ปัญหา target
+# 2 problem target meaning
+def make_phrase_notes(meaning):
+    phrase_notes = []
+    
+    for example in meaning.examples:
+        note = init_phrase_note(example.word, meaning.word, meaning.meaning)
+
+        if example.etymology != "":
+            note["tags"].append(tag_prefix + "etymology::" + meaning.etymology.lower())
+        
+        for pos in meaning.partOfSpeech:
+            note["tags"].append(tag_prefix + "part_of_speech::" + pos.lower())
+
+        if len(meaning.components) > 1:
+            note["tags"].append(tag_prefix + "component_word")
+
+        note["tags"].append(tag_prefix + "processed")
+
+        note["tags"] = sorted(unique(note["tags"]), key=str.lower)
+        phrase_notes.append(note)
+
+    return phrase_notes
+
 
 def unique(list1):
     unique_list = []
-  
+
     for x in list1:
         if x not in unique_list:
             unique_list.append(x)
-    
+
     return unique_list
 
 
@@ -33,6 +73,7 @@ def handle_repeater(text):
     if "ๆ" in text:
         return text.replace("ๆ", text.replace("ๆ", ""))
     return text
+
 
 def display_thaibow(notes):
     for note in notes:
@@ -65,6 +106,8 @@ def fetch_thai_word_data(notes):
                       indent=4, ensure_ascii=False)
 
 # ensure no translation type or multiple meaning words become vocab cards
+
+
 def get_notes_data():
     json_file = open('../deck.json')
     anki = json.load(json_file)
@@ -73,7 +116,8 @@ def get_notes_data():
     notes = anki['children'][2]["notes"]
 
     for note in notes:
-        if "pasathai::processed" in note["tags"]:
+        if tag_prefix + "processed" in note["tags"]:
+            print(note['fields'][0], "already processed")
             continue
 
         text = note['fields'][0]
@@ -85,30 +129,31 @@ def get_notes_data():
 
             amt_meanings = len(thai_word_data.firestoreWord.meanings)
 
-            note["tags"].append("pasathai::meta::usage::" + thai_word_data.commonessText.replace(" ", "_").lower())
+            note["tags"].append(tag_prefix + "usage::" +
+                                thai_word_data.commonessText.replace(" ", "_").lower())
 
             if amt_meanings > 1:
-                note["tags"].append("pasathai::meta::multiple_meanings")
+                note["tags"].append(tag_prefix + "multiple_meanings")
 
                 for meaning in thai_word_data.firestoreWord.meanings:
-                    if len(meaning.components) > 1:
-                        note["tags"].append("pasathai::meta::component_word")
-                    if meaning.etymology != "":
-                        note["tags"].append("pasathai::meta::etymology::" + meaning.etymology.lower())
-                    for pos in meaning.partOfSpeech:
-                        note["tags"].append("pasathai::meta::part_of_speech::" + pos.lower())
+                    phrase_notes = make_phrase_notes(meaning)
+
+                    for phrase_note in phrase_notes:
+                        anki['children'][1]["notes"].append(phrase_note)
             else:
                 meaning = thai_word_data.firestoreWord.meanings[0]
 
                 if len(meaning.components) > 1:
-                        note["tags"].append("pasathai::meta::component_word")
+                    note["tags"].append(tag_prefix + "component_word")
                 if meaning.etymology != "":
-                        note["tags"].append("pasathai::meta::etymology::" + meaning.etymology.lower())
+                    note["tags"].append(
+                        tag_prefix + "etymology::" + meaning.etymology.lower())
 
                 for pos in meaning.partOfSpeech:
-                    note["tags"].append("pasathai::meta::part_of_speech::" + pos.lower())
+                    note["tags"].append(
+                        tag_prefix + "part_of_speech::" + pos.lower())
 
-        note["tags"].append("pasathai::meta::processed")
+        note["tags"].append(tag_prefix + "processed")
         note["tags"] = sorted(unique(note["tags"]), key=str.lower)
 
     anki['children'][2]["notes"] = notes
