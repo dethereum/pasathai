@@ -3,6 +3,7 @@ from rich.console import Console
 from rich.table import Table
 
 import json
+import requests
 
 # engines for tokenization that work locally
 engines = [
@@ -14,24 +15,38 @@ engines = [
     # "tltk",
 ]
 
+url = 'https://www.thai2english.com/_next/data/qqerWs1vgtpJGScVYNO0N/index.json'
+
 def get_notes_data():
     with open('../deck.json') as json_file:
-        notes = json.load(json_file)['notes']
+        notes = json.load(json_file)['children'][2]["notes"]
 
         for note in notes:
-            if note['note_model_uuid'] == '2949c2a2-322f-11ed-bea3-57623aa003ca':
-                text = note['fields'][0]
+            text = note['fields'][0]
 
-                table = Table(title=text)
-                columns = ["Transliteration", "Output"]
+            # data = requests.get(url, params={'q': text})
+            # props = json.loads(data.content)['pageProps']['processed']
+            
+            table = Table(title=text)
+            columns = ["Transliteration", "Output"]
 
-                for column in columns:
-                    table.add_column(column)
+            for column in columns:
+                table.add_column(column)
 
-                for engine in engines:
-                    (output, roman_text) = my_function(text, engine)
-                    row = [roman_text, output]
-                    table.add_row(*row, style='bright_green')
+            for engine in engines:
+                (output, roman_text) = my_function(text, engine)
+                row = [roman_text, output]
+                table.add_row(*row, style='bright_green')
 
-                console = Console()
-                console.print(table)
+            console = Console()
+            console.print(table)
+
+                
+            
+
+
+
+
+
+
+
