@@ -19,6 +19,15 @@ engines = [
 
 url = 'https://www.thai2english.com/_next/data/qqerWs1vgtpJGScVYNO0N/index.json'
 
+def unique(list1):
+    unique_list = []
+  
+    for x in list1:
+        if x not in unique_list:
+            unique_list.append(x)
+    
+    return unique_list
+
 
 def handle_repeater(text):
     if "ๆ" in text:
@@ -63,7 +72,7 @@ def get_notes_data():
     # hard code vocab deck path
     notes = anki['children'][2]["notes"]
 
-    for note in notes[0:2]:
+    for note in notes:
         if "pasathai::processed" in note["tags"]:
             continue
 
@@ -77,10 +86,14 @@ def get_notes_data():
             amt_meanings = len(thai_word_data.firestoreWord.meanings)
 
             if amt_meanings > 1:
-                note["tags"].append("pasathai::multiple_meanings")
+                note["tags"].append("pasathai::meta::multiple_meanings")
 
-        
-        note["tags"].append("pasathai::processed")
+                for meaning in thai_word_data.firestoreWord.meanings:
+                    if len(meaning.components) > 1:
+                        note["tags"].append("pasathai::meta::component_word")
+
+        note["tags"].append("pasathai::meta::processed")
+        note["tags"] = unique(note["tags"])
 
     anki['children'][2]["notes"] = notes
 
