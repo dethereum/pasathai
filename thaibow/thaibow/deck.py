@@ -29,22 +29,22 @@ def get_notes_data():
         for note in notes:
             text = note['fields'][0]
 
-            data = requests.get(url, params={'q': text})
-            props = json.loads(data.content)['pageProps']['processed']
+            # data = requests.get(url, params={'q': text})
+            # props = json.loads(data.content)['pageProps']['processed']
             
-            # table = Table(title=text)
-            # columns = ["Transliteration", "Output"]
-            # for column in columns:
-            #     table.add_column(column)
-            # for engine in engines:
-            #     (output, roman_text) = my_function(handle_repeater(text), engine)
-            #     row = [roman_text, output]
-            #     table.add_row(*row, style='bright_green') 
-            # console = Console()
-            # console.print(table)
+            table = Table(title=text)
+            columns = ["Transliteration", "Output"]
+            for column in columns:
+                table.add_column(column)
+            for engine in engines:
+                (output, roman_text) = my_function(handle_repeater(text), engine)
+                row = [roman_text, output]
+                table.add_row(*row, style='bright_green') 
+            console = Console()
+            console.print(table)
 
-            with open('./thaibow/data/' + text + '.json', 'a') as out_file:
-                json.dump(props, out_file, sort_keys = True, indent = 4, ensure_ascii = False)
+            # with open('./thaibow/data/' + text + '.json', 'a') as out_file:
+            #     json.dump(props, out_file, sort_keys = True, indent = 4, ensure_ascii = False)
 
                 
             
