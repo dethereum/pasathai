@@ -1,0 +1,1453 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Hurry up . Hurry.",
+            "id": 7699,
+            "phonetic": "เร็ว เข้า · เร็ว เร็ว",
+            "thaiSentence": "เร็วเข้า เร็วๆ",
+            "thaiSentenceSpaced": " เร็ว เข้า  ·  เร็ว ๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hurry up! ; come on!"
+                        }
+                    ],
+                    "phonetic": "เร็ว เข้า",
+                    "word": "เร็วเข้า"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] fast ; very fast"
+                        }
+                    ],
+                    "phonetic": "เร็ว เร็ว",
+                    "word": "เร็วๆ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Hurry, we'll be late.",
+            "id": 27080,
+            "phonetic": "เร็ว เข้า · เรา จะ สาย กัน นะ",
+            "thaiSentence": "เร็วเข้า เราจะสายกันนะ",
+            "thaiSentenceSpaced": " เร็ว เข้า  ·  เรา จะ สาย กัน นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hurry up! ; come on!"
+                        }
+                    ],
+                    "phonetic": "เร็ว เข้า",
+                    "word": "เร็วเข้า"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] late"
+                        }
+                    ],
+                    "phonetic": "สาย",
+                    "word": "สาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one another ; each other"
+                        },
+                        {
+                            "meaning": "together ; jointly"
+                        }
+                    ],
+                    "phonetic": "กัน",
+                    "word": "กัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "She's going to college.",
+            "id": 32137,
+            "phonetic": "เขา กำ-ลัง จะ เข้า วิด-ทะ-ยา-ไล",
+            "thaiSentence": "เขากำลังจะเข้าวิทยาลัย",
+            "thaiSentenceSpaced": " เขา กำลังจะ เข้า วิทยาลัย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "be about to ; be on the verge of"
+                        }
+                    ],
+                    "phonetic": "กำ-ลัง จะ",
+                    "word": "กำลังจะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] enter ; reach ; get into"
+                        },
+                        {
+                            "meaning": "in ; into"
+                        },
+                        {
+                            "meaning": "[to] get along with ; be compatible with"
+                        }
+                    ],
+                    "phonetic": "เข้า",
+                    "word": "เข้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "college"
+                        }
+                    ],
+                    "phonetic": "วิด-ทะ-ยา-ไล",
+                    "word": "วิทยาลัย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Remember, be happy.",
+            "id": 40181,
+            "phonetic": "จำ ไว้ ว่า · มี คฺวาม สุก เข้า ไว้",
+            "thaiSentence": "จำไว้ว่า มีความสุขเข้าไว้",
+            "thaiSentenceSpaced": " จำไว้ ว่า  ·  มีความสุข เข้า ไว้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] remember ; bear in mind ; keep in mind"
+                        }
+                    ],
+                    "phonetic": "จำ ไว้",
+                    "word": "จำไว้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        },
+                        {
+                            "meaning": "[to] say ; tell"
+                        },
+                        {
+                            "meaning": "[to] blame ; criticise"
+                        }
+                    ],
+                    "phonetic": "ว่า",
+                    "word": "ว่า"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be happy"
+                        }
+                    ],
+                    "phonetic": "มี คฺวาม สุก",
+                    "word": "มีความสุข"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] enter ; reach ; get into"
+                        },
+                        {
+                            "meaning": "in ; into"
+                        },
+                        {
+                            "meaning": "[to] get along with ; be compatible with"
+                        }
+                    ],
+                    "phonetic": "เข้า",
+                    "word": "เข้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] keep ; save ; store"
+                        }
+                    ],
+                    "phonetic": "ไว้",
+                    "word": "ไว้"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am coming to you.",
+            "id": 48879,
+            "phonetic": "ฉัน จะ เข้า ไป หา",
+            "thaiSentence": "ฉันจะเข้าไปหา",
+            "thaiSentenceSpaced": " ฉัน จะ เข้า ไปหา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] enter ; reach ; get into"
+                        }
+                    ],
+                    "phonetic": "เข้า ไป",
+                    "word": "เข้าไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] search for ; look for"
+                        }
+                    ],
+                    "phonetic": "หา",
+                    "word": "หา"
+                }
+            ]
+        },
+        {
+            "engSentence": "Look at how you are cutting.",
+            "id": 59205,
+            "phonetic": "ดู คุน หั่น เข้า สิ",
+            "thaiSentence": "ดูคุณหั่นเข้าสิ",
+            "thaiSentenceSpaced": " ดู คุณ หั่น เข้า สิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] appear ; seem"
+                        },
+                        {
+                            "meaning": "[to] watch ; look ; see"
+                        }
+                    ],
+                    "phonetic": "ดู",
+                    "word": "ดู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] cut ; slice"
+                        }
+                    ],
+                    "phonetic": "หั่น",
+                    "word": "หั่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] enter ; reach ; get into"
+                        },
+                        {
+                            "meaning": "in ; into"
+                        },
+                        {
+                            "meaning": "[to] get along with ; be compatible with"
+                        }
+                    ],
+                    "phonetic": "เข้า",
+                    "word": "เข้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 133716,
+        "exampleSentences": [
+            {
+                "engSentence": "Hurry up . Hurry.",
+                "id": 7699,
+                "thaiSentence": "เร็วเข้า เร็วๆ",
+                "thaiSentenceSpaced": " เร็ว เข้า  &middot;  เร็ว ๆ "
+            },
+            {
+                "engSentence": "Hurry, we'll be late.",
+                "id": 27080,
+                "thaiSentence": "เร็วเข้า เราจะสายกันนะ",
+                "thaiSentenceSpaced": " เร็ว เข้า  &middot;  เรา จะ สาย กัน นะ "
+            },
+            {
+                "engSentence": "She's going to college.",
+                "id": 32137,
+                "thaiSentence": "เขากำลังจะเข้าวิทยาลัย",
+                "thaiSentenceSpaced": " เขา กำลังจะ เข้า วิทยาลัย "
+            },
+            {
+                "engSentence": "Remember, be happy.",
+                "id": 40181,
+                "thaiSentence": "จำไว้ว่า มีความสุขเข้าไว้",
+                "thaiSentenceSpaced": " จำไว้ ว่า  &middot;  มีความสุข เข้า ไว้ "
+            },
+            {
+                "engSentence": "I am coming to you.",
+                "id": 48879,
+                "thaiSentence": "ฉันจะเข้าไปหา",
+                "thaiSentenceSpaced": " ฉัน จะ เข้า ไปหา "
+            },
+            {
+                "engSentence": "Look at how you are cutting.",
+                "id": 59205,
+                "thaiSentence": "ดูคุณหั่นเข้าสิ",
+                "thaiSentenceSpaced": " ดู คุณ หั่น เข้า สิ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1277221,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] enter",
+                        "word": "enter"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "reach",
+                        "word": "reach"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "get into",
+                        "word": "get into"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 30605,
+                        "corpusScore": 33116,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 30459,
+                        "legacyWordId": 1277637,
+                        "meaning": "[to] enter ; get in",
+                        "parentId": 30459,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้ามา"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 31879,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 30519,
+                        "legacyWordId": 1277568,
+                        "meaning": "[to] enter ; reach ; get into",
+                        "parentId": 30519,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าไป"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 21225,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 416281,
+                        "legacyWordId": 1277355,
+                        "meaning": "[to] understand",
+                        "parentId": 416281,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าใจ"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 9061,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29863,
+                        "legacyWordId": 1277784,
+                        "meaning": "[to] reach ; enter ; approach",
+                        "parentId": 29863,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า สู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าสู่"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 6251,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 31004,
+                        "legacyWordId": 1277674,
+                        "meaning": "[to] join ; participate ; attend",
+                        "parentId": 31004,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ร่วม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าร่วม"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 5731,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49979,
+                        "legacyWordId": 1267468,
+                        "meaning": "entering ; entry",
+                        "parentId": 49979,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน เข้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การเข้า"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 3675,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14808,
+                        "legacyWordId": 1321815,
+                        "meaning": "entrance",
+                        "parentId": 14808,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทาง เข้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทางเข้า"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 3669,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29630,
+                        "legacyWordId": 1277465,
+                        "meaning": "[to] reach",
+                        "parentId": 29630,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ถึง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าถึง"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 3361,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49749,
+                        "legacyWordId": 1281256,
+                        "meaning": "entering",
+                        "parentId": 49749,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม เข้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความเข้า"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 1652,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30768,
+                        "legacyWordId": 1277819,
+                        "meaning": "[to] meet ; call on ; see",
+                        "parentId": 30768,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าหา"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 1053,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1233,
+                        "legacyWordId": 1277842,
+                        "meaning": "[to] go in and out ; go back and forth",
+                        "parentId": 1233,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ออก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าออก"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 914,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30025,
+                        "legacyWordId": 1277696,
+                        "meaning": "[to] attend class ; take a lesson ; go to class",
+                        "parentId": 30025,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าเรียน"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 806,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29843,
+                        "legacyWordId": 1277277,
+                        "meaning": "[to] get close ; close ; close up",
+                        "parentId": 29843,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ไกฺล้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าใกล้"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 750,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29912,
+                        "legacyWordId": 1277288,
+                        "meaning": "[to] be within the scope",
+                        "parentId": 29912,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ข่าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าข่าย"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 702,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30864,
+                        "legacyWordId": 1277586,
+                        "meaning": "[to] appear before royolty",
+                        "parentId": 30864,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า เฝ้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าเฝ้า"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 540,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7311,
+                        "legacyWordId": 1277501,
+                        "meaning": "[to] go to bed",
+                        "parentId": 7311,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้านอน"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 536,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "the start of Phansa, also known as the \"Buddhist Lent\" period",
+                        "hasSoundFile": false,
+                        "id": 48343,
+                        "legacyWordId": 1277596,
+                        "meaning": "Khao Phansa",
+                        "parentId": 48343,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เข้า พัน-สา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าพรรษา"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 513,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30357,
+                        "legacyWordId": 1277679,
+                        "meaning": "[to] pass ; be selected ; be chosen",
+                        "parentId": 30357,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า รอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้ารอบ"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 409,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 92870,
+                        "legacyWordId": 1277681,
+                        "meaning": "logon",
+                        "parentId": 92870,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เข้า ระ-บบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าระบบ"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 388,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23857,
+                        "legacyWordId": 1277530,
+                        "meaning": "[to] deposit ; bank",
+                        "parentId": 23857,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า บัน-ชี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าบัญชี"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 381,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29933,
+                        "legacyWordId": 1277594,
+                        "meaning": "[to] see ; meet tocall on",
+                        "parentId": 29933,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า พบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าพบ"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 370,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 69377,
+                        "legacyWordId": 1391049,
+                        "meaning": "input",
+                        "parentId": 69377,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รับ เข้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รับเข้า"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 362,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30591,
+                        "legacyWordId": 1277437,
+                        "meaning": "[to] satisfy ; like ; please",
+                        "parentId": 30591,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ตา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าตา"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 360,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31043,
+                        "legacyWordId": 1278726,
+                        "meaning": "immigrant",
+                        "parentId": 31043,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน เข้า เมือง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนเข้าเมือง"
+                    },
+                    {
+                        "childId": 30605,
+                        "corpusScore": 325,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29501,
+                        "legacyWordId": 1276006,
+                        "meaning": "import ; incoming",
+                        "parentId": 29501,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ขา เข้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขาเข้า"
+                    }
+                ],
+                "explanation": null,
+                "id": 30605,
+                "isUncommon": false,
+                "meaning": "[to] enter ; reach ; get into",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "เข้า"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "in",
+                        "word": "in"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "into",
+                        "word": "into"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 48237,
+                        "corpusScore": 3952,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15526,
+                        "legacyWordId": 1329457,
+                        "meaning": "[to] import ; introduce ; bring in",
+                        "parentId": 15526,
+                        "partOfSpeech": "Verb",
+                        "t2e": "นำ เข้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นำเข้า"
+                    },
+                    {
+                        "childId": 48237,
+                        "corpusScore": 229,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44728,
+                        "legacyWordId": 1389184,
+                        "meaning": "[to] incorporate ; combine together",
+                        "parentId": 44728,
+                        "partOfSpeech": "Verb",
+                        "t2e": "รวม เข้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รวมเข้า"
+                    },
+                    {
+                        "childId": 48237,
+                        "corpusScore": 25,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402823,
+                        "legacyWordId": 1392819,
+                        "meaning": "hurry up! ; come on!",
+                        "parentId": 402823,
+                        "partOfSpeech": "Interjection",
+                        "t2e": "เร็ว เข้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เร็วเข้า"
+                    },
+                    {
+                        "childId": 48237,
+                        "corpusScore": 3,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 191323,
+                        "legacyWordId": 1388241,
+                        "meaning": "[to] keep smiling ; keep on smiling",
+                        "parentId": 191323,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ยิ้ม เข้า ไว้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยิ้มเข้าไว้"
+                    },
+                    {
+                        "childId": 48237,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103429,
+                        "legacyWordId": 1376218,
+                        "meaning": "[to] encounter (something)",
+                        "parentId": 103429,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พบ (...) เข้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พบ (...) เข้า"
+                    },
+                    {
+                        "childId": 48237,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103430,
+                        "legacyWordId": 1449695,
+                        "meaning": "[to] see (something) ; catch sight of (something)",
+                        "parentId": 103430,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เห็น (...) เข้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เห็น (...) เข้า"
+                    }
+                ],
+                "explanation": null,
+                "id": 48237,
+                "isUncommon": false,
+                "meaning": "in ; into",
+                "partOfSpeech": "SecondaryVerb",
+                "usage": "",
+                "word": "เข้า"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] get along with",
+                        "word": "get along with"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "be compatible with",
+                        "word": "be compatible with"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 48246,
+                        "corpusScore": 3297,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29423,
+                        "legacyWordId": 1277262,
+                        "meaning": "with",
+                        "parentId": 29423,
+                        "partOfSpeech": "Preposition",
+                        "t2e": "เข้า กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้ากับ"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 1376,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30298,
+                        "legacyWordId": 1277259,
+                        "meaning": "[to] conform ; correspond ; match",
+                        "parentId": 30298,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า กัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้ากัน"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 1320,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48240,
+                        "legacyWordId": 1277486,
+                        "meaning": "[to be] appropriate ; suitable",
+                        "parentId": 48240,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "เข้า ที่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าที่"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 766,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30134,
+                        "legacyWordId": 1277286,
+                        "meaning": "[to] take side with ; sympathize with",
+                        "parentId": 30134,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ข้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าข้าง"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 742,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401333,
+                        "legacyWordId": 1277738,
+                        "meaning": "[to] go to temple to practise",
+                        "parentId": 401333,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า วัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าวัด"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 516,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30200,
+                        "legacyWordId": 1277399,
+                        "meaning": "together ; altogether",
+                        "parentId": 30200,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เข้า ด้วย กัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าด้วยกัน"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 410,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401337,
+                        "legacyWordId": 1277840,
+                        "meaning": "[to] be possessed ; haunt",
+                        "parentId": 401337,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าอยู่"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 271,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30041,
+                        "legacyWordId": 1277480,
+                        "meaning": "[to] appropriate ; be proper ; be decent",
+                        "parentId": 30041,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ท่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าท่า"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 190,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29819,
+                        "legacyWordId": 1277793,
+                        "meaning": "[to] face ; meet ; confront",
+                        "parentId": 29819,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า น่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าหน้า"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 190,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29975,
+                        "legacyWordId": 1277832,
+                        "meaning": "[to be] pleasant to the ear",
+                        "parentId": 29975,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "เข้า หู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าหู"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 160,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30046,
+                        "legacyWordId": 1277691,
+                        "meaning": "[to] be fit ; be suitable ; be proper",
+                        "parentId": 30046,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า รูบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้ารูป"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 120,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "in a curved or circular path",
+                        "hasSoundFile": false,
+                        "id": 394456,
+                        "legacyWordId": 1277326,
+                        "meaning": "[to] move",
+                        "parentId": 394456,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า โค้ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าโค้ง"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 119,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401318,
+                        "legacyWordId": 1277320,
+                        "meaning": "[to] imprison ; incarcerate ; jail",
+                        "parentId": 401318,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า คุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าคุก"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 99,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401330,
+                        "legacyWordId": 1277684,
+                        "meaning": "[to] serve (as)",
+                        "parentId": 401330,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า รับ ตำ-แหฺน่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้ารับตำแหน่ง"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 92,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30221,
+                        "legacyWordId": 1277485,
+                        "meaning": "[to] make sense ; be appropriate ; be decent",
+                        "parentId": 30221,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ที",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าที"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 89,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395364,
+                        "legacyWordId": 1277494,
+                        "meaning": "[to] cause complications ; raise obstacles",
+                        "parentId": 395364,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า แซก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าแทรก"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 78,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20261,
+                        "legacyWordId": 1277562,
+                        "meaning": "[to] be able to achieve one's ; be accurate",
+                        "parentId": 20261,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า เป้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าเป้า"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 75,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24942,
+                        "legacyWordId": 1277390,
+                        "meaning": "[to] match ; fit",
+                        "parentId": 24942,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ชุด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าชุด"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 66,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395407,
+                        "legacyWordId": 1374258,
+                        "meaning": "trainee",
+                        "parentId": 395407,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ เข้า อบ-รม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้เข้าอบรม"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 57,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401324,
+                        "legacyWordId": 1277487,
+                        "meaning": "[to] put on the right track",
+                        "parentId": 401324,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ที่ เข้า ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าที่เข้าทาง"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 51,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394795,
+                        "legacyWordId": 1277300,
+                        "meaning": "[to] take over",
+                        "parentId": 394795,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า คฺรอบ คฺรอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าครอบครอง"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 41,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29924,
+                        "legacyWordId": 1277536,
+                        "meaning": "[to] conform to specification",
+                        "parentId": 29924,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า แบบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าแบบ"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 40,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30393,
+                        "legacyWordId": 1277284,
+                        "meaning": "[to] get along well (with)",
+                        "parentId": 30393,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าขา"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 38,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29966,
+                        "legacyWordId": 1277267,
+                        "meaning": "[to] appropriate ; be of standard ; be qualified",
+                        "parentId": 29966,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า เกน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าเกณฑ์"
+                    },
+                    {
+                        "childId": 48246,
+                        "corpusScore": 37,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30137,
+                        "legacyWordId": 1277658,
+                        "meaning": "[to] be useful ; advantage ; work",
+                        "parentId": 30137,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ยา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้ายา"
+                    }
+                ],
+                "explanation": null,
+                "id": 48246,
+                "isUncommon": false,
+                "meaning": "[to] get along with ; be compatible with",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "เข้า"
+            }
+        ],
+        "t2e": "เข้า",
+        "verified": null,
+        "word": "เข้า"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

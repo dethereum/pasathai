@@ -1,0 +1,914 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "So you are the new teacher.",
+            "id": 23623,
+            "phonetic": "คุน คง เป็น คฺรู คน ไหฺม่",
+            "thaiSentence": "คุณคงเป็นครูคนใหม่",
+            "thaiSentenceSpaced": " คุณ คง เป็น ครู คนใหม่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "may ; will probably ; might"
+                        }
+                    ],
+                    "phonetic": "คง",
+                    "word": "คง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "teacher ; instructor ; school teacher"
+                        }
+                    ],
+                    "phonetic": "คฺรู",
+                    "word": "ครู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "new one ; new person"
+                        }
+                    ],
+                    "phonetic": "คน ไหฺม่",
+                    "word": "คนใหม่"
+                }
+            ]
+        },
+        {
+            "engSentence": "Have fun with your teacher.",
+            "id": 24408,
+            "phonetic": "ขอ ไห้ สะ-หฺนุก กับ คฺรู ของ คุน นะ",
+            "thaiSentence": "ขอให้สนุกกับครูของคุณนะ",
+            "thaiSentenceSpaced": " ขอให้ สนุก กับ ครู ของคุณ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] request ; beg ; ask"
+                        }
+                    ],
+                    "phonetic": "ขอ ไห้",
+                    "word": "ขอให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] fun ; enjoyable"
+                        }
+                    ],
+                    "phonetic": "สะ-หฺนุก",
+                    "word": "สนุก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "with ; together with"
+                        }
+                    ],
+                    "phonetic": "กับ",
+                    "word": "กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "teacher ; instructor ; school teacher"
+                        }
+                    ],
+                    "phonetic": "คฺรู",
+                    "word": "ครู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "your ; of you"
+                        }
+                    ],
+                    "phonetic": "ของ คุน",
+                    "word": "ของคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You are his teacher ?",
+            "id": 32918,
+            "phonetic": "คุน เป็น คฺรู ของ เขา เหฺรอ",
+            "thaiSentence": "คุณเป็นครูของเขาเหรอ",
+            "thaiSentenceSpaced": " คุณ เป็น ครู ของ เขา เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "teacher ; instructor ; school teacher"
+                        }
+                    ],
+                    "phonetic": "คฺรู",
+                    "word": "ครู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "He's my teacher.",
+            "id": 42585,
+            "phonetic": "เขา เป็น คฺรู ของ ฉัน",
+            "thaiSentence": "เขาเป็นครูของฉัน",
+            "thaiSentenceSpaced": " เขา เป็น ครู ของ ฉัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "teacher ; instructor ; school teacher"
+                        }
+                    ],
+                    "phonetic": "คฺรู",
+                    "word": "ครู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                }
+            ]
+        },
+        {
+            "engSentence": "You are not our teacher.",
+            "id": 45914,
+            "phonetic": "คุน ไม่ ไช่ คฺรู ของ เรา",
+            "thaiSentence": "คุณไม่ใช่ครูของเรา",
+            "thaiSentenceSpaced": " คุณ ไม่ใช่ ครู ของ เรา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be not ; no"
+                        }
+                    ],
+                    "phonetic": "ไม่ ไช่",
+                    "word": "ไม่ใช่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "teacher ; instructor ; school teacher"
+                        }
+                    ],
+                    "phonetic": "คฺรู",
+                    "word": "ครู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am a teacher, not a cop.",
+            "id": 109529,
+            "phonetic": "ฉัน เป็น คฺรู · ไม่ ไช่ ตำ-หฺรวด ย่ะ",
+            "thaiSentence": "ฉันเป็นครู ไม่ใช่ตำรวจย่ะ",
+            "thaiSentenceSpaced": " ฉัน เป็น ครู  ·  ไม่ใช่ ตำรวจ ย่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "teacher ; instructor ; school teacher"
+                        }
+                    ],
+                    "phonetic": "คฺรู",
+                    "word": "ครู"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be not ; no"
+                        }
+                    ],
+                    "phonetic": "ไม่ ไช่",
+                    "word": "ไม่ใช่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "police ; policeman"
+                        }
+                    ],
+                    "phonetic": "ตำ-หฺรวด",
+                    "word": "ตำรวจ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used at the end of sentences to sound dismissive or insulting)</i>"
+                        }
+                    ],
+                    "phonetic": "ย่ะ",
+                    "word": "ย่ะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 21755,
+        "exampleSentences": [
+            {
+                "engSentence": "So you are the new teacher.",
+                "id": 23623,
+                "thaiSentence": "คุณคงเป็นครูคนใหม่",
+                "thaiSentenceSpaced": " คุณ คง เป็น ครู คนใหม่ "
+            },
+            {
+                "engSentence": "Have fun with your teacher.",
+                "id": 24408,
+                "thaiSentence": "ขอให้สนุกกับครูของคุณนะ",
+                "thaiSentenceSpaced": " ขอให้ สนุก กับ ครู ของคุณ นะ "
+            },
+            {
+                "engSentence": "You are his teacher ?",
+                "id": 32918,
+                "thaiSentence": "คุณเป็นครูของเขาเหรอ",
+                "thaiSentenceSpaced": " คุณ เป็น ครู ของ เขา เหรอ "
+            },
+            {
+                "engSentence": "He's my teacher.",
+                "id": 42585,
+                "thaiSentence": "เขาเป็นครูของฉัน",
+                "thaiSentenceSpaced": " เขา เป็น ครู ของ ฉัน "
+            },
+            {
+                "engSentence": "You are not our teacher.",
+                "id": 45914,
+                "thaiSentence": "คุณไม่ใช่ครูของเรา",
+                "thaiSentenceSpaced": " คุณ ไม่ใช่ ครู ของ เรา "
+            },
+            {
+                "engSentence": "I am a teacher, not a cop.",
+                "id": 109529,
+                "thaiSentence": "ฉันเป็นครู ไม่ใช่ตำรวจย่ะ",
+                "thaiSentenceSpaced": " ฉัน เป็น ครู  &middot;  ไม่ใช่ ตำรวจ ย่ะ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1279471,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "teacher",
+                        "word": "teacher"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "instructor",
+                        "word": "instructor"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "school teacher",
+                        "word": "school teacher"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [
+                    {
+                        "childId": 9099,
+                        "corpusScore": 1440,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13014,
+                        "legacyWordId": 1285037,
+                        "meaning": "teacher ; instructor ; professor",
+                        "parentId": 13014,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คุน คฺรู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คุณครู"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 623,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8951,
+                        "legacyWordId": 1279480,
+                        "meaning": "teacher ; instructor ; school master",
+                        "parentId": 8951,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺรู-บา-อา-จาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครูบาอาจารย์"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 539,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "An annual ceremony in every Thai school in which students pay respects to their teachers by presenting them with flowers and performing ไหว้ and กราบ in front of them.",
+                        "hasSoundFile": false,
+                        "id": 46946,
+                        "legacyWordId": 1451373,
+                        "meaning": "Wai Khru",
+                        "parentId": 46946,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ว่าย คฺรู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไหว้ครู"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 289,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36028,
+                        "legacyWordId": 1279483,
+                        "meaning": "trainer ; coach ; coacher",
+                        "parentId": 36028,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺรู ฝึก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครูฝึก"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 258,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8452,
+                        "legacyWordId": 1279488,
+                        "meaning": "headmaster ; headmaster in school",
+                        "parentId": 8452,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺรู ไหฺย่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครูใหญ่"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 218,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397208,
+                        "legacyWordId": 1278476,
+                        "meaning": "staff of teachers ; faculty of teachers",
+                        "parentId": 397208,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คะ-นะ คฺรู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คณะครู"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 156,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44296,
+                        "legacyWordId": 1331974,
+                        "meaning": "Buddhist teacher",
+                        "parentId": 44296,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บอ-รม คฺรู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บรมครู"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 150,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9192,
+                        "legacyWordId": 1279482,
+                        "meaning": "teacher ; instructor ; master",
+                        "parentId": 9192,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺรู พู่ สอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครูผู้สอน"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 125,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": "a title given to a Brahman chief of ceremony",
+                        "hasSoundFile": false,
+                        "id": 46094,
+                        "legacyWordId": 1391386,
+                        "meaning": "great master",
+                        "parentId": 46094,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ราด-ชะ-คฺรู",
+                        "usage": "",
+                        "verified": "ราด-ชะ-คฺรู",
+                        "word": "ราชครู"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 86,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25656,
+                        "legacyWordId": 1292133,
+                        "meaning": "first-class level ; first-rate level",
+                        "parentId": 25656,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชั้น คฺรู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชั้นครู"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 75,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "a ceremony where students pay respect to teachers",
+                        "hasSoundFile": false,
+                        "id": 45998,
+                        "legacyWordId": 1279225,
+                        "meaning": "khrop khru",
+                        "parentId": 45998,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺรอบ คฺรู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครอบครู"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 58,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43689,
+                        "legacyWordId": 1279477,
+                        "meaning": "teacher",
+                        "parentId": 43689,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺรู น้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครูน้อย"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 53,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36877,
+                        "legacyWordId": 1399823,
+                        "meaning": "teacher's college",
+                        "parentId": 36877,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วิด-ทะ-ยา-ไล คฺรู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วิทยาลัยครู"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 38,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "\"Keun Kru\" is an initiation ceremony where a student pays his respects to his teacher, and the teacher accepts the new student.",
+                        "hasSoundFile": false,
+                        "id": 46348,
+                        "legacyWordId": 1276635,
+                        "meaning": "[to] keun khru",
+                        "parentId": 46348,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขึ้น คฺรู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขึ้นครู"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 28,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9489,
+                        "legacyWordId": 1279481,
+                        "meaning": "class teacher ; class instructor",
+                        "parentId": 9489,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺรู ปฺระ-จำ ชั้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครูประจำชั้น"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 26,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "\"Yok Kru\" is an initiation ceremony where a student pays homage to his teacher, and the teacher accepts his new student. It's also known as ขึ้นครู.",
+                        "hasSoundFile": false,
+                        "id": 46347,
+                        "legacyWordId": 1387276,
+                        "meaning": "[to] yok khru",
+                        "parentId": 46347,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ยก คฺรู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยกครู"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 23,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "in Buddhism",
+                        "hasSoundFile": false,
+                        "id": 44343,
+                        "legacyWordId": 1371880,
+                        "meaning": "priest",
+                        "parentId": 44343,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปู่ คฺรู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปู่ครู"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 17,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 598119,
+                        "legacyWordId": 1279476,
+                        "meaning": "military instructor",
+                        "parentId": 598119,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺรู ทะ-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครูทหาร"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 8,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399207,
+                        "legacyWordId": 1374017,
+                        "meaning": "recalcitrant ; willful ; refractory",
+                        "parentId": 399207,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ผิด คฺรู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผิดครู"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 6,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6447,
+                        "legacyWordId": 1327498,
+                        "meaning": "recalcitrant ; willful ; refractory",
+                        "parentId": 6447,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "นอก คฺรู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นอกครู"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 3,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33638,
+                        "legacyWordId": 1407670,
+                        "meaning": "Office of the Teacher Civil Service Commission",
+                        "parentId": 33638,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สำ-นัก งาน คะ-นะ กำ-มะ-กาน ข้า ราด-ชะ-กาน คฺรู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สำนักงานคณะกรรมการข้าราชการครู"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 1,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 104393,
+                        "legacyWordId": 1451793,
+                        "meaning": "teachers subcommittee",
+                        "parentId": 104393,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อะ-นุ กำ-มะ-กาน ข้า ราด-ชะ-กาน คฺรู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อนุกรรมการข้าราชการครู"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103128,
+                        "legacyWordId": 1394097,
+                        "meaning": "Kasetsart University",
+                        "parentId": 103128,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรง เรียน ฝึก หัด คฺรู ปฺระ-ถม กะ-สิ-กำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรงเรียนฝึกหัดครูประถมกสิกรรม"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 104213,
+                        "legacyWordId": 1403875,
+                        "meaning": "Private School Teachers Association of Thailand",
+                        "parentId": 104213,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ-มา-คม คฺรู โรง เรียน ราด แห่ง ปฺระ-เทด ไท",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สมาคมครูโรงเรียนราษฎร์แห่งประเทศไทย"
+                    },
+                    {
+                        "childId": 9099,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 423767,
+                        "legacyWordId": 1326254,
+                        "meaning": "golden weaver",
+                        "parentId": 423767,
+                        "partOfSpeech": "Noun",
+                        "t2e": "นก กฺระ-จาบ ทอง เต็ง คฺรู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นกกระจาบทอง เต็งครู"
+                    }
+                ],
+                "explanation": null,
+                "id": 9099,
+                "isUncommon": false,
+                "meaning": "teacher ; instructor ; school teacher",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ครู"
+            }
+        ],
+        "t2e": "คฺรู",
+        "verified": null,
+        "word": "ครู"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,805 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "All right, I am up.",
+            "id": 1762,
+            "phonetic": "ก้อ ด้าย · ผม ตื่น แล้ว",
+            "thaiSentence": "ก็ได้ ผมตื่นแล้ว",
+            "thaiSentenceSpaced": " ก็ ได้  ·  ผม ตื่น แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "all right ; OK ; fine <i>(often used to show somewhat half-hearted or unenthusiastic approval)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ ด้าย",
+                    "word": "ก็ได้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wake up ; be awake ; get up"
+                        }
+                    ],
+                    "phonetic": "ตื่น",
+                    "word": "ตื่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "Hey babes, are you up ?",
+            "id": 26855,
+            "phonetic": "ว่า ไง ตื่น หฺรือ ยัง",
+            "thaiSentence": "ว่าไงตื่นหรือยัง",
+            "thaiSentenceSpaced": " ว่า ไง ตื่น หรือยัง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        },
+                        {
+                            "meaning": "[to] say ; tell"
+                        },
+                        {
+                            "meaning": "[to] blame ; criticise"
+                        }
+                    ],
+                    "phonetic": "ว่า",
+                    "word": "ว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle showing the preceding statement is self-evident)</i>"
+                        },
+                        {
+                            "meaning": "how"
+                        }
+                    ],
+                    "phonetic": "ไง",
+                    "word": "ไง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wake up ; be awake ; get up"
+                        }
+                    ],
+                    "phonetic": "ตื่น",
+                    "word": "ตื่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not yet"
+                        }
+                    ],
+                    "phonetic": "หฺรือ ยัง",
+                    "word": "หรือยัง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Why are you up so early ?",
+            "id": 12875,
+            "phonetic": "ทำ-ไม คุน ตื่น เช้า จัง",
+            "thaiSentence": "ทำไมคุณตื่นเช้าจัง",
+            "thaiSentenceSpaced": " ทำไม คุณ ตื่น เช้า จัง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "why"
+                        }
+                    ],
+                    "phonetic": "ทำ-ไม",
+                    "word": "ทำไม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wake up ; be awake ; get up"
+                        }
+                    ],
+                    "phonetic": "ตื่น",
+                    "word": "ตื่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "morning"
+                        }
+                    ],
+                    "phonetic": "เช้า",
+                    "word": "เช้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much ; so ; really"
+                        }
+                    ],
+                    "phonetic": "จัง",
+                    "word": "จัง"
+                }
+            ]
+        },
+        {
+            "engSentence": "You won't wake up ?",
+            "id": 69779,
+            "phonetic": "จะ ไม่ ตื่น หฺรือ ไง",
+            "thaiSentence": "จะไม่ตื่นหรือไง",
+            "thaiSentenceSpaced": " จะ ไม่ ตื่น หรือไง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wake up ; be awake ; get up"
+                        }
+                    ],
+                    "phonetic": "ตื่น",
+                    "word": "ตื่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or what ; or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ ไง",
+                    "word": "หรือไง"
+                }
+            ]
+        },
+        {
+            "engSentence": "We should get up.",
+            "id": 78365,
+            "phonetic": "เรา ควน จะ ตื่น ด้าย แล้ว นะ",
+            "thaiSentence": "เราควรจะตื่นได้แล้วนะ",
+            "thaiSentenceSpaced": " เรา ควรจะ ตื่น ได้ แล้ว นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "should ; ought to"
+                        }
+                    ],
+                    "phonetic": "ควน จะ",
+                    "word": "ควรจะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wake up ; be awake ; get up"
+                        }
+                    ],
+                    "phonetic": "ตื่น",
+                    "word": "ตื่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "My puppy is awake.",
+            "id": 127636,
+            "phonetic": "เด็ก น้อย ตื่น แล้ว",
+            "thaiSentence": "เด็กน้อยตื่นแล้ว",
+            "thaiSentenceSpaced": " เด็กน้อย ตื่น แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "baby ; small child"
+                        }
+                    ],
+                    "phonetic": "เด็ก น้อย",
+                    "word": "เด็กน้อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wake up ; be awake ; get up"
+                        }
+                    ],
+                    "phonetic": "ตื่น",
+                    "word": "ตื่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 7459,
+        "exampleSentences": [
+            {
+                "engSentence": "All right, I am up.",
+                "id": 1762,
+                "thaiSentence": "ก็ได้ ผมตื่นแล้ว",
+                "thaiSentenceSpaced": " ก็ ได้  &middot;  ผม ตื่น แล้ว "
+            },
+            {
+                "engSentence": "Hey babes, are you up ?",
+                "id": 26855,
+                "thaiSentence": "ว่าไงตื่นหรือยัง",
+                "thaiSentenceSpaced": " ว่า ไง ตื่น หรือยัง "
+            },
+            {
+                "engSentence": "Why are you up so early ?",
+                "id": 12875,
+                "thaiSentence": "ทำไมคุณตื่นเช้าจัง",
+                "thaiSentenceSpaced": " ทำไม คุณ ตื่น เช้า จัง "
+            },
+            {
+                "engSentence": "You won't wake up ?",
+                "id": 69779,
+                "thaiSentence": "จะไม่ตื่นหรือไง",
+                "thaiSentenceSpaced": " จะ ไม่ ตื่น หรือไง "
+            },
+            {
+                "engSentence": "We should get up.",
+                "id": 78365,
+                "thaiSentence": "เราควรจะตื่นได้แล้วนะ",
+                "thaiSentenceSpaced": " เรา ควรจะ ตื่น ได้ แล้ว นะ "
+            },
+            {
+                "engSentence": "My puppy is awake.",
+                "id": 127636,
+                "thaiSentence": "เด็กน้อยตื่นแล้ว",
+                "thaiSentenceSpaced": " เด็กน้อย ตื่น แล้ว "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1317735,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] wake up",
+                        "word": "wake up"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "be awake",
+                        "word": "be awake"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "get up",
+                        "word": "get up"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 17636,
+                        "corpusScore": 2122,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17629,
+                        "legacyWordId": 1317753,
+                        "meaning": "[to] be excited ; be thrilled ; be nervous",
+                        "parentId": 17629,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตื่น เต้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตื่นเต้น"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 758,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17133,
+                        "legacyWordId": 1317739,
+                        "meaning": "[to] wake up ; be awake",
+                        "parentId": 17133,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตื่น ขึ้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตื่นขึ้น"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 662,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16110,
+                        "legacyWordId": 1317747,
+                        "meaning": "[to] be awakened to ; be alert ; be well-informed",
+                        "parentId": 16110,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตื่น ตัว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตื่นตัว"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 403,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49826,
+                        "legacyWordId": 1281731,
+                        "meaning": "waking up",
+                        "parentId": 49826,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม ตื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความตื่น"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 382,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40810,
+                        "legacyWordId": 1317756,
+                        "meaning": "[to] wake up ; be awake ; get up",
+                        "parentId": 40810,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตื่น นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตื่นนอน"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 364,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40318,
+                        "legacyWordId": 1317748,
+                        "meaning": "[to] be excited ; be dazzled",
+                        "parentId": 40318,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตื่น ตา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตื่นตา"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 194,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17599,
+                        "legacyWordId": 1317742,
+                        "meaning": "alarmingly",
+                        "parentId": 17599,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ตื่น ตฺระ-หฺนก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตื่นตระหนก"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 181,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40409,
+                        "legacyWordId": 1318254,
+                        "meaning": "[to] stampede ; flock",
+                        "parentId": 40409,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แตก ตื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แตกตื่น"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 126,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7698,
+                        "legacyWordId": 1317749,
+                        "meaning": "surprisingly ; astonishingly",
+                        "parentId": 7698,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ตื่น ตา ตื่น ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตื่นตาตื่นใจ"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 126,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7698,
+                        "legacyWordId": 1317749,
+                        "meaning": "surprisingly ; astonishingly",
+                        "parentId": 7698,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ตื่น ตา ตื่น ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตื่นตาตื่นใจ"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 83,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1936,
+                        "legacyWordId": 1405457,
+                        "meaning": "[to] wake up frightened ; wake up with a shock",
+                        "parentId": 1936,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สะ-ดุ้ง ตื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สะดุ้งตื่น"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 78,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16439,
+                        "legacyWordId": 1317741,
+                        "meaning": "[to] be frightened ; be scared ; be panic-stricken",
+                        "parentId": 16439,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตื่น ตก ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตื่นตกใจ"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 46,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17154,
+                        "legacyWordId": 1317737,
+                        "meaning": "[to] be panic-stricken ; be frightened ; be scared",
+                        "parentId": 17154,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตื่น กฺลัว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตื่นกลัว"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 33,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16067,
+                        "legacyWordId": 1317752,
+                        "meaning": "[to] be panic-stricken ; stampede ; be frightened",
+                        "parentId": 16067,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตื่น ตูม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตื่นตูม"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 31,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17074,
+                        "legacyWordId": 1317738,
+                        "meaning": "[to] be excited by the news",
+                        "parentId": 17074,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตื่น ข่าว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตื่นข่าว"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 18,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5867,
+                        "legacyWordId": 1413776,
+                        "meaning": "[to] look startled ; look puzzled",
+                        "parentId": 5867,
+                        "partOfSpeech": "Verb",
+                        "t2e": "น่า ตื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หน้าตื่น"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 10,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28853,
+                        "legacyWordId": 1276504,
+                        "meaning": "[to] feel excitable ; get emotional ; feel nervous",
+                        "parentId": 28853,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขี้ ตื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขี้ตื่น"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 6,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22138,
+                        "legacyWordId": 1279422,
+                        "meaning": "semiconscious",
+                        "parentId": 22138,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "คฺรึ่ง หฺลับ คฺรึ่ง ตื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครึ่งหลับครึ่งตื่น"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 4,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401549,
+                        "legacyWordId": 1317981,
+                        "meaning": "sufficiently",
+                        "parentId": 401549,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เต็ม ตื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เต็มตื่น"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398177,
+                        "legacyWordId": 1317757,
+                        "meaning": "[to] wake up ; be awake ; get up",
+                        "parentId": 398177,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตื่น พฺระ บัน-ทม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตื่นพระบรรทม"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 191420,
+                        "legacyWordId": 1446916,
+                        "meaning": "[to] sleep fitfully",
+                        "parentId": 191420,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺลับ หฺลับ ตื่น ตื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หลับๆ ตื่นๆ"
+                    },
+                    {
+                        "childId": 17636,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4707,
+                        "legacyWordId": 1317758,
+                        "meaning": "panicky",
+                        "parentId": 4707,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ตื่น ไฟ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตื่นไฟ"
+                    }
+                ],
+                "explanation": null,
+                "id": 17636,
+                "isUncommon": false,
+                "meaning": "[to] wake up ; be awake ; get up",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ตื่น"
+            }
+        ],
+        "t2e": "ตื่น",
+        "verified": null,
+        "word": "ตื่น"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

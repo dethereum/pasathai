@@ -1,0 +1,91 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 1323,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1325895,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 47563,
+                        "corpusScore": 384,
+                        "displayOrder": 0,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47563,
+                        "legacyWordId": 1453850,
+                        "meaning": "the arrival of ; the coming of",
+                        "parentId": 6968,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-คม",
+                        "usage": "",
+                        "verified": "อา-คม",
+                        "word": "อาคม"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "December",
+                        "word": "December"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [
+                    {
+                        "childId": 6968,
+                        "corpusScore": 323,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45299,
+                        "legacyWordId": 1308375,
+                        "meaning": "December",
+                        "parentId": 45299,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน ทัน-วา คม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนธันวาคม"
+                    },
+                    {
+                        "childId": 6968,
+                        "corpusScore": 1,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 598245,
+                        "legacyWordId": 1265365,
+                        "meaning": "spring semester",
+                        "parentId": 598245,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺลาง ทัน-วา คม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กลางธันวาคม"
+                    }
+                ],
+                "explanation": null,
+                "id": 6968,
+                "isUncommon": false,
+                "meaning": "December",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ธันวาคม"
+            }
+        ],
+        "t2e": "ทัน-วา คม",
+        "verified": null,
+        "word": "ธันวาคม"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

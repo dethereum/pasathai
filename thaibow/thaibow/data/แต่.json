@@ -1,0 +1,1585 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "I just can't marry you.",
+            "id": 3315,
+            "phonetic": "แต่ ผม แค่ แต่ง งาน กับ คุน ไม่ ด้าย",
+            "thaiSentence": "แต่ผมแค่แต่งงานกับคุณไม่ได้",
+            "thaiSentenceSpaced": " แต่ ผม แค่ แต่งงานกับ คุณ ไม่ได้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "only ; just"
+                        },
+                        {
+                            "meaning": "but"
+                        }
+                    ],
+                    "phonetic": "แต่",
+                    "word": "แต่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "just ; only"
+                        }
+                    ],
+                    "phonetic": "แค่",
+                    "word": "แค่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] marry"
+                        }
+                    ],
+                    "phonetic": "แต่ง งาน กับ",
+                    "word": "แต่งงานกับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "didn't ; did not"
+                        },
+                        {
+                            "meaning": "can't ; cannot"
+                        }
+                    ],
+                    "phonetic": "ไม่ ด้าย",
+                    "word": "ไม่ได้"
+                }
+            ]
+        },
+        {
+            "engSentence": "I know it . But I lost her.",
+            "id": 32101,
+            "phonetic": "ผม รู้ เลย · แต่ ผม เสีย เขา ไป",
+            "thaiSentence": "ผมรู้เลย แต่ผมเสียเขาไป",
+            "thaiSentenceSpaced": " ผม รู้ เลย  ·  แต่ ผม เสีย เขา ไป ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] know <i>(รู้ is \"to know\" in the sense of knowing information ; to say \"to know\" in the sense of knowing someone รู้จัก is used instead.)</i>"
+                        }
+                    ],
+                    "phonetic": "รู้",
+                    "word": "รู้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "only ; just"
+                        },
+                        {
+                            "meaning": "but"
+                        }
+                    ],
+                    "phonetic": "แต่",
+                    "word": "แต่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle implying the verb should be done quickly or completely)</i>"
+                        },
+                        {
+                            "meaning": "[to be] bad ; spoiled ; wasted"
+                        },
+                        {
+                            "meaning": "[to] lose ; waste ; spoil"
+                        },
+                        {
+                            "meaning": "[to] discard ; give up"
+                        },
+                        {
+                            "meaning": "[to] pay <i>(implying an imposed fee that must be paid, even if it has little direct benefit to the payer)</i>"
+                        },
+                        {
+                            "meaning": "[to be] passed away ; dead"
+                        }
+                    ],
+                    "phonetic": "เสีย",
+                    "word": "เสีย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                }
+            ]
+        },
+        {
+            "engSentence": "Yeah, it is strange.",
+            "id": 39726,
+            "phonetic": "ไช่ · แต่ มัน แปฺลก แปฺลก · นะ",
+            "thaiSentence": "ใช่ แต่มันแปลกๆ นะ",
+            "thaiSentenceSpaced": " ใช่  ·  แต่ มัน แปลกๆ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yes"
+                        }
+                    ],
+                    "phonetic": "ไช่",
+                    "word": "ใช่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "only ; just"
+                        },
+                        {
+                            "meaning": "but"
+                        }
+                    ],
+                    "phonetic": "แต่",
+                    "word": "แต่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] strange ; weird"
+                        }
+                    ],
+                    "phonetic": "แปฺลก แปฺลก",
+                    "word": "แปลกๆ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Yeah, but you know what ?",
+            "id": 41953,
+            "phonetic": "อืม · แต่ คุน รู้ อะ-ไร ไหฺม",
+            "thaiSentence": "อืม แต่คุณรู้อะไรไหม",
+            "thaiSentenceSpaced": " อืม  ·  แต่ คุณ รู้ อะไร ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yeah ; erm"
+                        }
+                    ],
+                    "phonetic": "อืม",
+                    "word": "อืม"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "only ; just"
+                        },
+                        {
+                            "meaning": "but"
+                        }
+                    ],
+                    "phonetic": "แต่",
+                    "word": "แต่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] know <i>(รู้ is \"to know\" in the sense of knowing information ; to say \"to know\" in the sense of knowing someone รู้จัก is used instead.)</i>"
+                        }
+                    ],
+                    "phonetic": "รู้",
+                    "word": "รู้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Firm but springy.",
+            "id": 51104,
+            "phonetic": "นุ่ม แต่ สะ-ปฺริง ดี",
+            "thaiSentence": "นุ่มแต่สปริงดี",
+            "thaiSentenceSpaced": " นุ่ม แต่ สปริง ดี ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] soft ; gentle"
+                        }
+                    ],
+                    "phonetic": "นุ่ม",
+                    "word": "นุ่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "only ; just"
+                        },
+                        {
+                            "meaning": "but"
+                        }
+                    ],
+                    "phonetic": "แต่",
+                    "word": "แต่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "spring"
+                        }
+                    ],
+                    "phonetic": "สะ-ปฺริง",
+                    "word": "สปริง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                }
+            ]
+        },
+        {
+            "engSentence": "Hey, but he's your husband.",
+            "id": 59609,
+            "phonetic": "เดี๋ยว · แต่ เขา เป็น สา-มี คุน นะ",
+            "thaiSentence": "เดี๋ยว แต่เขาเป็นสามีคุณนะ",
+            "thaiSentenceSpaced": " เดี๋ยว  ·  แต่ เขา เป็น สามี คุณ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "moment"
+                        },
+                        {
+                            "meaning": "in just a minute ; in just a moment"
+                        }
+                    ],
+                    "phonetic": "เดี๋ยว",
+                    "word": "เดี๋ยว"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "only ; just"
+                        },
+                        {
+                            "meaning": "but"
+                        }
+                    ],
+                    "phonetic": "แต่",
+                    "word": "แต่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "husband"
+                        }
+                    ],
+                    "phonetic": "สา-มี",
+                    "word": "สามี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 277324,
+        "exampleSentences": [
+            {
+                "engSentence": "I just can't marry you.",
+                "id": 3315,
+                "thaiSentence": "แต่ผมแค่แต่งงานกับคุณไม่ได้",
+                "thaiSentenceSpaced": " แต่ ผม แค่ แต่งงานกับ คุณ ไม่ได้ "
+            },
+            {
+                "engSentence": "I know it . But I lost her.",
+                "id": 32101,
+                "thaiSentence": "ผมรู้เลย แต่ผมเสียเขาไป",
+                "thaiSentenceSpaced": " ผม รู้ เลย  &middot;  แต่ ผม เสีย เขา ไป "
+            },
+            {
+                "engSentence": "Yeah, it is strange.",
+                "id": 39726,
+                "thaiSentence": "ใช่ แต่มันแปลกๆ นะ",
+                "thaiSentenceSpaced": " ใช่  &middot;  แต่ มัน แปลกๆ นะ "
+            },
+            {
+                "engSentence": "Yeah, but you know what ?",
+                "id": 41953,
+                "thaiSentence": "อืม แต่คุณรู้อะไรไหม",
+                "thaiSentenceSpaced": " อืม  &middot;  แต่ คุณ รู้ อะไร ไหม "
+            },
+            {
+                "engSentence": "Firm but springy.",
+                "id": 51104,
+                "thaiSentence": "นุ่มแต่สปริงดี",
+                "thaiSentenceSpaced": " นุ่ม แต่ สปริง ดี "
+            },
+            {
+                "engSentence": "Hey, but he's your husband.",
+                "id": 59609,
+                "thaiSentence": "เดี๋ยว แต่เขาเป็นสามีคุณนะ",
+                "thaiSentenceSpaced": " เดี๋ยว  &middot;  แต่ เขา เป็น สามี คุณ นะ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1318227,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "only",
+                        "word": "only"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "just",
+                        "word": "just"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 18111,
+                        "corpusScore": 26346,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 17028,
+                        "legacyWordId": 1318383,
+                        "meaning": "each",
+                        "parentId": 17028,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "แต่ ละ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ละ"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 7124,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 44503,
+                        "legacyWordId": 1384526,
+                        "meaning": "[to] have only",
+                        "parentId": 44503,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีแต่"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 4262,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3736,
+                        "legacyWordId": 1397411,
+                        "meaning": "[to] depends on ; be up to (someone)",
+                        "parentId": 3736,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แล้ว แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แล้วแต่"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 3989,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 45201,
+                        "legacyWordId": 1308696,
+                        "meaning": "can only",
+                        "parentId": 45201,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "ด้าย แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ได้แต่"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 3098,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4313,
+                        "legacyWordId": 1379774,
+                        "meaning": "merely ; only ; just",
+                        "parentId": 4313,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เพียง แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพียงแต่"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 1547,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17093,
+                        "legacyWordId": 1318362,
+                        "meaning": "only ; merely",
+                        "parentId": 17093,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ เพียง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่เพียง"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 1214,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25903,
+                        "legacyWordId": 1399439,
+                        "meaning": "as for",
+                        "parentId": 25903,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ว่า แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ว่าแต่"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 1185,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48253,
+                        "legacyWordId": 1457337,
+                        "meaning": "[to] only be interested in",
+                        "parentId": 48253,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาแต่"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 903,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44523,
+                        "legacyWordId": 1383833,
+                        "meaning": "[to] be engrossed in ; be busy with",
+                        "parentId": 44523,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มัว แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มัวแต่"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 817,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30043,
+                        "legacyWordId": 1394791,
+                        "meaning": "all",
+                        "parentId": 30043,
+                        "partOfSpeech": "Pronoun",
+                        "t2e": "ล้วน แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้วนแต่"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 745,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43838,
+                        "legacyWordId": 1311283,
+                        "meaning": "according to ; depending on",
+                        "parentId": 43838,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ตาม แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตามแต่"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 725,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37852,
+                        "legacyWordId": 1400398,
+                        "meaning": "unless ; but ; if not ; only if",
+                        "parentId": 37852,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "เว้น แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เว้นแต่"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 232,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19718,
+                        "legacyWordId": 1409046,
+                        "meaning": "up to",
+                        "parentId": 19718,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "สุด แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สุดแต่"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 78,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23342,
+                        "legacyWordId": 1318360,
+                        "meaning": "exclusively",
+                        "parentId": 23342,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ พู่ เดียว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ผู้เดียว"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 39,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4695,
+                        "legacyWordId": 1409058,
+                        "meaning": "[to] be up to ; depend on",
+                        "parentId": 4695,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สุด แท้ แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สุดแท้แต่"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 25,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46599,
+                        "legacyWordId": 1400403,
+                        "meaning": "except",
+                        "parentId": 46599,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "เว้น ไว้ แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เว้นไว้แต่"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 14,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16619,
+                        "legacyWordId": 1318389,
+                        "meaning": "alone ; by oneself",
+                        "parentId": 16619,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ ลำ-พัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ลำพัง"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 10,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16429,
+                        "legacyWordId": 1318353,
+                        "meaning": "only",
+                        "parentId": 16429,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ เท่า นั้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่เท่านั้น"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 9,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17067,
+                        "legacyWordId": 1318354,
+                        "meaning": "just only ; only this",
+                        "parentId": 17067,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ เท่า นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่เท่านี้"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 6,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28721,
+                        "legacyWordId": 1273333,
+                        "meaning": "[to] brag ; talk big ; boast",
+                        "parentId": 28721,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เก่ง แต่ ปาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เก่งแต่ปาก"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 73319,
+                        "legacyWordId": 1399440,
+                        "meaning": "the pot that calls the kettle black",
+                        "parentId": 73319,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ว่า แต่ เขา อี-เหฺนา เป็น เอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ว่าแต่เขาอีเหนาเป็นเอง"
+                    },
+                    {
+                        "childId": 18111,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 73287,
+                        "legacyWordId": 1404966,
+                        "meaning": "beauty is but skin-deep",
+                        "parentId": 73287,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สวย แต่ รูบ จูบ ไม่ หอม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สวยแต่รูปจูบไม่หอม"
+                    }
+                ],
+                "explanation": null,
+                "id": 18111,
+                "isUncommon": false,
+                "meaning": "only ; just",
+                "partOfSpeech": "Adverb",
+                "usage": "",
+                "word": "แต่"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "but",
+                        "word": "but"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 421576,
+                        "corpusScore": 5442,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24361,
+                        "legacyWordId": 1385902,
+                        "meaning": "even",
+                        "parentId": 24361,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "แม้ แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แม้แต่"
+                    },
+                    {
+                        "childId": 421576,
+                        "corpusScore": 4008,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 421580,
+                        "legacyWordId": 1318392,
+                        "meaning": "but",
+                        "parentId": 421580,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "แต่ ว่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ว่า"
+                    },
+                    {
+                        "childId": 421576,
+                        "corpusScore": 1375,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24945,
+                        "legacyWordId": 1318397,
+                        "meaning": "anyhow ; anyway",
+                        "parentId": 24945,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ หฺย่าง ได",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่อย่างใด"
+                    },
+                    {
+                        "childId": 421576,
+                        "corpusScore": 1040,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17309,
+                        "legacyWordId": 1318276,
+                        "meaning": "but",
+                        "parentId": 17309,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "แต่ กฺลับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่กลับ"
+                    },
+                    {
+                        "childId": 421576,
+                        "corpusScore": 933,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41659,
+                        "legacyWordId": 1318270,
+                        "meaning": "but still",
+                        "parentId": 41659,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "แต่ ก้อ ยัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ก็ยัง"
+                    },
+                    {
+                        "childId": 421576,
+                        "corpusScore": 774,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45100,
+                        "legacyWordId": 1448970,
+                        "meaning": "but",
+                        "parentId": 45100,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "หาก แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หากแต่"
+                    },
+                    {
+                        "childId": 421576,
+                        "corpusScore": 320,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 421579,
+                        "legacyWordId": 1318352,
+                        "meaning": "but",
+                        "parentId": 421579,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "แต่ ทะ-ว่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ทว่า"
+                    },
+                    {
+                        "childId": 421576,
+                        "corpusScore": 107,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32366,
+                        "legacyWordId": 1318272,
+                        "meaning": "but ; even so ; nevertheless",
+                        "parentId": 32366,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "แต่ กฺระ-นั้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่กระนั้น"
+                    },
+                    {
+                        "childId": 421576,
+                        "corpusScore": 22,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40794,
+                        "legacyWordId": 1372853,
+                        "meaning": "[to] be strange but true",
+                        "parentId": 40794,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แปฺลก แต่ จิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปลกแต่จริง"
+                    }
+                ],
+                "explanation": null,
+                "id": 421576,
+                "isUncommon": false,
+                "meaning": "but",
+                "partOfSpeech": "Conjunction",
+                "usage": "",
+                "word": "แต่"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "from",
+                        "word": "from"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "since",
+                        "word": "since"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 47875,
+                        "corpusScore": 28287,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 18371,
+                        "legacyWordId": 1310445,
+                        "meaning": "since ; from",
+                        "parentId": 18371,
+                        "partOfSpeech": "Preposition",
+                        "t2e": "ตั้ง แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตั้งแต่"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 2198,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46685,
+                        "legacyWordId": 1318391,
+                        "meaning": "early",
+                        "parentId": 46685,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่วัน"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 1725,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17327,
+                        "legacyWordId": 1318289,
+                        "meaning": "before ; formerly ; previously",
+                        "parentId": 17327,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ก่อน"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 1235,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5567,
+                        "legacyWordId": 1328071,
+                        "meaning": "since ; from ; after",
+                        "parentId": 5567,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "นับ แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นับแต่"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 1120,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16245,
+                        "legacyWordId": 1318342,
+                        "meaning": "in the early morning ; early morning",
+                        "parentId": 16245,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ เช้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่เช้า"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 1031,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17131,
+                        "legacyWordId": 1318345,
+                        "meaning": "at first ; formerly ; from the beginning",
+                        "parentId": 17131,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ เดิม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่เดิม"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 914,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17594,
+                        "legacyWordId": 1318347,
+                        "meaning": "from the beginning",
+                        "parentId": 17594,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ ต้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ต้น"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 814,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17293,
+                        "legacyWordId": 1318380,
+                        "meaning": "at first ; from the beginning",
+                        "parentId": 17293,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ แรก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่แรก"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 345,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17537,
+                        "legacyWordId": 1318296,
+                        "meaning": "congenially ; innately ; by birth",
+                        "parentId": 17537,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ กำ-เหฺนิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่กำเนิด"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 343,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17451,
+                        "legacyWordId": 1318299,
+                        "meaning": "from afar ; from a faraway place",
+                        "parentId": 17451,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ ไกฺล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ไกล"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 168,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18432,
+                        "legacyWordId": 1318358,
+                        "meaning": "at all ; in any way ; whatsoever",
+                        "parentId": 18432,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ ปฺระ-กาน ได",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ประการใด"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 138,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6803,
+                        "legacyWordId": 1318394,
+                        "meaning": "from where",
+                        "parentId": 6803,
+                        "partOfSpeech": "Pronoun",
+                        "t2e": "แต่ ไหฺน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ไหน"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 121,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4882,
+                        "legacyWordId": 1318357,
+                        "meaning": "at other times",
+                        "parentId": 4882,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ บาง ที",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่บางที"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 85,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21263,
+                        "legacyWordId": 1318395,
+                        "meaning": "from time inmemorial",
+                        "parentId": 21263,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ ไหฺน แต่ ไร",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ไหนแต่ไร"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 85,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21263,
+                        "legacyWordId": 1318395,
+                        "meaning": "from time inmemorial",
+                        "parentId": 21263,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ ไหฺน แต่ ไร",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ไหนแต่ไร"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 39,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402130,
+                        "legacyWordId": 1318379,
+                        "meaning": "from the beginning",
+                        "parentId": 402130,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ เริ่ม แรก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่เริ่มแรก"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 38,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402129,
+                        "legacyWordId": 1318396,
+                        "meaning": "only ; merely",
+                        "parentId": 402129,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ หฺย่าง เดียว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่อย่างเดียว"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 32,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395525,
+                        "legacyWordId": 1386806,
+                        "meaning": "not only",
+                        "parentId": 395525,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ไม่ ฉะ-เพาะ แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่เฉพาะแต่"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 31,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402131,
+                        "legacyWordId": 1318381,
+                        "meaning": "from the beginning",
+                        "parentId": 402131,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ แรก เริ่ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่แรกเริ่ม"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 27,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401592,
+                        "legacyWordId": 1330746,
+                        "meaning": "because of ; owing to",
+                        "parentId": 401592,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "เนื่อง แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เนื่องแต่"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 23,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34170,
+                        "legacyWordId": 1318359,
+                        "meaning": "previous life ; previous existence",
+                        "parentId": 34170,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แต่ ปาง-ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ปางก่อน"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 17,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401889,
+                        "legacyWordId": 1400405,
+                        "meaning": "except ; unless ; but ; whereas",
+                        "parentId": 401889,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "เว้-นะ-เสีย แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เว้นเสียแต่"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 12,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 421578,
+                        "legacyWordId": 1318351,
+                        "meaning": "but",
+                        "parentId": 421578,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "แต่ ถ้า ว่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ถ้าว่า"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 6,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12101,
+                        "legacyWordId": 1318398,
+                        "meaning": "since birth ; from the first day in the world",
+                        "parentId": 12101,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ อ้อน แต่ ออก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่อ้อนแต่ออก"
+                    },
+                    {
+                        "childId": 47875,
+                        "corpusScore": 6,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12101,
+                        "legacyWordId": 1318398,
+                        "meaning": "since birth ; from the first day in the world",
+                        "parentId": 12101,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ อ้อน แต่ ออก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่อ้อนแต่ออก"
+                    }
+                ],
+                "explanation": null,
+                "id": 47875,
+                "isUncommon": true,
+                "meaning": "from ; since",
+                "partOfSpeech": "Preposition",
+                "usage": "",
+                "word": "แต่"
+            }
+        ],
+        "t2e": "แต่",
+        "verified": null,
+        "word": "แต่"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

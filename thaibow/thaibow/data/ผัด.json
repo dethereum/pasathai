@@ -1,0 +1,261 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 2780,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1373798,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] powder",
+                        "word": "powder"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 38040,
+                        "corpusScore": 7,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "\"mai pat\" is a vowel marker <span class=ThaiTextHeadline>&nbsp;ั&nbsp;</span> used in the Thai written language. It's more commonly known as ไม้หันอากาศ.",
+                        "hasSoundFile": false,
+                        "id": 45864,
+                        "legacyWordId": 1386975,
+                        "meaning": "mai pat",
+                        "parentId": 45864,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไม้ ผัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม้ผัด"
+                    },
+                    {
+                        "childId": 38040,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2237,
+                        "legacyWordId": 1372718,
+                        "meaning": "face powder",
+                        "parentId": 2237,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แป้ง-ผัด-น่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แป้งผัดหน้า"
+                    }
+                ],
+                "explanation": null,
+                "id": 38040,
+                "isUncommon": false,
+                "meaning": "[to] powder",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ผัด"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] fry",
+                        "word": "fry"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 38326,
+                        "corpusScore": 298,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29751,
+                        "legacyWordId": 1276341,
+                        "meaning": "fried rice",
+                        "parentId": 29751,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าว ผัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้าวผัด"
+                    },
+                    {
+                        "childId": 38326,
+                        "corpusScore": 179,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 58914,
+                        "legacyWordId": 1373802,
+                        "meaning": "Pad Thai",
+                        "parentId": 58914,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ผัด ไท",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผัดไทย"
+                    },
+                    {
+                        "childId": 38326,
+                        "corpusScore": 21,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36928,
+                        "legacyWordId": 1265706,
+                        "meaning": "fried noodle",
+                        "parentId": 36928,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ก๋วย-เตี๋ยว ผัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ก๋วยเตี๋ยวผัด"
+                    }
+                ],
+                "explanation": null,
+                "id": 38326,
+                "isUncommon": false,
+                "meaning": "[to] fry",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ผัด"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] postpone",
+                        "word": "postpone"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "delay",
+                        "word": "delay"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "put off",
+                        "word": "put off"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 38606,
+                        "corpusScore": 21,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38321,
+                        "legacyWordId": 1373805,
+                        "meaning": "[to] put off ; postpone ; delay",
+                        "parentId": 38321,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ผัด ผ่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผัดผ่อน"
+                    },
+                    {
+                        "childId": 38606,
+                        "corpusScore": 13,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23500,
+                        "legacyWordId": 1373806,
+                        "meaning": "[to] postpone ; put off ; defer",
+                        "parentId": 23500,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ผัด วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผัดวัน"
+                    },
+                    {
+                        "childId": 38606,
+                        "corpusScore": 9,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399203,
+                        "legacyWordId": 1373803,
+                        "meaning": "sweet and sour",
+                        "parentId": 399203,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ผัด เปฺรี้ยว หฺวาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผัดเปรี้ยวหวาน"
+                    },
+                    {
+                        "childId": 38606,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399204,
+                        "legacyWordId": 1373804,
+                        "meaning": "Crown Of Thorns ; Christ Thorn",
+                        "parentId": 399204,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ผัด-โป๊ย-เซียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผัดโป๊ยเซียน"
+                    },
+                    {
+                        "childId": 38606,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396244,
+                        "legacyWordId": 1269994,
+                        "meaning": "replacement ; supersession ; substitution",
+                        "parentId": 396244,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ผัด เปฺลี่ยน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การผัดเปลี่ยน"
+                    }
+                ],
+                "explanation": null,
+                "id": 38606,
+                "isUncommon": false,
+                "meaning": "[to] postpone ; delay ; put off",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ผัด"
+            }
+        ],
+        "t2e": "ผัด",
+        "verified": null,
+        "word": "ผัด"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

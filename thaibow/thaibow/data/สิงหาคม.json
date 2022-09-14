@@ -1,0 +1,74 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 1055,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1408125,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 47563,
+                        "corpusScore": 384,
+                        "displayOrder": 0,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47563,
+                        "legacyWordId": 1453850,
+                        "meaning": "the arrival of ; the coming of",
+                        "parentId": 32483,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-คม",
+                        "usage": "",
+                        "verified": "อา-คม",
+                        "word": "อาคม"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "August",
+                        "word": "August"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [
+                    {
+                        "childId": 32483,
+                        "corpusScore": 253,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45293,
+                        "legacyWordId": 1308385,
+                        "meaning": "August",
+                        "parentId": 45293,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน สิง-หา คม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนสิงหาคม"
+                    }
+                ],
+                "explanation": null,
+                "id": 32483,
+                "isUncommon": false,
+                "meaning": "August",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "สิงหาคม"
+            }
+        ],
+        "t2e": "สิง-หา คม",
+        "verified": null,
+        "word": "สิงหาคม"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

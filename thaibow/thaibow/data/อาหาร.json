@@ -1,0 +1,870 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "That's my food.",
+            "id": 40183,
+            "phonetic": "นั่น อา-หาน ของ ฉัน",
+            "thaiSentence": "นั่นอาหารของฉัน",
+            "thaiSentenceSpaced": " นั่น อาหาร ของ ฉัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั่น",
+                    "word": "นั่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "food"
+                        }
+                    ],
+                    "phonetic": "อา-หาน",
+                    "word": "อาหาร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                }
+            ]
+        },
+        {
+            "engSentence": "That's fish food flakes.",
+            "id": 52222,
+            "phonetic": "นั่น คือ · อา-หาน ปฺลา แผ่น",
+            "thaiSentence": "นั่นคือ อาหารปลาแผ่น",
+            "thaiSentenceSpaced": " นั่น คือ  ·  อาหาร ปลา แผ่น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั่น",
+                    "word": "นั่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be"
+                        }
+                    ],
+                    "phonetic": "คือ",
+                    "word": "คือ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "food"
+                        }
+                    ],
+                    "phonetic": "อา-หาน",
+                    "word": "อาหาร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "fish"
+                        }
+                    ],
+                    "phonetic": "ปฺลา",
+                    "word": "ปลา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sheet ; plate <i>(แผ่น is the classifier for flat and thin objects, like CDs, pieces of paper and slices of bread.)</i>"
+                        }
+                    ],
+                    "phonetic": "แผ่น",
+                    "word": "แผ่น"
+                }
+            ]
+        },
+        {
+            "engSentence": "Thanks for the food.",
+            "id": 91323,
+            "phonetic": "ขอบ คุน สำ-หฺรับ อา-หาน",
+            "thaiSentence": "ขอบคุณสำหรับอาหาร",
+            "thaiSentenceSpaced": " ขอบคุณ สำหรับ อาหาร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] thank you ; be thankful (for something)"
+                        }
+                    ],
+                    "phonetic": "ขอบ คุน",
+                    "word": "ขอบคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "for ; to ; on behalf of"
+                        }
+                    ],
+                    "phonetic": "สำ-หฺรับ",
+                    "word": "สำหรับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "food"
+                        }
+                    ],
+                    "phonetic": "อา-หาน",
+                    "word": "อาหาร"
+                }
+            ]
+        },
+        {
+            "engSentence": "What's with the food cart ?",
+            "id": 109136,
+            "phonetic": "อะ-ไร · รด เข็น อา-หาน เนี่ยะ",
+            "thaiSentence": "อะไร รถเข็นอาหารเนี่ยะ",
+            "thaiSentenceSpaced": " อะไร  ·  รถเข็น อาหาร เนี่ยะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "trolley ; cart <i>(e.g. shopping trolley, baby buggy, luggage trolley)</i>"
+                        }
+                    ],
+                    "phonetic": "รด เข็น",
+                    "word": "รถเข็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "food"
+                        }
+                    ],
+                    "phonetic": "อา-หาน",
+                    "word": "อาหาร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(ending particle, sometimes showing suprise or confusion)</i>"
+                        }
+                    ],
+                    "phonetic": "เนี่ยะ",
+                    "word": "เนี่ยะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I'll wait at her restaurant.",
+            "id": 127766,
+            "phonetic": "ฉัน จะ รอ ที่ ร้าน อา หาน ของ เขา นะ",
+            "thaiSentence": "ฉันจะรอที่ร้านอาหารของเขานะ",
+            "thaiSentenceSpaced": " ฉัน จะ รอ ที่ ร้าน อาหาร ของ เขา นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wait (for)"
+                        }
+                    ],
+                    "phonetic": "รอ",
+                    "word": "รอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "shop ; store ; booth"
+                        }
+                    ],
+                    "phonetic": "ร้าน",
+                    "word": "ร้าน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "uncle"
+                        }
+                    ],
+                    "phonetic": "อา",
+                    "word": "อา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] share ; divide ; assign"
+                        }
+                    ],
+                    "phonetic": "หาน",
+                    "word": "หาร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Don't drink . Eat food.",
+            "id": 129792,
+            "phonetic": "ไม่ ดื่ม · กิน อา-หาน",
+            "thaiSentence": "ไม่ดื่ม กินอาหาร",
+            "thaiSentenceSpaced": " ไม่ ดื่ม  ·  กิน อาหาร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] drink"
+                        }
+                    ],
+                    "phonetic": "ดื่ม",
+                    "word": "ดื่ม"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] eat"
+                        }
+                    ],
+                    "phonetic": "กิน อา-หาน",
+                    "word": "กินอาหาร"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 47163,
+        "exampleSentences": [
+            {
+                "engSentence": "That's my food.",
+                "id": 40183,
+                "thaiSentence": "นั่นอาหารของฉัน",
+                "thaiSentenceSpaced": " นั่น อาหาร ของ ฉัน "
+            },
+            {
+                "engSentence": "That's fish food flakes.",
+                "id": 52222,
+                "thaiSentence": "นั่นคือ อาหารปลาแผ่น",
+                "thaiSentenceSpaced": " นั่น คือ  &middot;  อาหาร ปลา แผ่น "
+            },
+            {
+                "engSentence": "Thanks for the food.",
+                "id": 91323,
+                "thaiSentence": "ขอบคุณสำหรับอาหาร",
+                "thaiSentenceSpaced": " ขอบคุณ สำหรับ อาหาร "
+            },
+            {
+                "engSentence": "What's with the food cart ?",
+                "id": 109136,
+                "thaiSentence": "อะไร รถเข็นอาหารเนี่ยะ",
+                "thaiSentenceSpaced": " อะไร  &middot;  รถเข็น อาหาร เนี่ยะ "
+            },
+            {
+                "engSentence": "I'll wait at her restaurant.",
+                "id": 127766,
+                "thaiSentence": "ฉันจะรอที่ร้านอาหารของเขานะ",
+                "thaiSentenceSpaced": " ฉัน จะ รอ ที่ ร้าน อาหาร ของ เขา นะ "
+            },
+            {
+                "engSentence": "Don't drink . Eat food.",
+                "id": 129792,
+                "thaiSentence": "ไม่ดื่ม กินอาหาร",
+                "thaiSentenceSpaced": " ไม่ ดื่ม  &middot;  กิน อาหาร "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1454519,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "food",
+                        "word": "food"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [
+                    {
+                        "childId": 5154,
+                        "corpusScore": 3477,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25520,
+                        "legacyWordId": 1391629,
+                        "meaning": "restaurant",
+                        "parentId": 25520,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้าน อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้านอาหาร"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 1962,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396914,
+                        "legacyWordId": 1272660,
+                        "meaning": "[to] eat",
+                        "parentId": 396914,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กิน อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กินอาหาร"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 1668,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28639,
+                        "legacyWordId": 1323151,
+                        "meaning": "[to] cook",
+                        "parentId": 28639,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำอาหาร"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 1361,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6500,
+                        "legacyWordId": 1407518,
+                        "meaning": "nutrient",
+                        "parentId": 6500,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สาน อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สารอาหาร"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 1078,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "a meal or food",
+                        "hasSoundFile": false,
+                        "id": 45693,
+                        "legacyWordId": 1322233,
+                        "meaning": "[to] eat",
+                        "parentId": 45693,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทาน อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทานอาหาร"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 1041,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397147,
+                        "legacyWordId": 1454529,
+                        "meaning": "breakfast",
+                        "parentId": 397147,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-หาน เช้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาหารเช้า"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 1025,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2338,
+                        "legacyWordId": 1451310,
+                        "meaning": "[to] feed ; give food (to) ; provide food (for)",
+                        "parentId": 2338,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้อาหาร"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 1018,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20604,
+                        "legacyWordId": 1454551,
+                        "meaning": "supplementary food",
+                        "parentId": 20604,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-หาน เสิม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาหารเสริม"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 987,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45168,
+                        "legacyWordId": 1454533,
+                        "meaning": "Thai food",
+                        "parentId": 45168,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-หาน ไท",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาหารไทย"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 978,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400092,
+                        "legacyWordId": 1391077,
+                        "meaning": "[to] eat",
+                        "parentId": 400092,
+                        "partOfSpeech": "Verb",
+                        "t2e": "รับ ปฺระ-ทาน อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รับประทานอาหาร"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 959,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6178,
+                        "legacyWordId": 1325999,
+                        "meaning": "nutrient",
+                        "parentId": 6178,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทาด อา หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ธาตุอาหาร"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 894,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9926,
+                        "legacyWordId": 1264509,
+                        "meaning": "stomach",
+                        "parentId": 9926,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-เพาะ อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเพาะอาหาร"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 808,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38377,
+                        "legacyWordId": 1454530,
+                        "meaning": "seafood",
+                        "parentId": 38377,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา หาน ทะ-เล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาหารทะเล"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 586,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2573,
+                        "legacyWordId": 1454546,
+                        "meaning": "feed ; animal feed ; fodder",
+                        "parentId": 2573,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-หาน สัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาหารสัตว์"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 550,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13585,
+                        "legacyWordId": 1369373,
+                        "meaning": "[to] cook ; prepare food ; make a dish",
+                        "parentId": 13585,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ปฺรุง อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปรุงอาหาร"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 549,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27880,
+                        "legacyWordId": 1454540,
+                        "meaning": "dinner",
+                        "parentId": 27880,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-หาน เย็น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาหารเย็น"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 508,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21512,
+                        "legacyWordId": 1449261,
+                        "meaning": "[to] look for food",
+                        "parentId": 21512,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หา อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาอาหาร"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 444,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28176,
+                        "legacyWordId": 1448289,
+                        "meaning": "dining-room ; eating-room ; restaurant",
+                        "parentId": 28176,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องอาหาร"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 405,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12650,
+                        "legacyWordId": 1367781,
+                        "meaning": "[to] cook ; prepare food ; dress",
+                        "parentId": 12650,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ปฺระ-กอบ อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประกอบอาหาร"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 348,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1805,
+                        "legacyWordId": 1446898,
+                        "meaning": "post-meal ; after meal",
+                        "parentId": 1805,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "หฺลัง อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หลังอาหาร"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 342,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27551,
+                        "legacyWordId": 1454521,
+                        "meaning": "luncheon ; lunch",
+                        "parentId": 27551,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-หาน กฺลาง วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาหารกลางวัน"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 331,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2125,
+                        "legacyWordId": 1401996,
+                        "meaning": "food scraps ; crumb ; discarded food",
+                        "parentId": 2125,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เสด อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เศษอาหาร"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 306,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38635,
+                        "legacyWordId": 1454527,
+                        "meaning": "Chinese food",
+                        "parentId": 38635,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-หาน จีน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาหารจีน"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 290,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3915,
+                        "legacyWordId": 1394174,
+                        "meaning": "cafeteria ; canteen",
+                        "parentId": 3915,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรง อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรงอาหาร"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 267,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26164,
+                        "legacyWordId": 1454522,
+                        "meaning": "food ; nutrition ; diet",
+                        "parentId": 26164,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-หาน กาน กิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาหารการกิน"
+                    }
+                ],
+                "explanation": null,
+                "id": 5154,
+                "isUncommon": false,
+                "meaning": "food",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "อาหาร"
+            }
+        ],
+        "t2e": "อา-หาน",
+        "verified": "อา-หาน",
+        "word": "อาหาร"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

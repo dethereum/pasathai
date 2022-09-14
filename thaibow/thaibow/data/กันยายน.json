@@ -1,0 +1,91 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 839,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1266680,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 47584,
+                        "corpusScore": 143,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "the symbol of the Zodiac sign Virgo",
+                        "hasSoundFile": false,
+                        "id": 47584,
+                        "legacyWordId": 1266677,
+                        "meaning": "young girl ; maiden",
+                        "parentId": 33699,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กันย์"
+                    },
+                    {
+                        "childId": 47576,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47576,
+                        "legacyWordId": 1454200,
+                        "meaning": "the arrival of ; the coming of",
+                        "parentId": 33699,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-ยน",
+                        "usage": "",
+                        "verified": "อา-ยน",
+                        "word": "อายน"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "September",
+                        "word": "September"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [
+                    {
+                        "childId": 33699,
+                        "corpusScore": 393,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45302,
+                        "legacyWordId": 1308359,
+                        "meaning": "September",
+                        "parentId": 45302,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน กัน-ยา-ยน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนกันยายน"
+                    }
+                ],
+                "explanation": null,
+                "id": 33699,
+                "isUncommon": false,
+                "meaning": "September",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "กันยายน"
+            }
+        ],
+        "t2e": "กัน-ยา-ยน",
+        "verified": null,
+        "word": "กันยายน"
+    },
+    "greenBarCount": 2,
+    "pageUrl": "",
+    "type": "thai-word"
+}

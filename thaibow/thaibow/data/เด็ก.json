@@ -1,0 +1,1261 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Good luck, kiddo.",
+            "id": 2548,
+            "phonetic": "ขอ ไห้ โชก ดี · เด็ก น้อย",
+            "thaiSentence": "ขอให้โชคดี เด็กน้อย",
+            "thaiSentenceSpaced": " ขอให้ โชคดี  ·  เด็ก น้อย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] request ; beg ; ask"
+                        }
+                    ],
+                    "phonetic": "ขอ ไห้",
+                    "word": "ขอให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "good luck! ; take care!"
+                        },
+                        {
+                            "meaning": "[to be] lucky ; fortunate"
+                        }
+                    ],
+                    "phonetic": "โชก ดี",
+                    "word": "โชคดี"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "baby ; small child"
+                        }
+                    ],
+                    "phonetic": "เด็ก น้อย",
+                    "word": "เด็กน้อย"
+                }
+            ]
+        },
+        {
+            "engSentence": "I knew him since childhood.",
+            "id": 5372,
+            "phonetic": "ฉัน รู้ จัก เขา ตั้ง แต่ เด็ก แนะ",
+            "thaiSentence": "ฉันรู้จักเขาตั้งแต่เด็กแนะ",
+            "thaiSentenceSpaced": " ฉัน รู้จัก เขา ตั้งแต่ เด็ก แนะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] know <i>(someone)</i>"
+                        }
+                    ],
+                    "phonetic": "รู้ จัก",
+                    "word": "รู้จัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "since ; from"
+                        }
+                    ],
+                    "phonetic": "ตั้ง แต่",
+                    "word": "ตั้งแต่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] childish ; immature"
+                        },
+                        {
+                            "meaning": "child ; children"
+                        }
+                    ],
+                    "phonetic": "เด็ก",
+                    "word": "เด็ก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] advise ; suggest ; guide"
+                        }
+                    ],
+                    "phonetic": "แนะ",
+                    "word": "แนะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I knew him since childhood.",
+            "id": 7010,
+            "phonetic": "รู้ จัก เขา ตั้ง แต่ เด็ก เลย",
+            "thaiSentence": "รู้จักเขาตั้งแต่เด็กเลย",
+            "thaiSentenceSpaced": " รู้จัก เขา ตั้งแต่ เด็ก เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] know <i>(someone)</i>"
+                        }
+                    ],
+                    "phonetic": "รู้ จัก",
+                    "word": "รู้จัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "since ; from"
+                        }
+                    ],
+                    "phonetic": "ตั้ง แต่",
+                    "word": "ตั้งแต่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] childish ; immature"
+                        },
+                        {
+                            "meaning": "child ; children"
+                        }
+                    ],
+                    "phonetic": "เด็ก",
+                    "word": "เด็ก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "New guy . You, too.",
+            "id": 19132,
+            "phonetic": "แก ด้วย · ไอ้ เด็ก ไหฺม่",
+            "thaiSentence": "แกด้วย ไอ้เด็กใหม่",
+            "thaiSentenceSpaced": " แก ด้วย  ·  ไอ้ เด็ก ใหม่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "แก",
+                    "word": "แก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(Derogatory title used before the names of men or when referring to men.)</i> "
+                        }
+                    ],
+                    "phonetic": "ไอ้",
+                    "word": "ไอ้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] childish ; immature"
+                        },
+                        {
+                            "meaning": "child ; children"
+                        }
+                    ],
+                    "phonetic": "เด็ก",
+                    "word": "เด็ก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "again ; once more"
+                        },
+                        {
+                            "meaning": "[to be] new ; recent ; the latest"
+                        }
+                    ],
+                    "phonetic": "ไหฺม่",
+                    "word": "ใหม่"
+                }
+            ]
+        },
+        {
+            "engSentence": "You like children ?",
+            "id": 39758,
+            "phonetic": "คุน ชอบ เด็ก ไหฺม",
+            "thaiSentence": "คุณชอบเด็กไหม",
+            "thaiSentenceSpaced": " คุณ ชอบ เด็ก ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] like"
+                        }
+                    ],
+                    "phonetic": "ชอบ",
+                    "word": "ชอบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] childish ; immature"
+                        },
+                        {
+                            "meaning": "child ; children"
+                        }
+                    ],
+                    "phonetic": "เด็ก",
+                    "word": "เด็ก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Then forget the baby.",
+            "id": 47557,
+            "phonetic": "ก้อ ลืม เด็ก นั่น ซะ",
+            "thaiSentence": "ก็ลืมเด็กนั่นซะ",
+            "thaiSentenceSpaced": " ก็ ลืม เด็ก นั่น ซะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] forget"
+                        }
+                    ],
+                    "phonetic": "ลืม",
+                    "word": "ลืม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] childish ; immature"
+                        },
+                        {
+                            "meaning": "child ; children"
+                        }
+                    ],
+                    "phonetic": "เด็ก",
+                    "word": "เด็ก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั่น",
+                    "word": "นั่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle implying the verb should be done quickly or completely)</i>"
+                        }
+                    ],
+                    "phonetic": "ซะ",
+                    "word": "ซะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 38648,
+        "exampleSentences": [
+            {
+                "engSentence": "Good luck, kiddo.",
+                "id": 2548,
+                "thaiSentence": "ขอให้โชคดี เด็กน้อย",
+                "thaiSentenceSpaced": " ขอให้ โชคดี  &middot;  เด็ก น้อย "
+            },
+            {
+                "engSentence": "I knew him since childhood.",
+                "id": 5372,
+                "thaiSentence": "ฉันรู้จักเขาตั้งแต่เด็กแนะ",
+                "thaiSentenceSpaced": " ฉัน รู้จัก เขา ตั้งแต่ เด็ก แนะ "
+            },
+            {
+                "engSentence": "I knew him since childhood.",
+                "id": 7010,
+                "thaiSentence": "รู้จักเขาตั้งแต่เด็กเลย",
+                "thaiSentenceSpaced": " รู้จัก เขา ตั้งแต่ เด็ก เลย "
+            },
+            {
+                "engSentence": "New guy . You, too.",
+                "id": 19132,
+                "thaiSentence": "แกด้วย ไอ้เด็กใหม่",
+                "thaiSentenceSpaced": " แก ด้วย  &middot;  ไอ้ เด็ก ใหม่ "
+            },
+            {
+                "engSentence": "You like children ?",
+                "id": 39758,
+                "thaiSentence": "คุณชอบเด็กไหม",
+                "thaiSentenceSpaced": " คุณ ชอบ เด็ก ไหม "
+            },
+            {
+                "engSentence": "Then forget the baby.",
+                "id": 47557,
+                "thaiSentence": "ก็ลืมเด็กนั่นซะ",
+                "thaiSentenceSpaced": " ก็ ลืม เด็ก นั่น ซะ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1308013,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] childish",
+                        "word": "childish"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "immature",
+                        "word": "immature"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 189310,
+                        "corpusScore": 735,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14098,
+                        "legacyWordId": 1399235,
+                        "meaning": "childhood",
+                        "parentId": 14098,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไว เด็ก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วัยเด็ก"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 594,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399823,
+                        "legacyWordId": 1384524,
+                        "meaning": "[to] have children",
+                        "parentId": 399823,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี เด็ก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีเด็ก"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 107,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "teenage slang referring to someone who has an individual style of clothing, hairstyle, speech etc... not someone who follows trends set by others",
+                        "hasSoundFile": false,
+                        "id": 384362,
+                        "legacyWordId": 1308036,
+                        "meaning": "trend-setter ; individualist",
+                        "parentId": 384362,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก แนว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กแนว"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 89,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "day of activities aimed at entertaining and educating children at schools and government buildings nationwide",
+                        "hasSoundFile": false,
+                        "id": 362199,
+                        "legacyWordId": 1399098,
+                        "meaning": "Children's Day",
+                        "parentId": 362199,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน เด็ก แห่ง ชาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันเด็กแห่งชาติ"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 60,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401464,
+                        "legacyWordId": 1290521,
+                        "meaning": "testicle",
+                        "parentId": 401464,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เจ้า เด็ก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ้าเด็ก"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 40,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399573,
+                        "legacyWordId": 1378690,
+                        "meaning": "baby-sitter ; nanny",
+                        "parentId": 399573,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พี่ เลี้ยง เด็ก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พี่เลี้ยงเด็ก"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 32,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401536,
+                        "legacyWordId": 1308049,
+                        "meaning": "tramp child ; vagabond child ; vagrant child",
+                        "parentId": 401536,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก เร่ ร่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กเร่ร่อน"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 30,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397057,
+                        "legacyWordId": 1275440,
+                        "meaning": "toy",
+                        "parentId": 397057,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ของ เล่น เด็ก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ของเล่นเด็ก"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 11,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 424179,
+                        "legacyWordId": 1393503,
+                        "meaning": "medical microbiology",
+                        "parentId": 424179,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรก ติด เชื้อ ไน เด็ก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรคติดเชื้อในเด็ก"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 11,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401534,
+                        "legacyWordId": 1308023,
+                        "meaning": "country boy/girl",
+                        "parentId": 401534,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก ชน-นะ-บด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กชนบท"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 6,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397328,
+                        "legacyWordId": 1279032,
+                        "meaning": "nanny ; babysitter",
+                        "parentId": 397328,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน เลี้ยง เด็ก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนเลี้ยงเด็ก"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 5,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401535,
+                        "legacyWordId": 1308030,
+                        "meaning": "country boy/girl",
+                        "parentId": 401535,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก ต่าง จัง-หฺวัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กต่างจังหวัด"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 4,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 392956,
+                        "legacyWordId": 1402518,
+                        "meaning": "Juvenile Observation and Protection Centre",
+                        "parentId": 392956,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ-ถาน พิ-นิด และ คุ้ม คฺรอง เด็ก และ เยา-วะ-ชน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สถานพินิจและคุ้มครองเด็กและเยาวชน"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 2,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397250,
+                        "legacyWordId": 1278815,
+                        "meaning": "nanny ; babysitter",
+                        "parentId": 397250,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน ดู แล เด็ก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนดูแลเด็ก"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 190001,
+                        "legacyWordId": 1402533,
+                        "meaning": "remand home",
+                        "parentId": 190001,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ-ถาน แรก รับ ฝาก ขัง เด็ก และ เยา-วะ-ชน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สถานแรกรับฝากขังเด็กและเยาวชน"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 424052,
+                        "legacyWordId": 1393746,
+                        "meaning": "atopic dermatitis",
+                        "parentId": 424052,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรก พูม แพ้ ผื่น คัน ไน เด็ก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรคภูมิแพ้ผื่นคันในเด็ก"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401538,
+                        "legacyWordId": 1308045,
+                        "meaning": "disabled child",
+                        "parentId": 401538,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก ไม่ สม ปฺระ-กอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กไม่สมประกอบ"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 0,
+                        "displayOrder": 5,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 109452,
+                        "legacyWordId": 1266037,
+                        "meaning": "Children, Juveniles And Women Division",
+                        "parentId": 109452,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กอง บัง-คับ กาน ปฺราบ ปฺราม กาน กฺระ-ทำ ผิด ต่อ เด็ก เยา-วะ-ชน และ สัด-ตฺรี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กองบังคับการปราบปรามการกระทำผิดต่อเด็กเยาวชนและสตรี"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395402,
+                        "legacyWordId": 1308037,
+                        "meaning": "dependent child",
+                        "parentId": 395402,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก ไน คฺวาม อุ-ปะ-กา-ระ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กในความอุปการะ"
+                    },
+                    {
+                        "childId": 189310,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401537,
+                        "legacyWordId": 1308040,
+                        "meaning": "infant ; baby",
+                        "parentId": 401537,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก แบ เบาะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กแบเบาะ"
+                    }
+                ],
+                "explanation": null,
+                "id": 189310,
+                "isUncommon": false,
+                "meaning": "[to be] childish ; immature",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "เด็ก"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "child",
+                        "word": "child"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "children",
+                        "word": "children"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 189311,
+                        "corpusScore": 4847,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45290,
+                        "legacyWordId": 1308067,
+                        "meaning": "children",
+                        "parentId": 45290,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก เด็ก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กๆ"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 971,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2822,
+                        "legacyWordId": 1308052,
+                        "meaning": "small children",
+                        "parentId": 2822,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก เล็ก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กเล็ก"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 955,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 384076,
+                        "legacyWordId": 1308025,
+                        "meaning": "boy",
+                        "parentId": 384076,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก ชาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กชาย"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 906,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 384077,
+                        "legacyWordId": 1308060,
+                        "meaning": "boy ; young man",
+                        "parentId": 384077,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก หฺนุ่ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กหนุ่ม"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 785,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 275,
+                        "legacyWordId": 1308034,
+                        "meaning": "baby ; small child",
+                        "parentId": 275,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก น้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กน้อย"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 681,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45291,
+                        "legacyWordId": 1308033,
+                        "meaning": "Thai children",
+                        "parentId": 45291,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก ไท",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กไทย"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 678,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 384078,
+                        "legacyWordId": 1308057,
+                        "meaning": "girl",
+                        "parentId": 384078,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก สาว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กสาว"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 654,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2131,
+                        "legacyWordId": 1308059,
+                        "meaning": "girl",
+                        "parentId": 2131,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก หฺยิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กหญิง"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 479,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11088,
+                        "legacyWordId": 1308032,
+                        "meaning": "infant",
+                        "parentId": 11088,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก ทา-รก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กทารก"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 393,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 189312,
+                        "legacyWordId": 1308028,
+                        "meaning": "good boy ; good girl",
+                        "parentId": 189312,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กดี"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 382,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13013,
+                        "legacyWordId": 1308065,
+                        "meaning": "new-born baby ; babe ; infant",
+                        "parentId": 13013,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก อ่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กอ่อน"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 342,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11398,
+                        "legacyWordId": 1308035,
+                        "meaning": "pupil ; student",
+                        "parentId": 11398,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก นัก เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กนักเรียน"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 298,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46618,
+                        "legacyWordId": 1449929,
+                        "meaning": "[to be] childish ; childlike",
+                        "parentId": 46618,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "เหฺมือน เด็ก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เหมือนเด็ก"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 212,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11964,
+                        "legacyWordId": 1308018,
+                        "meaning": "orphan",
+                        "parentId": 11964,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก กำ-พฺร้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กกำพร้า"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 199,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 384071,
+                        "legacyWordId": 1308043,
+                        "meaning": "girl",
+                        "parentId": 384071,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก พู่ หฺยิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กผู้หญิง"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 186,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2649,
+                        "legacyWordId": 1308031,
+                        "meaning": "adolescent ; child ; teenager",
+                        "parentId": 2649,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก โต",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กโต"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 147,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 384079,
+                        "legacyWordId": 1308042,
+                        "meaning": "boy ; young man",
+                        "parentId": 384079,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก พู่ ชาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กผู้ชาย"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 131,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11127,
+                        "legacyWordId": 1308050,
+                        "meaning": "newborn baby ; babe",
+                        "parentId": 11127,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก แรก เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กแรกเกิด"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 89,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36165,
+                        "legacyWordId": 1308055,
+                        "meaning": "adolescent ; teenage",
+                        "parentId": 36165,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก ไว รุ่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กวัยรุ่น"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 88,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3046,
+                        "legacyWordId": 1308044,
+                        "meaning": "disabled child",
+                        "parentId": 3046,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก พิ-กาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กพิการ"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 86,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13986,
+                        "legacyWordId": 1308041,
+                        "meaning": "primary school pupil",
+                        "parentId": 13986,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก ปฺระ-ถม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กประถม"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 70,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41015,
+                        "legacyWordId": 1308016,
+                        "meaning": "[to be] younger",
+                        "parentId": 41015,
+                        "partOfSpeech": "StativeVerb ; ComparativeAdjective",
+                        "t2e": "เด็ก กฺว่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กกว่า"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 67,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40815,
+                        "legacyWordId": 1402805,
+                        "meaning": "playground",
+                        "parentId": 40815,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ-หฺนาม เด็ก เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สนามเด็กเล่น"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 40,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28422,
+                        "legacyWordId": 1308058,
+                        "meaning": "waiter ; waitress",
+                        "parentId": 28422,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก เสิฟ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กเสิร์ฟ"
+                    },
+                    {
+                        "childId": 189311,
+                        "corpusScore": 35,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47173,
+                        "legacyWordId": 1308039,
+                        "meaning": "country boy/girl",
+                        "parentId": 47173,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก บ้าน นอก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กบ้านนอก"
+                    }
+                ],
+                "explanation": null,
+                "id": 189311,
+                "isUncommon": false,
+                "meaning": "child ; children",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "เด็ก"
+            }
+        ],
+        "t2e": "เด็ก",
+        "verified": null,
+        "word": "เด็ก"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

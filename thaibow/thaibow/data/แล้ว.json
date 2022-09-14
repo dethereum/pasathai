@@ -1,0 +1,1321 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Then whose was it ?",
+            "id": 451,
+            "phonetic": "แล้ว มัน จะ เป็น ของ ไคฺร ด้าย ล่ะ",
+            "thaiSentence": "แล้วมันจะเป็นของใครได้ล่ะ",
+            "thaiSentenceSpaced": " แล้ว มัน จะ เป็นของ ใคร ได้ ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will be"
+                        }
+                    ],
+                    "phonetic": "จะ เป็น",
+                    "word": "จะเป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whose"
+                        },
+                        {
+                            "meaning": "of someone ; of anyone"
+                        }
+                    ],
+                    "phonetic": "ของ ไคฺร",
+                    "word": "ของใคร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Then what do you want ?",
+            "id": 801,
+            "phonetic": "แล้ว ต้อง กาน อะ-ไร",
+            "thaiSentence": "แล้วต้องการอะไร",
+            "thaiSentenceSpaced": " แล้ว ต้องการ อะไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; need ; require"
+                        }
+                    ],
+                    "phonetic": "ต้อง กาน",
+                    "word": "ต้องการ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "So what did he say ?",
+            "id": 875,
+            "phonetic": "แล้ว เขา ว่า ไง บ้าง",
+            "thaiSentence": "แล้วเขาว่าไงบ้าง",
+            "thaiSentenceSpaced": " แล้ว เขา ว่า ไง บ้าง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        },
+                        {
+                            "meaning": "[to] say ; tell"
+                        },
+                        {
+                            "meaning": "[to] blame ; criticise"
+                        }
+                    ],
+                    "phonetic": "ว่า",
+                    "word": "ว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle showing the preceding statement is self-evident)</i>"
+                        },
+                        {
+                            "meaning": "how"
+                        }
+                    ],
+                    "phonetic": "ไง",
+                    "word": "ไง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "some ; any"
+                        }
+                    ],
+                    "phonetic": "บ้าง",
+                    "word": "บ้าง"
+                }
+            ]
+        },
+        {
+            "engSentence": "So how did it go ?",
+            "id": 940,
+            "phonetic": "แล้ว · มัน ไป ยัง ไง",
+            "thaiSentence": "แล้ว มันไปยังไง",
+            "thaiSentenceSpaced": " แล้ว  ·  มัน ไป ยังไง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "ยัง ไง",
+                    "word": "ยังไง"
+                }
+            ]
+        },
+        {
+            "engSentence": "So what major are you in ?",
+            "id": 1069,
+            "phonetic": "แล้ว คุน เรียน เอก อะ-ไร",
+            "thaiSentence": "แล้วคุณเรียนเอกอะไร",
+            "thaiSentenceSpaced": " แล้ว คุณ เรียน เอก อะไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] learn ; study"
+                        }
+                    ],
+                    "phonetic": "เรียน",
+                    "word": "เรียน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "main ; most important ; principal"
+                        },
+                        {
+                            "meaning": "sole ; solitary ; unique"
+                        }
+                    ],
+                    "phonetic": "เอก",
+                    "word": "เอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "So what happened ?",
+            "id": 1405,
+            "phonetic": "แล้ว · เกิด อะ-ไร ขึ้น",
+            "thaiSentence": "แล้ว เกิดอะไรขึ้น",
+            "thaiSentenceSpaced": " แล้ว  ·  เกิด อะไร ขึ้น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] happen ; occur ; take place"
+                        },
+                        {
+                            "meaning": "[to] be born ; take birth"
+                        }
+                    ],
+                    "phonetic": "เกิด",
+                    "word": "เกิด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] enter ; get on ; get in"
+                        },
+                        {
+                            "meaning": "[to] develop ; progress"
+                        },
+                        {
+                            "meaning": "[to] go up ; rise ; increase"
+                        },
+                        {
+                            "meaning": "up ; upward"
+                        }
+                    ],
+                    "phonetic": "ขึ้น",
+                    "word": "ขึ้น"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 295683,
+        "exampleSentences": [
+            {
+                "engSentence": "Then whose was it ?",
+                "id": 451,
+                "thaiSentence": "แล้วมันจะเป็นของใครได้ล่ะ",
+                "thaiSentenceSpaced": " แล้ว มัน จะ เป็นของ ใคร ได้ ล่ะ "
+            },
+            {
+                "engSentence": "Then what do you want ?",
+                "id": 801,
+                "thaiSentence": "แล้วต้องการอะไร",
+                "thaiSentenceSpaced": " แล้ว ต้องการ อะไร "
+            },
+            {
+                "engSentence": "So what did he say ?",
+                "id": 875,
+                "thaiSentence": "แล้วเขาว่าไงบ้าง",
+                "thaiSentenceSpaced": " แล้ว เขา ว่า ไง บ้าง "
+            },
+            {
+                "engSentence": "So how did it go ?",
+                "id": 940,
+                "thaiSentence": "แล้ว มันไปยังไง",
+                "thaiSentenceSpaced": " แล้ว  &middot;  มัน ไป ยังไง "
+            },
+            {
+                "engSentence": "So what major are you in ?",
+                "id": 1069,
+                "thaiSentence": "แล้วคุณเรียนเอกอะไร",
+                "thaiSentenceSpaced": " แล้ว คุณ เรียน เอก อะไร "
+            },
+            {
+                "engSentence": "So what happened ?",
+                "id": 1405,
+                "thaiSentence": "แล้ว เกิดอะไรขึ้น",
+                "thaiSentenceSpaced": " แล้ว  &middot;  เกิด อะไร ขึ้น "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1397403,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "and",
+                        "word": "and"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "and then",
+                        "word": "and then"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "and after that",
+                        "word": "and after that"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 48216,
+                        "corpusScore": 19149,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 26051,
+                        "legacyWordId": 1397406,
+                        "meaning": "and then ; and after that",
+                        "parentId": 26051,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "แล้ว ก้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แล้วก็"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 4262,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3736,
+                        "legacyWordId": 1397411,
+                        "meaning": "[to] depends on ; be up to (someone)",
+                        "parentId": 3736,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แล้ว แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แล้วแต่"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 2317,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35469,
+                        "legacyWordId": 1397410,
+                        "meaning": "so ; therefore",
+                        "parentId": 35469,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "แล้ว จึง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แล้วจึง"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 1733,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26844,
+                        "legacyWordId": 1397412,
+                        "meaning": "[to] be over ; be ended ; be bygone",
+                        "parentId": 26844,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แล้ว ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แล้วไป"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 1078,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6694,
+                        "legacyWordId": 1397413,
+                        "meaning": "[to] finish ; complete",
+                        "parentId": 6694,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แล้ว เส็ด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แล้วเสร็จ"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 671,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "It's a particle used when suggesting a compromise solution or final plan of action and that implies there's no need for the listener to suggest anything else",
+                        "hasSoundFile": false,
+                        "id": 103333,
+                        "legacyWordId": 1265670,
+                        "meaning": "",
+                        "parentId": 103333,
+                        "partOfSpeech": "Particle",
+                        "t2e": "ก้อ แล้ว กัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ก็แล้วกัน"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 360,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41169,
+                        "legacyWordId": 1397409,
+                        "meaning": "so what",
+                        "parentId": 41169,
+                        "partOfSpeech": "None",
+                        "t2e": "แล้ว ไง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แล้วไง"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 100,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9006,
+                        "legacyWordId": 1279254,
+                        "meaning": "again and again ; over and over again",
+                        "parentId": 9006,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "คฺรั้ง แล้ว คฺรั้ง เล่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครั้งแล้วครั้งเล่า"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 73,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11389,
+                        "legacyWordId": 1304755,
+                        "meaning": "repeatedly",
+                        "parentId": 11389,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ซ้ำ แล้ว ซ้ำ เล่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซ้ำแล้วซ้ำเล่า"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 62,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25112,
+                        "legacyWordId": 1279272,
+                        "meaning": "after that ; after which ; then ; hence",
+                        "parentId": 25112,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "คฺรั้น แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครั้นแล้ว"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 43,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34012,
+                        "legacyWordId": 1304756,
+                        "meaning": "again and again",
+                        "parentId": 34012,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ซ้ำ แล้ว ซ้ำ อีก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซ้ำแล้วซ้ำอีก"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 25,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 193607,
+                        "legacyWordId": 1385197,
+                        "meaning": "drink-driving",
+                        "parentId": 193607,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เมา แล้ว ขับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เมาแล้วขับ"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 15,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36827,
+                        "legacyWordId": 1399175,
+                        "meaning": "day after day",
+                        "parentId": 36827,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "วัน แล้ว วัน เล่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันแล้ววันเล่า"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 13,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39760,
+                        "legacyWordId": 1371703,
+                        "meaning": "year after year",
+                        "parentId": 39760,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ปี แล้ว ปี เล่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีแล้วปีเล่า"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 6,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402249,
+                        "legacyWordId": 1397408,
+                        "meaning": "[to] let bygones be bygones",
+                        "parentId": 402249,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แล้ว กัน ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แล้วกันไป"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 104001,
+                        "legacyWordId": 1262990,
+                        "meaning": "one (thing) after another",
+                        "parentId": 104001,
+                        "partOfSpeech": "Noun",
+                        "t2e": "(...) แล้ว (...) เล่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "(...) แล้ว (...) เล่า"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 87710,
+                        "legacyWordId": 1332005,
+                        "meaning": "load-and-go",
+                        "parentId": 87710,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บัน-จุ แล้ว ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บรรจุแล้วทำงาน"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "the subject of the sentence is in the middle",
+                        "hasSoundFile": false,
+                        "id": 103491,
+                        "legacyWordId": 1397405,
+                        "meaning": "and ; and then",
+                        "parentId": 103491,
+                        "partOfSpeech": "Preposition",
+                        "t2e": "แล้ว (...) ก้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แล้ว (...) ก็"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 59560,
+                        "legacyWordId": 1367007,
+                        "meaning": "divide and rule",
+                        "parentId": 59560,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แบ่ง แยก แล้ว ปก คฺรอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แบ่งแยกแล้วปกครอง"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 65862,
+                        "legacyWordId": 1274053,
+                        "meaning": "incurred but not reported",
+                        "parentId": 65862,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เกิด แล้ว ยัง ไม่ ราย งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกิดแล้วยังไม่รายงาน"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 65841,
+                        "legacyWordId": 1274053,
+                        "meaning": "I.B.N.R.",
+                        "parentId": 65841,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เกิด แล้ว ยัง ไม่ ราย งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกิดแล้วยังไม่รายงาน"
+                    },
+                    {
+                        "childId": 48216,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 88169,
+                        "legacyWordId": 1309964,
+                        "meaning": "plug-and-play",
+                        "parentId": 88169,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ต่อ แล้ว ไช้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ต่อแล้วใช้"
+                    }
+                ],
+                "explanation": null,
+                "id": 48216,
+                "isUncommon": false,
+                "meaning": "and ; and then ; and after that",
+                "partOfSpeech": "Conjunction",
+                "usage": "",
+                "word": "แล้ว"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "already",
+                        "word": "already"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 702074,
+                        "corpusScore": 5526,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48110,
+                        "legacyWordId": 1323555,
+                        "meaning": "last ; previous",
+                        "parentId": 48110,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ที่ แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่แล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 4938,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42119,
+                        "legacyWordId": 1455953,
+                        "meaning": "anymore ; from now on",
+                        "parentId": 42119,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "อีก แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกแล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 1720,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46577,
+                        "legacyWordId": 1410044,
+                        "meaning": "[to be] broken ; spoiled ; unusable",
+                        "parentId": 46577,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "เสีย แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เสียแล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 1512,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42434,
+                        "legacyWordId": 1294431,
+                        "meaning": "used ; second-hand ; recycled",
+                        "parentId": 42434,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไช้ แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใช้แล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 1413,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "Referring to a task",
+                        "hasSoundFile": false,
+                        "id": 46567,
+                        "legacyWordId": 1392963,
+                        "meaning": "[to be] ready ; finish ; completed",
+                        "parentId": 46567,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "เรียบ ร้อย แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรียบร้อยแล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 1162,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48098,
+                        "legacyWordId": 1377668,
+                        "meaning": "enough ; enough already",
+                        "parentId": 48098,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "พอ แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พอแล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 361,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41267,
+                        "legacyWordId": 1323326,
+                        "meaning": "in truth",
+                        "parentId": 41267,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ที่ จิง แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่จริงแล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 315,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397384,
+                        "legacyWordId": 1281077,
+                        "meaning": "enough ; enough already",
+                        "parentId": 397384,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ควน แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ควรแล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 258,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46366,
+                        "legacyWordId": 1394793,
+                        "meaning": "all ; completely",
+                        "parentId": 46366,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ล้วน แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้วนแล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 239,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44422,
+                        "legacyWordId": 1377969,
+                        "meaning": "[to be] developed ; advanced",
+                        "parentId": 44422,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "พัด-ทะ-นา แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พัฒนาแล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 233,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "that's right, that's the case , exactly that",
+                        "hasSoundFile": false,
+                        "id": 390068,
+                        "legacyWordId": 1294430,
+                        "meaning": "yes",
+                        "parentId": 390068,
+                        "partOfSpeech": "Interjection",
+                        "t2e": "ไช่ แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใช่แล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 172,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19823,
+                        "legacyWordId": 1308554,
+                        "meaning": "generally ; ordinarily ; normally",
+                        "parentId": 19823,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "โดย ทั่ว ไป แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โดยทั่วไปแล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 141,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25595,
+                        "legacyWordId": 1328694,
+                        "meaning": "long ago ; long time ago",
+                        "parentId": 25595,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "นาน มา แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นานมาแล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 107,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46274,
+                        "legacyWordId": 1392751,
+                        "meaning": "[to] know ; be aware",
+                        "parentId": 46274,
+                        "partOfSpeech": "Verb",
+                        "t2e": "รู้ หฺยู่ แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รู้อยู่แล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 106,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 93589,
+                        "legacyWordId": 1402285,
+                        "meaning": "sent",
+                        "parentId": 93589,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ส่ง แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ส่งแล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 67,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12039,
+                        "legacyWordId": 1368628,
+                        "meaning": "developed country",
+                        "parentId": 12039,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด พัด-ทะ-นา แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศพัฒนาแล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 46,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401985,
+                        "legacyWordId": 1449857,
+                        "meaning": "enough ; enough already",
+                        "parentId": 401985,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เหฺมาะ แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เหมาะแล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 44,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21244,
+                        "legacyWordId": 1288134,
+                        "meaning": "for a long time ; frequently",
+                        "parentId": 21244,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "จน แล้ว จน รอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนแล้วจนรอด"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 36,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23898,
+                        "legacyWordId": 1392728,
+                        "meaning": "[to] get over",
+                        "parentId": 23898,
+                        "partOfSpeech": "Verb",
+                        "t2e": "รู้ แล้ว รู้ รอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รู้แล้วรู้รอด"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 24,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3432,
+                        "legacyWordId": 1307082,
+                        "meaning": "as above-mentioned",
+                        "parentId": 3432,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ดัง ที่ ได้ กฺล่าว มา แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดังที่ได้กล่าวมาแล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 3,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 598409,
+                        "legacyWordId": 1324517,
+                        "meaning": "paid up capital",
+                        "parentId": 598409,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทุน ชำ-ระ แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุนชำระแล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 3,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18796,
+                        "legacyWordId": 1397407,
+                        "meaning": "[to] let bygones be bygones",
+                        "parentId": 18796,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แล้ว ก้อ แล้ว กัน ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แล้วก็แล้วกันไป"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 3,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18796,
+                        "legacyWordId": 1397407,
+                        "meaning": "[to] let bygones be bygones",
+                        "parentId": 18796,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แล้ว ก้อ แล้ว กัน ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แล้วก็แล้วกันไป"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 59811,
+                        "legacyWordId": 1393025,
+                        "meaning": "fait accompli",
+                        "parentId": 59811,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เรื่อง ที่ ยุด-ติ แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรื่องที่ยุติแล้ว"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 82281,
+                        "legacyWordId": 1332754,
+                        "meaning": "subscribed on stock",
+                        "parentId": 82281,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บัน-ชี ทุน หุ้น จอง แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บัญชีทุนหุ้นจองแล้ว"
+                    }
+                ],
+                "explanation": "used a general marker that indicates a specified action has happened or state has been attained",
+                "id": 702074,
+                "isUncommon": false,
+                "meaning": "already",
+                "partOfSpeech": "Adverb",
+                "usage": "",
+                "word": "แล้ว"
+            }
+        ],
+        "t2e": "แล้ว",
+        "verified": null,
+        "word": "แล้ว"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

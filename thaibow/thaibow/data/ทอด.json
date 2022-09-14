@@ -1,0 +1,863 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Try my lovely nuts ?",
+            "id": 110805,
+            "phonetic": "ลอง ถั่ว ทอด พฺลอด รัก ของ ผม หฺน่อย ไหฺม",
+            "thaiSentence": "ลองถั่วทอดพลอดรักของผมหน่อยไหม",
+            "thaiSentenceSpaced": " ลอง ถั่ว ทอด พลอดรัก ของ ผม หน่อย ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] try ; sample"
+                        }
+                    ],
+                    "phonetic": "ลอง",
+                    "word": "ลอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bean ; pea ; nut"
+                        }
+                    ],
+                    "phonetic": "ถั่ว",
+                    "word": "ถั่ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] fry"
+                        },
+                        {
+                            "meaning": "[to be] deep fried"
+                        },
+                        {
+                            "meaning": "[to] extend ; stretch out ; cast out"
+                        }
+                    ],
+                    "phonetic": "ทอด",
+                    "word": "ทอด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] continuously plead"
+                        }
+                    ],
+                    "phonetic": "พฺลอด รัก",
+                    "word": "พลอดรัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle added to soften a request or command)</i>"
+                        },
+                        {
+                            "meaning": "a little ; a little bit"
+                        }
+                    ],
+                    "phonetic": "หฺน่อย",
+                    "word": "หน่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Bread with fried bean sauce.",
+            "id": 445806,
+            "phonetic": "ขะ-หฺนม ปัง กับ ถั่ว ทอด ปฺรุง รด",
+            "thaiSentence": "ขนมปังกับถั่วทอดปรุงรส",
+            "thaiSentenceSpaced": " ขนมปัง กับ ถั่ว ทอด ปรุงรส ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bread ; biscuit"
+                        }
+                    ],
+                    "phonetic": "ขะ-หฺนม ปัง",
+                    "word": "ขนมปัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "with ; together with"
+                        }
+                    ],
+                    "phonetic": "กับ",
+                    "word": "กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bean ; pea ; nut"
+                        }
+                    ],
+                    "phonetic": "ถั่ว",
+                    "word": "ถั่ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] fry"
+                        },
+                        {
+                            "meaning": "[to be] deep fried"
+                        },
+                        {
+                            "meaning": "[to] extend ; stretch out ; cast out"
+                        }
+                    ],
+                    "phonetic": "ทอด",
+                    "word": "ทอด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] flavor ; season"
+                        }
+                    ],
+                    "phonetic": "ปฺรุง รด",
+                    "word": "ปรุงรส"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 9773,
+        "exampleSentences": [
+            {
+                "engSentence": "Try my lovely nuts ?",
+                "id": 110805,
+                "thaiSentence": "ลองถั่วทอดพลอดรักของผมหน่อยไหม",
+                "thaiSentenceSpaced": " ลอง ถั่ว ทอด พลอดรัก ของ ผม หน่อย ไหม "
+            },
+            {
+                "engSentence": "Bread with fried bean sauce.",
+                "id": 445806,
+                "thaiSentence": "ขนมปังกับถั่วทอดปรุงรส",
+                "thaiSentenceSpaced": " ขนมปัง กับ ถั่ว ทอด ปรุงรส "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1320934,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "[to be] deep fried",
+                        "word": "deep fried"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 47147,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 97327,
+                        "legacyWordId": 1414563,
+                        "meaning": "Cordon Bleu",
+                        "parentId": 97327,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺมู ทอด กฺรอบ กอ-ดอน-บฺลู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หมูทอดกรอบกอร์ดอนบลู"
+                    }
+                ],
+                "explanation": null,
+                "id": 47147,
+                "isUncommon": false,
+                "meaning": "[to be] deep fried",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "ทอด"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] extend",
+                        "word": "extend"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "stretch out",
+                        "word": "stretch out"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "cast out",
+                        "word": "cast out"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 47149,
+                        "corpusScore": 3568,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17459,
+                        "legacyWordId": 1319488,
+                        "meaning": "[to] broadcast ; transmit ; relay",
+                        "parentId": 17459,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถ่าย ทอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถ่ายทอด"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 1679,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26834,
+                        "legacyWordId": 1408679,
+                        "meaning": "[to] inherit ; succeed to ; carry on",
+                        "parentId": 26834,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สืบ ทอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สืบทอด"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 558,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16038,
+                        "legacyWordId": 1320947,
+                        "meaning": "[to] neglect ; abandon ; desert",
+                        "parentId": 16038,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทอด ทิ้ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดทิ้ง"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 504,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "Thot Kathin is the annual merit-making ceremony in which new yellow robes are presented to Buddhist monks by laymen. It takes places in October, after ออกพรรษา and lasts for one month. It's not uncommon for Thai people to travel great distances over Thailand to take part in Thot Kathin ceremonies.",
+                        "hasSoundFile": false,
+                        "id": 46127,
+                        "legacyWordId": 1320938,
+                        "meaning": "Thot Kathin",
+                        "parentId": 46127,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทอด กะ-ถิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดกฐิน"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 332,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12869,
+                        "legacyWordId": 1308838,
+                        "meaning": "[to] be descended ; be inherited ; be handed down",
+                        "parentId": 12869,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตก ทอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตกทอด"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 323,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33408,
+                        "legacyWordId": 1320944,
+                        "meaning": "[to] lie ; lie down",
+                        "parentId": 33408,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทอด ตัว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดตัว"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 112,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15790,
+                        "legacyWordId": 1320952,
+                        "meaning": "[to] make and off-season offer",
+                        "parentId": 15790,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทอด พ่า ป่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดผ้าป่า"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 109,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26282,
+                        "legacyWordId": 1320943,
+                        "meaning": "[to] sell by auction",
+                        "parentId": 26282,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทอด ตะ-หฺลาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดตลาด"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 70,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16419,
+                        "legacyWordId": 1320948,
+                        "meaning": "[to] make the royal bed",
+                        "parentId": 16419,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทอด ที่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดที่"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 55,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17285,
+                        "legacyWordId": 1320959,
+                        "meaning": "[to] cast anchor ; drop anchor",
+                        "parentId": 17285,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทอด สะ-หฺมอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดสมอ"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 52,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23940,
+                        "legacyWordId": 1320966,
+                        "meaning": "[to] get lost in day-dreams ; be lost in day-dreams",
+                        "parentId": 23940,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทอด อา-รม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดอารมณ์"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 38,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "or otherwise pronounce sounds longer than they should be",
+                        "hasSoundFile": false,
+                        "id": 394490,
+                        "legacyWordId": 1320962,
+                        "meaning": "[to] drawl ; slur",
+                        "parentId": 394490,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทอด เสียง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดเสียง"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 37,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16716,
+                        "legacyWordId": 1320950,
+                        "meaning": "stroll ; promenade ; saunter",
+                        "parentId": 16716,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทอด น่อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดน่อง"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 34,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15902,
+                        "legacyWordId": 1320961,
+                        "meaning": "[to] cast a look ; look at",
+                        "parentId": 15902,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทอด สาย ตา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดสายตา"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 25,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1067,
+                        "legacyWordId": 1320939,
+                        "meaning": "[to] stretch oneself on",
+                        "parentId": 1067,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทอด กาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดกาย"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 25,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24079,
+                        "legacyWordId": 1320939,
+                        "meaning": "[to] be a gold-digger",
+                        "parentId": 24079,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทอด กาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดกาย"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 24,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16337,
+                        "legacyWordId": 1320960,
+                        "meaning": "[to] encourage",
+                        "parentId": 16337,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทอด สะ-พาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดสะพาน"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 22,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21650,
+                        "legacyWordId": 1320949,
+                        "meaning": "[to] relinquish responsibility",
+                        "parentId": 21650,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทอด ทุ-ระ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดธุระ"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 21,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11001,
+                        "legacyWordId": 1304462,
+                        "meaning": "[to] implicate ; blame on the other ; impeach",
+                        "parentId": 11001,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ซัด ทอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซัดทอด"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 21,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16638,
+                        "legacyWordId": 1320965,
+                        "meaning": "[to] throw a net ; cast a net",
+                        "parentId": 16638,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทอด แห",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดแห"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 19,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15620,
+                        "legacyWordId": 1320967,
+                        "meaning": "[to] despair ; be hopeless",
+                        "parentId": 15620,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทอด อา-ไล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดอาลัย"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 17,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15098,
+                        "legacyWordId": 1320945,
+                        "meaning": "[to] look around",
+                        "parentId": 15098,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทอด ตา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดตา"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 13,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15330,
+                        "legacyWordId": 1320942,
+                        "meaning": "[to] cast a shadow ; throw a shadow ; shade",
+                        "parentId": 15330,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทอด เงา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดเงา"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 9,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15211,
+                        "legacyWordId": 1320946,
+                        "meaning": "[to] sigh",
+                        "parentId": 15211,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทอด ถอน ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดถอนใจ"
+                    },
+                    {
+                        "childId": 47149,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 88613,
+                        "legacyWordId": 1309105,
+                        "meaning": "spanning tree",
+                        "parentId": 88613,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ต้น ไม้ แบบ ทอด ข้าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ต้นไม้แบบทอดข้าม"
+                    }
+                ],
+                "explanation": null,
+                "id": 47149,
+                "isUncommon": false,
+                "meaning": "[to] extend ; stretch out ; cast out",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ทอด"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] fry",
+                        "word": "fry"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 15855,
+                        "corpusScore": 169,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23424,
+                        "legacyWordId": 1274735,
+                        "meaning": "fried chicken",
+                        "parentId": 23424,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไก่ ทอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไก่ทอด"
+                    },
+                    {
+                        "childId": 15855,
+                        "corpusScore": 88,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16052,
+                        "legacyWordId": 1320954,
+                        "meaning": "fried fish patty",
+                        "parentId": 16052,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทอด มัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดมัน"
+                    },
+                    {
+                        "childId": 15855,
+                        "corpusScore": 39,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29231,
+                        "legacyWordId": 1278260,
+                        "meaning": "omelette ; scramble egg",
+                        "parentId": 29231,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไข่ ทอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไข่ทอด"
+                    },
+                    {
+                        "childId": 15855,
+                        "corpusScore": 25,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 97347,
+                        "legacyWordId": 1265130,
+                        "meaning": "deepfriend banana",
+                        "parentId": 97347,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺล้วย ทอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กล้วยทอด"
+                    },
+                    {
+                        "childId": 15855,
+                        "corpusScore": 22,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21364,
+                        "legacyWordId": 1383785,
+                        "meaning": "French fries ; fried potatoes",
+                        "parentId": 21364,
+                        "partOfSpeech": "Noun",
+                        "t2e": "มัน ฝะ-หฺรั่ง ทอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มันฝรั่งทอด"
+                    },
+                    {
+                        "childId": 15855,
+                        "corpusScore": 19,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15959,
+                        "legacyWordId": 1320957,
+                        "meaning": "morning glory",
+                        "parentId": 15959,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทอด ยอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทอดยอด"
+                    },
+                    {
+                        "childId": 15855,
+                        "corpusScore": 1,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25297,
+                        "legacyWordId": 1272842,
+                        "meaning": "fried prawn balls",
+                        "parentId": 25297,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กุ้ง-ชุบ-แป้ง-ทอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กุ้งชุบแป้งทอด"
+                    },
+                    {
+                        "childId": 15855,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23303,
+                        "legacyWordId": 1304872,
+                        "meaning": "fried spare-ribs",
+                        "parentId": 23303,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ซี่ โค รง หฺมู ทอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซี่โครงหมูทอด"
+                    },
+                    {
+                        "childId": 15855,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 599063,
+                        "legacyWordId": 1285713,
+                        "meaning": "vacuum fryer",
+                        "parentId": 599063,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เคฺรื่อง ทอด สูน-ยา-กาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เครื่องทอดสูญญากาศ"
+                    }
+                ],
+                "explanation": null,
+                "id": 15855,
+                "isUncommon": false,
+                "meaning": "[to] fry",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ทอด"
+            }
+        ],
+        "t2e": "ทอด",
+        "verified": null,
+        "word": "ทอด"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

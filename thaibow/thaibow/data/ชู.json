@@ -1,0 +1,485 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "No . I won't cheat.",
+            "id": 61381,
+            "phonetic": "ไม่ · ฉัน ไม่ เจ้า ชู",
+            "thaiSentence": "ไม่ ฉันไม่เจ้าชู",
+            "thaiSentenceSpaced": " ไม่  ·  ฉัน ไม่ เจ้า ชู ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "prince ; princess ; lord"
+                        },
+                        {
+                            "meaning": "owner ; possessor"
+                        },
+                        {
+                            "meaning": " <i>(prefix used before names of children, inferiors or subordinates)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a prefix showing something someone does skillfully or has frequently)</i>"
+                        }
+                    ],
+                    "phonetic": "เจ้า",
+                    "word": "เจ้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] raise ; lift ; boost"
+                        }
+                    ],
+                    "phonetic": "ชู",
+                    "word": "ชู"
+                }
+            ]
+        },
+        {
+            "engSentence": "Raise your right hand.",
+            "id": 295907,
+            "phonetic": "ชู มือ ขฺวา หฺน่อย",
+            "thaiSentence": "ชูมือขวาหน่อย",
+            "thaiSentenceSpaced": " ชู มือขวา หน่อย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] raise one's hand ; lift one's hand"
+                        }
+                    ],
+                    "phonetic": "ชู มือ",
+                    "word": "ชูมือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "right"
+                        }
+                    ],
+                    "phonetic": "ขฺวา",
+                    "word": "ขวา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle added to soften a request or command)</i>"
+                        },
+                        {
+                            "meaning": "a little ; a little bit"
+                        }
+                    ],
+                    "phonetic": "หฺน่อย",
+                    "word": "หน่อย"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 3756,
+        "exampleSentences": [
+            {
+                "engSentence": "No . I won't cheat.",
+                "id": 61381,
+                "thaiSentence": "ไม่ ฉันไม่เจ้าชู",
+                "thaiSentenceSpaced": " ไม่  &middot;  ฉัน ไม่ เจ้า ชู "
+            },
+            {
+                "engSentence": "Raise your right hand.",
+                "id": 295907,
+                "thaiSentence": "ชูมือขวาหน่อย",
+                "thaiSentenceSpaced": " ชู มือขวา หน่อย "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1293882,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] raise",
+                        "word": "raise"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "lift",
+                        "word": "lift"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "boost",
+                        "word": "boost"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 12297,
+                        "corpusScore": 333,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11951,
+                        "legacyWordId": 1294089,
+                        "meaning": "[to] praise ; glorify ; exalt",
+                        "parentId": 11951,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เชิด ชู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เชิดชู"
+                    },
+                    {
+                        "childId": 12297,
+                        "corpusScore": 203,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12423,
+                        "legacyWordId": 1293892,
+                        "meaning": "lifebuoy ; life preserver ; parachute",
+                        "parentId": 12423,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชู ชีบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชูชีพ"
+                    },
+                    {
+                        "childId": 12297,
+                        "corpusScore": 133,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11461,
+                        "legacyWordId": 1293898,
+                        "meaning": "flavour ; seasoning powder",
+                        "parentId": 11461,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชู รด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชูรส"
+                    },
+                    {
+                        "childId": 12297,
+                        "corpusScore": 108,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43811,
+                        "legacyWordId": 1329889,
+                        "meaning": "vinegar",
+                        "parentId": 43811,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้าม ส้ม สาย ชู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น้ำส้มสายชู"
+                    },
+                    {
+                        "childId": 12297,
+                        "corpusScore": 77,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13292,
+                        "legacyWordId": 1293889,
+                        "meaning": "[to] encourage ; inspire ; hearten",
+                        "parentId": 13292,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชู ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชูใจ"
+                    },
+                    {
+                        "childId": 12297,
+                        "corpusScore": 69,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14614,
+                        "legacyWordId": 1456632,
+                        "meaning": "[to] take care of ; cherish ; support",
+                        "parentId": 14614,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อุ้ม ชู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อุ้มชู"
+                    },
+                    {
+                        "childId": 12297,
+                        "corpusScore": 63,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10565,
+                        "legacyWordId": 1293888,
+                        "meaning": "[to] be conceited ; be arrogant ; be proud",
+                        "parentId": 10565,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชู คอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชูคอ"
+                    },
+                    {
+                        "childId": 12297,
+                        "corpusScore": 56,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "actor or actress",
+                        "hasSoundFile": false,
+                        "id": 11571,
+                        "legacyWordId": 1293900,
+                        "meaning": "lead",
+                        "parentId": 11571,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชู โรง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชูโรง"
+                    },
+                    {
+                        "childId": 12297,
+                        "corpusScore": 55,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2406,
+                        "legacyWordId": 1293886,
+                        "meaning": "[to] raise one's spirits ; enthuse",
+                        "parentId": 2406,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชู กำ-ลัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชูกำลัง"
+                    },
+                    {
+                        "childId": 12297,
+                        "corpusScore": 44,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12212,
+                        "legacyWordId": 1293897,
+                        "meaning": "[to] raise one's hand ; lift one's hand",
+                        "parentId": 12212,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชู มือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชูมือ"
+                    },
+                    {
+                        "childId": 12297,
+                        "corpusScore": 39,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18342,
+                        "legacyWordId": 1284280,
+                        "meaning": "[to] support ; maintain ; sustain",
+                        "parentId": 18342,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ค้ำ ชู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ค้ำชู"
+                    },
+                    {
+                        "childId": 12297,
+                        "corpusScore": 10,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397768,
+                        "legacyWordId": 1293905,
+                        "meaning": "[to] hold ; occupy",
+                        "parentId": 397768,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชู ไว้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชูไว้"
+                    },
+                    {
+                        "childId": 12297,
+                        "corpusScore": 8,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11110,
+                        "legacyWordId": 1294094,
+                        "meaning": "[to] be the showpiece ; be the prestige of",
+                        "parentId": 11110,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เชิด น่า ชู ตา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เชิดหน้าชูตา"
+                    },
+                    {
+                        "childId": 12297,
+                        "corpusScore": 6,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32949,
+                        "legacyWordId": 1293885,
+                        "meaning": "[to] emit ; give out an odor",
+                        "parentId": 32949,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชู กฺลิ่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชูกลิ่น"
+                    },
+                    {
+                        "childId": 12297,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12247,
+                        "legacyWordId": 1293907,
+                        "meaning": "[to] make prominent ; be the pride of",
+                        "parentId": 12247,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชู น่า ชู ตา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชูหน้าชูตา"
+                    },
+                    {
+                        "childId": 12297,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12247,
+                        "legacyWordId": 1293907,
+                        "meaning": "[to] make prominent ; be the pride of",
+                        "parentId": 12247,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชู น่า ชู ตา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชูหน้าชูตา"
+                    },
+                    {
+                        "childId": 12297,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "It's a type of poetry",
+                        "hasSoundFile": false,
+                        "id": 46258,
+                        "legacyWordId": 1292428,
+                        "meaning": "",
+                        "parentId": 46258,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ช้าง ชู งวง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ช้างชูงวง"
+                    },
+                    {
+                        "childId": 12297,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": "The name of a village in Kamphaeng Phet province",
+                        "hasSoundFile": false,
+                        "id": 659842,
+                        "legacyWordId": 1293569,
+                        "meaning": "Chum Chon Phet Chu Sap",
+                        "parentId": 659842,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม ชน เพ็ด ชู ซับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนเพชรชูทรัพย์"
+                    }
+                ],
+                "explanation": null,
+                "id": 12297,
+                "isUncommon": false,
+                "meaning": "[to] raise ; lift ; boost",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ชู"
+            }
+        ],
+        "t2e": "ชู",
+        "verified": null,
+        "word": "ชู"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

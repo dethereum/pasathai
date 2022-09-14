@@ -1,0 +1,563 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "It must be really expensive.",
+            "id": 24109,
+            "phonetic": "มัน ต้อง แพง แน่ แน่ · เลย",
+            "thaiSentence": "มันต้องแพงแน่ๆ เลย",
+            "thaiSentenceSpaced": " มัน ต้อง แพง แน่ๆ เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] expensive ; high-priced"
+                        }
+                    ],
+                    "phonetic": "แพง",
+                    "word": "แพง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "certainly ; surely ; definitely"
+                        }
+                    ],
+                    "phonetic": "แน่ แน่",
+                    "word": "แน่ๆ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Isn't that expensive ?",
+            "id": 87997,
+            "phonetic": "นั่น ไม่ แพง เหฺรอ",
+            "thaiSentence": "นั่นไม่แพงเหรอ",
+            "thaiSentenceSpaced": " นั่น ไม่ แพง เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั่น",
+                    "word": "นั่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] expensive ; high-priced"
+                        }
+                    ],
+                    "phonetic": "แพง",
+                    "word": "แพง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "They are very expensive.",
+            "id": 128488,
+            "phonetic": "มัน แพง มาก มาก นะ",
+            "thaiSentence": "มันแพงมากมากนะ",
+            "thaiSentenceSpaced": " มัน แพง มาก มาก นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] expensive ; high-priced"
+                        }
+                    ],
+                    "phonetic": "แพง",
+                    "word": "แพง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much ; a lot ; very"
+                        }
+                    ],
+                    "phonetic": "มาก",
+                    "word": "มาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much ; a lot ; very"
+                        }
+                    ],
+                    "phonetic": "มาก",
+                    "word": "มาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am a bit expensive.",
+            "id": 130761,
+            "phonetic": "ตัว ผม รา-คา แพง นะ",
+            "thaiSentence": "ตัวผมราคาแพงนะ",
+            "thaiSentenceSpaced": " ตัว ผม ราคา แพง นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "body ; physique <i>(ตัว is a classifier every type of animal, all pieces of clothing (except ones that come in pairs, but including trousers), chairs, tables and other pieces of furniture, letters and numbers of the alphabet, and also functions as a general purpose classifier for things and objects.)</i>"
+                        },
+                        {
+                            "meaning": "self ; oneself"
+                        },
+                        {
+                            "meaning": " <i>(prefix for an actor or character)</i>"
+                        },
+                        {
+                            "meaning": "character ; letter ; entity"
+                        },
+                        {
+                            "meaning": " <i>(prefix meaning \"someone or something that does/is...\")</i>"
+                        }
+                    ],
+                    "phonetic": "ตัว",
+                    "word": "ตัว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "price ; cost ; value"
+                        }
+                    ],
+                    "phonetic": "รา-คา",
+                    "word": "ราคา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] expensive ; high-priced"
+                        }
+                    ],
+                    "phonetic": "แพง",
+                    "word": "แพง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is that expensive ?",
+            "id": 219512,
+            "phonetic": "แพง มาก เลย หฺรือ",
+            "thaiSentence": "แพงมากเลยหรือ",
+            "thaiSentenceSpaced": " แพง มากเลย หรือ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] expensive ; high-priced"
+                        }
+                    ],
+                    "phonetic": "แพง",
+                    "word": "แพง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much"
+                        }
+                    ],
+                    "phonetic": "มาก เลย",
+                    "word": "มากเลย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        },
+                        {
+                            "meaning": "or"
+                        }
+                    ],
+                    "phonetic": "หฺรือ",
+                    "word": "หรือ"
+                }
+            ]
+        },
+        {
+            "engSentence": "This looks very expensive.",
+            "id": 273402,
+            "phonetic": "นี่ ท่า จะ แพง มาก เลย นะ คฺรับ",
+            "thaiSentence": "นี่ท่าจะแพงมากเลยนะครับ",
+            "thaiSentenceSpaced": " นี่ ท่าจะ แพง มากเลย นะ ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "possibly ; perhaps ; probably ; maybe"
+                        }
+                    ],
+                    "phonetic": "ท่า จะ",
+                    "word": "ท่าจะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] expensive ; high-priced"
+                        }
+                    ],
+                    "phonetic": "แพง",
+                    "word": "แพง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much"
+                        }
+                    ],
+                    "phonetic": "มาก เลย",
+                    "word": "มากเลย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 7117,
+        "exampleSentences": [
+            {
+                "engSentence": "It must be really expensive.",
+                "id": 24109,
+                "thaiSentence": "มันต้องแพงแน่ๆ เลย",
+                "thaiSentenceSpaced": " มัน ต้อง แพง แน่ๆ เลย "
+            },
+            {
+                "engSentence": "Isn't that expensive ?",
+                "id": 87997,
+                "thaiSentence": "นั่นไม่แพงเหรอ",
+                "thaiSentenceSpaced": " นั่น ไม่ แพง เหรอ "
+            },
+            {
+                "engSentence": "They are very expensive.",
+                "id": 128488,
+                "thaiSentence": "มันแพงมากมากนะ",
+                "thaiSentenceSpaced": " มัน แพง มาก มาก นะ "
+            },
+            {
+                "engSentence": "I am a bit expensive.",
+                "id": 130761,
+                "thaiSentence": "ตัวผมราคาแพงนะ",
+                "thaiSentenceSpaced": " ตัว ผม ราคา แพง นะ "
+            },
+            {
+                "engSentence": "It is that expensive ?",
+                "id": 219512,
+                "thaiSentence": "แพงมากเลยหรือ",
+                "thaiSentenceSpaced": " แพง มากเลย หรือ "
+            },
+            {
+                "engSentence": "This looks very expensive.",
+                "id": 273402,
+                "thaiSentence": "นี่ท่าจะแพงมากเลยนะครับ",
+                "thaiSentenceSpaced": " นี่ ท่าจะ แพง มากเลย นะ ครับ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1379867,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] expensive",
+                        "word": "expensive"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "high-priced",
+                        "word": "high-priced"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 102532,
+                        "corpusScore": 32,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29838,
+                        "legacyWordId": 1276354,
+                        "meaning": "dearth ; deficiency ; famine",
+                        "parentId": 29838,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าว ยาก หฺมาก แพง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้าวยากหมากแพง"
+                    },
+                    {
+                        "childId": 102532,
+                        "corpusScore": 17,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41452,
+                        "legacyWordId": 1379879,
+                        "meaning": "extremely expensive",
+                        "parentId": 41452,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "แพง ลิบ ลิ่ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แพงลิบลิ่ว"
+                    },
+                    {
+                        "childId": 102532,
+                        "corpusScore": 13,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21163,
+                        "legacyWordId": 1284810,
+                        "meaning": "[to] overcharge",
+                        "parentId": 21163,
+                        "partOfSpeech": "Verb",
+                        "t2e": "คิด แพง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คิดแพง"
+                    },
+                    {
+                        "childId": 102532,
+                        "corpusScore": 5,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 700536,
+                        "legacyWordId": 1379881,
+                        "meaning": "Banphaeng Si",
+                        "parentId": 700536,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แพง สี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แพงศรี"
+                    },
+                    {
+                        "childId": 102532,
+                        "corpusScore": 4,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395073,
+                        "legacyWordId": 1284818,
+                        "meaning": "[to] overcharge",
+                        "parentId": 395073,
+                        "partOfSpeech": "Verb",
+                        "t2e": "คิด รา-คา แพง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คิดราคาแพง"
+                    },
+                    {
+                        "childId": 102532,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399685,
+                        "legacyWordId": 1381585,
+                        "meaning": "famine ; shortage of food ; starvation",
+                        "parentId": 399685,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พา-วะ ข้าว ยา หฺมาก แพง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ภาวะข้าวยาหมากแพง"
+                    }
+                ],
+                "explanation": null,
+                "id": 102532,
+                "isUncommon": false,
+                "meaning": "[to be] expensive ; high-priced",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "แพง"
+            }
+        ],
+        "t2e": "แพง",
+        "verified": null,
+        "word": "แพง"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

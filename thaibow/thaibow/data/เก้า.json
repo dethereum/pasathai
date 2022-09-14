@@ -1,0 +1,440 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "Nine or ten hours.",
+            "id": 56520,
+            "phonetic": "ปฺระ-มาน เก้า ถึง สิบ ชั่ว โมง",
+            "thaiSentence": "ประมาณเก้าถึงสิบชั่วโมง",
+            "thaiSentenceSpaced": " ประมาณ เก้า ถึง สิบ ชั่วโมง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "about ; around ; approximately"
+                        }
+                    ],
+                    "phonetic": "ปฺระ-มาน",
+                    "word": "ประมาณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "nine"
+                        }
+                    ],
+                    "phonetic": "เก้า",
+                    "word": "เก้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] reach ; arrive ; get to"
+                        },
+                        {
+                            "meaning": "even though ; even if"
+                        },
+                        {
+                            "meaning": "about ; of"
+                        }
+                    ],
+                    "phonetic": "ถึง",
+                    "word": "ถึง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "ten"
+                        }
+                    ],
+                    "phonetic": "สิบ",
+                    "word": "สิบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hour"
+                        }
+                    ],
+                    "phonetic": "ชั่ว โมง",
+                    "word": "ชั่วโมง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Yeah . Nine, for sure.",
+            "id": 566312,
+            "phonetic": "ไช่ ที่ แน่ แน่ · มี · เก้า คน",
+            "thaiSentence": "ใช่ ที่แน่ๆ มี เก้าคน",
+            "thaiSentenceSpaced": " ใช่ ที่ แน่ๆ มี  ·  เก้า คน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yes"
+                        }
+                    ],
+                    "phonetic": "ไช่",
+                    "word": "ใช่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "certainly ; surely ; definitely"
+                        }
+                    ],
+                    "phonetic": "แน่ แน่",
+                    "word": "แน่ๆ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "nine"
+                        }
+                    ],
+                    "phonetic": "เก้า",
+                    "word": "เก้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 776,
+        "exampleSentences": [
+            {
+                "engSentence": "Nine or ten hours.",
+                "id": 56520,
+                "thaiSentence": "ประมาณเก้าถึงสิบชั่วโมง",
+                "thaiSentenceSpaced": " ประมาณ เก้า ถึง สิบ ชั่วโมง "
+            },
+            {
+                "engSentence": "Yeah . Nine, for sure.",
+                "id": 566312,
+                "thaiSentence": "ใช่ ที่แน่ๆ มี เก้าคน",
+                "thaiSentenceSpaced": " ใช่ ที่ แน่ๆ มี  &middot;  เก้า คน "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1273640,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "nine",
+                        "word": "nine"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 29613,
+                        "corpusScore": 94,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102694,
+                        "legacyWordId": 1273690,
+                        "meaning": "ninety ; 90",
+                        "parentId": 102694,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "เก้า สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เก้าสิบ"
+                    },
+                    {
+                        "childId": 29613,
+                        "corpusScore": 91,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102688,
+                        "legacyWordId": 1408316,
+                        "meaning": "nineteen",
+                        "parentId": 102688,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิบ เก้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบเก้า"
+                    },
+                    {
+                        "childId": 29613,
+                        "corpusScore": 65,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102741,
+                        "legacyWordId": 1273675,
+                        "meaning": "9am",
+                        "parentId": 102741,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เก้า โมง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เก้าโมง"
+                    },
+                    {
+                        "childId": 29613,
+                        "corpusScore": 31,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102728,
+                        "legacyWordId": 1273692,
+                        "meaning": "nine hundred thousand ; 900,000",
+                        "parentId": 102728,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "เก้า แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เก้าแสน"
+                    },
+                    {
+                        "childId": 29613,
+                        "corpusScore": 22,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102719,
+                        "legacyWordId": 1273695,
+                        "meaning": "ninety thousand ; 90,000",
+                        "parentId": 102719,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "เก้า หฺมื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เก้าหมื่น"
+                    },
+                    {
+                        "childId": 29613,
+                        "corpusScore": 20,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102709,
+                        "legacyWordId": 1273671,
+                        "meaning": "nine thousand ; 9000",
+                        "parentId": 102709,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "เก้า พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เก้าพัน"
+                    },
+                    {
+                        "childId": 29613,
+                        "corpusScore": 19,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102740,
+                        "legacyWordId": 1273676,
+                        "meaning": "9am",
+                        "parentId": 102740,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เก้า โมง เช้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เก้าโมงเช้า"
+                    },
+                    {
+                        "childId": 29613,
+                        "corpusScore": 18,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102738,
+                        "legacyWordId": 1273679,
+                        "meaning": "nine hundred ; 900",
+                        "parentId": 102738,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "เก้า ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เก้าร้อย"
+                    },
+                    {
+                        "childId": 29613,
+                        "corpusScore": 4,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32726,
+                        "legacyWordId": 1320565,
+                        "meaning": "nine passages of the body",
+                        "parentId": 32726,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทะ-วาน ทั้ง เก้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทวารทั้งเก้า"
+                    },
+                    {
+                        "childId": 29613,
+                        "corpusScore": 4,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398371,
+                        "legacyWordId": 1320776,
+                        "meaning": "pure gold ; real gold",
+                        "parentId": 398371,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทอง เนื้อ เก้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทองเนื้อเก้า"
+                    },
+                    {
+                        "childId": 29613,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102737,
+                        "legacyWordId": 1273685,
+                        "meaning": "nine million ; 9,000,000",
+                        "parentId": 102737,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "เก้า ล้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เก้าล้าน"
+                    },
+                    {
+                        "childId": 29613,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34017,
+                        "legacyWordId": 1332324,
+                        "meaning": "[to] inform ; notify ; apprise",
+                        "parentId": 34017,
+                        "partOfSpeech": "Verb",
+                        "t2e": "บอก เล่า เก้า สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บอกเล่าเก้าสิบ"
+                    },
+                    {
+                        "childId": 29613,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15337,
+                        "legacyWordId": 1273704,
+                        "meaning": "nonagon ; enneagon",
+                        "parentId": 15337,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เก้า เหฺลี่ยม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เก้าเหลี่ยม"
+                    },
+                    {
+                        "childId": 29613,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398640,
+                        "legacyWordId": 1327266,
+                        "meaning": "pure gold ; real gold",
+                        "parentId": 398640,
+                        "partOfSpeech": "Noun",
+                        "t2e": "นบ-พะ-คุน เก้า น้าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นพคุณเก้าน้ำ"
+                    }
+                ],
+                "explanation": null,
+                "id": 29613,
+                "isUncommon": false,
+                "meaning": "nine",
+                "partOfSpeech": "Quantifier",
+                "usage": "",
+                "word": "เก้า"
+            }
+        ],
+        "t2e": "เก้า",
+        "verified": null,
+        "word": "เก้า"
+    },
+    "greenBarCount": 2,
+    "pageUrl": "",
+    "type": "thai-word"
+}

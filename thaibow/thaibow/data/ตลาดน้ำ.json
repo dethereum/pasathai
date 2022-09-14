@@ -1,0 +1,56 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 1360,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1309625,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 15486,
+                        "corpusScore": 142976,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 15486,
+                        "legacyWordId": 1329399,
+                        "meaning": "water ; fluid ; liquid",
+                        "parentId": 17310,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้าม",
+                        "usage": "",
+                        "verified": "น้าม",
+                        "word": "น้ำ"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "floating market",
+                        "word": "floating market"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 17310,
+                "isUncommon": false,
+                "meaning": "floating market",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ตลาดน้ำ"
+            }
+        ],
+        "t2e": "ตะ-หฺลาด น้าม",
+        "verified": null,
+        "word": "ตลาดน้ำ"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

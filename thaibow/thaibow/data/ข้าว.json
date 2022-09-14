@@ -1,0 +1,854 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Do you like rice balls ?",
+            "id": 73563,
+            "phonetic": "คุน ชอบ ข้าว ปั้น ไหฺม",
+            "thaiSentence": "คุณชอบข้าวปั้นไหม",
+            "thaiSentenceSpaced": " คุณ ชอบ ข้าว ปั้น ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] like"
+                        }
+                    ],
+                    "phonetic": "ชอบ",
+                    "word": "ชอบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "rice <i>(As rice is the staple of the Thai diet, ข้าว is often used to refer to food or meals in a general sense too.)</i>"
+                        }
+                    ],
+                    "phonetic": "ข้าว",
+                    "word": "ข้าว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] mold ; sculpt ; form"
+                        },
+                        {
+                            "meaning": "lump ; mass"
+                        }
+                    ],
+                    "phonetic": "ปั้น",
+                    "word": "ปั้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Want some popcorn ?",
+            "id": 74655,
+            "phonetic": "ต้อง กาน ข้าว โพ ด หฺรือ เปฺล่า",
+            "thaiSentence": "ต้องการข้าวโพดหรือเปล่า",
+            "thaiSentenceSpaced": " ต้องการ ข้าว โพ ด หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; need ; require"
+                        }
+                    ],
+                    "phonetic": "ต้อง กาน",
+                    "word": "ต้องการ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "rice <i>(As rice is the staple of the Thai diet, ข้าว is often used to refer to food or meals in a general sense too.)</i>"
+                        }
+                    ],
+                    "phonetic": "ข้าว",
+                    "word": "ข้าว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bo tree ; bothi tree ; pipal tree"
+                        }
+                    ],
+                    "phonetic": "โพ",
+                    "word": "โพ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "dor dek <i>(ด - the twentieth letter in the Thai alphabet)</i>"
+                        }
+                    ],
+                    "phonetic": "ด",
+                    "word": "ด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is burnt rice.",
+            "id": 78063,
+            "phonetic": "ข้าว ไม่ ค่ะ",
+            "thaiSentence": "ข้าวไหม้ค่ะ",
+            "thaiSentenceSpaced": " ข้าว ไหม้ ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "rice <i>(As rice is the staple of the Thai diet, ข้าว is often used to refer to food or meals in a general sense too.)</i>"
+                        }
+                    ],
+                    "phonetic": "ข้าว",
+                    "word": "ข้าว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] burn ; be on fire ; be ablaze"
+                        },
+                        {
+                            "meaning": "[to be] burnt ; scorched ; charred"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไหม้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am making porridge.",
+            "id": 80141,
+            "phonetic": "ฉัน กำ-ลัง ทำ ข้าว ต้ม หฺยู่",
+            "thaiSentence": "ฉันกำลังทำข้าวต้มอยู่",
+            "thaiSentenceSpaced": " ฉัน กำลัง ทำ ข้าว ต้ม อยู่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "power ; energy ; strength"
+                        },
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense)</i>"
+                        }
+                    ],
+                    "phonetic": "กำ-ลัง",
+                    "word": "กำลัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "rice <i>(As rice is the staple of the Thai diet, ข้าว is often used to refer to food or meals in a general sense too.)</i>"
+                        }
+                    ],
+                    "phonetic": "ข้าว",
+                    "word": "ข้าว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] boiled"
+                        },
+                        {
+                            "meaning": "[to] boil"
+                        }
+                    ],
+                    "phonetic": "ต้ม",
+                    "word": "ต้ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                }
+            ]
+        },
+        {
+            "engSentence": "You forgot your lunch box.",
+            "id": 86863,
+            "phonetic": "คุน ลืม ข้าว กฺล่อง นะ",
+            "thaiSentence": "คุณลืมข้าวกล่องนะ",
+            "thaiSentenceSpaced": " คุณ ลืม ข้าว กล่อง นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] forget"
+                        }
+                    ],
+                    "phonetic": "ลืม",
+                    "word": "ลืม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "rice <i>(As rice is the staple of the Thai diet, ข้าว is often used to refer to food or meals in a general sense too.)</i>"
+                        }
+                    ],
+                    "phonetic": "ข้าว",
+                    "word": "ข้าว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "box ; case ; casket"
+                        }
+                    ],
+                    "phonetic": "กฺล่อง",
+                    "word": "กล่อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What about fuse box ?",
+            "id": 100563,
+            "phonetic": "แล้ว ข้าว กฺล่อง ล่ะ",
+            "thaiSentence": "แล้วข้าวกล่องล่ะ",
+            "thaiSentenceSpaced": " แล้ว ข้าว กล่อง ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "rice <i>(As rice is the staple of the Thai diet, ข้าว is often used to refer to food or meals in a general sense too.)</i>"
+                        }
+                    ],
+                    "phonetic": "ข้าว",
+                    "word": "ข้าว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "box ; case ; casket"
+                        }
+                    ],
+                    "phonetic": "กฺล่อง",
+                    "word": "กล่อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 21003,
+        "exampleSentences": [
+            {
+                "engSentence": "Do you like rice balls ?",
+                "id": 73563,
+                "thaiSentence": "คุณชอบข้าวปั้นไหม",
+                "thaiSentenceSpaced": " คุณ ชอบ ข้าว ปั้น ไหม "
+            },
+            {
+                "engSentence": "Want some popcorn ?",
+                "id": 74655,
+                "thaiSentence": "ต้องการข้าวโพดหรือเปล่า",
+                "thaiSentenceSpaced": " ต้องการ ข้าว โพ ด หรือเปล่า "
+            },
+            {
+                "engSentence": "It is burnt rice.",
+                "id": 78063,
+                "thaiSentence": "ข้าวไหม้ค่ะ",
+                "thaiSentenceSpaced": " ข้าว ไหม้ ค่ะ "
+            },
+            {
+                "engSentence": "I am making porridge.",
+                "id": 80141,
+                "thaiSentence": "ฉันกำลังทำข้าวต้มอยู่",
+                "thaiSentenceSpaced": " ฉัน กำลัง ทำ ข้าว ต้ม อยู่ "
+            },
+            {
+                "engSentence": "You forgot your lunch box.",
+                "id": 86863,
+                "thaiSentence": "คุณลืมข้าวกล่องนะ",
+                "thaiSentenceSpaced": " คุณ ลืม ข้าว กล่อง นะ "
+            },
+            {
+                "engSentence": "What about fuse box ?",
+                "id": 100563,
+                "thaiSentence": "แล้วข้าวกล่องล่ะ",
+                "thaiSentenceSpaced": " แล้ว ข้าว กล่อง ล่ะ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1276275,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "rice",
+                        "word": "rice"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 48397,
+                        "corpusScore": 2570,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "Although this is literally \"to eat rice\" it's used as a general term for referring to eating meals.",
+                        "hasSoundFile": false,
+                        "id": 395472,
+                        "legacyWordId": 1272591,
+                        "meaning": "[to] eat",
+                        "parentId": 395472,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กิน ข้าว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กินข้าว"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 1320,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8950,
+                        "legacyWordId": 1266698,
+                        "meaning": "dishes ; course eaten with rice",
+                        "parentId": 8950,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กับ ข้าว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กับข้าว"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 1166,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "Sticky rice is most popular in Thailand's north-east (อีสาน) region. It's eaten with your hands, and often in combination with grilled chicken (ไก่ย่าง) and/or Som Tam (ส้มตำ).",
+                        "hasSoundFile": false,
+                        "id": 46410,
+                        "legacyWordId": 1276387,
+                        "meaning": "sticky rice",
+                        "parentId": 46410,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าว เหฺนียว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้าวเหนียว"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 1142,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28856,
+                        "legacyWordId": 1276286,
+                        "meaning": "things ; belongings ; goods",
+                        "parentId": 28856,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าว ของ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้าวของ"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 902,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29065,
+                        "legacyWordId": 1276372,
+                        "meaning": "rice",
+                        "parentId": 29065,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าว สาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้าวสาร"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 818,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "a meal",
+                        "hasSoundFile": false,
+                        "id": 45692,
+                        "legacyWordId": 1322202,
+                        "meaning": "[to] eat",
+                        "parentId": 45692,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทาน ข้าว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทานข้าว"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 656,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399093,
+                        "legacyWordId": 1369860,
+                        "meaning": "[to] farm",
+                        "parentId": 399093,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ปฺลูก ข้าว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลูกข้าว"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 454,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50239,
+                        "legacyWordId": 1276336,
+                        "meaning": "unhusked rice",
+                        "parentId": 50239,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าว เปฺลือก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้าวเปลือก"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 359,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50238,
+                        "legacyWordId": 1276279,
+                        "meaning": "brown rice ; husked rice ; cargo rice",
+                        "parentId": 50238,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าว กฺล้อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้าวกล้อง"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 298,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29751,
+                        "legacyWordId": 1276341,
+                        "meaning": "fried rice",
+                        "parentId": 29751,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าว ผัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้าวผัด"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 292,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29381,
+                        "legacyWordId": 1274145,
+                        "meaning": "[to] harvest ; reap ; mow",
+                        "parentId": 29381,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เกี่ยว ข้าว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกี่ยวข้าว"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 276,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29591,
+                        "legacyWordId": 1276355,
+                        "meaning": "dinner ; supper ; evening meal",
+                        "parentId": 29591,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าว เย็น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้าวเย็น"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 275,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6295,
+                        "legacyWordId": 1385144,
+                        "meaning": "rice kernel ; rice grain",
+                        "parentId": 6295,
+                        "partOfSpeech": "Noun",
+                        "t2e": "มะ-เล็ด ข้าว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เมล็ดข้าว"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 245,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23664,
+                        "legacyWordId": 1449495,
+                        "meaning": "[to] cook rice",
+                        "parentId": 23664,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หุง ข้าว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หุงข้าว"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 222,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29264,
+                        "legacyWordId": 1276375,
+                        "meaning": "wheat",
+                        "parentId": 29264,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าว สา-ลี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้าวสาลี"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 213,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "for cooking rice",
+                        "hasSoundFile": false,
+                        "id": 45028,
+                        "legacyWordId": 1414160,
+                        "meaning": "pot",
+                        "parentId": 45028,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ม่อ ข้าว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หม้อข้าว"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 207,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29301,
+                        "legacyWordId": 1276285,
+                        "meaning": "rice and curry ; rice mixed curry",
+                        "parentId": 29301,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าว แกง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้าวแกง"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 193,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397201,
+                        "legacyWordId": 1276295,
+                        "meaning": "breakfast",
+                        "parentId": 397201,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าว เช้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้าวเช้า"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 176,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "cooked rice in an oily or coconut sauce",
+                        "hasSoundFile": false,
+                        "id": 48399,
+                        "legacyWordId": 1276349,
+                        "meaning": "Khao Man",
+                        "parentId": 48399,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าว มัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้าวมัน"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 173,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28802,
+                        "legacyWordId": 1276366,
+                        "meaning": "cooked rice",
+                        "parentId": 28802,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าว สวย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้าวสวย"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 173,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397202,
+                        "legacyWordId": 1276321,
+                        "meaning": "lunch",
+                        "parentId": 397202,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าว เที่ยง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้าวเที่ยง"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 159,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "the water used when cooking rice",
+                        "hasSoundFile": false,
+                        "id": 50237,
+                        "legacyWordId": 1329448,
+                        "meaning": "water",
+                        "parentId": 50237,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้าม ข้าว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น้ำข้าว"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 153,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46418,
+                        "legacyWordId": 1273396,
+                        "meaning": "[to] harvest",
+                        "parentId": 46418,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เก็บ ข้าว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เก็บข้าว"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 147,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14057,
+                        "legacyWordId": 1389145,
+                        "meaning": "ear of rice ; ear of paddy",
+                        "parentId": 14057,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รวง ข้าว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รวงข้าว"
+                    },
+                    {
+                        "childId": 48397,
+                        "corpusScore": 129,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1308,
+                        "legacyWordId": 1276376,
+                        "meaning": "cooked rice",
+                        "parentId": 1308,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าว สุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้าวสุก"
+                    }
+                ],
+                "explanation": "As rice is the staple of the Thai diet, ข้าว is often used to refer to food or meals in a general sense too.",
+                "id": 48397,
+                "isUncommon": false,
+                "meaning": "rice",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ข้าว"
+            }
+        ],
+        "t2e": "ข้าว",
+        "verified": null,
+        "word": "ข้าว"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

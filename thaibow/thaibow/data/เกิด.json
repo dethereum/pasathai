@@ -1,0 +1,1316 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "So what happened ?",
+            "id": 1405,
+            "phonetic": "แล้ว · เกิด อะ-ไร ขึ้น",
+            "thaiSentence": "แล้ว เกิดอะไรขึ้น",
+            "thaiSentenceSpaced": " แล้ว  ·  เกิด อะไร ขึ้น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] happen ; occur ; take place"
+                        },
+                        {
+                            "meaning": "[to] be born ; take birth"
+                        }
+                    ],
+                    "phonetic": "เกิด",
+                    "word": "เกิด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] enter ; get on ; get in"
+                        },
+                        {
+                            "meaning": "[to] develop ; progress"
+                        },
+                        {
+                            "meaning": "[to] go up ; rise ; increase"
+                        },
+                        {
+                            "meaning": "up ; upward"
+                        }
+                    ],
+                    "phonetic": "ขึ้น",
+                    "word": "ขึ้น"
+                }
+            ]
+        },
+        {
+            "engSentence": "What is going on down there ?",
+            "id": 11312,
+            "phonetic": "เกิด อะ-ไร ข้าง ล่าง นั่น",
+            "thaiSentence": "เกิดอะไรข้างล่างนั่น",
+            "thaiSentenceSpaced": " เกิด อะไร ข้างล่าง นั่น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] happen ; occur ; take place"
+                        },
+                        {
+                            "meaning": "[to] be born ; take birth"
+                        }
+                    ],
+                    "phonetic": "เกิด",
+                    "word": "เกิด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "downstairs"
+                        },
+                        {
+                            "meaning": "below ; beneath ; under"
+                        }
+                    ],
+                    "phonetic": "ข้าง ล่าง",
+                    "word": "ข้างล่าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั่น",
+                    "word": "นั่น"
+                }
+            ]
+        },
+        {
+            "engSentence": "What's all this ?",
+            "id": 12691,
+            "phonetic": "นี่ เกิด อะ-ไร ขึ้น",
+            "thaiSentence": "นี่เกิดอะไรขึ้น",
+            "thaiSentenceSpaced": " นี่ เกิด อะไร ขึ้น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] happen ; occur ; take place"
+                        },
+                        {
+                            "meaning": "[to] be born ; take birth"
+                        }
+                    ],
+                    "phonetic": "เกิด",
+                    "word": "เกิด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] enter ; get on ; get in"
+                        },
+                        {
+                            "meaning": "[to] develop ; progress"
+                        },
+                        {
+                            "meaning": "[to] go up ; rise ; increase"
+                        },
+                        {
+                            "meaning": "up ; upward"
+                        }
+                    ],
+                    "phonetic": "ขึ้น",
+                    "word": "ขึ้น"
+                }
+            ]
+        },
+        {
+            "engSentence": "What is all this ?",
+            "id": 12697,
+            "phonetic": "นี่ เกิด อะ-ไร ขึ้น",
+            "thaiSentence": "นี่เกิดอะไรขึ้น",
+            "thaiSentenceSpaced": " นี่ เกิด อะไร ขึ้น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] happen ; occur ; take place"
+                        },
+                        {
+                            "meaning": "[to] be born ; take birth"
+                        }
+                    ],
+                    "phonetic": "เกิด",
+                    "word": "เกิด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] enter ; get on ; get in"
+                        },
+                        {
+                            "meaning": "[to] develop ; progress"
+                        },
+                        {
+                            "meaning": "[to] go up ; rise ; increase"
+                        },
+                        {
+                            "meaning": "up ; upward"
+                        }
+                    ],
+                    "phonetic": "ขึ้น",
+                    "word": "ขึ้น"
+                }
+            ]
+        },
+        {
+            "engSentence": "A decision is made.",
+            "id": 14557,
+            "phonetic": "เกิด กาน ตัด สิน ไจ",
+            "thaiSentence": "เกิดการตัดสินใจ",
+            "thaiSentenceSpaced": " เกิด การตัดสินใจ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] happen ; occur ; take place"
+                        },
+                        {
+                            "meaning": "[to] be born ; take birth"
+                        }
+                    ],
+                    "phonetic": "เกิด",
+                    "word": "เกิด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "decision"
+                        }
+                    ],
+                    "phonetic": "กาน ตัด สิน ไจ",
+                    "word": "การตัดสินใจ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What's wrong with me ?",
+            "id": 12034,
+            "phonetic": "เกิด อะ-ไร กับ ฉัน กัน นี่",
+            "thaiSentence": "เกิดอะไรกับฉันกันนี่",
+            "thaiSentenceSpaced": " เกิด อะไร กับ ฉัน กัน นี่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] happen ; occur ; take place"
+                        },
+                        {
+                            "meaning": "[to] be born ; take birth"
+                        }
+                    ],
+                    "phonetic": "เกิด",
+                    "word": "เกิด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "with ; together with"
+                        }
+                    ],
+                    "phonetic": "กับ",
+                    "word": "กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one another ; each other"
+                        },
+                        {
+                            "meaning": "together ; jointly"
+                        }
+                    ],
+                    "phonetic": "กัน",
+                    "word": "กัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 95771,
+        "exampleSentences": [
+            {
+                "engSentence": "So what happened ?",
+                "id": 1405,
+                "thaiSentence": "แล้ว เกิดอะไรขึ้น",
+                "thaiSentenceSpaced": " แล้ว  &middot;  เกิด อะไร ขึ้น "
+            },
+            {
+                "engSentence": "What is going on down there ?",
+                "id": 11312,
+                "thaiSentence": "เกิดอะไรข้างล่างนั่น",
+                "thaiSentenceSpaced": " เกิด อะไร ข้างล่าง นั่น "
+            },
+            {
+                "engSentence": "What's all this ?",
+                "id": 12691,
+                "thaiSentence": "นี่เกิดอะไรขึ้น",
+                "thaiSentenceSpaced": " นี่ เกิด อะไร ขึ้น "
+            },
+            {
+                "engSentence": "What is all this ?",
+                "id": 12697,
+                "thaiSentence": "นี่เกิดอะไรขึ้น",
+                "thaiSentenceSpaced": " นี่ เกิด อะไร ขึ้น "
+            },
+            {
+                "engSentence": "A decision is made.",
+                "id": 14557,
+                "thaiSentence": "เกิดการตัดสินใจ",
+                "thaiSentenceSpaced": " เกิด การตัดสินใจ "
+            },
+            {
+                "engSentence": "What's wrong with me ?",
+                "id": 12034,
+                "thaiSentence": "เกิดอะไรกับฉันกันนี่",
+                "thaiSentenceSpaced": " เกิด อะไร กับ ฉัน กัน นี่ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1274038,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] happen",
+                        "word": "happen"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "occur",
+                        "word": "occur"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "take place",
+                        "word": "take place"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 29088,
+                        "corpusScore": 22242,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 44238,
+                        "legacyWordId": 1274042,
+                        "meaning": "[to] happen ; occur",
+                        "parentId": 44238,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เกิด ขึ้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกิดขึ้น"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 5153,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 16002,
+                        "legacyWordId": 1323098,
+                        "meaning": "[to] cause ; produce an effect",
+                        "parentId": 16002,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ ไห้ เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำให้เกิด"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 2690,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3691,
+                        "legacyWordId": 1274055,
+                        "meaning": "[to] have an acciden",
+                        "parentId": 3691,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เกิด เหด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกิดเหตุ"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 2285,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28183,
+                        "legacyWordId": 1266308,
+                        "meaning": "[to] cause ; produce ; lead to",
+                        "parentId": 28183,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ก่อ ไห้ เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ก่อให้เกิด"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 1284,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15136,
+                        "legacyWordId": 1332690,
+                        "meaning": "[to] originate ; arise",
+                        "parentId": 15136,
+                        "partOfSpeech": "Verb",
+                        "t2e": "บัง เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บังเกิด"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 1284,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14230,
+                        "legacyWordId": 1332690,
+                        "meaning": "[to] occur ; happen ; take place",
+                        "parentId": 14230,
+                        "partOfSpeech": "Verb",
+                        "t2e": "บัง เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บังเกิด"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 1086,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29967,
+                        "legacyWordId": 1274050,
+                        "meaning": "[to] be effective ; take effect ; yield result",
+                        "parentId": 29967,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เกิด ผน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกิดผล"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 479,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5205,
+                        "legacyWordId": 1274052,
+                        "meaning": "[to] have trouble ; have a problem",
+                        "parentId": 5205,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เกิด เรื่อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกิดเรื่อง"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 328,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 778,
+                        "legacyWordId": 1265855,
+                        "meaning": "[to] initiate ; originate ; launch",
+                        "parentId": 778,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ก่อ เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ก่อเกิด"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 284,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34335,
+                        "legacyWordId": 1329433,
+                        "meaning": "spring tide ; flood tide ; rising tide",
+                        "parentId": 34335,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้าม เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น้ำเกิด"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 221,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44203,
+                        "legacyWordId": 1332347,
+                        "meaning": "source ; origin",
+                        "parentId": 44203,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ่อ เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ่อเกิด"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 216,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23419,
+                        "legacyWordId": 1402277,
+                        "meaning": "[to] cause ; initiate ; be the cause of",
+                        "parentId": 23419,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ส่ง ผน ไห้ เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ส่งผลให้เกิด"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 90,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30612,
+                        "legacyWordId": 1274049,
+                        "meaning": "[to] react ; engender ; response",
+                        "parentId": 30612,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เกิด ปะ-ติ กิ-ริ-ยา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกิดปฏิกิริยา"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 38,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 64104,
+                        "legacyWordId": 1271214,
+                        "meaning": "metempsychosis",
+                        "parentId": 64104,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน เวียน ว่าย ตาย เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การเวียนว่ายตายเกิด"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 24,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17980,
+                        "legacyWordId": 1311319,
+                        "meaning": "according to one's means",
+                        "parentId": 17980,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ตาม มี ตาม เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตามมีตามเกิด"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 15,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41645,
+                        "legacyWordId": 1387161,
+                        "meaning": "no matter what happens",
+                        "parentId": 41645,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ไม่ ว่า จะ เกิด อะ-ไร ขึ้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ว่าจะเกิดอะไรขึ้น"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 9,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3961,
+                        "legacyWordId": 1409068,
+                        "meaning": "with all one's power",
+                        "parentId": 3961,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "สุด แรง เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สุดแรงเกิด"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 104006,
+                        "legacyWordId": 1274040,
+                        "meaning": "(to have something) happen ; (to have something) occur",
+                        "parentId": 104006,
+                        "partOfSpeech": "Phrase",
+                        "t2e": "เกิด (...) ขึ้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกิด (...) ขึ้น"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 424295,
+                        "legacyWordId": 1393343,
+                        "meaning": "columnaris disease",
+                        "parentId": 424295,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรก เกิด จาก เชื้อ คอ-ลำ-นา-ริด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรคเกิดจากเชื้อคอลัมนาริส"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 65862,
+                        "legacyWordId": 1274053,
+                        "meaning": "incurred but not reported",
+                        "parentId": 65862,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เกิด แล้ว ยัง ไม่ ราย งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกิดแล้วยังไม่รายงาน"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 65841,
+                        "legacyWordId": 1274053,
+                        "meaning": "I.B.N.R.",
+                        "parentId": 65841,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เกิด แล้ว ยัง ไม่ ราย งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกิดแล้วยังไม่รายงาน"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 424009,
+                        "legacyWordId": 1393502,
+                        "meaning": "streptococcus",
+                        "parentId": 424009,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรก ติด เชื้อ ที่ เกิด จาก เชื้อ สะ-เตฺร็บ-โต-คอก-คัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรคติดเชื้อที่เกิดจากเชื้อสเตร็ปโตคอคคัส"
+                    },
+                    {
+                        "childId": 29088,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 424043,
+                        "legacyWordId": 1393559,
+                        "meaning": "nematode disease",
+                        "parentId": 424043,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรก ที่ เกิด จาก ไส้ เดือน ฝอย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรคที่เกิดจากไส้เดือนฝอย"
+                    }
+                ],
+                "explanation": null,
+                "id": 29088,
+                "isUncommon": false,
+                "meaning": "[to] happen ; occur ; take place",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "เกิด"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] be born",
+                        "word": "born"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "take birth",
+                        "word": "take birth"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 30186,
+                        "corpusScore": 17753,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 15137,
+                        "legacyWordId": 1323304,
+                        "meaning": "birthplace",
+                        "parentId": 15137,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ที่ เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่เกิด"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 2841,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 25800,
+                        "legacyWordId": 1399069,
+                        "meaning": "birthday",
+                        "parentId": 25800,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันเกิด"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 1246,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13814,
+                        "legacyWordId": 1335308,
+                        "meaning": "homeland ; hometown ; native village",
+                        "parentId": 13814,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ้าน เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ้านเกิด"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 828,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7238,
+                        "legacyWordId": 1393162,
+                        "meaning": "infant ; baby",
+                        "parentId": 7238,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "แรก เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แรกเกิด"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 403,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36312,
+                        "legacyWordId": 1371644,
+                        "meaning": "birth year ; year of birth",
+                        "parentId": 36312,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปี เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีเกิด"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 377,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395382,
+                        "legacyWordId": 1274057,
+                        "meaning": "[to] have an accident ; meet with a mishap",
+                        "parentId": 395382,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เกิด อุ-บัด-ติ-เหด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกิดอุบัติเหตุ"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 179,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49714,
+                        "legacyWordId": 1281186,
+                        "meaning": "birth",
+                        "parentId": 49714,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความเกิด"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 138,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401878,
+                        "legacyWordId": 1400449,
+                        "meaning": "time of delivery ; birth time ; time of birth",
+                        "parentId": 401878,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เว-ลา เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เวลาเกิด"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 111,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1880,
+                        "legacyWordId": 1453398,
+                        "meaning": "birth rate",
+                        "parentId": 1880,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อัด-ตฺรา กาน เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อัตราการเกิด"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 66,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398259,
+                        "legacyWordId": 1319614,
+                        "meaning": "native land ; habitat ; home town",
+                        "parentId": 398259,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ถิ่น เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถิ่นเกิด"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 31,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8269,
+                        "legacyWordId": 1267298,
+                        "meaning": "reincarnation",
+                        "parentId": 8269,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน เกิด ไหฺม่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การเกิดใหม่"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 29,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11232,
+                        "legacyWordId": 1265301,
+                        "meaning": "[to] reincarnate ; born again in a new body",
+                        "parentId": 11232,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กฺลับ ชาด มา เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กลับชาติมาเกิด"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 18,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 68576,
+                        "legacyWordId": 1453412,
+                        "meaning": "birth rate",
+                        "parentId": 68576,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อัด-ตฺรา เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อัตราเกิด"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 17,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6628,
+                        "legacyWordId": 1274041,
+                        "meaning": "[to] preborn ; premature",
+                        "parentId": 6628,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เกิด ก่อน กำ-หฺนด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกิดก่อนกำหนด"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 8,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395295,
+                        "legacyWordId": 1450567,
+                        "meaning": "birthplace",
+                        "parentId": 395295,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แหฺล่ง เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แหล่งเกิด"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 5,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 69738,
+                        "legacyWordId": 1390468,
+                        "meaning": "neo-natal period",
+                        "parentId": 69738,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ระ-ยะ แรก เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ระยะแรกเกิด"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 5,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 699822,
+                        "legacyWordId": 1274051,
+                        "meaning": "homeland ; motherland ; fatherland",
+                        "parentId": 699822,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เกิด เมือง นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกิดเมืองนอน"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 4,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401267,
+                        "legacyWordId": 1274047,
+                        "meaning": "[to] bear fruit ; give results",
+                        "parentId": 401267,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เกิด ดอก ออก ผน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกิดดอกออกผล"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 1,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 424225,
+                        "legacyWordId": 1393344,
+                        "meaning": "virus infection",
+                        "parentId": 424225,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรก เกิด จาก เชื้อ ไว-รัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรคเกิดจากเชื้อไวรัส"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 493828,
+                        "legacyWordId": 1270258,
+                        "meaning": "kinetic energy",
+                        "parentId": 493828,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน แพฺร่ เกิด จาก พฺลัง-งาน-จน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การแพร่เกิดจากพลังงานจลน์"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 78955,
+                        "legacyWordId": 1405360,
+                        "meaning": "mill scale",
+                        "parentId": 78955,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ-เก็ด สะ-หฺนิม เกิด จาก กาน รีด ร้อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สะเก็ดสนิมเกิดจากการรีดร้อน"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 423926,
+                        "legacyWordId": 1393347,
+                        "meaning": "animal poisoning",
+                        "parentId": 423926,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรก เกิด จาก สัด เป็น พิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรคเกิดจากสัตว์เป็นพิษ"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 423949,
+                        "legacyWordId": 1393345,
+                        "meaning": "plant poisoning",
+                        "parentId": 423949,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรก เกิด จาก พืด เป็น พิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรคเกิดจากพืชเป็นพิษ"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 424066,
+                        "legacyWordId": 1400800,
+                        "meaning": "lassa virus",
+                        "parentId": 424066,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไว-รัด-ลาด-สา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไวรัสลาสสา"
+                    },
+                    {
+                        "childId": 30186,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 423888,
+                        "legacyWordId": 1393346,
+                        "meaning": "diseases of allergy",
+                        "parentId": 423888,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรก เกิด จาก พูม แพ้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรคเกิดจากภูมิแพ้"
+                    }
+                ],
+                "explanation": null,
+                "id": 30186,
+                "isUncommon": false,
+                "meaning": "[to] be born ; take birth",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "เกิด"
+            }
+        ],
+        "t2e": "เกิด",
+        "verified": null,
+        "word": "เกิด"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

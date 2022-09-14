@@ -1,0 +1,492 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "I can see your reflection.",
+            "id": 749,
+            "phonetic": "ฉัน เห็น เงา สะ-ท้อน ของ คุน นะ",
+            "thaiSentence": "ฉันเห็นเงาสะท้อนของคุณนะ",
+            "thaiSentenceSpaced": " ฉัน เห็น เงา สะท้อน ของคุณ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] see"
+                        }
+                    ],
+                    "phonetic": "เห็น",
+                    "word": "เห็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "shadow ; reflection ; image"
+                        }
+                    ],
+                    "phonetic": "เงา",
+                    "word": "เงา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] reflect ; reflex"
+                        }
+                    ],
+                    "phonetic": "สะ-ท้อน",
+                    "word": "สะท้อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "your ; of you"
+                        }
+                    ],
+                    "phonetic": "ของ คุน",
+                    "word": "ของคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "That's my bed.",
+            "id": 1282,
+            "phonetic": "นั้น เตียง ฉัน นะ",
+            "thaiSentence": "นั้นเตียงฉันนะ",
+            "thaiSentenceSpaced": " นั้น เตียง ฉัน นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence, or to show the end of a relative clause)</i>"
+                        },
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั้น",
+                    "word": "นั้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bed"
+                        }
+                    ],
+                    "phonetic": "เตียง",
+                    "word": "เตียง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Thanks for the flowers.",
+            "id": 1303,
+            "phonetic": "ขอบ คุน สำ-หฺรับ ดอก ไม้ นะ",
+            "thaiSentence": "ขอบคุณสำหรับดอกไม้นะ",
+            "thaiSentenceSpaced": " ขอบคุณ สำหรับ ดอกไม้ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] thank you ; be thankful (for something)"
+                        }
+                    ],
+                    "phonetic": "ขอบ คุน",
+                    "word": "ขอบคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "for ; to ; on behalf of"
+                        }
+                    ],
+                    "phonetic": "สำ-หฺรับ",
+                    "word": "สำหรับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "flower"
+                        }
+                    ],
+                    "phonetic": "ดอก ไม้",
+                    "word": "ดอกไม้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What about her ?",
+            "id": 1427,
+            "phonetic": "เรื่อง ของ เขา นะ",
+            "thaiSentence": "เรื่องของเขานะ",
+            "thaiSentenceSpaced": " เรื่อง ของ เขา นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "matter ; affair ; thing <i>(เรื่อง is the classifier for a movie, story or tale.)</i>"
+                        },
+                        {
+                            "meaning": "about ; regarding ; concerning"
+                        },
+                        {
+                            "meaning": "problem ; trouble"
+                        }
+                    ],
+                    "phonetic": "เรื่อง",
+                    "word": "เรื่อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Aw, you guys made me ink.",
+            "id": 1888,
+            "phonetic": "โท่ · คุน ทำ ฉัน กฺลัว นะ",
+            "thaiSentence": "โธ่ คุณทำฉันกลัวนะ",
+            "thaiSentenceSpaced": " โธ่  ·  คุณ ทำ ฉัน กลัว นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "Alas! ; What a pity!"
+                        }
+                    ],
+                    "phonetic": "โท่",
+                    "word": "โธ่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be scared ; fear"
+                        }
+                    ],
+                    "phonetic": "กฺลัว",
+                    "word": "กลัว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "No, no , it can't be gone.",
+            "id": 1960,
+            "phonetic": "ไม่ · ไม่ · ไม่ ด้าย นะ",
+            "thaiSentence": "ไม่ ไม่ ไม่ได้นะ",
+            "thaiSentenceSpaced": " ไม่  ·  ไม่  ·  ไม่ได้ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "didn't ; did not"
+                        },
+                        {
+                            "meaning": "can't ; cannot"
+                        }
+                    ],
+                    "phonetic": "ไม่ ด้าย",
+                    "word": "ไม่ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 115747,
+        "exampleSentences": [
+            {
+                "engSentence": "I can see your reflection.",
+                "id": 749,
+                "thaiSentence": "ฉันเห็นเงาสะท้อนของคุณนะ",
+                "thaiSentenceSpaced": " ฉัน เห็น เงา สะท้อน ของคุณ นะ "
+            },
+            {
+                "engSentence": "That's my bed.",
+                "id": 1282,
+                "thaiSentence": "นั้นเตียงฉันนะ",
+                "thaiSentenceSpaced": " นั้น เตียง ฉัน นะ "
+            },
+            {
+                "engSentence": "Thanks for the flowers.",
+                "id": 1303,
+                "thaiSentence": "ขอบคุณสำหรับดอกไม้นะ",
+                "thaiSentenceSpaced": " ขอบคุณ สำหรับ ดอกไม้ นะ "
+            },
+            {
+                "engSentence": "What about her ?",
+                "id": 1427,
+                "thaiSentence": "เรื่องของเขานะ",
+                "thaiSentenceSpaced": " เรื่อง ของ เขา นะ "
+            },
+            {
+                "engSentence": "Aw, you guys made me ink.",
+                "id": 1888,
+                "thaiSentence": "โธ่ คุณทำฉันกลัวนะ",
+                "thaiSentenceSpaced": " โธ่  &middot;  คุณ ทำ ฉัน กลัว นะ "
+            },
+            {
+                "engSentence": "No, no , it can't be gone.",
+                "id": 1960,
+                "thaiSentence": "ไม่ ไม่ ไม่ได้นะ",
+                "thaiSentenceSpaced": " ไม่  &middot;  ไม่  &middot;  ไม่ได้ นะ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1327734,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "",
+                        "word": ""
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 103168,
+                        "corpusScore": 361,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41714,
+                        "legacyWordId": 1453073,
+                        "meaning": "pardon? ; sorry? ; what?",
+                        "parentId": 41714,
+                        "partOfSpeech": "Interrogative",
+                        "t2e": "อะ-ไร นะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อะไรนะ"
+                    },
+                    {
+                        "childId": 103168,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103458,
+                        "legacyWordId": 1452210,
+                        "meaning": "don't (do something) just yet, ok ?",
+                        "parentId": 103458,
+                        "partOfSpeech": "Phrase",
+                        "t2e": "หฺย่า เพิ่ง (...) นะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อย่าเพิ่ง (...) นะ"
+                    },
+                    {
+                        "childId": 103168,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103459,
+                        "legacyWordId": 1452013,
+                        "meaning": "don't (do something), ok ?",
+                        "parentId": 103459,
+                        "partOfSpeech": "Phrase",
+                        "t2e": "หฺย่า (...) นะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อย่า (...) นะ"
+                    }
+                ],
+                "explanation": "It's a particle used to make a sentence seem softer, more persuasive or less abrupt",
+                "id": 103168,
+                "isUncommon": false,
+                "meaning": "",
+                "partOfSpeech": "Particle",
+                "usage": "",
+                "word": "นะ"
+            }
+        ],
+        "t2e": "นะ",
+        "verified": null,
+        "word": "นะ"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,135 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 559,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1323576,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 102641,
+                        "corpusScore": 1264179,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "ที่ is a classifier for places, spaces or seats.",
+                        "hasSoundFile": true,
+                        "id": 102641,
+                        "legacyWordId": 1323286,
+                        "meaning": "place ; area ; land",
+                        "parentId": 7120,
+                        "partOfSpeech": "Noun ; Classifier",
+                        "t2e": "ที่",
+                        "usage": "",
+                        "verified": "ที่",
+                        "word": "ที่"
+                    },
+                    {
+                        "childId": 4775,
+                        "corpusScore": 3798,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4775,
+                        "legacyWordId": 1406811,
+                        "meaning": "public",
+                        "parentId": 7120,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "สา-ทา-ระ-นะ",
+                        "usage": "",
+                        "verified": "สา-ทา-ระ-นะ",
+                        "word": "สาธารณะ"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "public land",
+                        "word": "public land"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "a public place",
+                        "word": "a public place"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "commons",
+                        "word": "commons"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 7120,
+                        "corpusScore": 10,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4604,
+                        "legacyWordId": 1402501,
+                        "meaning": "public place",
+                        "parentId": 4604,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ-ถาน ที่ สา-ทา-ระ-นะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สถานที่สาธารณะ"
+                    },
+                    {
+                        "childId": 7120,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 60438,
+                        "legacyWordId": 1374210,
+                        "meaning": "land-grabber",
+                        "parentId": 60438,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ กอบ โกย ที่ สา-ทา-ระ-นะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้กอบโกยที่สาธารณะ"
+                    },
+                    {
+                        "childId": 7120,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 189978,
+                        "legacyWordId": 1270301,
+                        "meaning": "land grant",
+                        "parentId": 189978,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน มอบ ที่ สา-ทา-ระ-นะ ไห้ ไช้ เพื่อ สา-ทา-ระ-นะ ปฺระ-โหฺยด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การมอบที่สาธารณะให้ใช้เพื่อสาธารณประโยชน์"
+                    }
+                ],
+                "explanation": null,
+                "id": 7120,
+                "isUncommon": false,
+                "meaning": "public land ; a public place ; commons",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ที่สาธารณะ"
+            }
+        ],
+        "t2e": "ที่ สา-ทา-ระ-นะ",
+        "verified": null,
+        "word": "ที่สาธารณะ"
+    },
+    "greenBarCount": 2,
+    "pageUrl": "",
+    "type": "thai-word"
+}

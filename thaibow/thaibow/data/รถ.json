@@ -1,0 +1,1016 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Car's out in front, right ?",
+            "id": 25906,
+            "phonetic": "จอด ตฺรง รด ที่ ออก มา ข้าง น่า นั่น ไช่ ไหฺม",
+            "thaiSentence": "จอดตรงรถที่ออกมาข้างหน้านั่นใช่ไหม",
+            "thaiSentenceSpaced": " จอด ตรง รถ ที่ ออกมา ข้างหน้า นั่น ใช่ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] park ; moor ; stop"
+                        }
+                    ],
+                    "phonetic": "จอด",
+                    "word": "จอด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be in accordance (with) ; be consistent (with)"
+                        },
+                        {
+                            "meaning": "[to be] straight ; direct"
+                        },
+                        {
+                            "meaning": "directly ; straightforwardly"
+                        },
+                        {
+                            "meaning": "at"
+                        },
+                        {
+                            "meaning": "[to] be precise at ; be exact ; be accurate"
+                        }
+                    ],
+                    "phonetic": "ตฺรง",
+                    "word": "ตรง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "car ; vehicle"
+                        }
+                    ],
+                    "phonetic": "รด",
+                    "word": "รถ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] come out"
+                        }
+                    ],
+                    "phonetic": "ออก มา",
+                    "word": "ออกมา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "future"
+                        },
+                        {
+                            "meaning": "in front"
+                        }
+                    ],
+                    "phonetic": "ข้าง น่า",
+                    "word": "ข้างหน้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั่น",
+                    "word": "นั่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "right ? ; is that right? ; is that true? <i>(question particle used when seeking confirmation of something thought to be true)</i>"
+                        }
+                    ],
+                    "phonetic": "ไช่ ไหฺม",
+                    "word": "ใช่ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Thanks for the free parking.",
+            "id": 31431,
+            "phonetic": "ขอบ คุน ที่ ไห้ จอด รด ฟฺรี",
+            "thaiSentence": "ขอบคุณที่ให้จอดรถฟรี",
+            "thaiSentenceSpaced": " ขอบคุณ ที่ ให้ จอด รถ ฟรี ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] thank you ; be thankful (for something)"
+                        }
+                    ],
+                    "phonetic": "ขอบ คุน",
+                    "word": "ขอบคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] park ; moor ; stop"
+                        }
+                    ],
+                    "phonetic": "จอด",
+                    "word": "จอด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "car ; vehicle"
+                        }
+                    ],
+                    "phonetic": "รด",
+                    "word": "รถ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "free"
+                        }
+                    ],
+                    "phonetic": "ฟฺรี",
+                    "word": "ฟรี"
+                }
+            ]
+        },
+        {
+            "engSentence": "Can I hitch a ride ?",
+            "id": 33325,
+            "phonetic": "ขอ ติด รด ไป ด้วย ด้าย ไหฺม คฺรับ",
+            "thaiSentence": "ขอติดรถไปด้วยได้ไหมครับ",
+            "thaiSentenceSpaced": " ขอ ติด รถ ไป ด้วย ได้ ไหม ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask for ; request for ; ask"
+                        }
+                    ],
+                    "phonetic": "ขอ",
+                    "word": "ขอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] catch ; be infected ; become infected"
+                        },
+                        {
+                            "meaning": "[to] start ; set"
+                        },
+                        {
+                            "meaning": "[to be] stuck ; jammed"
+                        },
+                        {
+                            "meaning": "[to] stick ; attach"
+                        },
+                        {
+                            "meaning": "[to] be addicted to ; crazy about ; fascinated with"
+                        },
+                        {
+                            "meaning": "[to be] addictive"
+                        },
+                        {
+                            "meaning": "[to] owe ; be in debt"
+                        },
+                        {
+                            "meaning": "[to] be attached to ; be connected to"
+                        }
+                    ],
+                    "phonetic": "ติด",
+                    "word": "ติด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "car ; vehicle"
+                        }
+                    ],
+                    "phonetic": "รด",
+                    "word": "รถ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        },
+        {
+            "engSentence": "It's in the car.",
+            "id": 34191,
+            "phonetic": "หฺยู่ ไน รด",
+            "thaiSentence": "อยู่ในรถ",
+            "thaiSentenceSpaced": " อยู่ ใน รถ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "car ; vehicle"
+                        }
+                    ],
+                    "phonetic": "รด",
+                    "word": "รถ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Why are we stopping ?",
+            "id": 34712,
+            "phonetic": "ทำ-ไม เรา กำ-ลัง หฺยุด รด ล่ะ",
+            "thaiSentence": "ทำไมเรากำลังหยุดรถล่ะ",
+            "thaiSentenceSpaced": " ทำไม เรา กำลัง หยุด รถ ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "why"
+                        }
+                    ],
+                    "phonetic": "ทำ-ไม",
+                    "word": "ทำไม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "power ; energy ; strength"
+                        },
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense)</i>"
+                        }
+                    ],
+                    "phonetic": "กำ-ลัง",
+                    "word": "กำลัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] stop"
+                        }
+                    ],
+                    "phonetic": "หฺยุด",
+                    "word": "หยุด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "car ; vehicle"
+                        }
+                    ],
+                    "phonetic": "รด",
+                    "word": "รถ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Sorry, traffic jam.",
+            "id": 44515,
+            "phonetic": "โทด ที · รด มัน ติด",
+            "thaiSentence": "โทษที รถมันติด",
+            "thaiSentenceSpaced": " โทษ ที  ·  รถ มัน ติด ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sorry ; excuse me"
+                        }
+                    ],
+                    "phonetic": "โทด ที",
+                    "word": "โทษที"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "car ; vehicle"
+                        }
+                    ],
+                    "phonetic": "รด",
+                    "word": "รถ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] catch ; be infected ; become infected"
+                        },
+                        {
+                            "meaning": "[to] start ; set"
+                        },
+                        {
+                            "meaning": "[to be] stuck ; jammed"
+                        },
+                        {
+                            "meaning": "[to] stick ; attach"
+                        },
+                        {
+                            "meaning": "[to] be addicted to ; crazy about ; fascinated with"
+                        },
+                        {
+                            "meaning": "[to be] addictive"
+                        },
+                        {
+                            "meaning": "[to] owe ; be in debt"
+                        },
+                        {
+                            "meaning": "[to] be attached to ; be connected to"
+                        }
+                    ],
+                    "phonetic": "ติด",
+                    "word": "ติด"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 52001,
+        "exampleSentences": [
+            {
+                "engSentence": "Car's out in front, right ?",
+                "id": 25906,
+                "thaiSentence": "จอดตรงรถที่ออกมาข้างหน้านั่นใช่ไหม",
+                "thaiSentenceSpaced": " จอด ตรง รถ ที่ ออกมา ข้างหน้า นั่น ใช่ไหม "
+            },
+            {
+                "engSentence": "Thanks for the free parking.",
+                "id": 31431,
+                "thaiSentence": "ขอบคุณที่ให้จอดรถฟรี",
+                "thaiSentenceSpaced": " ขอบคุณ ที่ ให้ จอด รถ ฟรี "
+            },
+            {
+                "engSentence": "Can I hitch a ride ?",
+                "id": 33325,
+                "thaiSentence": "ขอติดรถไปด้วยได้ไหมครับ",
+                "thaiSentenceSpaced": " ขอ ติด รถ ไป ด้วย ได้ ไหม ครับ "
+            },
+            {
+                "engSentence": "It's in the car.",
+                "id": 34191,
+                "thaiSentence": "อยู่ในรถ",
+                "thaiSentenceSpaced": " อยู่ ใน รถ "
+            },
+            {
+                "engSentence": "Why are we stopping ?",
+                "id": 34712,
+                "thaiSentence": "ทำไมเรากำลังหยุดรถล่ะ",
+                "thaiSentenceSpaced": " ทำไม เรา กำลัง หยุด รถ ล่ะ "
+            },
+            {
+                "engSentence": "Sorry, traffic jam.",
+                "id": 44515,
+                "thaiSentence": "โทษที รถมันติด",
+                "thaiSentenceSpaced": " โทษ ที  &middot;  รถ มัน ติด "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1388933,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "car",
+                        "word": "car"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "vehicle",
+                        "word": "vehicle"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [
+                    {
+                        "childId": 44569,
+                        "corpusScore": 5249,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25439,
+                        "legacyWordId": 1388994,
+                        "meaning": "train ; railway train",
+                        "parentId": 25439,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รด ไฟ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รถไฟ"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 4694,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28862,
+                        "legacyWordId": 1275938,
+                        "meaning": "[to] drive",
+                        "parentId": 28862,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขับ รด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขับรถ"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 1552,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "a vehicle",
+                        "hasSoundFile": false,
+                        "id": 28908,
+                        "legacyWordId": 1276663,
+                        "meaning": "[to] get in",
+                        "parentId": 28908,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขึ้น รด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขึ้นรถ"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 1271,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14217,
+                        "legacyWordId": 1388966,
+                        "meaning": "van",
+                        "parentId": 14217,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รด ตู้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รถตู้"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 991,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26245,
+                        "legacyWordId": 1388981,
+                        "meaning": "truck ; lorry ; van",
+                        "parentId": 26245,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รด บัน-ทุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รถบรรทุก"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 725,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44732,
+                        "legacyWordId": 1389008,
+                        "meaning": "bus",
+                        "parentId": 44732,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รด เม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รถเมล์"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 700,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395522,
+                        "legacyWordId": 1305031,
+                        "meaning": "[to] buy a car",
+                        "parentId": 395522,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ซื้อ รด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซื้อรถ"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 680,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19117,
+                        "legacyWordId": 1308278,
+                        "meaning": "[to] operate motor vehicles",
+                        "parentId": 19117,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เดิน รด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดินรถ"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 669,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28327,
+                        "legacyWordId": 1388947,
+                        "meaning": "bicycle",
+                        "parentId": 28327,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รด จัก-กฺระ-ยาน",
+                        "usage": "",
+                        "verified": "รด จัก-กฺระ-ยาน",
+                        "word": "รถจักรยาน"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 594,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400518,
+                        "legacyWordId": 1402568,
+                        "meaning": "bus stop",
+                        "parentId": 400518,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ-ถา-นี รด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สถานีรถ"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 576,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40921,
+                        "legacyWordId": 1323329,
+                        "meaning": "car park ; parking ; parking place",
+                        "parentId": 40921,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ที่ จอด รด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่จอดรถ"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 553,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28372,
+                        "legacyWordId": 1388935,
+                        "meaning": "pick-up ; pick-up truck",
+                        "parentId": 28372,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รด กฺระ-บะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รถกระบะ"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 531,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "e.g. shopping trolley, baby buggy, luggage trolley",
+                        "hasSoundFile": false,
+                        "id": 47601,
+                        "legacyWordId": 1388942,
+                        "meaning": "trolley ; cart",
+                        "parentId": 47601,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รด เข็น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รถเข็น"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 529,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13306,
+                        "legacyWordId": 1388973,
+                        "meaning": "coach bus ; coach ; motor coach",
+                        "parentId": 13306,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รด ทัว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รถทัวร์"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 499,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "in Bangkok ; รถไฟฟ้า can also refer to subways or skytrains in general",
+                        "hasSoundFile": false,
+                        "id": 102934,
+                        "legacyWordId": 1388998,
+                        "meaning": "skytrain ; BTS Skytrain",
+                        "parentId": 102934,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รด ไฟ ฟ้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รถไฟฟ้า"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 437,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 445,
+                        "legacyWordId": 1388962,
+                        "meaning": "traffic jam ; heavy traffic",
+                        "parentId": 445,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รด ติด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รถติด"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 407,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24391,
+                        "legacyWordId": 1388969,
+                        "meaning": "tank",
+                        "parentId": 24391,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รด ถัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รถถัง"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 385,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24427,
+                        "legacyWordId": 1388983,
+                        "meaning": "bus",
+                        "parentId": 24427,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รด บัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รถบัส"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 331,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31173,
+                        "legacyWordId": 1284032,
+                        "meaning": "fare ; car fare ; travelling expense",
+                        "parentId": 31173,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ค่า รด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ค่ารถ"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 326,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17812,
+                        "legacyWordId": 1309948,
+                        "meaning": "[to] transfer to another bus ; change bus",
+                        "parentId": 17812,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ต่อ รด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ต่อรถ"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 326,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32322,
+                        "legacyWordId": 1309948,
+                        "meaning": "[to] build a car ; assemble ; construct",
+                        "parentId": 32322,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ต่อ รด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ต่อรถ"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 319,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 104241,
+                        "legacyWordId": 1388958,
+                        "meaning": "bus ; coach",
+                        "parentId": 104241,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รด โดย สาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รถโดยสาร"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 318,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21671,
+                        "legacyWordId": 1395936,
+                        "meaning": "parking lot",
+                        "parentId": 21671,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ลาน จอด รด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลานจอดรถ"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 315,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13247,
+                        "legacyWordId": 1388946,
+                        "meaning": "locomotive ; engine",
+                        "parentId": 13247,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รด จัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รถจักร"
+                    },
+                    {
+                        "childId": 44569,
+                        "corpusScore": 309,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22620,
+                        "legacyWordId": 1275007,
+                        "meaning": "procession of vehicles",
+                        "parentId": 22620,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ขะ-บวน รด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขบวนรถ"
+                    }
+                ],
+                "explanation": null,
+                "id": 44569,
+                "isUncommon": false,
+                "meaning": "car ; vehicle",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "รถ"
+            }
+        ],
+        "t2e": "รด",
+        "verified": null,
+        "word": "รถ"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

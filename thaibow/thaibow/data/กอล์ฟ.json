@@ -1,0 +1,73 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 1641,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1266290,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "golf",
+                        "word": "golf"
+                    }
+                ],
+                "etymology": "English",
+                "examples": [
+                    {
+                        "childId": 8978,
+                        "corpusScore": 381,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37389,
+                        "legacyWordId": 1402775,
+                        "meaning": "golf course ; golf links",
+                        "parentId": 37389,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ-หฺนาม ก๊อฟ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สนามกอล์ฟ"
+                    },
+                    {
+                        "childId": 8978,
+                        "corpusScore": 26,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34622,
+                        "legacyWordId": 1386687,
+                        "meaning": "golf club",
+                        "parentId": 34622,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไม้ ก๊อฟ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม้กอล์ฟ"
+                    }
+                ],
+                "explanation": null,
+                "id": 8978,
+                "isUncommon": false,
+                "meaning": "golf",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "กอล์ฟ"
+            }
+        ],
+        "t2e": "ก๊อฟ",
+        "verified": null,
+        "word": "กอล์ฟ"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,825 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Take a look first.",
+            "id": 853,
+            "phonetic": "มอง ดู ก่อน สิ",
+            "thaiSentence": "มองดูก่อนสิ",
+            "thaiSentenceSpaced": " มองดู ก่อน สิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] watch ; stare ; look at"
+                        }
+                    ],
+                    "phonetic": "มอง ดู",
+                    "word": "มองดู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "before ; first ; former"
+                        }
+                    ],
+                    "phonetic": "ก่อน",
+                    "word": "ก่อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                }
+            ]
+        },
+        {
+            "engSentence": "This way . Hold on.",
+            "id": 14991,
+            "phonetic": "ทาง นี้ · รอ ก่อน",
+            "thaiSentence": "ทางนี้ รอก่อน",
+            "thaiSentenceSpaced": " ทางนี้  ·  รอ ก่อน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "this way ; this route"
+                        }
+                    ],
+                    "phonetic": "ทาง นี้",
+                    "word": "ทางนี้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "for a moment ; just a moment ; just a minute"
+                        }
+                    ],
+                    "phonetic": "รอ ก่อน",
+                    "word": "รอก่อน"
+                }
+            ]
+        },
+        {
+            "engSentence": "Wait, wait , wait.",
+            "id": 18561,
+            "phonetic": "เดี๋ยว · เดี๋ยว · เดี๋ยว ก่อน",
+            "thaiSentence": "เดี๋ยว เดี๋ยว เดี๋ยวก่อน",
+            "thaiSentenceSpaced": " เดี๋ยว  ·  เดี๋ยว  ·  เดี๋ยว ก่อน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "moment"
+                        },
+                        {
+                            "meaning": "in just a minute ; in just a moment"
+                        }
+                    ],
+                    "phonetic": "เดี๋ยว",
+                    "word": "เดี๋ยว"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "moment"
+                        },
+                        {
+                            "meaning": "in just a minute ; in just a moment"
+                        }
+                    ],
+                    "phonetic": "เดี๋ยว",
+                    "word": "เดี๋ยว"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "just a minute ; in a minute ; in a moment"
+                        }
+                    ],
+                    "phonetic": "เดี๋ยว ก่อน",
+                    "word": "เดี๋ยวก่อน"
+                }
+            ]
+        },
+        {
+            "engSentence": "Where to begin ?",
+            "id": 19665,
+            "phonetic": "จะ เริ่ม ตฺรง ไหฺน ก่อน ล่ะ",
+            "thaiSentence": "จะเริ่มตรงไหนก่อนล่ะ",
+            "thaiSentenceSpaced": " จะ เริ่ม ตรงไหน ก่อน ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] start ; begin"
+                        }
+                    ],
+                    "phonetic": "เริ่ม",
+                    "word": "เริ่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "where"
+                        }
+                    ],
+                    "phonetic": "ตฺรง ไหฺน",
+                    "word": "ตรงไหน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "before ; first ; former"
+                        }
+                    ],
+                    "phonetic": "ก่อน",
+                    "word": "ก่อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Go ahead first.",
+            "id": 24519,
+            "phonetic": "ไป ก่อน เลย",
+            "thaiSentence": "ไปก่อนเลย",
+            "thaiSentenceSpaced": " ไป ก่อน เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "before ; first ; former"
+                        }
+                    ],
+                    "phonetic": "ก่อน",
+                    "word": "ก่อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "What if someone dies first ?",
+            "id": 28044,
+            "phonetic": "แล้ว ถ้า คน ได คน หฺนึ่ง ตาย ก่อน ล่ะ",
+            "thaiSentence": "แล้วถ้าคนใดคนหนึ่งตายก่อนล่ะ",
+            "thaiSentenceSpaced": " แล้ว ถ้า คนใดคนหนึ่ง ตาย ก่อน ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "if"
+                        }
+                    ],
+                    "phonetic": "ถ้า",
+                    "word": "ถ้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whoever ; whomever"
+                        }
+                    ],
+                    "phonetic": "คน ได คน หฺนึ่ง",
+                    "word": "คนใดคนหนึ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] die ; pass away"
+                        },
+                        {
+                            "meaning": "[to be] dead"
+                        }
+                    ],
+                    "phonetic": "ตาย",
+                    "word": "ตาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "before ; first ; former"
+                        }
+                    ],
+                    "phonetic": "ก่อน",
+                    "word": "ก่อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 72425,
+        "exampleSentences": [
+            {
+                "engSentence": "Take a look first.",
+                "id": 853,
+                "thaiSentence": "มองดูก่อนสิ",
+                "thaiSentenceSpaced": " มองดู ก่อน สิ "
+            },
+            {
+                "engSentence": "This way . Hold on.",
+                "id": 14991,
+                "thaiSentence": "ทางนี้ รอก่อน",
+                "thaiSentenceSpaced": " ทางนี้  &middot;  รอ ก่อน "
+            },
+            {
+                "engSentence": "Wait, wait , wait.",
+                "id": 18561,
+                "thaiSentence": "เดี๋ยว เดี๋ยว เดี๋ยวก่อน",
+                "thaiSentenceSpaced": " เดี๋ยว  &middot;  เดี๋ยว  &middot;  เดี๋ยว ก่อน "
+            },
+            {
+                "engSentence": "Where to begin ?",
+                "id": 19665,
+                "thaiSentence": "จะเริ่มตรงไหนก่อนล่ะ",
+                "thaiSentenceSpaced": " จะ เริ่ม ตรงไหน ก่อน ล่ะ "
+            },
+            {
+                "engSentence": "Go ahead first.",
+                "id": 24519,
+                "thaiSentence": "ไปก่อนเลย",
+                "thaiSentenceSpaced": " ไป ก่อน เลย "
+            },
+            {
+                "engSentence": "What if someone dies first ?",
+                "id": 28044,
+                "thaiSentence": "แล้วถ้าคนใดคนหนึ่งตายก่อนล่ะ",
+                "thaiSentenceSpaced": " แล้ว ถ้า คนใดคนหนึ่ง ตาย ก่อน ล่ะ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1266209,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "before",
+                        "word": "before"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "first",
+                        "word": "first"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "former",
+                        "word": "former"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 35263,
+                        "corpusScore": 6579,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 44518,
+                        "legacyWordId": 1383886,
+                        "meaning": "before",
+                        "parentId": 44518,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มา ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มาก่อน"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 3769,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8924,
+                        "legacyWordId": 1266220,
+                        "meaning": "before",
+                        "parentId": 8924,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ก่อน ที่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ก่อนที่"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 3067,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2527,
+                        "legacyWordId": 1266230,
+                        "meaning": "before ; beforehand",
+                        "parentId": 2527,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ก่อน น่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ก่อนหน้า"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 2564,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46591,
+                        "legacyWordId": 1409802,
+                        "meaning": "before ; beforehand",
+                        "parentId": 46591,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เสีย ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เสียก่อน"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 2007,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26605,
+                        "legacyWordId": 1403811,
+                        "meaning": "old ; ancient",
+                        "parentId": 26605,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "สะ-ไหฺม ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สมัยก่อน"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 1800,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35430,
+                        "legacyWordId": 1371639,
+                        "meaning": "last year ; preceding year",
+                        "parentId": 35430,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปี ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีก่อน"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 1725,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17327,
+                        "legacyWordId": 1318289,
+                        "meaning": "before ; formerly ; previously",
+                        "parentId": 17327,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ก่อน"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 1604,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28963,
+                        "legacyWordId": 1385237,
+                        "meaning": "before ; previously",
+                        "parentId": 28963,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เมื่อ ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เมื่อก่อน"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 1045,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27160,
+                        "legacyWordId": 1399068,
+                        "meaning": "the other day",
+                        "parentId": 27160,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันก่อน"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 932,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102556,
+                        "legacyWordId": 1307907,
+                        "meaning": "[to] wait and see ; see what happens",
+                        "parentId": 102556,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดู ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดูก่อน"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 694,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10070,
+                        "legacyWordId": 1279238,
+                        "meaning": "the last time ; the time before ; previously",
+                        "parentId": 10070,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "คฺรั้ง ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครั้งก่อน"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 597,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7855,
+                        "legacyWordId": 1266241,
+                        "meaning": "firstly ; first and foremost ; first of all",
+                        "parentId": 7855,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ก่อน อื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ก่อนอื่น"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 423,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1986,
+                        "legacyWordId": 1266212,
+                        "meaning": "ahead of schedule ; ahead of time",
+                        "parentId": 1986,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ก่อน กำ-หฺนด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ก่อนกำหนด"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 288,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396948,
+                        "legacyWordId": 1266223,
+                        "meaning": "formerly",
+                        "parentId": 396948,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ก่อน นั้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ก่อนนั้น"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 287,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18289,
+                        "legacyWordId": 1308358,
+                        "meaning": "last month ; previous month",
+                        "parentId": 18289,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนก่อน"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 273,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1679,
+                        "legacyWordId": 1266228,
+                        "meaning": "ahead of schedule ; ahead of time",
+                        "parentId": 1679,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ก่อน เว-ลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ก่อนเวลา"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 243,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33403,
+                        "legacyWordId": 1279319,
+                        "meaning": "last time ; previous occasion",
+                        "parentId": 33403,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺราว ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คราวก่อน"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 243,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9354,
+                        "legacyWordId": 1279319,
+                        "meaning": "previously ; on the previous occasion",
+                        "parentId": 9354,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "คฺราว ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คราวก่อน"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 190,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2934,
+                        "legacyWordId": 1266239,
+                        "meaning": "before meals ; before eating",
+                        "parentId": 2934,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ก่อน อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ก่อนอาหาร"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 175,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395489,
+                        "legacyWordId": 1392446,
+                        "meaning": "past generation ; old generation",
+                        "parentId": 395489,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "รุ่น ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รุ่นก่อน"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 160,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33814,
+                        "legacyWordId": 1449916,
+                        "meaning": "as formerly ; as before ; as it was",
+                        "parentId": 33814,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เหฺมือน ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เหมือนก่อน"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 160,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12356,
+                        "legacyWordId": 1292578,
+                        "meaning": "previous life ; former existence",
+                        "parentId": 12356,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชาด ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชาติก่อน"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 153,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102631,
+                        "legacyWordId": 1395407,
+                        "meaning": "[to] say goodbye ; leave",
+                        "parentId": 102631,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ลา ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลาก่อน"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 137,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401285,
+                        "legacyWordId": 1273646,
+                        "meaning": "ancient ; old ; legendary",
+                        "parentId": 401285,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "เก่า ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เก่าก่อน"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 128,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9711,
+                        "legacyWordId": 1266222,
+                        "meaning": "a.m.",
+                        "parentId": 9711,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ก่อน เที่ยง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ก่อนเที่ยง"
+                    }
+                ],
+                "explanation": null,
+                "id": 35263,
+                "isUncommon": false,
+                "meaning": "before ; first ; former",
+                "partOfSpeech": "Conjunction",
+                "usage": "",
+                "word": "ก่อน"
+            }
+        ],
+        "t2e": "ก่อน",
+        "verified": null,
+        "word": "ก่อน"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

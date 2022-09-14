@@ -1,0 +1,607 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Of course you are a man.",
+            "id": 59099,
+            "phonetic": "แน่ นอน คุน เป็น พู่ ชาย",
+            "thaiSentence": "แน่นอนคุณเป็นผู้ชาย",
+            "thaiSentenceSpaced": " แน่นอน คุณ เป็น ผู้ชาย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "certainly ; surely ; definitely"
+                        }
+                    ],
+                    "phonetic": "แน่ นอน",
+                    "word": "แน่นอน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "man ; male"
+                        }
+                    ],
+                    "phonetic": "พู่ ชาย",
+                    "word": "ผู้ชาย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Who says he's her man ?",
+            "id": 95620,
+            "phonetic": "ไคฺร พูด ว่า · เขา เป็น พู่ ชาย ของ เทอ",
+            "thaiSentence": "ใครพูดว่า เขาเป็นผู้ชายของเธอ",
+            "thaiSentenceSpaced": " ใคร พูดว่า  ·  เขา เป็น ผู้ชาย ของเธอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "who"
+                        },
+                        {
+                            "meaning": "someone ; anyone"
+                        }
+                    ],
+                    "phonetic": "ไคฺร",
+                    "word": "ใคร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] say that"
+                        }
+                    ],
+                    "phonetic": "พูด ว่า",
+                    "word": "พูดว่า"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "man ; male"
+                        }
+                    ],
+                    "phonetic": "พู่ ชาย",
+                    "word": "ผู้ชาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "your ; of you"
+                        }
+                    ],
+                    "phonetic": "ของ เทอ",
+                    "word": "ของเธอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "A boy . You're my hero.",
+            "id": 105133,
+            "phonetic": "เด็ก พู่ ชาย · คุน นี่ เป็น ฮี-โร่ ของ ผม เลย",
+            "thaiSentence": "เด็กผู้ชาย คุณนี่เป็นฮีโร่ของผมเลย",
+            "thaiSentenceSpaced": " เด็ก ผู้ชาย  ·  คุณ นี่ เป็น ฮีโร่ ของ ผม เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "boy ; young man"
+                        }
+                    ],
+                    "phonetic": "เด็ก พู่ ชาย",
+                    "word": "เด็กผู้ชาย"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hero"
+                        }
+                    ],
+                    "phonetic": "ฮี-โร่",
+                    "word": "ฮีโร่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "A man can't lean on a woman.",
+            "id": 128798,
+            "phonetic": "พู่ ชาย จะ ไม่ พึ่ง พา พู่ หฺยิง",
+            "thaiSentence": "ผู้ชายจะไม่พึ่งพาผู้หญิง",
+            "thaiSentenceSpaced": " ผู้ชาย จะ ไม่ พึ่งพา ผู้หญิง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "man ; male"
+                        }
+                    ],
+                    "phonetic": "พู่ ชาย",
+                    "word": "ผู้ชาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] depend on ; rely on"
+                        }
+                    ],
+                    "phonetic": "พึ่ง พา",
+                    "word": "พึ่งพา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "woman ; lady ; female"
+                        }
+                    ],
+                    "phonetic": "พู่ หฺยิง",
+                    "word": "ผู้หญิง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Mister, excuse me.",
+            "id": 130091,
+            "phonetic": "คุน พู่ ชาย · ขอ โทด นะ",
+            "thaiSentence": "คุณผู้ชาย ขอโทษนะ",
+            "thaiSentenceSpaced": " คุณ ผู้ชาย  ·  ขอโทษ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "master ; gentleman ; lord"
+                        }
+                    ],
+                    "phonetic": "คุน พู่ ชาย",
+                    "word": "คุณผู้ชาย"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sorry ! ; excuse me !"
+                        },
+                        {
+                            "meaning": "[to] apologize ; say sorry <i>(ขอโทษ is \"sorry\" in the sense of making an apology; for \"sorry\" in the sense of offering sympathy เสียใจ is used instead.)</i>"
+                        }
+                    ],
+                    "phonetic": "ขอ โทด",
+                    "word": "ขอโทษ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What kind of a man is this ?",
+            "id": 135077,
+            "phonetic": "พู่ ชาย อะ-ไร กัน เนี่ย",
+            "thaiSentence": "ผู้ชายอะไรกันเนี่ย",
+            "thaiSentenceSpaced": " ผู้ชาย อะไร กัน เนี่ย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "man ; male"
+                        }
+                    ],
+                    "phonetic": "พู่ ชาย",
+                    "word": "ผู้ชาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one another ; each other"
+                        },
+                        {
+                            "meaning": "together ; jointly"
+                        }
+                    ],
+                    "phonetic": "กัน",
+                    "word": "กัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(ending particle, sometimes showing suprise or confusion)</i>"
+                        }
+                    ],
+                    "phonetic": "เนี่ย",
+                    "word": "เนี่ย"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 8753,
+        "exampleSentences": [
+            {
+                "engSentence": "Of course you are a man.",
+                "id": 59099,
+                "thaiSentence": "แน่นอนคุณเป็นผู้ชาย",
+                "thaiSentenceSpaced": " แน่นอน คุณ เป็น ผู้ชาย "
+            },
+            {
+                "engSentence": "Who says he's her man ?",
+                "id": 95620,
+                "thaiSentence": "ใครพูดว่า เขาเป็นผู้ชายของเธอ",
+                "thaiSentenceSpaced": " ใคร พูดว่า  &middot;  เขา เป็น ผู้ชาย ของเธอ "
+            },
+            {
+                "engSentence": "A boy . You're my hero.",
+                "id": 105133,
+                "thaiSentence": "เด็กผู้ชาย คุณนี่เป็นฮีโร่ของผมเลย",
+                "thaiSentenceSpaced": " เด็ก ผู้ชาย  &middot;  คุณ นี่ เป็น ฮีโร่ ของ ผม เลย "
+            },
+            {
+                "engSentence": "A man can't lean on a woman.",
+                "id": 128798,
+                "thaiSentence": "ผู้ชายจะไม่พึ่งพาผู้หญิง",
+                "thaiSentenceSpaced": " ผู้ชาย จะ ไม่ พึ่งพา ผู้หญิง "
+            },
+            {
+                "engSentence": "Mister, excuse me.",
+                "id": 130091,
+                "thaiSentence": "คุณผู้ชาย ขอโทษนะ",
+                "thaiSentenceSpaced": " คุณ ผู้ชาย  &middot;  ขอโทษ นะ "
+            },
+            {
+                "engSentence": "What kind of a man is this ?",
+                "id": 135077,
+                "thaiSentence": "ผู้ชายอะไรกันเนี่ย",
+                "thaiSentenceSpaced": " ผู้ชาย อะไร กัน เนี่ย "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1374407,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 48278,
+                        "corpusScore": 190914,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 48278,
+                        "legacyWordId": 1374174,
+                        "meaning": "person ; people",
+                        "parentId": 394324,
+                        "partOfSpeech": "Noun ; Classifier",
+                        "t2e": "พู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้"
+                    },
+                    {
+                        "childId": 12035,
+                        "corpusScore": 34870,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12035,
+                        "legacyWordId": 1292661,
+                        "meaning": "man ; male",
+                        "parentId": 394324,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชาย"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "man",
+                        "word": "man"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "male",
+                        "word": "male"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 394324,
+                        "corpusScore": 249,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44458,
+                        "legacyWordId": 1396730,
+                        "meaning": "real man ; gentleman",
+                        "parentId": 44458,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ลูก พู่ ชาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลูกผู้ชาย"
+                    },
+                    {
+                        "childId": 394324,
+                        "corpusScore": 147,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 384079,
+                        "legacyWordId": 1308042,
+                        "meaning": "boy ; young man",
+                        "parentId": 384079,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก พู่ ชาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กผู้ชาย"
+                    },
+                    {
+                        "childId": 394324,
+                        "corpusScore": 101,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31772,
+                        "legacyWordId": 1285051,
+                        "meaning": "master ; gentleman ; lord",
+                        "parentId": 31772,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คุน พู่ ชาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คุณผู้ชาย"
+                    },
+                    {
+                        "childId": 394324,
+                        "corpusScore": 8,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395872,
+                        "legacyWordId": 1282020,
+                        "meaning": "masculinity ; manliness ; virility",
+                        "parentId": 395872,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม เป็น พู่ ชาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความเป็นผู้ชาย"
+                    },
+                    {
+                        "childId": 394324,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 190138,
+                        "legacyWordId": 1408194,
+                        "meaning": "manhood suffrage",
+                        "parentId": 190138,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิด-ทิ ออก เสียง เลือก ตั้ง ของ พู่ ชาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิทธิออกเสียงเลือกตั้งของผู้ชาย"
+                    }
+                ],
+                "explanation": null,
+                "id": 394324,
+                "isUncommon": false,
+                "meaning": "man ; male",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ผู้ชาย"
+            }
+        ],
+        "t2e": "พู่ ชาย",
+        "verified": null,
+        "word": "ผู้ชาย"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

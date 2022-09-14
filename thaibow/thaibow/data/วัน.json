@@ -1,0 +1,976 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "This isn't my day.",
+            "id": 1283,
+            "phonetic": "นี่ ไม่ ไช่ วัน ของ ฉัน เลย",
+            "thaiSentence": "นี่ไม่ใช่วันของฉันเลย",
+            "thaiSentenceSpaced": " นี่ ไม่ใช่ วัน ของ ฉัน เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be not ; no"
+                        }
+                    ],
+                    "phonetic": "ไม่ ไช่",
+                    "word": "ไม่ใช่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "day"
+                        }
+                    ],
+                    "phonetic": "วัน",
+                    "word": "วัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Next day, she was gone.",
+            "id": 13150,
+            "phonetic": "วัน ต่อ มา · เขา ก้อ เลย หาย ตัว ไป",
+            "thaiSentence": "วันต่อมา เขาก็เลยหายตัวไป",
+            "thaiSentenceSpaced": " วัน ต่อมา  ·  เขา ก็เลย หายตัว ไป ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "day"
+                        }
+                    ],
+                    "phonetic": "วัน",
+                    "word": "วัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "afterwards ; later ; subsequently ; after that"
+                        }
+                    ],
+                    "phonetic": "ต่อ มา",
+                    "word": "ต่อมา"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "as a result"
+                        }
+                    ],
+                    "phonetic": "ก้อ เลย",
+                    "word": "ก็เลย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] disappear ; be invisible ; vanish"
+                        }
+                    ],
+                    "phonetic": "หาย ตัว",
+                    "word": "หายตัว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                }
+            ]
+        },
+        {
+            "engSentence": "Have a good day.",
+            "id": 13277,
+            "phonetic": "มี วัน ที่ ดี ละ กัน",
+            "thaiSentence": "มีวันที่ดีละกัน",
+            "thaiSentenceSpaced": " มี วัน ที่ดี ละกัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "day"
+                        }
+                    ],
+                    "phonetic": "วัน",
+                    "word": "วัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "best"
+                        }
+                    ],
+                    "phonetic": "ที่ ดี",
+                    "word": "ที่ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used when suggesting a compromise solution or final plan of action and that implies there's no need for the listener to suggest anything else.)</i>"
+                        }
+                    ],
+                    "phonetic": "ละ กัน",
+                    "word": "ละกัน"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is our only day to meet.",
+            "id": 16312,
+            "phonetic": "มัน เป็น วัน เดียว ที่ เรา จะ ด้าย พบ กัน",
+            "thaiSentence": "มันเป็นวันเดียวที่เราจะได้พบกัน",
+            "thaiSentenceSpaced": " มัน เป็น วัน เดียว ที่ เรา จะ ได้ พบกัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "day"
+                        }
+                    ],
+                    "phonetic": "วัน",
+                    "word": "วัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "only ; sole"
+                        }
+                    ],
+                    "phonetic": "เดียว",
+                    "word": "เดียว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] meet ; encounter ; see"
+                        }
+                    ],
+                    "phonetic": "พบ กัน",
+                    "word": "พบกัน"
+                }
+            ]
+        },
+        {
+            "engSentence": "My favorite day.",
+            "id": 22817,
+            "phonetic": "วัน โปฺรด ของ ฉัน เลย",
+            "thaiSentence": "วันโปรดของฉันเลย",
+            "thaiSentenceSpaced": " วัน โปรด ของ ฉัน เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "day"
+                        }
+                    ],
+                    "phonetic": "วัน",
+                    "word": "วัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "please"
+                        },
+                        {
+                            "meaning": "[to be] favorite"
+                        }
+                    ],
+                    "phonetic": "โปฺรด",
+                    "word": "โปรด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "I had no sleep for two days.",
+            "id": 33990,
+            "phonetic": "ไม่ ด้าย นอน มา สอง วัน แล้ว นี่",
+            "thaiSentence": "ไม่ได้นอนมาสองวันแล้วนี่",
+            "thaiSentenceSpaced": " ไม่ได้ นอนมา สอง วัน แล้ว นี่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "didn't ; did not"
+                        },
+                        {
+                            "meaning": "can't ; cannot"
+                        }
+                    ],
+                    "phonetic": "ไม่ ด้าย",
+                    "word": "ไม่ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have a landslide victory"
+                        }
+                    ],
+                    "phonetic": "นอน มา",
+                    "word": "นอนมา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "two"
+                        }
+                    ],
+                    "phonetic": "สอง",
+                    "word": "สอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "day"
+                        }
+                    ],
+                    "phonetic": "วัน",
+                    "word": "วัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 106774,
+        "exampleSentences": [
+            {
+                "engSentence": "This isn't my day.",
+                "id": 1283,
+                "thaiSentence": "นี่ไม่ใช่วันของฉันเลย",
+                "thaiSentenceSpaced": " นี่ ไม่ใช่ วัน ของ ฉัน เลย "
+            },
+            {
+                "engSentence": "Next day, she was gone.",
+                "id": 13150,
+                "thaiSentence": "วันต่อมา เขาก็เลยหายตัวไป",
+                "thaiSentenceSpaced": " วัน ต่อมา  &middot;  เขา ก็เลย หายตัว ไป "
+            },
+            {
+                "engSentence": "Have a good day.",
+                "id": 13277,
+                "thaiSentence": "มีวันที่ดีละกัน",
+                "thaiSentenceSpaced": " มี วัน ที่ดี ละกัน "
+            },
+            {
+                "engSentence": "It is our only day to meet.",
+                "id": 16312,
+                "thaiSentence": "มันเป็นวันเดียวที่เราจะได้พบกัน",
+                "thaiSentenceSpaced": " มัน เป็น วัน เดียว ที่ เรา จะ ได้ พบกัน "
+            },
+            {
+                "engSentence": "My favorite day.",
+                "id": 22817,
+                "thaiSentence": "วันโปรดของฉันเลย",
+                "thaiSentenceSpaced": " วัน โปรด ของ ฉัน เลย "
+            },
+            {
+                "engSentence": "I had no sleep for two days.",
+                "id": 33990,
+                "thaiSentence": "ไม่ได้นอนมาสองวันแล้วนี่",
+                "thaiSentenceSpaced": " ไม่ได้ นอนมา สอง วัน แล้ว นี่ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1399065,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "day",
+                        "word": "day"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 362198,
+                        "corpusScore": 26993,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 40576,
+                        "legacyWordId": 1399118,
+                        "meaning": "date",
+                        "parentId": 40576,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน ที่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันที่"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 20990,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 4740,
+                        "legacyWordId": 1399131,
+                        "meaning": "today",
+                        "parentId": 4740,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันนี้"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 9628,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 6539,
+                        "legacyWordId": 1323702,
+                        "meaning": "everyday ; always ; all the times",
+                        "parentId": 6539,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทุก วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกวัน"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 3602,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 44842,
+                        "legacyWordId": 1399129,
+                        "meaning": "that day",
+                        "parentId": 44842,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน นั้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันนั้น"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 2841,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 25800,
+                        "legacyWordId": 1399069,
+                        "meaning": "birthday",
+                        "parentId": 25800,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันเกิด"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 2580,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3918,
+                        "legacyWordId": 1265380,
+                        "meaning": "daytime ; day ; daylight",
+                        "parentId": 3918,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺลาง วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กลางวัน"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 2573,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12773,
+                        "legacyWordId": 1367895,
+                        "meaning": "daily ; everyday",
+                        "parentId": 12773,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ปฺระ-จำ วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประจำวัน"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 2461,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22436,
+                        "legacyWordId": 1399197,
+                        "meaning": "someday ; one of these days",
+                        "parentId": 22436,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันหนึ่ง"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 2345,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40805,
+                        "legacyWordId": 1399193,
+                        "meaning": "Saturday",
+                        "parentId": 40805,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน เสา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันเสาร์"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 2247,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44835,
+                        "legacyWordId": 1399210,
+                        "meaning": "Sunday",
+                        "parentId": 44835,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน อา-ทิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันอาทิตย์"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 2198,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46685,
+                        "legacyWordId": 1318391,
+                        "meaning": "early",
+                        "parentId": 46685,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่วัน"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 2182,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13799,
+                        "legacyWordId": 1399200,
+                        "meaning": "holiday ; vacation ; recess",
+                        "parentId": 13799,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน หฺยุด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันหยุด"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 1844,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16495,
+                        "legacyWordId": 1321309,
+                        "meaning": "for daylong ; for all day ; for whole day",
+                        "parentId": 16495,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทั้ง วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทั้งวัน"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 1579,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44844,
+                        "legacyWordId": 1399086,
+                        "meaning": "Monday",
+                        "parentId": 44844,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน จัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันจันทร์"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 1525,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24637,
+                        "legacyWordId": 1391991,
+                        "meaning": "daily",
+                        "parentId": 24637,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ราย วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รายวัน"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 1348,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44838,
+                        "legacyWordId": 1399185,
+                        "meaning": "Friday",
+                        "parentId": 44838,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน สุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันศุกร์"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 1151,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103328,
+                        "legacyWordId": 1399206,
+                        "meaning": "which day",
+                        "parentId": 103328,
+                        "partOfSpeech": "Interrogative",
+                        "t2e": "วัน ไหฺน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันไหน"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 1151,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103329,
+                        "legacyWordId": 1399206,
+                        "meaning": "whichever day ; any day",
+                        "parentId": 103329,
+                        "partOfSpeech": "IndefinitePronoun",
+                        "t2e": "วัน ไหฺน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันไหน"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 1146,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44834,
+                        "legacyWordId": 1399215,
+                        "meaning": "daily",
+                        "parentId": 44834,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "วัน วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันๆ"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 1057,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23660,
+                        "legacyWordId": 1318388,
+                        "meaning": "each day ; every day",
+                        "parentId": 23660,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ ละ วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ละวัน"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 1045,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27160,
+                        "legacyWordId": 1399068,
+                        "meaning": "the other day",
+                        "parentId": 27160,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันก่อน"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 999,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "of something happening",
+                        "hasSoundFile": false,
+                        "id": 102540,
+                        "legacyWordId": 1387042,
+                        "meaning": "[to] have no chance",
+                        "parentId": 102540,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไม่ มี วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่มีวัน"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 987,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23722,
+                        "legacyWordId": 1405718,
+                        "meaning": "in some day",
+                        "parentId": 23722,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "สัก วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สักวัน"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 964,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44839,
+                        "legacyWordId": 1399153,
+                        "meaning": "Wednesday",
+                        "parentId": 44839,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน พุด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันพุธ"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 926,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44836,
+                        "legacyWordId": 1399209,
+                        "meaning": "Tuesday",
+                        "parentId": 44836,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน อัง-คาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันอังคาร"
+                    }
+                ],
+                "explanation": null,
+                "id": 362198,
+                "isUncommon": false,
+                "meaning": "day",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "วัน"
+            }
+        ],
+        "t2e": "วัน",
+        "verified": null,
+        "word": "วัน"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,783 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "You don't look so good.",
+            "id": 829,
+            "phonetic": "คุน ดู ไม่ ดี เลย",
+            "thaiSentence": "คุณดูไม่ดีเลย",
+            "thaiSentenceSpaced": " คุณ ดู ไม่ดี เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] not look good"
+                        }
+                    ],
+                    "phonetic": "ดู ไม่ ดี",
+                    "word": "ดูไม่ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Anyway, now is a bad time.",
+            "id": 978,
+            "phonetic": "ยัง ไง ก้อ · ตอน-นี้ เป็น เว-ลา ที่ ไม่ ดี เลย",
+            "thaiSentence": "ยังไงก็ ตอนนี้เป็นเวลาที่ไม่ดีเลย",
+            "thaiSentenceSpaced": " ยังไง ก็  ·  ตอนนี้ เป็นเวลา ที่ ไม่ดี เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "ยัง ไง",
+                    "word": "ยังไง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "now ; right now ; at this moment"
+                        }
+                    ],
+                    "phonetic": "ตอน-นี้",
+                    "word": "ตอนนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "when ; at the time that"
+                        }
+                    ],
+                    "phonetic": "เว-ลา ที่",
+                    "word": "เวลาที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "badly ; terribly"
+                        },
+                        {
+                            "meaning": "[to be] bad ; not good"
+                        }
+                    ],
+                    "phonetic": "ไม่ ดี",
+                    "word": "ไม่ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Bad for us.",
+            "id": 2632,
+            "phonetic": "ไม่ ดี สำ-หฺรับ เรา",
+            "thaiSentence": "ไม่ดีสำหรับเรา",
+            "thaiSentenceSpaced": " ไม่ดี สำหรับ เรา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "badly ; terribly"
+                        },
+                        {
+                            "meaning": "[to be] bad ; not good"
+                        }
+                    ],
+                    "phonetic": "ไม่ ดี",
+                    "word": "ไม่ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "for ; to ; on behalf of"
+                        }
+                    ],
+                    "phonetic": "สำ-หฺรับ",
+                    "word": "สำหรับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                }
+            ]
+        },
+        {
+            "engSentence": "Smoking is bad.",
+            "id": 30862,
+            "phonetic": "กาน สูบ บุ-หฺรี่ เป็น สิ่ง ไม่ ดี",
+            "thaiSentence": "การสูบบุหรี่เป็นสิ่งไม่ดี",
+            "thaiSentenceSpaced": " การสูบบุหรี่ เป็น สิ่ง ไม่ดี ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "smoking"
+                        }
+                    ],
+                    "phonetic": "กาน สูบ บุ-หฺรี่",
+                    "word": "การสูบบุหรี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "thing"
+                        }
+                    ],
+                    "phonetic": "สิ่ง",
+                    "word": "สิ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "badly ; terribly"
+                        },
+                        {
+                            "meaning": "[to be] bad ; not good"
+                        }
+                    ],
+                    "phonetic": "ไม่ ดี",
+                    "word": "ไม่ดี"
+                }
+            ]
+        },
+        {
+            "engSentence": "So that's not good.",
+            "id": 38902,
+            "phonetic": "ซึ่ง มัน ก้อ ไม่ ดี",
+            "thaiSentence": "ซึ่งมันก็ไม่ดี",
+            "thaiSentenceSpaced": " ซึ่ง มัน ก็ ไม่ดี ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "which ; that ; where ; what"
+                        }
+                    ],
+                    "phonetic": "ซึ่ง",
+                    "word": "ซึ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "badly ; terribly"
+                        },
+                        {
+                            "meaning": "[to be] bad ; not good"
+                        }
+                    ],
+                    "phonetic": "ไม่ ดี",
+                    "word": "ไม่ดี"
+                }
+            ]
+        },
+        {
+            "engSentence": "This is not good.",
+            "id": 123990,
+            "phonetic": "นี่ ไม่ ดี เอา มาก มาก · เลย",
+            "thaiSentence": "นี่ไม่ดีเอามากๆ เลย",
+            "thaiSentenceSpaced": " นี่ ไม่ดี เอา มากๆ เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "badly ; terribly"
+                        },
+                        {
+                            "meaning": "[to be] bad ; not good"
+                        }
+                    ],
+                    "phonetic": "ไม่ ดี",
+                    "word": "ไม่ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; desire"
+                        },
+                        {
+                            "meaning": "[to] take ; bring"
+                        }
+                    ],
+                    "phonetic": "เอา",
+                    "word": "เอา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much ; a lot"
+                        }
+                    ],
+                    "phonetic": "มาก มาก",
+                    "word": "มากๆ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 7773,
+        "exampleSentences": [
+            {
+                "engSentence": "You don't look so good.",
+                "id": 829,
+                "thaiSentence": "คุณดูไม่ดีเลย",
+                "thaiSentenceSpaced": " คุณ ดู ไม่ดี เลย "
+            },
+            {
+                "engSentence": "Anyway, now is a bad time.",
+                "id": 978,
+                "thaiSentence": "ยังไงก็ ตอนนี้เป็นเวลาที่ไม่ดีเลย",
+                "thaiSentenceSpaced": " ยังไง ก็  &middot;  ตอนนี้ เป็นเวลา ที่ ไม่ดี เลย "
+            },
+            {
+                "engSentence": "Bad for us.",
+                "id": 2632,
+                "thaiSentence": "ไม่ดีสำหรับเรา",
+                "thaiSentenceSpaced": " ไม่ดี สำหรับ เรา "
+            },
+            {
+                "engSentence": "Smoking is bad.",
+                "id": 30862,
+                "thaiSentence": "การสูบบุหรี่เป็นสิ่งไม่ดี",
+                "thaiSentenceSpaced": " การสูบบุหรี่ เป็น สิ่ง ไม่ดี "
+            },
+            {
+                "engSentence": "So that's not good.",
+                "id": 38902,
+                "thaiSentence": "ซึ่งมันก็ไม่ดี",
+                "thaiSentenceSpaced": " ซึ่ง มัน ก็ ไม่ดี "
+            },
+            {
+                "engSentence": "This is not good.",
+                "id": 123990,
+                "thaiSentence": "นี่ไม่ดีเอามากๆ เลย",
+                "thaiSentenceSpaced": " นี่ ไม่ดี เอา มากๆ เลย "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1386842,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 42109,
+                        "corpusScore": 472057,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42109,
+                        "legacyWordId": 1386654,
+                        "meaning": "no ; not ",
+                        "parentId": 24403,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "ไม่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่"
+                    },
+                    {
+                        "childId": 421586,
+                        "corpusScore": 138563,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 421586,
+                        "legacyWordId": 1307696,
+                        "meaning": "[to be] good ; nice",
+                        "parentId": 24403,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดี"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "badly",
+                        "word": "badly"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "terribly",
+                        "word": "terribly"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 24403,
+                        "corpusScore": 39,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33612,
+                        "legacyWordId": 1294353,
+                        "meaning": "[to] be unlucky ; be unfortunate",
+                        "parentId": 33612,
+                        "partOfSpeech": "Verb",
+                        "t2e": "โชก ไม่ ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โชคไม่ดี"
+                    },
+                    {
+                        "childId": 24403,
+                        "corpusScore": 22,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15991,
+                        "legacyWordId": 1291018,
+                        "meaning": "[to be] evil ; evilminded ; vicious",
+                        "parentId": 15991,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ไจ ไม่ ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใจไม่ดี"
+                    },
+                    {
+                        "childId": 24403,
+                        "corpusScore": 20,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27682,
+                        "legacyWordId": 1454307,
+                        "meaning": "[to] be in a bad mood",
+                        "parentId": 27682,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อา-รม ไม่ ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อารมณ์ไม่ดี"
+                    },
+                    {
+                        "childId": 24403,
+                        "corpusScore": 18,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1970,
+                        "legacyWordId": 1306111,
+                        "meaning": "[to] be unlucky ; have misfortune ; be unfortunate",
+                        "parentId": 1970,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดวง ไม่ ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดวงไม่ดี"
+                    }
+                ],
+                "explanation": null,
+                "id": 24403,
+                "isUncommon": false,
+                "meaning": "badly ; terribly",
+                "partOfSpeech": "Adverb",
+                "usage": "",
+                "word": "ไม่ดี"
+            },
+            {
+                "components": [
+                    {
+                        "childId": 42109,
+                        "corpusScore": 472057,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42109,
+                        "legacyWordId": 1386654,
+                        "meaning": "no ; not ",
+                        "parentId": 42752,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "ไม่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่"
+                    },
+                    {
+                        "childId": 421586,
+                        "corpusScore": 138563,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 421586,
+                        "legacyWordId": 1307696,
+                        "meaning": "[to be] good ; nice",
+                        "parentId": 42752,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดี"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] bad",
+                        "word": "bad"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "not good",
+                        "word": "not good"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 42752,
+                        "corpusScore": 107,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397914,
+                        "legacyWordId": 1307762,
+                        "meaning": "fair ; moderately",
+                        "parentId": 397914,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ดี ไม่ ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดีไม่ดี"
+                    },
+                    {
+                        "childId": 42752,
+                        "corpusScore": 65,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400168,
+                        "legacyWordId": 1392739,
+                        "meaning": "[to] feel bad",
+                        "parentId": 400168,
+                        "partOfSpeech": "Verb",
+                        "t2e": "รู้ สึก ไม่ ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รู้สึกไม่ดี"
+                    },
+                    {
+                        "childId": 42752,
+                        "corpusScore": 54,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398735,
+                        "legacyWordId": 1330341,
+                        "meaning": "[to be] spoilt",
+                        "parentId": 398735,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "นิ-ไส ไม่ ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นิสัยไม่ดี"
+                    },
+                    {
+                        "childId": 42752,
+                        "corpusScore": 50,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49721,
+                        "legacyWordId": 1282293,
+                        "meaning": "badness",
+                        "parentId": 49721,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม ไม่ ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความไม่ดี"
+                    },
+                    {
+                        "childId": 42752,
+                        "corpusScore": 42,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394736,
+                        "legacyWordId": 1307972,
+                        "meaning": "[to] not look good",
+                        "parentId": 394736,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดู ไม่ ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดูไม่ดี"
+                    },
+                    {
+                        "childId": 42752,
+                        "corpusScore": 14,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 69310,
+                        "legacyWordId": 1408781,
+                        "meaning": "ill-health",
+                        "parentId": 69310,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สุก-ขะ-พาบ ไม่ ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สุขภาพไม่ดี"
+                    },
+                    {
+                        "childId": 42752,
+                        "corpusScore": 6,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398991,
+                        "legacyWordId": 1368800,
+                        "meaning": "[to] sin ; commit a sin ; do evil",
+                        "parentId": 398991,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ปฺระ-พฺรึด ไม่ ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประพฤติไม่ดี"
+                    },
+                    {
+                        "childId": 42752,
+                        "corpusScore": 6,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400253,
+                        "legacyWordId": 1395244,
+                        "meaning": "[to be] ugly ; lacking good qualities",
+                        "parentId": 400253,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ลัก-สะ-หฺนะ ไม่ ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลักษณะไม่ดี"
+                    }
+                ],
+                "explanation": null,
+                "id": 42752,
+                "isUncommon": false,
+                "meaning": "[to be] bad ; not good",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "ไม่ดี"
+            }
+        ],
+        "t2e": "ไม่ ดี",
+        "verified": null,
+        "word": "ไม่ดี"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

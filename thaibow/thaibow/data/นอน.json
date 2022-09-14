@@ -1,0 +1,854 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Of course, councillor.",
+            "id": 2275,
+            "phonetic": "แน่ นอน · ทั่น · ส · ส",
+            "thaiSentence": "แน่นอน ท่าน ส.ส.",
+            "thaiSentenceSpaced": " แน่ นอน  ·  ท่าน ส.ส. ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "certainly ; surely ; definitely"
+                        }
+                    ],
+                    "phonetic": "แน่ นอน",
+                    "word": "แน่นอน"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you <i>(when talking to someone respected or of high status)</i>"
+                        },
+                        {
+                            "meaning": "he ; him ; she ; her <i>(when referring to someone respected or of high status)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a title used to show respect to someone of high status, or by businesses to their customers)</i>"
+                        }
+                    ],
+                    "phonetic": "ทั่น",
+                    "word": "ท่าน"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sor seua <i>(ส - the fortieth letter of the Thai alphabet)</i>"
+                        }
+                    ],
+                    "phonetic": "ส",
+                    "word": "ส"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sor seua <i>(ส - the fortieth letter of the Thai alphabet)</i>"
+                        }
+                    ],
+                    "phonetic": "ส",
+                    "word": "ส"
+                }
+            ]
+        },
+        {
+            "engSentence": "Of course, I did.",
+            "id": 5362,
+            "phonetic": "แน่ นอน · หฺยู่ แล้ว",
+            "thaiSentence": "แน่นอน อยู่แล้ว",
+            "thaiSentenceSpaced": " แน่ นอน  ·  อยู่ แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "certainly ; surely ; definitely"
+                        }
+                    ],
+                    "phonetic": "แน่ นอน",
+                    "word": "แน่นอน"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "Of course it was always me.",
+            "id": 31173,
+            "phonetic": "แน่ นอน · เป็น ผม สะ-เหฺมอ ล่ะ",
+            "thaiSentence": "แน่นอน เป็นผมเสมอล่ะ",
+            "thaiSentenceSpaced": " แน่ นอน  ·  เป็น ผม เสมอ ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "certainly ; surely ; definitely"
+                        }
+                    ],
+                    "phonetic": "แน่ นอน",
+                    "word": "แน่นอน"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "always ; constantly"
+                        }
+                    ],
+                    "phonetic": "สะ-เหฺมอ",
+                    "word": "เสมอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You can sleep here.",
+            "id": 32674,
+            "phonetic": "คุน นอน ตฺรง นี้ ด้าย",
+            "thaiSentence": "คุณนอนตรงนี้ได้",
+            "thaiSentenceSpaced": " คุณ นอน ตรงนี้ ได้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] sleep ; lie down"
+                        }
+                    ],
+                    "phonetic": "นอน",
+                    "word": "นอน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "here ; this place"
+                        }
+                    ],
+                    "phonetic": "ตฺรง นี้",
+                    "word": "ตรงนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                }
+            ]
+        },
+        {
+            "engSentence": "Sure you know her.",
+            "id": 33521,
+            "phonetic": "แน่ นอน · คุน รู้ จัก เทอ",
+            "thaiSentence": "แน่นอน คุณรู้จักเธอ",
+            "thaiSentenceSpaced": " แน่ นอน  ·  คุณ รู้จัก เธอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "certainly ; surely ; definitely"
+                        }
+                    ],
+                    "phonetic": "แน่ นอน",
+                    "word": "แน่นอน"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] know <i>(someone)</i>"
+                        }
+                    ],
+                    "phonetic": "รู้ จัก",
+                    "word": "รู้จัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "เทอ",
+                    "word": "เธอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Of course I did.",
+            "id": 49026,
+            "phonetic": "แน่ นอน · ผม ทำ ด้าย",
+            "thaiSentence": "แน่นอน ผมทำได้",
+            "thaiSentenceSpaced": " แน่ นอน  ·  ผม ทำได้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "certainly ; surely ; definitely"
+                        }
+                    ],
+                    "phonetic": "แน่ นอน",
+                    "word": "แน่นอน"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] can ; be able to"
+                        }
+                    ],
+                    "phonetic": "ทำ ด้าย",
+                    "word": "ทำได้"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 24458,
+        "exampleSentences": [
+            {
+                "engSentence": "Of course, councillor.",
+                "id": 2275,
+                "thaiSentence": "แน่นอน ท่าน ส.ส.",
+                "thaiSentenceSpaced": " แน่ นอน  &middot;  ท่าน ส.ส. "
+            },
+            {
+                "engSentence": "Of course, I did.",
+                "id": 5362,
+                "thaiSentence": "แน่นอน อยู่แล้ว",
+                "thaiSentenceSpaced": " แน่ นอน  &middot;  อยู่ แล้ว "
+            },
+            {
+                "engSentence": "Of course it was always me.",
+                "id": 31173,
+                "thaiSentence": "แน่นอน เป็นผมเสมอล่ะ",
+                "thaiSentenceSpaced": " แน่ นอน  &middot;  เป็น ผม เสมอ ล่ะ "
+            },
+            {
+                "engSentence": "You can sleep here.",
+                "id": 32674,
+                "thaiSentence": "คุณนอนตรงนี้ได้",
+                "thaiSentenceSpaced": " คุณ นอน ตรงนี้ ได้ "
+            },
+            {
+                "engSentence": "Sure you know her.",
+                "id": 33521,
+                "thaiSentence": "แน่นอน คุณรู้จักเธอ",
+                "thaiSentenceSpaced": " แน่ นอน  &middot;  คุณ รู้จัก เธอ "
+            },
+            {
+                "engSentence": "Of course I did.",
+                "id": 49026,
+                "thaiSentence": "แน่นอน ผมทำได้",
+                "thaiSentenceSpaced": " แน่ นอน  &middot;  ผม ทำได้ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1327572,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] sleep",
+                        "word": "sleep"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "lie down",
+                        "word": "lie down"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 2444,
+                        "corpusScore": 10091,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 40949,
+                        "legacyWordId": 1330822,
+                        "meaning": "certainly ; surely ; definitely",
+                        "parentId": 40949,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แน่ นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แน่นอน"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 1370,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14303,
+                        "legacyWordId": 1323396,
+                        "meaning": "mattress ; bed",
+                        "parentId": 14303,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ที่ นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่นอน"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 1235,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402563,
+                        "legacyWordId": 1373277,
+                        "meaning": "[to] go to bed",
+                        "parentId": 402563,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปนอน"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 1226,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402820,
+                        "legacyWordId": 1327601,
+                        "meaning": "[to] sleep",
+                        "parentId": 402820,
+                        "partOfSpeech": "Verb",
+                        "t2e": "นอน หฺลับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นอนหลับ"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 1040,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25774,
+                        "legacyWordId": 1448243,
+                        "meaning": "bedroom",
+                        "parentId": 25774,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องนอน"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 540,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7311,
+                        "legacyWordId": 1277501,
+                        "meaning": "[to] go to bed",
+                        "parentId": 7311,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้านอน"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 459,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22750,
+                        "legacyWordId": 1330898,
+                        "meaning": "horizon",
+                        "parentId": 22750,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แนว นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แนวนอน"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 382,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40810,
+                        "legacyWordId": 1317756,
+                        "meaning": "[to] wake up ; be awake ; get up",
+                        "parentId": 40810,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตื่น นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตื่นนอน"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 304,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15226,
+                        "legacyWordId": 1376634,
+                        "meaning": "reclining Buddha",
+                        "parentId": 15226,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พฺระ นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พระนอน"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 282,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1894,
+                        "legacyWordId": 1327591,
+                        "meaning": "[to] not be able to sleep ; be sleepless",
+                        "parentId": 1894,
+                        "partOfSpeech": "Verb",
+                        "t2e": "นอน ไม่ หฺลับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นอนไม่หลับ"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 204,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25027,
+                        "legacyWordId": 1446906,
+                        "meaning": "[to] sleep ; take a nap ; go to bed",
+                        "parentId": 25027,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺลับ นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หลับนอน"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 204,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25260,
+                        "legacyWordId": 1446906,
+                        "meaning": "[to] make love ; have sex",
+                        "parentId": 25260,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺลับ นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หลับนอน"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 196,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26461,
+                        "legacyWordId": 1400473,
+                        "meaning": "bedtime",
+                        "parentId": 26461,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เว-ลา นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เวลานอน"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 186,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20778,
+                        "legacyWordId": 1318202,
+                        "meaning": "bed",
+                        "parentId": 20778,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เตียง นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เตียงนอน"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 173,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11563,
+                        "legacyWordId": 1293189,
+                        "meaning": "nightgown ; nightdress ; sleeping suit",
+                        "parentId": 11563,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุด นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุดนอน"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 168,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35331,
+                        "legacyWordId": 1327600,
+                        "meaning": "[to] sleep with turning face u ; lie on one's back",
+                        "parentId": 35331,
+                        "partOfSpeech": "Verb",
+                        "t2e": "นอน หฺงาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นอนหงาย"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 154,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38469,
+                        "legacyWordId": 1394508,
+                        "meaning": "[to] lie down",
+                        "parentId": 38469,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ลง นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลงนอน"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 146,
+                        "displayOrder": 1,
+                        "etymology": "Thai",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45112,
+                        "legacyWordId": 1463376,
+                        "meaning": "head of the bed",
+                        "parentId": 45112,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หัว นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หัวนอน"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 142,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6584,
+                        "legacyWordId": 1327597,
+                        "meaning": "[to] lie leisurely ; take a rest ; lie down",
+                        "parentId": 6584,
+                        "partOfSpeech": "Verb",
+                        "t2e": "นอน เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นอนเล่น"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 136,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31500,
+                        "legacyWordId": 1287411,
+                        "meaning": "[to] be tired ; be sleepy",
+                        "parentId": 31500,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ง่วง นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ง่วงนอน"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 130,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6731,
+                        "legacyWordId": 1327576,
+                        "meaning": "[to] lie prone ; lie on the stomach",
+                        "parentId": 6731,
+                        "partOfSpeech": "Verb",
+                        "t2e": "นอน คฺว่ำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นอนคว่ำ"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 128,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6856,
+                        "legacyWordId": 1327584,
+                        "meaning": "[to] die ; become dead",
+                        "parentId": 6856,
+                        "partOfSpeech": "Verb",
+                        "t2e": "นอน ตาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นอนตาย"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 118,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6287,
+                        "legacyWordId": 1327577,
+                        "meaning": "[to] be overnight",
+                        "parentId": 6287,
+                        "partOfSpeech": "Verb",
+                        "t2e": "นอน ค้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นอนค้าง"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 112,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401092,
+                        "legacyWordId": 1452021,
+                        "meaning": "[to] want to sleep",
+                        "parentId": 401092,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยาก นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยากนอน"
+                    },
+                    {
+                        "childId": 2444,
+                        "corpusScore": 101,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 436,
+                        "legacyWordId": 1451611,
+                        "meaning": "[to] not sleep a wink",
+                        "parentId": 436,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อด นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อดนอน"
+                    }
+                ],
+                "explanation": null,
+                "id": 2444,
+                "isUncommon": false,
+                "meaning": "[to] sleep ; lie down",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "นอน"
+            }
+        ],
+        "t2e": "นอน",
+        "verified": null,
+        "word": "นอน"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,604 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Where could she be ?",
+            "id": 995,
+            "phonetic": "เขา ไป ที่ ไหฺน",
+            "thaiSentence": "เขาไปที่ไหน",
+            "thaiSentenceSpaced": " เขา ไป ที่ไหน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        },
+                        {
+                            "meaning": "where ; which place"
+                        }
+                    ],
+                    "phonetic": "ที่ ไหฺน",
+                    "word": "ที่ไหน"
+                }
+            ]
+        },
+        {
+            "engSentence": "Where did that person go ?",
+            "id": 1474,
+            "phonetic": "คน ๆ · นั้น ไป ที่ ไหฺน แล้ว",
+            "thaiSentence": "คนๆ นั้นไปที่ไหนแล้ว",
+            "thaiSentenceSpaced": " คน ๆ  ·  นั้น ไป ที่ไหน แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(character used to indicate the previous word is repeated)</i>"
+                        }
+                    ],
+                    "phonetic": "ๆ",
+                    "word": "ๆ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence, or to show the end of a relative clause)</i>"
+                        },
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั้น",
+                    "word": "นั้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go to"
+                        }
+                    ],
+                    "phonetic": "ไป ที่",
+                    "word": "ไปที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whichever one"
+                        },
+                        {
+                            "meaning": "which"
+                        },
+                        {
+                            "meaning": "where ; which place <i>(a shortened form of ที่ไหน)</i>"
+                        },
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        }
+                    ],
+                    "phonetic": "ไหฺน",
+                    "word": "ไหน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "Where are you ?",
+            "id": 2195,
+            "phonetic": "คุน หฺยู่ ที่ ไหฺน กัน",
+            "thaiSentence": "คุณอยู่ที่ไหนกัน",
+            "thaiSentenceSpaced": " คุณ อยู่ ที่ไหน กัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be at ; stay at ; live at"
+                        }
+                    ],
+                    "phonetic": "หฺยู่ ที่",
+                    "word": "อยู่ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whichever one"
+                        },
+                        {
+                            "meaning": "which"
+                        },
+                        {
+                            "meaning": "where ; which place <i>(a shortened form of ที่ไหน)</i>"
+                        },
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        }
+                    ],
+                    "phonetic": "ไหฺน",
+                    "word": "ไหน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one another ; each other"
+                        },
+                        {
+                            "meaning": "together ; jointly"
+                        }
+                    ],
+                    "phonetic": "กัน",
+                    "word": "กัน"
+                }
+            ]
+        },
+        {
+            "engSentence": "Where should we meet ?",
+            "id": 4617,
+            "phonetic": "เรา จะ เจอ กัน ที่ ไหฺน ดี ค่ะ",
+            "thaiSentence": "เราจะเจอกันที่ไหนดีค่ะ",
+            "thaiSentenceSpaced": " เรา จะ เจอกัน ที่ไหน ดี ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] meet ; encounter ; see"
+                        }
+                    ],
+                    "phonetic": "เจอ กัน",
+                    "word": "เจอกัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        },
+                        {
+                            "meaning": "where ; which place"
+                        }
+                    ],
+                    "phonetic": "ที่ ไหฺน",
+                    "word": "ที่ไหน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Then where do you look ?",
+            "id": 5919,
+            "phonetic": "แล้ว คุน มอง เขา ที่ ไหฺน ล่ะ",
+            "thaiSentence": "แล้วคุณมองเขาที่ไหนล่ะ",
+            "thaiSentenceSpaced": " แล้ว คุณ มอง เขา ที่ไหน ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] look (at)"
+                        }
+                    ],
+                    "phonetic": "มอง",
+                    "word": "มอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        },
+                        {
+                            "meaning": "where ; which place"
+                        }
+                    ],
+                    "phonetic": "ที่ ไหฺน",
+                    "word": "ที่ไหน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Where are you from ?",
+            "id": 1075,
+            "phonetic": "มา จาก ที่ ไหฺน",
+            "thaiSentence": "มาจากที่ไหน",
+            "thaiSentenceSpaced": " มาจาก ที่ไหน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] come from ; be from"
+                        }
+                    ],
+                    "phonetic": "มา จาก",
+                    "word": "มาจาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        },
+                        {
+                            "meaning": "where ; which place"
+                        }
+                    ],
+                    "phonetic": "ที่ ไหฺน",
+                    "word": "ที่ไหน"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 7468,
+        "exampleSentences": [
+            {
+                "engSentence": "Where could she be ?",
+                "id": 995,
+                "thaiSentence": "เขาไปที่ไหน",
+                "thaiSentenceSpaced": " เขา ไป ที่ไหน "
+            },
+            {
+                "engSentence": "Where did that person go ?",
+                "id": 1474,
+                "thaiSentence": "คนๆ นั้นไปที่ไหนแล้ว",
+                "thaiSentenceSpaced": " คน ๆ  &middot;  นั้น ไป ที่ไหน แล้ว "
+            },
+            {
+                "engSentence": "Where are you ?",
+                "id": 2195,
+                "thaiSentence": "คุณอยู่ที่ไหนกัน",
+                "thaiSentenceSpaced": " คุณ อยู่ ที่ไหน กัน "
+            },
+            {
+                "engSentence": "Where should we meet ?",
+                "id": 4617,
+                "thaiSentence": "เราจะเจอกันที่ไหนดีค่ะ",
+                "thaiSentenceSpaced": " เรา จะ เจอกัน ที่ไหน ดี ค่ะ "
+            },
+            {
+                "engSentence": "Then where do you look ?",
+                "id": 5919,
+                "thaiSentence": "แล้วคุณมองเขาที่ไหนล่ะ",
+                "thaiSentenceSpaced": " แล้ว คุณ มอง เขา ที่ไหน ล่ะ "
+            },
+            {
+                "engSentence": "Where are you from ?",
+                "id": 1075,
+                "thaiSentence": "มาจากที่ไหน",
+                "thaiSentenceSpaced": " มาจาก ที่ไหน "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1323606,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 102641,
+                        "corpusScore": 1264179,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "ที่ is a classifier for places, spaces or seats.",
+                        "hasSoundFile": true,
+                        "id": 102641,
+                        "legacyWordId": 1323286,
+                        "meaning": "place ; area ; land",
+                        "parentId": 48126,
+                        "partOfSpeech": "Noun ; Classifier",
+                        "t2e": "ที่",
+                        "usage": "",
+                        "verified": "ที่",
+                        "word": "ที่"
+                    },
+                    {
+                        "childId": 28355,
+                        "corpusScore": 35215,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 28355,
+                        "legacyWordId": 1451315,
+                        "meaning": "which",
+                        "parentId": 48126,
+                        "partOfSpeech": "Interrogative",
+                        "t2e": "ไหฺน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไหน"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "somewhere",
+                        "word": "somewhere"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "anywhere",
+                        "word": "anywhere"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 48126,
+                        "corpusScore": 110,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6665,
+                        "legacyWordId": 1323608,
+                        "meaning": "on the contrary",
+                        "parentId": 6665,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ที่ ไหฺน ด้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่ไหนได้"
+                    },
+                    {
+                        "childId": 48126,
+                        "corpusScore": 50,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6708,
+                        "legacyWordId": 1323611,
+                        "meaning": "wherever",
+                        "parentId": 6708,
+                        "partOfSpeech": "IndefinitePronoun",
+                        "t2e": "ที่ ไหฺน ไหฺน",
+                        "usage": "",
+                        "verified": "ที่ ไหฺน ไหฺน",
+                        "word": "ที่ไหนๆ"
+                    }
+                ],
+                "explanation": null,
+                "id": 48126,
+                "isUncommon": false,
+                "meaning": "somewhere ; anywhere",
+                "partOfSpeech": "IndefinitePronoun",
+                "usage": "",
+                "word": "ที่ไหน"
+            },
+            {
+                "components": [
+                    {
+                        "childId": 102641,
+                        "corpusScore": 1264179,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "ที่ is a classifier for places, spaces or seats.",
+                        "hasSoundFile": true,
+                        "id": 102641,
+                        "legacyWordId": 1323286,
+                        "meaning": "place ; area ; land",
+                        "parentId": 8089,
+                        "partOfSpeech": "Noun ; Classifier",
+                        "t2e": "ที่",
+                        "usage": "",
+                        "verified": "ที่",
+                        "word": "ที่"
+                    },
+                    {
+                        "childId": 28355,
+                        "corpusScore": 35215,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 28355,
+                        "legacyWordId": 1451315,
+                        "meaning": "which",
+                        "parentId": 8089,
+                        "partOfSpeech": "Interrogative",
+                        "t2e": "ไหฺน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไหน"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "where",
+                        "word": "where"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "which place",
+                        "word": "which place"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 8089,
+                        "corpusScore": 148,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7262,
+                        "legacyWordId": 1323609,
+                        "meaning": "where else",
+                        "parentId": 7262,
+                        "partOfSpeech": "Interrogative",
+                        "t2e": "ที่ ไหฺน บ้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่ไหนบ้าง"
+                    }
+                ],
+                "explanation": null,
+                "id": 8089,
+                "isUncommon": false,
+                "meaning": "where ; which place",
+                "partOfSpeech": "Interrogative",
+                "usage": "",
+                "word": "ที่ไหน"
+            }
+        ],
+        "t2e": "ที่ ไหฺน",
+        "verified": null,
+        "word": "ที่ไหน"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

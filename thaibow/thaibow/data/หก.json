@@ -1,0 +1,857 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "There's only six victims.",
+            "id": 30506,
+            "phonetic": "มี เหฺยื่อ แค่ หก ราย นี่",
+            "thaiSentence": "มีเหยื่อแค่หกรายนี่",
+            "thaiSentenceSpaced": " มี เหยื่อ แค่ หก ราย นี่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "victim ; prey ; bait"
+                        }
+                    ],
+                    "phonetic": "เหฺยื่อ",
+                    "word": "เหยื่อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "just ; only"
+                        }
+                    ],
+                    "phonetic": "แค่",
+                    "word": "แค่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] spill ; fall ; splatter"
+                        },
+                        {
+                            "meaning": "six"
+                        }
+                    ],
+                    "phonetic": "หก",
+                    "word": "หก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "case ; instance ; item"
+                        }
+                    ],
+                    "phonetic": "ราย",
+                    "word": "ราย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                }
+            ]
+        },
+        {
+            "engSentence": "About six minutes.",
+            "id": 40661,
+            "phonetic": "ปฺระ-มาน หก นา-ที",
+            "thaiSentence": "ประมาณหกนาที",
+            "thaiSentenceSpaced": " ประมาณ หก นาที ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "about ; around ; approximately"
+                        }
+                    ],
+                    "phonetic": "ปฺระ-มาน",
+                    "word": "ประมาณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] spill ; fall ; splatter"
+                        },
+                        {
+                            "meaning": "six"
+                        }
+                    ],
+                    "phonetic": "หก",
+                    "word": "หก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "minute"
+                        }
+                    ],
+                    "phonetic": "นา-ที",
+                    "word": "นาที"
+                }
+            ]
+        },
+        {
+            "engSentence": "Yes, tonight at 6PM.",
+            "id": 418819,
+            "phonetic": "ค่ะ · คืน นี้ ตอน · หก โมง",
+            "thaiSentence": "ค่ะ คืนนี้ตอน หกโมง",
+            "thaiSentenceSpaced": " ค่ะ  ·  คืนนี้ ตอน  ·  หก โมง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tonight ; this night ; this evening"
+                        }
+                    ],
+                    "phonetic": "คืน นี้",
+                    "word": "คืนนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "when ; during ; at"
+                        },
+                        {
+                            "meaning": "section ; piece ; bit ; part ; episode"
+                        }
+                    ],
+                    "phonetic": "ตอน",
+                    "word": "ตอน"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "6 o'clock"
+                        }
+                    ],
+                    "phonetic": "หก โมง",
+                    "word": "หกโมง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Six cans of beer.",
+            "id": 551775,
+            "phonetic": "เบีย หก กฺระ-ป๋อง นะ",
+            "thaiSentence": "เบียร์หกกระป๋องนะ",
+            "thaiSentenceSpaced": " เบียร์ หก กระป๋อง นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "beer ; ale"
+                        }
+                    ],
+                    "phonetic": "เบีย",
+                    "word": "เบียร์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] spill ; fall ; splatter"
+                        },
+                        {
+                            "meaning": "six"
+                        }
+                    ],
+                    "phonetic": "หก",
+                    "word": "หก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "can ; tin"
+                        }
+                    ],
+                    "phonetic": "กฺระ-ป๋อง",
+                    "word": "กระป๋อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Not seen him for six months.",
+            "id": 621532,
+            "phonetic": "ไม่ ด้าย เห็น เขา มา หก เดือน แล้ว",
+            "thaiSentence": "ไม่ได้เห็นเขามาหกเดือนแล้ว",
+            "thaiSentenceSpaced": " ไม่ได้ เห็น เขา มา หก เดือน แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "didn't ; did not"
+                        },
+                        {
+                            "meaning": "can't ; cannot"
+                        }
+                    ],
+                    "phonetic": "ไม่ ด้าย",
+                    "word": "ไม่ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] see"
+                        }
+                    ],
+                    "phonetic": "เห็น",
+                    "word": "เห็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] spill ; fall ; splatter"
+                        },
+                        {
+                            "meaning": "six"
+                        }
+                    ],
+                    "phonetic": "หก",
+                    "word": "หก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "month"
+                        }
+                    ],
+                    "phonetic": "เดือน",
+                    "word": "เดือน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 2774,
+        "exampleSentences": [
+            {
+                "engSentence": "There's only six victims.",
+                "id": 30506,
+                "thaiSentence": "มีเหยื่อแค่หกรายนี่",
+                "thaiSentenceSpaced": " มี เหยื่อ แค่ หก ราย นี่ "
+            },
+            {
+                "engSentence": "About six minutes.",
+                "id": 40661,
+                "thaiSentence": "ประมาณหกนาที",
+                "thaiSentenceSpaced": " ประมาณ หก นาที "
+            },
+            {
+                "engSentence": "Yes, tonight at 6PM.",
+                "id": 418819,
+                "thaiSentence": "ค่ะ คืนนี้ตอน หกโมง",
+                "thaiSentenceSpaced": " ค่ะ  &middot;  คืนนี้ ตอน  &middot;  หก โมง "
+            },
+            {
+                "engSentence": "Six cans of beer.",
+                "id": 551775,
+                "thaiSentence": "เบียร์หกกระป๋องนะ",
+                "thaiSentenceSpaced": " เบียร์ หก กระป๋อง นะ "
+            },
+            {
+                "engSentence": "Not seen him for six months.",
+                "id": 621532,
+                "thaiSentence": "ไม่ได้เห็นเขามาหกเดือนแล้ว",
+                "thaiSentenceSpaced": " ไม่ได้ เห็น เขา มา หก เดือน แล้ว "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1410617,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] spill",
+                        "word": "spill"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "fall",
+                        "word": "fall"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "splatter",
+                        "word": "splatter"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 1139,
+                        "corpusScore": 186,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26767,
+                        "legacyWordId": 1410630,
+                        "meaning": "[to] fall ; collapse",
+                        "parentId": 26767,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หก ล้ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกล้ม"
+                    },
+                    {
+                        "childId": 1139,
+                        "corpusScore": 25,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14378,
+                        "legacyWordId": 1329865,
+                        "meaning": "[to] be fond of good food ; have great appetite for",
+                        "parentId": 14378,
+                        "partOfSpeech": "Verb",
+                        "t2e": "น้ำ ลาย หก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น้ำลายหก"
+                    },
+                    {
+                        "childId": 1139,
+                        "corpusScore": 4,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19937,
+                        "legacyWordId": 1410622,
+                        "meaning": "[to] capsize ; overturn ; turn over",
+                        "parentId": 19937,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หก คฺว่ำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกคว่ำ"
+                    },
+                    {
+                        "childId": 1139,
+                        "corpusScore": 1,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6599,
+                        "legacyWordId": 1410619,
+                        "meaning": "[to] tumble ; fall ; take a tumble",
+                        "parentId": 6599,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หก กฺลับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกกลับ"
+                    },
+                    {
+                        "childId": 1139,
+                        "corpusScore": 1,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27581,
+                        "legacyWordId": 1410619,
+                        "meaning": "[to] return",
+                        "parentId": 27581,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หก กฺลับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกกลับ"
+                    },
+                    {
+                        "childId": 1139,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19315,
+                        "legacyWordId": 1410632,
+                        "meaning": "[to] tumble ; topple",
+                        "parentId": 19315,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หก โล่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกโล่"
+                    },
+                    {
+                        "childId": 1139,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103404,
+                        "legacyWordId": 1322859,
+                        "meaning": "[to] spill (something)",
+                        "parentId": 103404,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ (...) หก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำ (...) หก"
+                    },
+                    {
+                        "childId": 1139,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9829,
+                        "legacyWordId": 1263967,
+                        "meaning": "seesaw board ; seesaw",
+                        "parentId": 9829,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-ดาน หก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระดานหก"
+                    }
+                ],
+                "explanation": null,
+                "id": 1139,
+                "isUncommon": false,
+                "meaning": "[to] spill ; fall ; splatter",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "หก"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "six",
+                        "word": "six"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 2566,
+                        "corpusScore": 242,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102765,
+                        "legacyWordId": 1410626,
+                        "meaning": "6 o'clock",
+                        "parentId": 102765,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หก โมง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกโมง"
+                    },
+                    {
+                        "childId": 2566,
+                        "corpusScore": 226,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102693,
+                        "legacyWordId": 1410633,
+                        "meaning": "sixty ; 60",
+                        "parentId": 102693,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "หก สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกสิบ"
+                    },
+                    {
+                        "childId": 2566,
+                        "corpusScore": 172,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102685,
+                        "legacyWordId": 1408339,
+                        "meaning": "sixteen",
+                        "parentId": 102685,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สิบ หก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบหก"
+                    },
+                    {
+                        "childId": 2566,
+                        "corpusScore": 158,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6351,
+                        "legacyWordId": 1323590,
+                        "meaning": "sixth",
+                        "parentId": 6351,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ที่ หก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่หก"
+                    },
+                    {
+                        "childId": 2566,
+                        "corpusScore": 92,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19114,
+                        "legacyWordId": 1410639,
+                        "meaning": "hexagon",
+                        "parentId": 19114,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หก เหฺลี่ยม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกเหลี่ยม"
+                    },
+                    {
+                        "childId": 2566,
+                        "corpusScore": 56,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102698,
+                        "legacyWordId": 1410629,
+                        "meaning": "six hundred ; 600",
+                        "parentId": 102698,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "หก ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกร้อย"
+                    },
+                    {
+                        "childId": 2566,
+                        "corpusScore": 53,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102706,
+                        "legacyWordId": 1410625,
+                        "meaning": "six thousand ; 6000",
+                        "parentId": 102706,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "หก พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกพัน"
+                    },
+                    {
+                        "childId": 2566,
+                        "corpusScore": 42,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102752,
+                        "legacyWordId": 1410627,
+                        "meaning": "6am",
+                        "parentId": 102752,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หก โมง เช้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกโมงเช้า"
+                    },
+                    {
+                        "childId": 2566,
+                        "corpusScore": 39,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102716,
+                        "legacyWordId": 1410635,
+                        "meaning": "sixty thousand ; 60,000",
+                        "parentId": 102716,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "หก หฺมื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกหมื่น"
+                    },
+                    {
+                        "childId": 2566,
+                        "corpusScore": 33,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102725,
+                        "legacyWordId": 1410634,
+                        "meaning": "six hundred thousand ; 600,000",
+                        "parentId": 102725,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "หก แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกแสน"
+                    },
+                    {
+                        "childId": 2566,
+                        "corpusScore": 15,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102734,
+                        "legacyWordId": 1410631,
+                        "meaning": "six million ; 6,000,000",
+                        "parentId": 102734,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "หก ล้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกล้าน"
+                    },
+                    {
+                        "childId": 2566,
+                        "corpusScore": 13,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102751,
+                        "legacyWordId": 1410624,
+                        "meaning": "midnight",
+                        "parentId": 102751,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หก ทุ่ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกทุ่ม"
+                    },
+                    {
+                        "childId": 2566,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 99807,
+                        "legacyWordId": 1329790,
+                        "meaning": "oil spill",
+                        "parentId": 99807,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้าม มัน หก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น้ำมันหก"
+                    },
+                    {
+                        "childId": 2566,
+                        "corpusScore": 1,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 87328,
+                        "legacyWordId": 1305640,
+                        "meaning": "hexadecimal",
+                        "parentId": 87328,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ถาน สิบ หก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ฐานสิบหก"
+                    },
+                    {
+                        "childId": 2566,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 68220,
+                        "legacyWordId": 1331940,
+                        "meaning": "sestet",
+                        "parentId": 68220,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บด หก บาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บทหกบาท"
+                    },
+                    {
+                        "childId": 2566,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 87329,
+                        "legacyWordId": 1405918,
+                        "meaning": "hexadecimal notation",
+                        "parentId": 87329,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สัน-กอน-ถาน-สิบ-หก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สัญกรณ์ฐานสิบหก"
+                    },
+                    {
+                        "childId": 2566,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102776,
+                        "legacyWordId": 1410628,
+                        "meaning": "6pm",
+                        "parentId": 102776,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หก โมง เย็น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกโมงเย็น"
+                    }
+                ],
+                "explanation": null,
+                "id": 2566,
+                "isUncommon": false,
+                "meaning": "six",
+                "partOfSpeech": "Quantifier",
+                "usage": "",
+                "word": "หก"
+            }
+        ],
+        "t2e": "หก",
+        "verified": null,
+        "word": "หก"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

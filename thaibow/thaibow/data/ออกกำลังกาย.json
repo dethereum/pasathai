@@ -1,0 +1,96 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 861,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1452555,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 3345,
+                        "corpusScore": 1810,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3345,
+                        "legacyWordId": 1452554,
+                        "meaning": "[to] exercise ; work out",
+                        "parentId": 27724,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ออก กำ-ลัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ออกกำลัง"
+                    },
+                    {
+                        "childId": 8271,
+                        "corpusScore": 20751,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 8271,
+                        "legacyWordId": 1266976,
+                        "meaning": "body ; physique",
+                        "parentId": 27724,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กาย"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] exercise",
+                        "word": "exercise"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "work out",
+                        "word": "work out"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 27724,
+                        "corpusScore": 510,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29345,
+                        "legacyWordId": 1271894,
+                        "meaning": "exercise",
+                        "parentId": 29345,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ออก กำ-ลัง กาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การออกกำลังกาย"
+                    }
+                ],
+                "explanation": null,
+                "id": 27724,
+                "isUncommon": false,
+                "meaning": "[to] exercise ; work out",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ออกกำลังกาย"
+            }
+        ],
+        "t2e": "ออก กำ-ลัง กาย",
+        "verified": null,
+        "word": "ออกกำลังกาย"
+    },
+    "greenBarCount": 2,
+    "pageUrl": "",
+    "type": "thai-word"
+}

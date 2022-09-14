@@ -1,0 +1,478 @@
+{
+    "commonessText": "Rarely",
+    "exampleSentences": [
+        {
+            "engSentence": "There's no piano.",
+            "id": 33605,
+            "phonetic": "ไม่ มี เปีย โน หฺรอก",
+            "thaiSentence": "ไม่มีเปียโนหรอก",
+            "thaiSentenceSpaced": " ไม่มี เปียโน หรอก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] don't have ; there isn't"
+                        }
+                    ],
+                    "phonetic": "ไม่ มี",
+                    "word": "ไม่มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "piano"
+                        }
+                    ],
+                    "phonetic": "เปีย โน",
+                    "word": "เปียโน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in the negative when making a contradiction)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺรอก",
+                    "word": "หรอก"
+                }
+            ]
+        },
+        {
+            "engSentence": "Do you still play the piano ?",
+            "id": 36202,
+            "phonetic": "คุน ยัง เล่น เปีย โน หฺยู่ หฺรือ เปฺล่า",
+            "thaiSentence": "คุณยังเล่นเปียโนอยู่หรือเปล่า",
+            "thaiSentenceSpaced": " คุณ ยัง เล่น เปียโน อยู่ หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "still ; yet"
+                        }
+                    ],
+                    "phonetic": "ยัง",
+                    "word": "ยัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] play"
+                        }
+                    ],
+                    "phonetic": "เล่น",
+                    "word": "เล่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "piano"
+                        }
+                    ],
+                    "phonetic": "เปีย โน",
+                    "word": "เปียโน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "Was it the piano ?",
+            "id": 179643,
+            "phonetic": "อัน นี้ เป็น เปีย โน หฺรือ เปฺล่า คฺรับ",
+            "thaiSentence": "อันนี้เป็นเปียโนหรือเปล่าครับ",
+            "thaiSentenceSpaced": " อันนี้ เป็น เปียโน หรือเปล่า ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "this ; this"
+                        }
+                    ],
+                    "phonetic": "อัน นี้",
+                    "word": "อันนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "piano"
+                        }
+                    ],
+                    "phonetic": "เปีย โน",
+                    "word": "เปียโน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Play the piano.",
+            "id": 180015,
+            "phonetic": "เล่น เปีย โน เถอะ",
+            "thaiSentence": "เล่นเปียโนเถอะ",
+            "thaiSentenceSpaced": " เล่น เปียโน เถอะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] play"
+                        }
+                    ],
+                    "phonetic": "เล่น",
+                    "word": "เล่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "piano"
+                        }
+                    ],
+                    "phonetic": "เปีย โน",
+                    "word": "เปียโน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(a particle adding a sense of mild urging or emphasis to the sentence, sometimes equivalent to \"let's...\" in English)</i>"
+                        }
+                    ],
+                    "phonetic": "เถอะ",
+                    "word": "เถอะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I bought the piano.",
+            "id": 180119,
+            "phonetic": "ฉัน ซื้อ เปีย โน",
+            "thaiSentence": "ฉันซื้อเปียโน",
+            "thaiSentenceSpaced": " ฉัน ซื้อ เปียโน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] buy ; purchase ; pay for"
+                        }
+                    ],
+                    "phonetic": "ซื้อ",
+                    "word": "ซื้อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "piano"
+                        }
+                    ],
+                    "phonetic": "เปีย โน",
+                    "word": "เปียโน"
+                }
+            ]
+        },
+        {
+            "engSentence": "You play the piano ?",
+            "id": 343450,
+            "phonetic": "คุน เล่น เปีย โน ด้าย ด้วย เหฺรอ",
+            "thaiSentence": "คุณเล่นเปียโนได้ด้วยเหรอ",
+            "thaiSentenceSpaced": " คุณ เล่น เปียโน ได้ ด้วย เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] play"
+                        }
+                    ],
+                    "phonetic": "เล่น",
+                    "word": "เล่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "piano"
+                        }
+                    ],
+                    "phonetic": "เปีย โน",
+                    "word": "เปียโน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 198,
+        "exampleSentences": [
+            {
+                "engSentence": "There's no piano.",
+                "id": 33605,
+                "thaiSentence": "ไม่มีเปียโนหรอก",
+                "thaiSentenceSpaced": " ไม่มี เปียโน หรอก "
+            },
+            {
+                "engSentence": "Do you still play the piano ?",
+                "id": 36202,
+                "thaiSentence": "คุณยังเล่นเปียโนอยู่หรือเปล่า",
+                "thaiSentenceSpaced": " คุณ ยัง เล่น เปียโน อยู่ หรือเปล่า "
+            },
+            {
+                "engSentence": "Was it the piano ?",
+                "id": 179643,
+                "thaiSentence": "อันนี้เป็นเปียโนหรือเปล่าครับ",
+                "thaiSentenceSpaced": " อันนี้ เป็น เปียโน หรือเปล่า ครับ "
+            },
+            {
+                "engSentence": "Play the piano.",
+                "id": 180015,
+                "thaiSentence": "เล่นเปียโนเถอะ",
+                "thaiSentenceSpaced": " เล่น เปียโน เถอะ "
+            },
+            {
+                "engSentence": "I bought the piano.",
+                "id": 180119,
+                "thaiSentence": "ฉันซื้อเปียโน",
+                "thaiSentenceSpaced": " ฉัน ซื้อ เปียโน "
+            },
+            {
+                "engSentence": "You play the piano ?",
+                "id": 343450,
+                "thaiSentence": "คุณเล่นเปียโนได้ด้วยเหรอ",
+                "thaiSentenceSpaced": " คุณ เล่น เปียโน ได้ ด้วย เหรอ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1372672,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 40463,
+                        "corpusScore": 129,
+                        "displayOrder": 0,
+                        "etymology": "Chinese",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40463,
+                        "legacyWordId": 1372656,
+                        "meaning": "braid ; plait ; queue",
+                        "parentId": 22849,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เปีย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เปีย"
+                    },
+                    {
+                        "childId": 27471,
+                        "corpusScore": 779,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 27471,
+                        "legacyWordId": 1330962,
+                        "meaning": "[to] swell out ; bulge ; protrude",
+                        "parentId": 22849,
+                        "partOfSpeech": "Verb",
+                        "t2e": "โน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โน"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "piano",
+                        "word": "piano"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 22849,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 56626,
+                        "legacyWordId": 1281773,
+                        "meaning": "piano key frequencies",
+                        "parentId": 56626,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม ถี่ เสียง เปีย โน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความถี่เสียงเปียโน"
+                    },
+                    {
+                        "childId": 22849,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 56385,
+                        "legacyWordId": 1392801,
+                        "meaning": "Renzo Piano",
+                        "parentId": 56385,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เรน-โซ เปีย-โน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรนโซ เปียโน"
+                    }
+                ],
+                "explanation": null,
+                "id": 22849,
+                "isUncommon": false,
+                "meaning": "piano",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "เปียโน"
+            }
+        ],
+        "t2e": "เปีย โน",
+        "verified": null,
+        "word": "เปียโน"
+    },
+    "greenBarCount": 1,
+    "pageUrl": "",
+    "type": "thai-word"
+}

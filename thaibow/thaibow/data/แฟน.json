@@ -1,0 +1,475 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Do you have a boyfriend ?",
+            "id": 6572,
+            "phonetic": "คุน มี แฟน หฺรือ ยัง",
+            "thaiSentence": "คุณมีแฟนหรือยัง",
+            "thaiSentenceSpaced": " คุณ มี แฟน หรือยัง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "girlfriend/boyfriend ; partner"
+                        }
+                    ],
+                    "phonetic": "แฟน",
+                    "word": "แฟน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not yet"
+                        }
+                    ],
+                    "phonetic": "หฺรือ ยัง",
+                    "word": "หรือยัง"
+                }
+            ]
+        },
+        {
+            "engSentence": "A new boyfriend already ?",
+            "id": 28198,
+            "phonetic": "แฟน ไหฺม่ อีก แล้ว เหฺรอ",
+            "thaiSentence": "แฟนใหม่อีกแล้วเหรอ",
+            "thaiSentenceSpaced": " แฟน ใหม่ อีกแล้ว เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "girlfriend/boyfriend ; partner"
+                        }
+                    ],
+                    "phonetic": "แฟน",
+                    "word": "แฟน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "again ; once more"
+                        },
+                        {
+                            "meaning": "[to be] new ; recent ; the latest"
+                        }
+                    ],
+                    "phonetic": "ไหฺม่",
+                    "word": "ใหม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "anymore ; from now on"
+                        }
+                    ],
+                    "phonetic": "อีก แล้ว",
+                    "word": "อีกแล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Does she have a boyfriend ?",
+            "id": 33636,
+            "phonetic": "เขา มี แฟน แล้ว หฺรือ ยัง",
+            "thaiSentence": "เขามีแฟนแล้วหรือยัง",
+            "thaiSentenceSpaced": " เขา มี แฟน แล้ว หรือยัง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "girlfriend/boyfriend ; partner"
+                        }
+                    ],
+                    "phonetic": "แฟน",
+                    "word": "แฟน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not yet"
+                        }
+                    ],
+                    "phonetic": "หฺรือ ยัง",
+                    "word": "หรือยัง"
+                }
+            ]
+        },
+        {
+            "engSentence": "She had a boyfriend ?",
+            "id": 61368,
+            "phonetic": "เขา มี แฟน หฺรือ เปฺล่า",
+            "thaiSentence": "เขามีแฟนหรือเปล่า",
+            "thaiSentenceSpaced": " เขา มี แฟน หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "girlfriend/boyfriend ; partner"
+                        }
+                    ],
+                    "phonetic": "แฟน",
+                    "word": "แฟน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "He might have a girlfriend.",
+            "id": 68237,
+            "phonetic": "เขา อาด จะ มี แฟน แล้ว มั้ง",
+            "thaiSentence": "เขาอาจจะมีแฟนแล้วมั้ง",
+            "thaiSentenceSpaced": " เขา อาจจะ มี แฟน แล้ว มั้ง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "might ; maybe ; may"
+                        }
+                    ],
+                    "phonetic": "อาด จะ",
+                    "word": "อาจจะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "girlfriend/boyfriend ; partner"
+                        }
+                    ],
+                    "phonetic": "แฟน",
+                    "word": "แฟน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle meaning \"perhaps\" or \"maybe\")</i>"
+                        }
+                    ],
+                    "phonetic": "มั้ง",
+                    "word": "มั้ง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Have you got a boyfriend ?",
+            "id": 68893,
+            "phonetic": "คุน มี แฟน หฺรือ ยัง",
+            "thaiSentence": "คุณมีแฟนหรือยัง",
+            "thaiSentenceSpaced": " คุณ มี แฟน หรือยัง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "girlfriend/boyfriend ; partner"
+                        }
+                    ],
+                    "phonetic": "แฟน",
+                    "word": "แฟน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not yet"
+                        }
+                    ],
+                    "phonetic": "หฺรือ ยัง",
+                    "word": "หรือยัง"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 11446,
+        "exampleSentences": [
+            {
+                "engSentence": "Do you have a boyfriend ?",
+                "id": 6572,
+                "thaiSentence": "คุณมีแฟนหรือยัง",
+                "thaiSentenceSpaced": " คุณ มี แฟน หรือยัง "
+            },
+            {
+                "engSentence": "A new boyfriend already ?",
+                "id": 28198,
+                "thaiSentence": "แฟนใหม่อีกแล้วเหรอ",
+                "thaiSentenceSpaced": " แฟน ใหม่ อีกแล้ว เหรอ "
+            },
+            {
+                "engSentence": "Does she have a boyfriend ?",
+                "id": 33636,
+                "thaiSentence": "เขามีแฟนแล้วหรือยัง",
+                "thaiSentenceSpaced": " เขา มี แฟน แล้ว หรือยัง "
+            },
+            {
+                "engSentence": "She had a boyfriend ?",
+                "id": 61368,
+                "thaiSentence": "เขามีแฟนหรือเปล่า",
+                "thaiSentenceSpaced": " เขา มี แฟน หรือเปล่า "
+            },
+            {
+                "engSentence": "He might have a girlfriend.",
+                "id": 68237,
+                "thaiSentence": "เขาอาจจะมีแฟนแล้วมั้ง",
+                "thaiSentenceSpaced": " เขา อาจจะ มี แฟน แล้ว มั้ง "
+            },
+            {
+                "engSentence": "Have you got a boyfriend ?",
+                "id": 68893,
+                "thaiSentence": "คุณมีแฟนหรือยัง",
+                "thaiSentenceSpaced": " คุณ มี แฟน หรือยัง "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1381074,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "girlfriend/boyfriend",
+                        "word": "girlfriend/boyfriend"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "partner",
+                        "word": "partner"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 165155,
+                        "corpusScore": 272,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 416268,
+                        "legacyWordId": 1381083,
+                        "meaning": "girlfriend",
+                        "parentId": 416268,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แฟน สาว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แฟนสาว"
+                    }
+                ],
+                "explanation": null,
+                "id": 165155,
+                "isUncommon": false,
+                "meaning": "girlfriend/boyfriend ; partner",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "แฟน"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "fan",
+                        "word": "fan"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "supporter",
+                        "word": "supporter"
+                    }
+                ],
+                "etymology": "English",
+                "examples": [
+                    {
+                        "childId": 165153,
+                        "corpusScore": 1076,
+                        "displayOrder": 0,
+                        "etymology": "English",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 165152,
+                        "legacyWordId": 1381076,
+                        "meaning": "fan club",
+                        "parentId": 165152,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แฟน คฺลับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แฟนคลับ"
+                    }
+                ],
+                "explanation": null,
+                "id": 165153,
+                "isUncommon": true,
+                "meaning": "fan ; supporter",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "แฟน"
+            }
+        ],
+        "t2e": "แฟน",
+        "verified": null,
+        "word": "แฟน"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

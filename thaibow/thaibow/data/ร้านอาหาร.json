@@ -1,0 +1,73 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 3477,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1391629,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 25644,
+                        "corpusScore": 27707,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 25644,
+                        "legacyWordId": 1391588,
+                        "meaning": "shop ; store ; booth",
+                        "parentId": 25520,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้าน"
+                    },
+                    {
+                        "childId": 5154,
+                        "corpusScore": 47163,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 5154,
+                        "legacyWordId": 1454519,
+                        "meaning": "food",
+                        "parentId": 25520,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-หาน",
+                        "usage": "",
+                        "verified": "อา-หาน",
+                        "word": "อาหาร"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "restaurant",
+                        "word": "restaurant"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 25520,
+                "isUncommon": false,
+                "meaning": "restaurant",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ร้านอาหาร"
+            }
+        ],
+        "t2e": "ร้าน อา-หาน",
+        "verified": null,
+        "word": "ร้านอาหาร"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,22 @@
+{
+    "thaiTranslationLines": [
+        {
+            "isWordBreakdownShown": true,
+            "phonetic": "รู้ก",
+            "unspacedText": "รู้ค",
+            "wordObjects": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "róok <i> (transliteration) </i>"
+                        }
+                    ],
+                    "phonetic": "รู้ก",
+                    "word": "รู้ค"
+                }
+            ]
+        }
+    ],
+    "type": "translation"
+}

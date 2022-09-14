@@ -1,0 +1,858 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "What are you doing here ?",
+            "id": 364,
+            "phonetic": "คุน มา ทำ อะ-ไร ที่ นี่ เหฺรอ",
+            "thaiSentence": "คุณมาทำอะไรที่นี่เหรอ",
+            "thaiSentenceSpaced": " คุณ มา ทำ อะไร ที่นี่ เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "here"
+                        }
+                    ],
+                    "phonetic": "ที่ นี่",
+                    "word": "ที่นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What the hell are you doing ?",
+            "id": 643,
+            "phonetic": "คุน ทำ บ้า อะ-ไร เนี่ย",
+            "thaiSentence": "คุณทำบ้าอะไรเนี่ย",
+            "thaiSentenceSpaced": " คุณ ทำ บ้า อะไร เนี่ย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] mad ; crazy ; insane"
+                        }
+                    ],
+                    "phonetic": "บ้า",
+                    "word": "บ้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(ending particle, sometimes showing suprise or confusion)</i>"
+                        }
+                    ],
+                    "phonetic": "เนี่ย",
+                    "word": "เนี่ย"
+                }
+            ]
+        },
+        {
+            "engSentence": "If I did ?",
+            "id": 904,
+            "phonetic": "ถ้า ฉัน ทำ ล่ะ",
+            "thaiSentence": "ถ้าฉันทำล่ะ",
+            "thaiSentenceSpaced": " ถ้า ฉัน ทำ ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "if"
+                        }
+                    ],
+                    "phonetic": "ถ้า",
+                    "word": "ถ้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Who was it ?",
+            "id": 1049,
+            "phonetic": "ไคฺร ทำ",
+            "thaiSentence": "ใครทำ",
+            "thaiSentenceSpaced": " ใคร ทำ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "who"
+                        },
+                        {
+                            "meaning": "someone ; anyone"
+                        }
+                    ],
+                    "phonetic": "ไคฺร",
+                    "word": "ใคร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You always do this.",
+            "id": 1515,
+            "phonetic": "คุน ทำ หฺย่าง นี้ สะ-เหฺมอ เลย",
+            "thaiSentence": "คุณทำอย่างนี้เสมอเลย",
+            "thaiSentenceSpaced": " คุณ ทำ อย่างนี้ เสมอ เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "like this ; in this way"
+                        }
+                    ],
+                    "phonetic": "หฺย่าง นี้",
+                    "word": "อย่างนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "always ; constantly"
+                        }
+                    ],
+                    "phonetic": "สะ-เหฺมอ",
+                    "word": "เสมอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Did well on the test ?",
+            "id": 1561,
+            "phonetic": "ทำ ข้อ สอบ ด้าย ดี หฺรือ เปฺล่า",
+            "thaiSentence": "ทำข้อสอบได้ดีหรือเปล่า",
+            "thaiSentenceSpaced": " ทำ ข้อสอบ ได้ ดี หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "examination ; examination questions ; test"
+                        }
+                    ],
+                    "phonetic": "ข้อ สอบ",
+                    "word": "ข้อสอบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 250399,
+        "exampleSentences": [
+            {
+                "engSentence": "What are you doing here ?",
+                "id": 364,
+                "thaiSentence": "คุณมาทำอะไรที่นี่เหรอ",
+                "thaiSentenceSpaced": " คุณ มา ทำ อะไร ที่นี่ เหรอ "
+            },
+            {
+                "engSentence": "What the hell are you doing ?",
+                "id": 643,
+                "thaiSentence": "คุณทำบ้าอะไรเนี่ย",
+                "thaiSentenceSpaced": " คุณ ทำ บ้า อะไร เนี่ย "
+            },
+            {
+                "engSentence": "If I did ?",
+                "id": 904,
+                "thaiSentence": "ถ้าฉันทำล่ะ",
+                "thaiSentenceSpaced": " ถ้า ฉัน ทำ ล่ะ "
+            },
+            {
+                "engSentence": "Who was it ?",
+                "id": 1049,
+                "thaiSentence": "ใครทำ",
+                "thaiSentenceSpaced": " ใคร ทำ "
+            },
+            {
+                "engSentence": "You always do this.",
+                "id": 1515,
+                "thaiSentence": "คุณทำอย่างนี้เสมอเลย",
+                "thaiSentenceSpaced": " คุณ ทำ อย่างนี้ เสมอ เลย "
+            },
+            {
+                "engSentence": "Did well on the test ?",
+                "id": 1561,
+                "thaiSentence": "ทำข้อสอบได้ดีหรือเปล่า",
+                "thaiSentenceSpaced": " ทำ ข้อสอบ ได้ ดี หรือเปล่า "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1322852,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] do",
+                        "word": "do"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "make",
+                        "word": "make"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 397298,
+                        "corpusScore": 85206,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 16436,
+                        "legacyWordId": 1323096,
+                        "meaning": "[to] cause ; make",
+                        "parentId": 16436,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำให้"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 33000,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 416279,
+                        "legacyWordId": 1322905,
+                        "meaning": "[to] work",
+                        "parentId": 416279,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำงาน"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 22603,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 49923,
+                        "legacyWordId": 1268897,
+                        "meaning": "doing ; making",
+                        "parentId": 49923,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ทำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การทำ"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 11360,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 24412,
+                        "legacyWordId": 1322870,
+                        "meaning": "[to] work ; operate ; do",
+                        "parentId": 24412,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ กาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำการ"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 10278,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 23328,
+                        "legacyWordId": 1322927,
+                        "meaning": "[to] can ; be able to",
+                        "parentId": 23328,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ ด้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำได้"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 9259,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33214,
+                        "legacyWordId": 1323042,
+                        "meaning": "[to] destroy ; demolish ; damage",
+                        "parentId": 33214,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ ลาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำลาย"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 4855,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39587,
+                        "legacyWordId": 1288936,
+                        "meaning": "[to] make ; do",
+                        "parentId": 39587,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จัด ทำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จัดทำ"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 4641,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15232,
+                        "legacyWordId": 1322987,
+                        "meaning": "[to] make merit",
+                        "parentId": 15232,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ บุน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำบุญ"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 4593,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43974,
+                        "legacyWordId": 1323001,
+                        "meaning": "[to] know how to do something",
+                        "parentId": 43974,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ เป็น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำเป็น"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 4593,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43973,
+                        "legacyWordId": 1323001,
+                        "meaning": "[to] pretend ; feign",
+                        "parentId": 43973,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ เป็น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำเป็น"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 3841,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45956,
+                        "legacyWordId": 1322891,
+                        "meaning": "[to] cause trouble",
+                        "parentId": 45956,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ คฺวาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำความ"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 3521,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 15439,
+                        "legacyWordId": 1323089,
+                        "meaning": "[to] perform ; do duty",
+                        "parentId": 15439,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ น่า ที่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำหน้าที่"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 2723,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42166,
+                        "legacyWordId": 1323031,
+                        "meaning": "[to] harm ; do harm ; hurt",
+                        "parentId": 42166,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ ร้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำร้าย"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 2301,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15102,
+                        "legacyWordId": 1322934,
+                        "meaning": "[to] imitate ; copy ; obey",
+                        "parentId": 15102,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ ตาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำตาม"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 2044,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14973,
+                        "legacyWordId": 1322956,
+                        "meaning": "way ; style ; manner",
+                        "parentId": 14973,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทำ นอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำนอง"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 2044,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38611,
+                        "legacyWordId": 1322956,
+                        "meaning": "rhythm ; cadence",
+                        "parentId": 38611,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทำ นอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำนอง"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 1852,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 15438,
+                        "legacyWordId": 1322931,
+                        "meaning": "[to] behave ; conduct oneself ; act",
+                        "parentId": 15438,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ ตัว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำตัว"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 1768,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15176,
+                        "legacyWordId": 1322969,
+                        "meaning": "[to] farm",
+                        "parentId": 15176,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ นา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำนา"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 1668,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28639,
+                        "legacyWordId": 1323151,
+                        "meaning": "[to] cook",
+                        "parentId": 28639,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำอาหาร"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 1568,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14759,
+                        "legacyWordId": 1322970,
+                        "meaning": "[to] foretell ; predict",
+                        "parentId": 14759,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ นาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำนาย"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 1531,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3612,
+                        "legacyWordId": 1323013,
+                        "meaning": "[to] perform a ceremony",
+                        "parentId": 3612,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ พิ-ที",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำพิธี"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 1350,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15875,
+                        "legacyWordId": 1323008,
+                        "meaning": "[to] make a mistake ; do something wrong",
+                        "parentId": 15875,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ ผิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำผิด"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 1308,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15570,
+                        "legacyWordId": 1322899,
+                        "meaning": "[to] clean",
+                        "parentId": 15570,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ คฺวาม สะ-อาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำความสะอาด"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 1220,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40853,
+                        "legacyWordId": 1322916,
+                        "meaning": "[to] come to terms (with) ; accept",
+                        "parentId": 40853,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำใจ"
+                    },
+                    {
+                        "childId": 397298,
+                        "corpusScore": 1197,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400236,
+                        "legacyWordId": 1394854,
+                        "meaning": "[to] test ; experiment ; try",
+                        "parentId": 400236,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ลอง ทำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลองทำ"
+                    }
+                ],
+                "explanation": null,
+                "id": 397298,
+                "isUncommon": false,
+                "meaning": "[to] do ; make",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ทำ"
+            }
+        ],
+        "t2e": "ทำ",
+        "verified": null,
+        "word": "ทำ"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

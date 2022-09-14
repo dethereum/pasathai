@@ -1,0 +1,1048 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Nice is good for a woman.",
+            "id": 43697,
+            "phonetic": "พู่ หฺยิง แสน ดี",
+            "thaiSentence": "ผู้หญิงแสนดี",
+            "thaiSentenceSpaced": " ผู้หญิง แสน ดี ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "woman ; lady ; female"
+                        }
+                    ],
+                    "phonetic": "พู่ หฺยิง",
+                    "word": "ผู้หญิง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hundred thousand"
+                        },
+                        {
+                            "meaning": "very ; extremely"
+                        }
+                    ],
+                    "phonetic": "แสน",
+                    "word": "แสน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                }
+            ]
+        },
+        {
+            "engSentence": "Oh, what a happy day.",
+            "id": 54618,
+            "phonetic": "โอ้ · มัน ช่าง เป็น วัน ที่ แสน สด ไส จิง เชียว",
+            "thaiSentence": "โอ้ มันช่างเป็นวันที่แสนสดใสจริงเชียว",
+            "thaiSentenceSpaced": " โอ้  ·  มัน ช่าง เป็น วันที่ แสน สดใส จริง เชียว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "oh"
+                        }
+                    ],
+                    "phonetic": "โอ้",
+                    "word": "โอ้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "indeed ; really ; truly ; very ; so ; terribly"
+                        },
+                        {
+                            "meaning": "technician ; mechanic ; engineer"
+                        },
+                        {
+                            "meaning": " <i>(a prefix meaning \"given to...\", \"fond of...\")</i>"
+                        },
+                        {
+                            "meaning": "[to] let it go ; let someone do what they like"
+                        }
+                    ],
+                    "phonetic": "ช่าง",
+                    "word": "ช่าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "date"
+                        },
+                        {
+                            "meaning": "the day that"
+                        }
+                    ],
+                    "phonetic": "วัน ที่",
+                    "word": "วันที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hundred thousand"
+                        },
+                        {
+                            "meaning": "very ; extremely"
+                        }
+                    ],
+                    "phonetic": "แสน",
+                    "word": "แสน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] bright ; clear ; fresh"
+                        },
+                        {
+                            "meaning": "[to be] cheerful ; happy ; delighted"
+                        }
+                    ],
+                    "phonetic": "สด ไส",
+                    "word": "สดใส"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] real ; true ; actual"
+                        },
+                        {
+                            "meaning": "really ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง",
+                    "word": "จริง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "indeed ; really ; truly"
+                        }
+                    ],
+                    "phonetic": "เชียว",
+                    "word": "เชียว"
+                }
+            ]
+        },
+        {
+            "engSentence": "Miss your cool bro ?",
+            "id": 86735,
+            "phonetic": "คิด ถึง น้อง ชาย แสน ดี ของ พี่ หฺรือ เปฺล่า",
+            "thaiSentence": "คิดถึงน้องชายแสนดีของพี่หรือเปล่า",
+            "thaiSentenceSpaced": " คิดถึง น้องชาย แสน ดี ของ พี่ หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] miss ; think of ; think about"
+                        }
+                    ],
+                    "phonetic": "คิด ถึง",
+                    "word": "คิดถึง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "younger brother"
+                        }
+                    ],
+                    "phonetic": "น้อง ชาย",
+                    "word": "น้องชาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hundred thousand"
+                        },
+                        {
+                            "meaning": "very ; extremely"
+                        }
+                    ],
+                    "phonetic": "แสน",
+                    "word": "แสน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I <i>(used when talking to someone younger)</i>"
+                        },
+                        {
+                            "meaning": "you <i>(used when talking to someone older)</i>"
+                        },
+                        {
+                            "meaning": "he ; she ; him ; her <i>(used when referring to someone older)</i>"
+                        },
+                        {
+                            "meaning": " <i>(elder)</i> brother ; sister <i>(or friend, relative, work colleague etc...)</i>"
+                        }
+                    ],
+                    "phonetic": "พี่",
+                    "word": "พี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "I want to agonize properly.",
+            "id": 363841,
+            "phonetic": "ฉัน หฺยาก หฺยู่ ไน ห้วง ที่ แสน ทอ-ระ-มาน",
+            "thaiSentence": "ฉันอยากอยู่ในห้วงที่แสนทรมาน",
+            "thaiSentenceSpaced": " ฉัน อยาก อยู่ ใน ห้วง ที่ แสน ทรมาน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want to"
+                        }
+                    ],
+                    "phonetic": "หฺยาก",
+                    "word": "อยาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "period ; section ; stage"
+                        }
+                    ],
+                    "phonetic": "ห้วง",
+                    "word": "ห้วง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hundred thousand"
+                        },
+                        {
+                            "meaning": "very ; extremely"
+                        }
+                    ],
+                    "phonetic": "แสน",
+                    "word": "แสน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] torture ; cause pain ; abuse"
+                        },
+                        {
+                            "meaning": "[to be] in pain ; tortured"
+                        }
+                    ],
+                    "phonetic": "ทอ-ระ-มาน",
+                    "word": "ทรมาน"
+                }
+            ]
+        },
+        {
+            "engSentence": "My caring sister is here.",
+            "id": 411378,
+            "phonetic": "พี่ สาว แสน ดี ของ ผม มา แล้ว",
+            "thaiSentence": "พี่สาวแสนดีของผมมาแล้ว",
+            "thaiSentenceSpaced": " พี่สาว แสน ดี ของ ผม มา แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(elder)</i> sister"
+                        }
+                    ],
+                    "phonetic": "พี่ สาว",
+                    "word": "พี่สาว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hundred thousand"
+                        },
+                        {
+                            "meaning": "very ; extremely"
+                        }
+                    ],
+                    "phonetic": "แสน",
+                    "word": "แสน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "It was a painful week.",
+            "id": 503604,
+            "phonetic": "มัน เป็น สับ-ดา ที่ แสน เจ็บ ปวด",
+            "thaiSentence": "มันเป็นสัปดาห์ที่แสนเจ็บปวด",
+            "thaiSentenceSpaced": " มัน เป็น สัปดาห์ ที่ แสน เจ็บปวด ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "week"
+                        }
+                    ],
+                    "phonetic": "สับ-ดา",
+                    "word": "สัปดาห์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hundred thousand"
+                        },
+                        {
+                            "meaning": "very ; extremely"
+                        }
+                    ],
+                    "phonetic": "แสน",
+                    "word": "แสน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] hurt ; injured ; in pain"
+                        }
+                    ],
+                    "phonetic": "เจ็บ",
+                    "word": "เจ็บ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ache ; pain"
+                        }
+                    ],
+                    "phonetic": "ปวด",
+                    "word": "ปวด"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 13001,
+        "exampleSentences": [
+            {
+                "engSentence": "Nice is good for a woman.",
+                "id": 43697,
+                "thaiSentence": "ผู้หญิงแสนดี",
+                "thaiSentenceSpaced": " ผู้หญิง แสน ดี "
+            },
+            {
+                "engSentence": "Oh, what a happy day.",
+                "id": 54618,
+                "thaiSentence": "โอ้ มันช่างเป็นวันที่แสนสดใสจริงเชียว",
+                "thaiSentenceSpaced": " โอ้  &middot;  มัน ช่าง เป็น วันที่ แสน สดใส จริง เชียว "
+            },
+            {
+                "engSentence": "Miss your cool bro ?",
+                "id": 86735,
+                "thaiSentence": "คิดถึงน้องชายแสนดีของพี่หรือเปล่า",
+                "thaiSentenceSpaced": " คิดถึง น้องชาย แสน ดี ของ พี่ หรือเปล่า "
+            },
+            {
+                "engSentence": "I want to agonize properly.",
+                "id": 363841,
+                "thaiSentence": "ฉันอยากอยู่ในห้วงที่แสนทรมาน",
+                "thaiSentenceSpaced": " ฉัน อยาก อยู่ ใน ห้วง ที่ แสน ทรมาน "
+            },
+            {
+                "engSentence": "My caring sister is here.",
+                "id": 411378,
+                "thaiSentence": "พี่สาวแสนดีของผมมาแล้ว",
+                "thaiSentenceSpaced": " พี่สาว แสน ดี ของ ผม มา แล้ว "
+            },
+            {
+                "engSentence": "It was a painful week.",
+                "id": 503604,
+                "thaiSentence": "มันเป็นสัปดาห์ที่แสนเจ็บปวด",
+                "thaiSentenceSpaced": " มัน เป็น สัปดาห์ ที่ แสน เจ็บปวด "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1410285,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "hundred thousand",
+                        "word": "hundred thousand"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 384135,
+                        "corpusScore": 130,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45018,
+                        "legacyWordId": 1413990,
+                        "meaning": "one hundred thousand ; 100,000",
+                        "parentId": 45018,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนึ่ง แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนึ่งแสน"
+                    },
+                    {
+                        "childId": 384135,
+                        "corpusScore": 126,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102720,
+                        "legacyWordId": 1405258,
+                        "meaning": "two hundred thousand ; 200,000",
+                        "parentId": 102720,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สอง แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองแสน"
+                    },
+                    {
+                        "childId": 384135,
+                        "corpusScore": 105,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102723,
+                        "legacyWordId": 1449256,
+                        "meaning": "five hundred thousand ; 500,000",
+                        "parentId": 102723,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "ห้า แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้าแสน"
+                    },
+                    {
+                        "childId": 384135,
+                        "corpusScore": 88,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102721,
+                        "legacyWordId": 1407073,
+                        "meaning": "three hundred thousand ; 300,000",
+                        "parentId": 102721,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สาม แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สามแสน"
+                    },
+                    {
+                        "childId": 384135,
+                        "corpusScore": 36,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102722,
+                        "legacyWordId": 1408629,
+                        "meaning": "four hundred thousand ; 400,000",
+                        "parentId": 102722,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สี่ แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สี่แสน"
+                    },
+                    {
+                        "childId": 384135,
+                        "corpusScore": 33,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102725,
+                        "legacyWordId": 1410634,
+                        "meaning": "six hundred thousand ; 600,000",
+                        "parentId": 102725,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "หก แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกแสน"
+                    },
+                    {
+                        "childId": 384135,
+                        "corpusScore": 31,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102728,
+                        "legacyWordId": 1273692,
+                        "meaning": "nine hundred thousand ; 900,000",
+                        "parentId": 102728,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "เก้า แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เก้าแสน"
+                    },
+                    {
+                        "childId": 384135,
+                        "corpusScore": 26,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102727,
+                        "legacyWordId": 1372747,
+                        "meaning": "eight hundred thousand ; 800,000",
+                        "parentId": 102727,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "แปด แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปดแสน"
+                    },
+                    {
+                        "childId": 384135,
+                        "corpusScore": 3,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102726,
+                        "legacyWordId": 1290047,
+                        "meaning": "seven hundred thousand ; 700,000",
+                        "parentId": 102726,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "เจ็ด แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ็ดแสน"
+                    },
+                    {
+                        "childId": 384135,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": "The name of a village in Chon Buri province",
+                        "hasSoundFile": false,
+                        "id": 610816,
+                        "legacyWordId": 1293446,
+                        "meaning": "Chum Chon Bang Saen Ang Sila",
+                        "parentId": 610816,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม ชน บาง แสน อ่าง สิ-ลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนบางแสนอ่างศิลา"
+                    },
+                    {
+                        "childId": 384135,
+                        "corpusScore": 0,
+                        "displayOrder": 4,
+                        "etymology": "",
+                        "explanation": "The name of a village in Chon Buri province",
+                        "hasSoundFile": false,
+                        "id": 610826,
+                        "legacyWordId": 1293632,
+                        "meaning": "Chum Chon Long Hat Bang Saen",
+                        "parentId": 610826,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม ชน ลง หาด บาง แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนลงหาดบางแสน"
+                    },
+                    {
+                        "childId": 384135,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": "The name of a village in Phetchaburi province",
+                        "hasSoundFile": false,
+                        "id": 670463,
+                        "legacyWordId": 1345803,
+                        "meaning": "Banna Krasaen",
+                        "parentId": 670463,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ้าน นา กฺระ แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ้านนากระแสน"
+                    },
+                    {
+                        "childId": 384135,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": "The name of a village in Chon Buri province",
+                        "hasSoundFile": false,
+                        "id": 610817,
+                        "legacyWordId": 1293440,
+                        "meaning": "Chum Chon Bang Saen Lang",
+                        "parentId": 610817,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม ชน บาง แสน ล่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนบางแสนล่าง"
+                    },
+                    {
+                        "childId": 384135,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": "The name of a village in Chon Buri province",
+                        "hasSoundFile": false,
+                        "id": 610016,
+                        "legacyWordId": 1293722,
+                        "meaning": "Chum Chon Saen Rak",
+                        "parentId": 610016,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม ชน แสน รัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนแสนรัก"
+                    },
+                    {
+                        "childId": 384135,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": "The name of a village in Chon Buri province",
+                        "hasSoundFile": false,
+                        "id": 610511,
+                        "legacyWordId": 1293403,
+                        "meaning": "Chum Chon Noen Saen Suk",
+                        "parentId": 610511,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม ชน เนิน แสน สุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนเนินแสนสุข"
+                    },
+                    {
+                        "childId": 384135,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": "The name of a village in Chon Buri province",
+                        "hasSoundFile": false,
+                        "id": 610017,
+                        "legacyWordId": 1293723,
+                        "meaning": "Chum Chon Saen Sabai",
+                        "parentId": 610017,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม ชน แสน สะ-บาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนแสนสบาย"
+                    },
+                    {
+                        "childId": 384135,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 700828,
+                        "legacyWordId": 1410307,
+                        "meaning": "Saen",
+                        "parentId": 700828,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แสนเธู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แสนเธู่"
+                    }
+                ],
+                "explanation": null,
+                "id": 384135,
+                "isUncommon": false,
+                "meaning": "hundred thousand",
+                "partOfSpeech": "Quantifier",
+                "usage": "",
+                "word": "แสน"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "very",
+                        "word": "very"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "extremely",
+                        "word": "extremely"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 39430,
+                        "corpusScore": 799,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46709,
+                        "legacyWordId": 1410298,
+                        "meaning": "greatly ; extremely",
+                        "parentId": 46709,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "แสน จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แสนจะ"
+                    },
+                    {
+                        "childId": 39430,
+                        "corpusScore": 292,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 189313,
+                        "legacyWordId": 1410291,
+                        "meaning": "[to be] far away ; distant",
+                        "parentId": 189313,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "แสน ไกฺล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แสนไกล"
+                    },
+                    {
+                        "childId": 39430,
+                        "corpusScore": 139,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47768,
+                        "legacyWordId": 1328697,
+                        "meaning": "for a very long time ; for ages",
+                        "parentId": 47768,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "นาน แสน นาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นานแสนนาน"
+                    },
+                    {
+                        "childId": 39430,
+                        "corpusScore": 67,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19949,
+                        "legacyWordId": 1410321,
+                        "meaning": "[to be] marvelous ; wonderful",
+                        "parentId": 19949,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "แสน วิ-เสด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แสนวิเศษ"
+                    },
+                    {
+                        "childId": 39430,
+                        "corpusScore": 41,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4484,
+                        "legacyWordId": 1410293,
+                        "meaning": "extremely troublesomely ; very troubling",
+                        "parentId": 4484,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แสน เข็น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แสนเข็ญ"
+                    },
+                    {
+                        "childId": 39430,
+                        "corpusScore": 29,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4600,
+                        "legacyWordId": 1450409,
+                        "meaning": "exceedingly ; extremely",
+                        "parentId": 4600,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เหฺลือ แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เหลือแสน"
+                    }
+                ],
+                "explanation": null,
+                "id": 39430,
+                "isUncommon": false,
+                "meaning": "very ; extremely",
+                "partOfSpeech": "PrecedingIntensifier",
+                "usage": "",
+                "word": "แสน"
+            }
+        ],
+        "t2e": "แสน",
+        "verified": null,
+        "word": "แสน"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

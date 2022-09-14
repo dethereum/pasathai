@@ -1,0 +1,91 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 964,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1399153,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 362198,
+                        "corpusScore": 106774,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 362198,
+                        "legacyWordId": 1399065,
+                        "meaning": "day",
+                        "parentId": 44839,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วัน"
+                    },
+                    {
+                        "childId": 39456,
+                        "corpusScore": 1252,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39456,
+                        "legacyWordId": 1379130,
+                        "meaning": "Mercury",
+                        "parentId": 44839,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พุด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พุธ"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "Wednesday",
+                        "word": "Wednesday"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 44839,
+                        "corpusScore": 16,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103134,
+                        "legacyWordId": 1284970,
+                        "meaning": "Wednesday night",
+                        "parentId": 103134,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คืน วัน พุด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คืนวันพุธ"
+                    }
+                ],
+                "explanation": null,
+                "id": 44839,
+                "isUncommon": false,
+                "meaning": "Wednesday",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "วันพุธ"
+            }
+        ],
+        "t2e": "วัน พุด",
+        "verified": null,
+        "word": "วันพุธ"
+    },
+    "greenBarCount": 2,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,866 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Wow . You look so beautiful.",
+            "id": 3277,
+            "phonetic": "ว้าว · คุน ดู สวย มาก",
+            "thaiSentence": "ว้าว คุณดูสวยมาก",
+            "thaiSentenceSpaced": " ว้าว  ·  คุณ ดู สวย มาก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "wow!"
+                        }
+                    ],
+                    "phonetic": "ว้าว",
+                    "word": "ว้าว"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] appear ; seem"
+                        },
+                        {
+                            "meaning": "[to] watch ; look ; see"
+                        }
+                    ],
+                    "phonetic": "ดู",
+                    "word": "ดู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] beautiful ; attractive ; pretty"
+                        }
+                    ],
+                    "phonetic": "สวย",
+                    "word": "สวย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much ; a lot ; very"
+                        }
+                    ],
+                    "phonetic": "มาก",
+                    "word": "มาก"
+                }
+            ]
+        },
+        {
+            "engSentence": "Is she all right ?",
+            "id": 4412,
+            "phonetic": "เขา เป็น อะ-ไร มาก หฺรือ เปฺล่า",
+            "thaiSentence": "เขาเป็นอะไรมากหรือเปล่า",
+            "thaiSentenceSpaced": " เขา เป็นอะไร มาก หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have something wrong ; have a problem <i>(Although the literally meaning of เป็นอะไร is closer to \"what are you?\" it's frequently used as a phrase by itself to mean \"What's wrong ?\". To reply there's nothing wrong you can use ไม่เป็นอะไร (or the shortened form ไม่เป็นไร), though the literal meaning often invites sarcastic replies like เป็นคน (\"I'm a person\").)</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น อะ-ไร",
+                    "word": "เป็นอะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much ; a lot ; very"
+                        }
+                    ],
+                    "phonetic": "มาก",
+                    "word": "มาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "How much you make in there ?",
+            "id": 13323,
+            "phonetic": "ทำ ไว้ มาก เท่า ไหฺร่",
+            "thaiSentence": "ทำไว้มากเท่าไหร่",
+            "thaiSentenceSpaced": " ทำ ไว้ มาก เท่าไหร่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] keep ; save ; store"
+                        }
+                    ],
+                    "phonetic": "ไว้",
+                    "word": "ไว้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much ; a lot ; very"
+                        }
+                    ],
+                    "phonetic": "มาก",
+                    "word": "มาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how much ; how many"
+                        },
+                        {
+                            "meaning": "however much"
+                        }
+                    ],
+                    "phonetic": "เท่า ไหฺร่",
+                    "word": "เท่าไหร่"
+                }
+            ]
+        },
+        {
+            "engSentence": "I heard you are very ill.",
+            "id": 16609,
+            "phonetic": "ด้าย ยิน มา ว่า คุน ป่วย มาก",
+            "thaiSentence": "ได้ยินมาว่าคุณป่วยมาก",
+            "thaiSentenceSpaced": " ได้ยิน มา ว่า คุณ ป่วย มาก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] hear"
+                        }
+                    ],
+                    "phonetic": "ด้าย ยิน",
+                    "word": "ได้ยิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        },
+                        {
+                            "meaning": "[to] say ; tell"
+                        },
+                        {
+                            "meaning": "[to] blame ; criticise"
+                        }
+                    ],
+                    "phonetic": "ว่า",
+                    "word": "ว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] sick ; ill ; get ill"
+                        }
+                    ],
+                    "phonetic": "ป่วย",
+                    "word": "ป่วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much ; a lot ; very"
+                        }
+                    ],
+                    "phonetic": "มาก",
+                    "word": "มาก"
+                }
+            ]
+        },
+        {
+            "engSentence": "Time changes us so much.",
+            "id": 16613,
+            "phonetic": "เว-ลา ทำ ไห้ เรา เปฺลี่ยน ไป มาก",
+            "thaiSentence": "เวลาทำให้เราเปลี่ยนไปมาก",
+            "thaiSentenceSpaced": " เวลา ทำให้ เรา เปลี่ยนไป มาก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "time"
+                        }
+                    ],
+                    "phonetic": "เว-ลา",
+                    "word": "เวลา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] cause ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ ไห้",
+                    "word": "ทำให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] change to ; turn into ; transform into"
+                        }
+                    ],
+                    "phonetic": "เปฺลี่ยน ไป",
+                    "word": "เปลี่ยนไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much ; a lot ; very"
+                        }
+                    ],
+                    "phonetic": "มาก",
+                    "word": "มาก"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is lovely.",
+            "id": 17669,
+            "phonetic": "มัน น่า รัก มาก",
+            "thaiSentence": "มันน่ารักมาก",
+            "thaiSentenceSpaced": " มัน น่ารัก มาก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] cute ; attractive ; pretty"
+                        }
+                    ],
+                    "phonetic": "น่า รัก",
+                    "word": "น่ารัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much ; a lot ; very"
+                        }
+                    ],
+                    "phonetic": "มาก",
+                    "word": "มาก"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 151387,
+        "exampleSentences": [
+            {
+                "engSentence": "Wow . You look so beautiful.",
+                "id": 3277,
+                "thaiSentence": "ว้าว คุณดูสวยมาก",
+                "thaiSentenceSpaced": " ว้าว  &middot;  คุณ ดู สวย มาก "
+            },
+            {
+                "engSentence": "Is she all right ?",
+                "id": 4412,
+                "thaiSentence": "เขาเป็นอะไรมากหรือเปล่า",
+                "thaiSentenceSpaced": " เขา เป็นอะไร มาก หรือเปล่า "
+            },
+            {
+                "engSentence": "How much you make in there ?",
+                "id": 13323,
+                "thaiSentence": "ทำไว้มากเท่าไหร่",
+                "thaiSentenceSpaced": " ทำ ไว้ มาก เท่าไหร่ "
+            },
+            {
+                "engSentence": "I heard you are very ill.",
+                "id": 16609,
+                "thaiSentence": "ได้ยินมาว่าคุณป่วยมาก",
+                "thaiSentenceSpaced": " ได้ยิน มา ว่า คุณ ป่วย มาก "
+            },
+            {
+                "engSentence": "Time changes us so much.",
+                "id": 16613,
+                "thaiSentence": "เวลาทำให้เราเปลี่ยนไปมาก",
+                "thaiSentenceSpaced": " เวลา ทำให้ เรา เปลี่ยนไป มาก "
+            },
+            {
+                "engSentence": "It is lovely.",
+                "id": 17669,
+                "thaiSentence": "มันน่ารักมาก",
+                "thaiSentenceSpaced": " มัน น่ารัก มาก "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1383860,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "very much",
+                        "word": "very much"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "a lot",
+                        "word": "a lot"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "very",
+                        "word": "very"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 43051,
+                        "corpusScore": 24784,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 24001,
+                        "legacyWordId": 1383861,
+                        "meaning": "more than",
+                        "parentId": 24001,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มาก กฺว่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มากกว่า"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 20417,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 44519,
+                        "legacyWordId": 1383892,
+                        "meaning": "very much ; a lot",
+                        "parentId": 44519,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มาก มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มากๆ"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 17599,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 24784,
+                        "legacyWordId": 1383865,
+                        "meaning": "[to] increase",
+                        "parentId": 24784,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มาก ขึ้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มากขึ้น"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 16213,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 41073,
+                        "legacyWordId": 1383875,
+                        "meaning": "a lot ; many ; several",
+                        "parentId": 41073,
+                        "partOfSpeech": "Determiner",
+                        "t2e": "มาก มาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มากมาย"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 8343,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34616,
+                        "legacyWordId": 1289435,
+                        "meaning": "a great number of ; a lot of",
+                        "parentId": 34616,
+                        "partOfSpeech": "Noun",
+                        "t2e": "จำ-นวน มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จำนวนมาก"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 5684,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 41174,
+                        "legacyWordId": 1383880,
+                        "meaning": "very much",
+                        "parentId": 41174,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มาก เลย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มากเลย"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 5455,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22928,
+                        "legacyWordId": 1452118,
+                        "meaning": "extremely ; exceedingly ; substantially",
+                        "parentId": 22928,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺย่าง มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อย่างมาก"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 4833,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 44521,
+                        "legacyWordId": 1383871,
+                        "meaning": "most ; greatest",
+                        "parentId": 44521,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มาก ที่ สุด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มากที่สุด"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 4549,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402830,
+                        "legacyWordId": 1307759,
+                        "meaning": "[to be] great ; excellent ; very good",
+                        "parentId": 402830,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ดี มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดีมาก"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 4156,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44520,
+                        "legacyWordId": 1383872,
+                        "meaning": "very much ; a lot",
+                        "parentId": 44520,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มาก นัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มากนัก"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 3479,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27250,
+                        "legacyWordId": 1404833,
+                        "meaning": "mostly ; chiefly ; largely",
+                        "parentId": 27250,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ส่วน มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ส่วนมาก"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 3272,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395520,
+                        "legacyWordId": 1387002,
+                        "meaning": "little ; not much ; not many",
+                        "parentId": 395520,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไม่ มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่มาก"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 2637,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399812,
+                        "legacyWordId": 1384573,
+                        "meaning": "[to] abound ; be found everywhere",
+                        "parentId": 399812,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีมาก"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 1880,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399773,
+                        "legacyWordId": 1383863,
+                        "meaning": "exceedingly ; over ; extremely",
+                        "parentId": 399773,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มาก เกิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มากเกิน"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 1865,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40798,
+                        "legacyWordId": 1383873,
+                        "meaning": "too much",
+                        "parentId": 40798,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มาก ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มากไป"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 1249,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48066,
+                        "legacyWordId": 1383864,
+                        "meaning": "too much ; excessively",
+                        "parentId": 48066,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มาก เกิน ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มากเกินไป"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 1239,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400677,
+                        "legacyWordId": 1407625,
+                        "meaning": "[to be] important ; significant",
+                        "parentId": 400677,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "สำ-คัน มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สำคัญมาก"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 1104,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399771,
+                        "legacyWordId": 1383874,
+                        "meaning": "too",
+                        "parentId": 399771,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "มาก พอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มากพอ"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 1098,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402500,
+                        "legacyWordId": 1450914,
+                        "meaning": "grand ; huge ; enormous",
+                        "parentId": 402500,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ไหฺย่ มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใหญ่มาก"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 1006,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33798,
+                        "legacyWordId": 1454239,
+                        "meaning": "old ; aged ; elderly",
+                        "parentId": 33798,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "อา-ยุ มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อายุมาก"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 868,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 191411,
+                        "legacyWordId": 1284811,
+                        "meaning": "[to] think too much ; worry too much ; take something personally",
+                        "parentId": 191411,
+                        "partOfSpeech": "Verb",
+                        "t2e": "คิด มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คิดมาก"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 858,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1152,
+                        "legacyWordId": 1383877,
+                        "meaning": "more and more",
+                        "parentId": 1152,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มาก ยิ่ง ขึ้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มากยิ่งขึ้น"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 840,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25683,
+                        "legacyWordId": 1276041,
+                        "meaning": "majority",
+                        "parentId": 25683,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ข้าง มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้างมาก"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 793,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394831,
+                        "legacyWordId": 1392825,
+                        "meaning": "[to be] fast",
+                        "parentId": 394831,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "เร็ว มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เร็วมาก"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 763,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22706,
+                        "legacyWordId": 1369310,
+                        "meaning": "large amount ; large quantity",
+                        "parentId": 22706,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปะ-ริ-มาน มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปริมาณมาก"
+                    }
+                ],
+                "explanation": null,
+                "id": 43051,
+                "isUncommon": false,
+                "meaning": "very much ; a lot ; very",
+                "partOfSpeech": "Adverb",
+                "usage": "",
+                "word": "มาก"
+            }
+        ],
+        "t2e": "มาก",
+        "verified": null,
+        "word": "มาก"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

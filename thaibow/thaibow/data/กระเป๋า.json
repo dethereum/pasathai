@@ -1,0 +1,844 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "You got my bag ?",
+            "id": 28516,
+            "phonetic": "กฺระ-เป๋า ฉัน หฺยู่ กับ คุน ไหฺม",
+            "thaiSentence": "กระเป๋าฉันอยู่กับคุณไหม",
+            "thaiSentenceSpaced": " กระเป๋า ฉัน อยู่กับ คุณ ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bag ; pocket ; wallet"
+                        }
+                    ],
+                    "phonetic": "กฺระ-เป๋า",
+                    "word": "กระเป๋า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] live with ; stay with ; be with"
+                        }
+                    ],
+                    "phonetic": "หฺยู่ กับ",
+                    "word": "อยู่กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "It was in my pocket.",
+            "id": 58037,
+            "phonetic": "หฺยู่ ไน กฺระ-เป๋า ฉัน",
+            "thaiSentence": "อยู่ในกระเป๋าฉัน",
+            "thaiSentenceSpaced": " อยู่ ใน กระเป๋า ฉัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bag ; pocket ; wallet"
+                        }
+                    ],
+                    "phonetic": "กฺระ-เป๋า",
+                    "word": "กระเป๋า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                }
+            ]
+        },
+        {
+            "engSentence": "Your bag is in there.",
+            "id": 75820,
+            "phonetic": "กฺระ-เป๋า คุน หฺยู่ ไน นั้น แหฺละ",
+            "thaiSentence": "กระเป๋าคุณอยู่ในนั้นแหละ",
+            "thaiSentenceSpaced": " กระเป๋า คุณ อยู่ ใน นั้นแหละ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bag ; pocket ; wallet"
+                        }
+                    ],
+                    "phonetic": "กฺระ-เป๋า",
+                    "word": "กระเป๋า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that very one <i>(in particular)</i>"
+                        }
+                    ],
+                    "phonetic": "นั้น แหฺละ",
+                    "word": "นั้นแหละ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Open your bag.",
+            "id": 76062,
+            "phonetic": "เปิด กฺระ-เป๋า สิ",
+            "thaiSentence": "เปิดกระเป๋าสิ",
+            "thaiSentenceSpaced": " เปิด กระเป๋า สิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] open ; turn on ; switch on"
+                        }
+                    ],
+                    "phonetic": "เปิด",
+                    "word": "เปิด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bag ; pocket ; wallet"
+                        }
+                    ],
+                    "phonetic": "กฺระ-เป๋า",
+                    "word": "กระเป๋า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Your bag is in there.",
+            "id": 88501,
+            "phonetic": "กฺระ-เป๋า ของ คุน หฺยู่ ไน นั้น",
+            "thaiSentence": "กระเป๋าของคุณอยู่ในนั้น",
+            "thaiSentenceSpaced": " กระเป๋า ของคุณ อยู่ ใน นั้น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bag ; pocket ; wallet"
+                        }
+                    ],
+                    "phonetic": "กฺระ-เป๋า",
+                    "word": "กระเป๋า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "your ; of you"
+                        }
+                    ],
+                    "phonetic": "ของ คุน",
+                    "word": "ของคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence, or to show the end of a relative clause)</i>"
+                        },
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั้น",
+                    "word": "นั้น"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is . This is his bag.",
+            "id": 94369,
+            "phonetic": "ไช่ แล้ว · นี่ ไง กฺระ-เป๋า เขา",
+            "thaiSentence": "ใช่แล้ว นี่ไงกระเป๋าเขา",
+            "thaiSentenceSpaced": " ใช่ แล้ว  ·  นี่ไง กระเป๋า เขา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yes <i>(that's right, that's the case , exactly that)</i>"
+                        }
+                    ],
+                    "phonetic": "ไช่ แล้ว",
+                    "word": "ใช่แล้ว"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "this is it ; here you go ; there you are"
+                        }
+                    ],
+                    "phonetic": "นี่ ไง",
+                    "word": "นี่ไง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bag ; pocket ; wallet"
+                        }
+                    ],
+                    "phonetic": "กฺระ-เป๋า",
+                    "word": "กระเป๋า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 5241,
+        "exampleSentences": [
+            {
+                "engSentence": "You got my bag ?",
+                "id": 28516,
+                "thaiSentence": "กระเป๋าฉันอยู่กับคุณไหม",
+                "thaiSentenceSpaced": " กระเป๋า ฉัน อยู่กับ คุณ ไหม "
+            },
+            {
+                "engSentence": "It was in my pocket.",
+                "id": 58037,
+                "thaiSentence": "อยู่ในกระเป๋าฉัน",
+                "thaiSentenceSpaced": " อยู่ ใน กระเป๋า ฉัน "
+            },
+            {
+                "engSentence": "Your bag is in there.",
+                "id": 75820,
+                "thaiSentence": "กระเป๋าคุณอยู่ในนั้นแหละ",
+                "thaiSentenceSpaced": " กระเป๋า คุณ อยู่ ใน นั้นแหละ "
+            },
+            {
+                "engSentence": "Open your bag.",
+                "id": 76062,
+                "thaiSentence": "เปิดกระเป๋าสิ",
+                "thaiSentenceSpaced": " เปิด กระเป๋า สิ "
+            },
+            {
+                "engSentence": "Your bag is in there.",
+                "id": 88501,
+                "thaiSentence": "กระเป๋าของคุณอยู่ในนั้น",
+                "thaiSentenceSpaced": " กระเป๋า ของคุณ อยู่ ใน นั้น "
+            },
+            {
+                "engSentence": "It is . This is his bag.",
+                "id": 94369,
+                "thaiSentence": "ใช่แล้ว นี่ไงกระเป๋าเขา",
+                "thaiSentenceSpaced": " ใช่ แล้ว  &middot;  นี่ไง กระเป๋า เขา "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1264440,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "bag",
+                        "word": "bag"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "pocket",
+                        "word": "pocket"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "wallet",
+                        "word": "wallet"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 33009,
+                        "corpusScore": 92,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36533,
+                        "legacyWordId": 1264441,
+                        "meaning": "pocket",
+                        "parentId": 36533,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-เป๋า กาง-เกง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋ากางเกง"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 82,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32955,
+                        "legacyWordId": 1264454,
+                        "meaning": "purse ; wallet",
+                        "parentId": 32955,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-เป๋า สะ-ตาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋าสตางค์"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 61,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38442,
+                        "legacyWordId": 1394737,
+                        "meaning": "[to] pick (somebody's) pocket",
+                        "parentId": 38442,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้วง กฺระ-เป๋า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้วงกระเป๋า"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 56,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10139,
+                        "legacyWordId": 1264444,
+                        "meaning": "luggage ; baggage ; suitcase",
+                        "parentId": 10139,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-เป๋า เดิน ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋าเดินทาง"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 55,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9953,
+                        "legacyWordId": 1264457,
+                        "meaning": "[to be] rich ; wealthy ; affluent",
+                        "parentId": 9953,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "กฺระ-เป๋า หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋าหนัก"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 55,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10550,
+                        "legacyWordId": 1264456,
+                        "meaning": "pocket",
+                        "parentId": 10550,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-เป๋า เสื้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋าเสื้อ"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 54,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9972,
+                        "legacyWordId": 1264447,
+                        "meaning": "handbag",
+                        "parentId": 9972,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-เป๋า ถือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋าถือ"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 52,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396756,
+                        "legacyWordId": 1264442,
+                        "meaning": "wallet ; purse ; case",
+                        "parentId": 396756,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-เป๋า เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋าเงิน"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 45,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10129,
+                        "legacyWordId": 1264455,
+                        "meaning": "shoulder bag",
+                        "parentId": 10129,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-เป๋า สะ-พาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋าสะพาย"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 41,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103171,
+                        "legacyWordId": 1264446,
+                        "meaning": "wallet",
+                        "parentId": 103171,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-เป๋า ตัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋าตังค์"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 36,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3695,
+                        "legacyWordId": 1281091,
+                        "meaning": "[to] pay",
+                        "parentId": 3695,
+                        "partOfSpeech": "Verb",
+                        "t2e": "คฺวัก กฺระ-เป๋า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ควักกระเป๋า"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 15,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9578,
+                        "legacyWordId": 1264459,
+                        "meaning": "handbag ; carrying bag ; briefcase",
+                        "parentId": 9578,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-เป๋า หิ้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋าหิ้ว"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 14,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9859,
+                        "legacyWordId": 1264452,
+                        "meaning": "conductor ; fare collector ; ticket boy",
+                        "parentId": 9859,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-เป๋า รด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋ารถ"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 11,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9908,
+                        "legacyWordId": 1264461,
+                        "meaning": "briefcase ; portfolio",
+                        "parentId": 9908,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-เป๋า เอก-กะ-สาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋าเอกสาร"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 11,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21379,
+                        "legacyWordId": 1264443,
+                        "meaning": "[to] lose all one's money",
+                        "parentId": 21379,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กฺระ-เป๋า ฉีก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋าฉีก"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 10,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10625,
+                        "legacyWordId": 1264449,
+                        "meaning": "school bag",
+                        "parentId": 10625,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-เป๋า นัก เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋านักเรียน"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 7,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34382,
+                        "legacyWordId": 1264450,
+                        "meaning": "hot water bottle ; hot water bag",
+                        "parentId": 34382,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-เป๋า น้าม ร้อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋าน้ำร้อน"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 6,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394679,
+                        "legacyWordId": 1414042,
+                        "meaning": "[to] lose all one's money",
+                        "parentId": 394679,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺมด กฺระ-เป๋า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หมดกระเป๋า"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 5,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10692,
+                        "legacyWordId": 1264460,
+                        "meaning": "[to] be penniless ; be broke ; be short of money",
+                        "parentId": 10692,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กฺระ-เป๋า แห้ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋าแห้ง"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 5,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8278,
+                        "legacyWordId": 1324635,
+                        "meaning": "[to] spend all one's money",
+                        "parentId": 8278,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เท กฺระ-เป๋า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เทกระเป๋า"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 4,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10179,
+                        "legacyWordId": 1264453,
+                        "meaning": "conductor ; ticket boy ; ticket girl",
+                        "parentId": 10179,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-เป๋า รด เม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋ารถเมล์"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 3,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396755,
+                        "legacyWordId": 1264458,
+                        "meaning": "school bag",
+                        "parentId": 396755,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-เป๋า หฺนัง-สือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋าหนังสือ"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 1,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394678,
+                        "legacyWordId": 1273532,
+                        "meaning": "[to] lose all one's money",
+                        "parentId": 394678,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เกฺลี้ยง กฺระ-เป๋า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกลี้ยงกระเป๋า"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22364,
+                        "legacyWordId": 1376166,
+                        "meaning": "porter ; baggage man",
+                        "parentId": 22364,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พะ-นัก งาน ยก กฺระ-เป๋า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พนักงานยกกระเป๋า"
+                    },
+                    {
+                        "childId": 33009,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 681287,
+                        "legacyWordId": 1264445,
+                        "meaning": "suitcase ; bag ; luggage",
+                        "parentId": 681287,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-เป๋า โดย สาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋าโดยสาร"
+                    }
+                ],
+                "explanation": null,
+                "id": 33009,
+                "isUncommon": false,
+                "meaning": "bag ; pocket ; wallet",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "กระเป๋า"
+            }
+        ],
+        "t2e": "กฺระ-เป๋า",
+        "verified": null,
+        "word": "กระเป๋า"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

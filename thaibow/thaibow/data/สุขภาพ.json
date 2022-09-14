@@ -1,0 +1,680 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "I am very healthy.",
+            "id": 301986,
+            "phonetic": "สุก-ขะ-พาบ ของ ฉัน ยัง ดี มาก พอ",
+            "thaiSentence": "สุขภาพของฉันยังดีมากพอ",
+            "thaiSentenceSpaced": " สุขภาพ ของ ฉัน ยัง ดีมาก พอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "health ; wellbeing ; good condition"
+                        }
+                    ],
+                    "phonetic": "สุก-ขะ-พาบ",
+                    "word": "สุขภาพ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "still ; yet"
+                        }
+                    ],
+                    "phonetic": "ยัง",
+                    "word": "ยัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "too"
+                        }
+                    ],
+                    "phonetic": "มาก พอ",
+                    "word": "มากพอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "How is your health ?",
+            "id": 322034,
+            "phonetic": "สุก-ขะ-พาบ เป็น ยัง ไง บ้าง",
+            "thaiSentence": "สุขภาพเป็นยังไงบ้าง",
+            "thaiSentenceSpaced": " สุขภาพ เป็น ยังไง บ้าง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "health ; wellbeing ; good condition"
+                        }
+                    ],
+                    "phonetic": "สุก-ขะ-พาบ",
+                    "word": "สุขภาพ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "ยัง ไง",
+                    "word": "ยังไง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "some ; any"
+                        }
+                    ],
+                    "phonetic": "บ้าง",
+                    "word": "บ้าง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Onions are good for health.",
+            "id": 322406,
+            "phonetic": "หัว หอม ไหฺย่ ดี ต่อ สุก-ขะ-พาบ",
+            "thaiSentence": "หัวหอมใหญ่ดีต่อสุขภาพ",
+            "thaiSentenceSpaced": " หัวหอมใหญ่ ดี ต่อ สุขภาพ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "onion"
+                        }
+                    ],
+                    "phonetic": "หัว หอม ไหฺย่",
+                    "word": "หัวหอมใหญ่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] bargain ; haggle ; negotiate"
+                        },
+                        {
+                            "meaning": "to ; towards ; against ; for"
+                        },
+                        {
+                            "meaning": "[to] connect ; add on ; extend"
+                        },
+                        {
+                            "meaning": "[to] resist ; fight ; complain"
+                        },
+                        {
+                            "meaning": "next ; further on"
+                        }
+                    ],
+                    "phonetic": "ต่อ",
+                    "word": "ต่อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "health ; wellbeing ; good condition"
+                        }
+                    ],
+                    "phonetic": "สุก-ขะ-พาบ",
+                    "word": "สุขภาพ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You look so much healthier.",
+            "id": 375789,
+            "phonetic": "คุน ดู สุก-ขะ-พาบ ดี ขึ้น นะ คฺรับ",
+            "thaiSentence": "คุณดูสุขภาพดีขึ้นนะครับ",
+            "thaiSentenceSpaced": " คุณ ดู สุขภาพ ดีขึ้น นะ ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] appear ; seem"
+                        },
+                        {
+                            "meaning": "[to] watch ; look ; see"
+                        }
+                    ],
+                    "phonetic": "ดู",
+                    "word": "ดู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "health ; wellbeing ; good condition"
+                        }
+                    ],
+                    "phonetic": "สุก-ขะ-พาบ",
+                    "word": "สุขภาพ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] improve ; get better"
+                        }
+                    ],
+                    "phonetic": "ดี ขึ้น",
+                    "word": "ดีขึ้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        },
+        {
+            "engSentence": "So how is your health ?",
+            "id": 381085,
+            "phonetic": "สุก-ขะ-พาบ ของ คุน เป็น ยัง ไง บ้าง",
+            "thaiSentence": "สุขภาพของคุณเป็นยังไงบ้าง",
+            "thaiSentenceSpaced": " สุขภาพ ของคุณ เป็น ยังไง บ้าง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "health ; wellbeing ; good condition"
+                        }
+                    ],
+                    "phonetic": "สุก-ขะ-พาบ",
+                    "word": "สุขภาพ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "your ; of you"
+                        }
+                    ],
+                    "phonetic": "ของ คุน",
+                    "word": "ของคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "ยัง ไง",
+                    "word": "ยังไง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "some ; any"
+                        }
+                    ],
+                    "phonetic": "บ้าง",
+                    "word": "บ้าง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Is your health okay ?",
+            "id": 406801,
+            "phonetic": "สุก-ขะ-พาบ ของ คุน เป็น ไง บ้าง คฺรับ",
+            "thaiSentence": "สุขภาพของคุณเป็นไงบ้างครับ",
+            "thaiSentenceSpaced": " สุขภาพ ของคุณ เป็นไงบ้าง ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "health ; wellbeing ; good condition"
+                        }
+                    ],
+                    "phonetic": "สุก-ขะ-พาบ",
+                    "word": "สุขภาพ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "your ; of you"
+                        }
+                    ],
+                    "phonetic": "ของ คุน",
+                    "word": "ของคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how are you ; how's things"
+                        }
+                    ],
+                    "phonetic": "เป็น ไง บ้าง",
+                    "word": "เป็นไงบ้าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 13808,
+        "exampleSentences": [
+            {
+                "engSentence": "I am very healthy.",
+                "id": 301986,
+                "thaiSentence": "สุขภาพของฉันยังดีมากพอ",
+                "thaiSentenceSpaced": " สุขภาพ ของ ฉัน ยัง ดีมาก พอ "
+            },
+            {
+                "engSentence": "How is your health ?",
+                "id": 322034,
+                "thaiSentence": "สุขภาพเป็นยังไงบ้าง",
+                "thaiSentenceSpaced": " สุขภาพ เป็น ยังไง บ้าง "
+            },
+            {
+                "engSentence": "Onions are good for health.",
+                "id": 322406,
+                "thaiSentence": "หัวหอมใหญ่ดีต่อสุขภาพ",
+                "thaiSentenceSpaced": " หัวหอมใหญ่ ดี ต่อ สุขภาพ "
+            },
+            {
+                "engSentence": "You look so much healthier.",
+                "id": 375789,
+                "thaiSentence": "คุณดูสุขภาพดีขึ้นนะครับ",
+                "thaiSentenceSpaced": " คุณ ดู สุขภาพ ดีขึ้น นะ ครับ "
+            },
+            {
+                "engSentence": "So how is your health ?",
+                "id": 381085,
+                "thaiSentence": "สุขภาพของคุณเป็นยังไงบ้าง",
+                "thaiSentenceSpaced": " สุขภาพ ของคุณ เป็น ยังไง บ้าง "
+            },
+            {
+                "engSentence": "Is your health okay ?",
+                "id": 406801,
+                "thaiSentence": "สุขภาพของคุณเป็นไงบ้างครับ",
+                "thaiSentenceSpaced": " สุขภาพ ของคุณ เป็นไงบ้าง ครับ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1408778,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 48094,
+                        "corpusScore": 20592,
+                        "displayOrder": 0,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 48094,
+                        "legacyWordId": 1408747,
+                        "meaning": "[to be] happy ; pleased",
+                        "parentId": 27207,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "สุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สุข"
+                    },
+                    {
+                        "childId": 47019,
+                        "corpusScore": 73662,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 47019,
+                        "legacyWordId": 1381424,
+                        "meaning": "picture ; image ; vision",
+                        "parentId": 27207,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พาบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ภาพ"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "health",
+                        "word": "health"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "wellbeing",
+                        "word": "wellbeing"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "good condition",
+                        "word": "good condition"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 27207,
+                        "corpusScore": 357,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "one's health",
+                        "hasSoundFile": false,
+                        "id": 49515,
+                        "legacyWordId": 1390666,
+                        "meaning": "[to] take care ; look after",
+                        "parentId": 49515,
+                        "partOfSpeech": "Verb",
+                        "t2e": "รัก-สา สุก-ขะ-พาบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รักษาสุขภาพ"
+                    },
+                    {
+                        "childId": 27207,
+                        "corpusScore": 355,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3040,
+                        "legacyWordId": 1408780,
+                        "meaning": "mental health",
+                        "parentId": 3040,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สุก-ขะ-พาบ จิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สุขภาพจิต"
+                    },
+                    {
+                        "childId": 27207,
+                        "corpusScore": 147,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23237,
+                        "legacyWordId": 1408782,
+                        "meaning": "health and sanitation",
+                        "parentId": 23237,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สุก-ขะ-พาบ อะ-นา-ไม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สุขภาพอนามัย"
+                    },
+                    {
+                        "childId": 27207,
+                        "corpusScore": 111,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3322,
+                        "legacyWordId": 1408779,
+                        "meaning": "physical health",
+                        "parentId": 3322,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สุก-ขะ-พาบ กาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สุขภาพกาย"
+                    },
+                    {
+                        "childId": 27207,
+                        "corpusScore": 95,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 424515,
+                        "legacyWordId": 1271298,
+                        "meaning": "health promotion",
+                        "parentId": 424515,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ส่ง เสิม สุก-ขะ-พาบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การส่งเสริมสุขภาพ"
+                    },
+                    {
+                        "childId": 27207,
+                        "corpusScore": 44,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21984,
+                        "legacyWordId": 1404900,
+                        "meaning": "health park",
+                        "parentId": 21984,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สวน สุก-ขะ-พาบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สวนสุขภาพ"
+                    },
+                    {
+                        "childId": 27207,
+                        "corpusScore": 44,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 424532,
+                        "legacyWordId": 1269525,
+                        "meaning": "health insurance",
+                        "parentId": 424532,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ปฺระ-กัน สุก-ขะ-พาบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การประกันสุขภาพ"
+                    },
+                    {
+                        "childId": 27207,
+                        "corpusScore": 14,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 69310,
+                        "legacyWordId": 1408781,
+                        "meaning": "ill-health",
+                        "parentId": 69310,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สุก-ขะ-พาบ ไม่ ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สุขภาพไม่ดี"
+                    },
+                    {
+                        "childId": 27207,
+                        "corpusScore": 1,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 104182,
+                        "legacyWordId": 1407722,
+                        "meaning": "National Health System Reform Office",
+                        "parentId": 104182,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สำ-นัก งาน ปะ-ติ รูบ ระ-บบ สุก-ขะ-พาบ แห่ง ชาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สำนักงานปฏิรูประบบสุขภาพแห่งชาติ"
+                    },
+                    {
+                        "childId": 27207,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 104057,
+                        "legacyWordId": 1407692,
+                        "meaning": "National Health Commission Office",
+                        "parentId": 104057,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สำ-นัก งาน คะ-นะ กำ-มะ-กาน สุก-ขะ-พาบ แห่ง ชาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สำนักงานคณะกรรมการสุขภาพแห่งชาติ"
+                    },
+                    {
+                        "childId": 27207,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 510405,
+                        "legacyWordId": 1271576,
+                        "meaning": "health risk",
+                        "parentId": 510405,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน เสี่ยง ต่อ สุก-ขะ-พาบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การเสี่ยงต่อสุขภาพ"
+                    }
+                ],
+                "explanation": null,
+                "id": 27207,
+                "isUncommon": false,
+                "meaning": "health ; wellbeing ; good condition",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "สุขภาพ"
+            }
+        ],
+        "t2e": "สุก-ขะ-พาบ",
+        "verified": "สุก-ขะ-พาบ",
+        "word": "สุขภาพ"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,940 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Left eye and right eye.",
+            "id": 5918,
+            "phonetic": "ตา ซ้าย และ ก้อ ตา ขฺวา",
+            "thaiSentence": "ตาซ้ายและก็ตาขวา",
+            "thaiSentenceSpaced": " ตา ซ้าย และ ก็ ตา ขวา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "maternal grandfather ; grandfather"
+                        },
+                        {
+                            "meaning": "eye"
+                        },
+                        {
+                            "meaning": "mesh ; pattern"
+                        },
+                        {
+                            "meaning": "turn ; time ; move <i>(e.g. in a game)</i>"
+                        }
+                    ],
+                    "phonetic": "ตา",
+                    "word": "ตา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "left"
+                        }
+                    ],
+                    "phonetic": "ซ้าย",
+                    "word": "ซ้าย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and"
+                        }
+                    ],
+                    "phonetic": "และ",
+                    "word": "และ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "maternal grandfather ; grandfather"
+                        },
+                        {
+                            "meaning": "eye"
+                        },
+                        {
+                            "meaning": "mesh ; pattern"
+                        },
+                        {
+                            "meaning": "turn ; time ; move <i>(e.g. in a game)</i>"
+                        }
+                    ],
+                    "phonetic": "ตา",
+                    "word": "ตา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "right"
+                        }
+                    ],
+                    "phonetic": "ขฺวา",
+                    "word": "ขวา"
+                }
+            ]
+        },
+        {
+            "engSentence": "A master and an apprentice.",
+            "id": 11365,
+            "phonetic": "หฺนึ่ง อา-จาน และ หฺนึ่ง สิด",
+            "thaiSentence": "หนึ่งอาจารย์ และหนึ่งศิษย์",
+            "thaiSentenceSpaced": " หนึ่ง อาจารย์ และ หนึ่ง ศิษย์ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "หฺนึ่ง",
+                    "word": "หนึ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "teacher ; instructor ; schoolteacher"
+                        }
+                    ],
+                    "phonetic": "อา-จาน",
+                    "word": "อาจารย์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and"
+                        }
+                    ],
+                    "phonetic": "และ",
+                    "word": "และ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "หฺนึ่ง",
+                    "word": "หนึ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "student ; pupil ; disciple"
+                        }
+                    ],
+                    "phonetic": "สิด",
+                    "word": "ศิษย์"
+                }
+            ]
+        },
+        {
+            "engSentence": "You and me have birthdays.",
+            "id": 11824,
+            "phonetic": "คุน และ ฉัน ต่าง ก้อ มี วัน เกิด",
+            "thaiSentence": "คุณและฉันต่างก็มีวันเกิด",
+            "thaiSentenceSpaced": " คุณ และ ฉัน ต่าง ก็ มี วันเกิด ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and"
+                        }
+                    ],
+                    "phonetic": "และ",
+                    "word": "และ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be different ; be seperate ; differ"
+                        },
+                        {
+                            "meaning": "different ; various ; several"
+                        }
+                    ],
+                    "phonetic": "ต่าง",
+                    "word": "ต่าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "birthday"
+                        }
+                    ],
+                    "phonetic": "วัน เกิด",
+                    "word": "วันเกิด"
+                }
+            ]
+        },
+        {
+            "engSentence": "You and your friends.",
+            "id": 13513,
+            "phonetic": "คุน และ เพื่อน ของ คุน",
+            "thaiSentence": "คุณและเพื่อนของคุณ",
+            "thaiSentenceSpaced": " คุณ และ เพื่อน ของคุณ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and"
+                        }
+                    ],
+                    "phonetic": "และ",
+                    "word": "และ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "friend ; mate ; pal"
+                        }
+                    ],
+                    "phonetic": "เพื่อน",
+                    "word": "เพื่อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "your ; of you"
+                        }
+                    ],
+                    "phonetic": "ของ คุน",
+                    "word": "ของคุณ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Losing all hope was freedom.",
+            "id": 18422,
+            "phonetic": "สูน สิ้น คฺวาม หฺวัง และ อิด-สะ-หฺระ-พาบ",
+            "thaiSentence": "สูญสิ้นความหวังและอิสรภาพ",
+            "thaiSentenceSpaced": " สูญสิ้น ความหวัง และ อิสรภาพ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] exhaust ; use up"
+                        }
+                    ],
+                    "phonetic": "สูน สิ้น",
+                    "word": "สูญสิ้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hope ; wish ; expectation"
+                        }
+                    ],
+                    "phonetic": "คฺวาม หฺวัง",
+                    "word": "ความหวัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and"
+                        }
+                    ],
+                    "phonetic": "และ",
+                    "word": "และ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "freedom ; independence ; liberation"
+                        }
+                    ],
+                    "phonetic": "อิด-สะ-หฺระ-พาบ",
+                    "word": "อิสรภาพ"
+                }
+            ]
+        },
+        {
+            "engSentence": "We live and die together.",
+            "id": 46859,
+            "phonetic": "เรา จะ หฺยู่ และ ตาย ด้วย กัน",
+            "thaiSentence": "เราจะอยู่และตายด้วยกัน",
+            "thaiSentenceSpaced": " เรา จะ อยู่ และ ตาย ด้วยกัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and"
+                        }
+                    ],
+                    "phonetic": "และ",
+                    "word": "และ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] die ; pass away"
+                        },
+                        {
+                            "meaning": "[to be] dead"
+                        }
+                    ],
+                    "phonetic": "ตาย",
+                    "word": "ตาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one another ; each other"
+                        },
+                        {
+                            "meaning": "together ; jointly"
+                        }
+                    ],
+                    "phonetic": "กัน",
+                    "word": "กัน"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 674062,
+        "exampleSentences": [
+            {
+                "engSentence": "Left eye and right eye.",
+                "id": 5918,
+                "thaiSentence": "ตาซ้ายและก็ตาขวา",
+                "thaiSentenceSpaced": " ตา ซ้าย และ ก็ ตา ขวา "
+            },
+            {
+                "engSentence": "A master and an apprentice.",
+                "id": 11365,
+                "thaiSentence": "หนึ่งอาจารย์ และหนึ่งศิษย์",
+                "thaiSentenceSpaced": " หนึ่ง อาจารย์ และ หนึ่ง ศิษย์ "
+            },
+            {
+                "engSentence": "You and me have birthdays.",
+                "id": 11824,
+                "thaiSentence": "คุณและฉันต่างก็มีวันเกิด",
+                "thaiSentenceSpaced": " คุณ และ ฉัน ต่าง ก็ มี วันเกิด "
+            },
+            {
+                "engSentence": "You and your friends.",
+                "id": 13513,
+                "thaiSentence": "คุณและเพื่อนของคุณ",
+                "thaiSentenceSpaced": " คุณ และ เพื่อน ของคุณ "
+            },
+            {
+                "engSentence": "Losing all hope was freedom.",
+                "id": 18422,
+                "thaiSentence": "สูญสิ้นความหวังและอิสรภาพ",
+                "thaiSentenceSpaced": " สูญสิ้น ความหวัง และ อิสรภาพ "
+            },
+            {
+                "engSentence": "We live and die together.",
+                "id": 46859,
+                "thaiSentence": "เราจะอยู่และตายด้วยกัน",
+                "thaiSentenceSpaced": " เรา จะ อยู่ และ ตาย ด้วยกัน "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1397418,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "and",
+                        "word": "and"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 19441,
+                        "corpusScore": 683,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 8851,
+                        "legacyWordId": 1266684,
+                        "meaning": "one another ; each other",
+                        "parentId": 8851,
+                        "partOfSpeech": "Pronoun",
+                        "t2e": "กัน และ กัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กันและกัน"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 446,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 46715,
+                        "legacyWordId": 1397420,
+                        "meaning": "and others ; and so on",
+                        "parentId": 46715,
+                        "partOfSpeech": "Phrase",
+                        "t2e": "และ อื่น อื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "และอื่นๆ"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 318,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46597,
+                        "legacyWordId": 1401933,
+                        "meaning": "economy and society",
+                        "parentId": 46597,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "เสด-ถะ-กิด และ สัง-คม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เศรษฐกิจและสังคม"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 223,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4751,
+                        "legacyWordId": 1399666,
+                        "meaning": "research and development ; R&D",
+                        "parentId": 4751,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วิ-ไจ และ พัด-ทะ-นา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วิจัยและพัฒนา"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 205,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400179,
+                        "legacyWordId": 1391251,
+                        "meaning": "body ; physique",
+                        "parentId": 400179,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร่าง กาย และ จิด ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร่างกายและจิตใจ"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 104,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10407,
+                        "legacyWordId": 1264176,
+                        "meaning": "Ministry of Agriculture and Cooperatives",
+                        "parentId": 10407,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-ซวง กะ-เสด และ สะ-หะ-กอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระทรวงเกษตรและสหกรณ์"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 84,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12934,
+                        "legacyWordId": 1368837,
+                        "meaning": "Civil and Commercial Code",
+                        "parentId": 12934,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-มวน กด หฺมาย แพ่ง และ พา-นิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประมวลกฎหมายแพ่งและพาณิชย์"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 56,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103449,
+                        "legacyWordId": 1321281,
+                        "meaning": "body and mind",
+                        "parentId": 103449,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทั้ง กาย และ ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทั้งกายและใจ"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 53,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 56079,
+                        "legacyWordId": 1324674,
+                        "meaning": "information technology",
+                        "parentId": 56079,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เท็ก-โน-โล-ยี สาน สน-เทด และ กาน สื่อ สาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เทคโนโลยีสารสนเทศและการสื่อสาร"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 17,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 53594,
+                        "legacyWordId": 1407735,
+                        "meaning": "Thailand National Science and Technology Development Agency",
+                        "parentId": 53594,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สำ-นัก งาน พัด-ทะ-นา วิด-ทะ-ยา สาด และ เท็ก-โน-โล-ยี แห่ง ชาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 15,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 53595,
+                        "legacyWordId": 1401765,
+                        "meaning": "Thailand National Electronics and Computer Technology Center",
+                        "parentId": 53595,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สูน เท็ก-โน-โล-ยี อิ-เล็ก-ทฺรอ-หฺนิก และ คอม-พิว-เต้อ แห่ง ชาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ศูนย์เทคโนโลยีอิเล็กทรอนิกส์และคอมพิวเตอร์แห่งชาติ"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 13,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 423920,
+                        "legacyWordId": 1393649,
+                        "meaning": "foot and mouth disease",
+                        "parentId": 423920,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรก ปาก และ เท้า เปื่อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรคปากและเท้าเปื่อย"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 13,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32378,
+                        "legacyWordId": 1405792,
+                        "meaning": "social sciences and anthropology",
+                        "parentId": 32378,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สัง-คม วิด-ทะ-ยา และ มา-นุด-สะ-ยะ-วิด-ทะ-ยา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สังคมวิทยาและมานุษยวิทยา"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 13,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102588,
+                        "legacyWordId": 1325714,
+                        "meaning": "Bank for Agriculture and Agricultural Cooperatives",
+                        "parentId": 102588,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทะ-นา-คาน เพื่อ กาน กะ-เสด และ สะ-หะ-กอน กาน กะ-เสด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 12,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22274,
+                        "legacyWordId": 1264181,
+                        "meaning": "Ministry of Labour and Social Welfare",
+                        "parentId": 22274,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-ซวง แรง งาน และ สะ-หฺวัด-ดิ-กาน สัง-คม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระทรวงแรงงานและสวัสดิการสังคม"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 10,
+                        "displayOrder": 4,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 104391,
+                        "legacyWordId": 1402624,
+                        "meaning": "The Institute for the Promotion of Teaching Science and Technology",
+                        "parentId": 104391,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ-ถา-บัน ส่ง เสิม กาน สอน วิด-ทะ-ยา สาด และ เท็ก-โน-โล-ยี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สถาบันส่งเสริมการสอนวิทยาศาสตร์และเทคโนโลยี"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 9,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 63881,
+                        "legacyWordId": 1308528,
+                        "meaning": "with the advice and consent",
+                        "parentId": 63881,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โดย คำ แนะ นำ และ ยิน ยอม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โดยคำแนะนำและยินยอม"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 9,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 104040,
+                        "legacyWordId": 1278387,
+                        "meaning": "The Securities and Exchange Commission",
+                        "parentId": 104040,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คะ-นะ กำ-มะ-กาน กำ-กับ หฺลัก ซับ และ ตะ-หฺลาด หฺลัก ซับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 8,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 104145,
+                        "legacyWordId": 1263539,
+                        "meaning": "Department of Disaster Prevention and Mitigation",
+                        "parentId": 104145,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺรม ป้อง กัน และ บัน-เทา สา-ทา-ระ-นะ ไพ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กรมป้องกันและบรรเทาสาธารณภัย"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 7,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 424573,
+                        "legacyWordId": 1267868,
+                        "meaning": "money and banking",
+                        "parentId": 424573,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน เงิน และ กาน ทะ-นา-คาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การเงินและการธนาคาร"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 7,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41516,
+                        "legacyWordId": 1263555,
+                        "meaning": "Department of Energy Development and Promotion",
+                        "parentId": 41516,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺรม พัด-ทะ-นา และ ส่ง เสิม พะ-ลัง งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กรมพัฒนาและส่งเสริมพลังงาน"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 7,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43346,
+                        "legacyWordId": 1263597,
+                        "meaning": "Department of Labour Protection and Welfare",
+                        "parentId": 43346,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺรม สะ-หฺวัด-ดิ-กาน และ คุ้ม คฺรอง แรง งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กรมสวัสดิการและคุ้มครองแรงงาน"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 6,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46373,
+                        "legacyWordId": 1325716,
+                        "meaning": "Export-Import Bank of Thailand ; EXIM Bank",
+                        "parentId": 46373,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทะ-นา-คาน เพื่อ กาน ส่ง ออก และ นำ เข้า แห่ง ปฺระ-เทด ไท",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ธนาคารเพื่อการส่งออกและนำเข้าแห่งประเทศไทย"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 6,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9572,
+                        "legacyWordId": 1271194,
+                        "meaning": "research and development",
+                        "parentId": 9572,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน วิ-ไจ และ กาน พัด-ทะ-นา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การวิจัยและการพัฒนา"
+                    },
+                    {
+                        "childId": 19441,
+                        "corpusScore": 5,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4829,
+                        "legacyWordId": 1382070,
+                        "meaning": "property tax ; house and land tax",
+                        "parentId": 4829,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พา-สี โรง เรือน และ ที่ ดิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ภาษีโรงเรือนและที่ดิน"
+                    }
+                ],
+                "explanation": null,
+                "id": 19441,
+                "isUncommon": false,
+                "meaning": "and",
+                "partOfSpeech": "Conjunction",
+                "usage": "",
+                "word": "และ"
+            }
+        ],
+        "t2e": "และ",
+        "verified": "และ, แหฺละ",
+        "word": "และ"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

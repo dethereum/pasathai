@@ -1,0 +1,609 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Is it still the sea ?",
+            "id": 75804,
+            "phonetic": "ยัง เป็น ทะ-เล หฺยู่ เหฺรอ",
+            "thaiSentence": "ยังเป็นทะเลอยู่เหรอ",
+            "thaiSentenceSpaced": " ยัง เป็น ทะเล อยู่ เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "still ; yet"
+                        }
+                    ],
+                    "phonetic": "ยัง",
+                    "word": "ยัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sea ; ocean"
+                        }
+                    ],
+                    "phonetic": "ทะ-เล",
+                    "word": "ทะเล"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Is it still the sea ?",
+            "id": 88487,
+            "phonetic": "ยัง หฺยู่ ไน ทะ-เล หฺรือ เปฺล่า",
+            "thaiSentence": "ยังอยู่ในทะเลหรือเปล่า",
+            "thaiSentenceSpaced": " ยัง อยู่ ใน ทะเล หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "still ; yet"
+                        }
+                    ],
+                    "phonetic": "ยัง",
+                    "word": "ยัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sea ; ocean"
+                        }
+                    ],
+                    "phonetic": "ทะ-เล",
+                    "word": "ทะเล"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "Do you like the sea ?",
+            "id": 104807,
+            "phonetic": "คุน ชอบ ทะ-เล เหฺรอ คะ",
+            "thaiSentence": "คุณชอบทะเลเหรอคะ",
+            "thaiSentenceSpaced": " คุณ ชอบ ทะเล เหรอ คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] like"
+                        }
+                    ],
+                    "phonetic": "ชอบ",
+                    "word": "ชอบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sea ; ocean"
+                        }
+                    ],
+                    "phonetic": "ทะ-เล",
+                    "word": "ทะเล"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am now here at the sea.",
+            "id": 151136,
+            "phonetic": "ตอน-นี้ ฉัน หฺยู่ ที่ นี่ ที่ ทะ-เล",
+            "thaiSentence": "ตอนนี้ฉันอยู่ที่นี่ ที่ทะเล",
+            "thaiSentenceSpaced": " ตอนนี้ ฉัน อยู่ ที่นี่ ที่ ทะเล ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "now ; right now ; at this moment"
+                        }
+                    ],
+                    "phonetic": "ตอน-นี้",
+                    "word": "ตอนนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be at ; stay at ; live at"
+                        }
+                    ],
+                    "phonetic": "หฺยู่ ที่",
+                    "word": "อยู่ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sea ; ocean"
+                        }
+                    ],
+                    "phonetic": "ทะ-เล",
+                    "word": "ทะเล"
+                }
+            ]
+        },
+        {
+            "engSentence": "From the sea . Came back.",
+            "id": 266465,
+            "phonetic": "จาก ทะ-เล · มัน กฺลับ มา",
+            "thaiSentence": "จากทะเล มันกลับมา",
+            "thaiSentenceSpaced": " จาก ทะเล  ·  มัน กลับมา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "from ; depart ; leave ; go away from"
+                        }
+                    ],
+                    "phonetic": "จาก",
+                    "word": "จาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sea ; ocean"
+                        }
+                    ],
+                    "phonetic": "ทะ-เล",
+                    "word": "ทะเล"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] return ; come back ; go back"
+                        }
+                    ],
+                    "phonetic": "กฺลับ มา",
+                    "word": "กลับมา"
+                }
+            ]
+        },
+        {
+            "engSentence": "To save sea animals.",
+            "id": 277223,
+            "phonetic": "เพื่อ ช่วย ชี-วิด สัด ทะ-เล",
+            "thaiSentence": "เพื่อช่วยชีวิตสัตว์ทะเล",
+            "thaiSentenceSpaced": " เพื่อ ช่วยชีวิต สัตว์ ทะเล ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "for ; in order to"
+                        }
+                    ],
+                    "phonetic": "เพื่อ",
+                    "word": "เพื่อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] save one's life ; rescue ; succour"
+                        }
+                    ],
+                    "phonetic": "ช่วย ชี-วิด",
+                    "word": "ช่วยชีวิต"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "animal ; creature"
+                        }
+                    ],
+                    "phonetic": "สัด",
+                    "word": "สัตว์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sea ; ocean"
+                        }
+                    ],
+                    "phonetic": "ทะ-เล",
+                    "word": "ทะเล"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 17701,
+        "exampleSentences": [
+            {
+                "engSentence": "Is it still the sea ?",
+                "id": 75804,
+                "thaiSentence": "ยังเป็นทะเลอยู่เหรอ",
+                "thaiSentenceSpaced": " ยัง เป็น ทะเล อยู่ เหรอ "
+            },
+            {
+                "engSentence": "Is it still the sea ?",
+                "id": 88487,
+                "thaiSentence": "ยังอยู่ในทะเลหรือเปล่า",
+                "thaiSentenceSpaced": " ยัง อยู่ ใน ทะเล หรือเปล่า "
+            },
+            {
+                "engSentence": "Do you like the sea ?",
+                "id": 104807,
+                "thaiSentence": "คุณชอบทะเลเหรอคะ",
+                "thaiSentenceSpaced": " คุณ ชอบ ทะเล เหรอ คะ "
+            },
+            {
+                "engSentence": "I am now here at the sea.",
+                "id": 151136,
+                "thaiSentence": "ตอนนี้ฉันอยู่ที่นี่ ที่ทะเล",
+                "thaiSentenceSpaced": " ตอนนี้ ฉัน อยู่ ที่นี่ ที่ ทะเล "
+            },
+            {
+                "engSentence": "From the sea . Came back.",
+                "id": 266465,
+                "thaiSentence": "จากทะเล มันกลับมา",
+                "thaiSentenceSpaced": " จาก ทะเล  &middot;  มัน กลับมา "
+            },
+            {
+                "engSentence": "To save sea animals.",
+                "id": 277223,
+                "thaiSentence": "เพื่อช่วยชีวิตสัตว์ทะเล",
+                "thaiSentenceSpaced": " เพื่อ ช่วยชีวิต สัตว์ ทะเล "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1463158,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "sea",
+                        "word": "sea"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "ocean",
+                        "word": "ocean"
+                    }
+                ],
+                "etymology": "Thai",
+                "examples": [
+                    {
+                        "childId": 100804,
+                        "corpusScore": 264,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50611,
+                        "legacyWordId": 1321227,
+                        "meaning": "Andaman Sea",
+                        "parentId": 50611,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทะ-เล-อัน-ดา-มัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทะเลอันดามัน"
+                    },
+                    {
+                        "childId": 100804,
+                        "corpusScore": 26,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50496,
+                        "legacyWordId": 1321190,
+                        "meaning": "Baltic Sea",
+                        "parentId": 50496,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทะ-เล-บอน-ติก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทะเลบอลติก"
+                    },
+                    {
+                        "childId": 100804,
+                        "corpusScore": 12,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 423690,
+                        "legacyWordId": 1327005,
+                        "meaning": "tropicbird",
+                        "parentId": 423690,
+                        "partOfSpeech": "Noun",
+                        "t2e": "นก ร่อน ทะ-เล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นกร่อนทะเล"
+                    },
+                    {
+                        "childId": 100804,
+                        "corpusScore": 10,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 423698,
+                        "legacyWordId": 1327016,
+                        "meaning": "phalarope",
+                        "parentId": 423698,
+                        "partOfSpeech": "Noun",
+                        "t2e": "นก ลอย ทะ-เล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นกลอยทะเล"
+                    },
+                    {
+                        "childId": 100804,
+                        "corpusScore": 10,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 589743,
+                        "legacyWordId": 1385104,
+                        "meaning": "sea urchin",
+                        "parentId": 589743,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เม่น ทะ-เล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เม่นทะเล"
+                    },
+                    {
+                        "childId": 100804,
+                        "corpusScore": 6,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 53748,
+                        "legacyWordId": 1321168,
+                        "meaning": "Dead Sea",
+                        "parentId": 53748,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทะ-เล-เดด-ซี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทะเลเดดซี"
+                    },
+                    {
+                        "childId": 100804,
+                        "corpusScore": 6,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 53990,
+                        "legacyWordId": 1321231,
+                        "meaning": "Aegean Sea",
+                        "parentId": 53990,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทะ-เล อี เจียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทะเลอีเจียน"
+                    },
+                    {
+                        "childId": 100804,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 56827,
+                        "legacyWordId": 1396376,
+                        "meaning": "LinuxTLE",
+                        "parentId": 56827,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ลิ-นุก ทะ-เล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลินุกซ์ทะเล"
+                    },
+                    {
+                        "childId": 100804,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 99058,
+                        "legacyWordId": 1269018,
+                        "meaning": "Dumping at Sea",
+                        "parentId": 99058,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ทิ้ง ทะ-เล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การทิ้งทะเล"
+                    }
+                ],
+                "explanation": null,
+                "id": 100804,
+                "isUncommon": false,
+                "meaning": "sea ; ocean",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ทะเล"
+            }
+        ],
+        "t2e": "ทะ-เล",
+        "verified": null,
+        "word": "ทะเล"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

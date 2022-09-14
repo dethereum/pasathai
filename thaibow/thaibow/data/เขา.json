@@ -1,0 +1,1151 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "You kissed her ?",
+            "id": 415,
+            "phonetic": "เทอ จูบ เขา หฺรือ",
+            "thaiSentence": "เธอจูบเขาหรือ",
+            "thaiSentenceSpaced": " เธอ จูบ เขา หรือ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "เทอ",
+                    "word": "เธอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] kiss"
+                        }
+                    ],
+                    "phonetic": "จูบ",
+                    "word": "จูบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        },
+                        {
+                            "meaning": "or"
+                        }
+                    ],
+                    "phonetic": "หฺรือ",
+                    "word": "หรือ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Did he say anything else ?",
+            "id": 462,
+            "phonetic": "เขา บอก อะ-ไร อีก หฺรือ เปฺล่า",
+            "thaiSentence": "เขาบอกอะไรอีกหรือเปล่า",
+            "thaiSentenceSpaced": " เขา บอก อะไร อีก หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] tell ; say ; describe"
+                        }
+                    ],
+                    "phonetic": "บอก",
+                    "word": "บอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "again ; once more ; more"
+                        }
+                    ],
+                    "phonetic": "อีก",
+                    "word": "อีก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "Is this her room ?",
+            "id": 474,
+            "phonetic": "นี่ ห้อง ของ เขา เหฺรอ",
+            "thaiSentence": "นี่ห้องของเขาเหรอ",
+            "thaiSentenceSpaced": " นี่ ห้อง ของ เขา เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "room <i>(ห้อง is also the classifier for rooms.)</i>"
+                        }
+                    ],
+                    "phonetic": "ห้อง",
+                    "word": "ห้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "So what did he say ?",
+            "id": 875,
+            "phonetic": "แล้ว เขา ว่า ไง บ้าง",
+            "thaiSentence": "แล้วเขาว่าไงบ้าง",
+            "thaiSentenceSpaced": " แล้ว เขา ว่า ไง บ้าง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        },
+                        {
+                            "meaning": "[to] say ; tell"
+                        },
+                        {
+                            "meaning": "[to] blame ; criticise"
+                        }
+                    ],
+                    "phonetic": "ว่า",
+                    "word": "ว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle showing the preceding statement is self-evident)</i>"
+                        },
+                        {
+                            "meaning": "how"
+                        }
+                    ],
+                    "phonetic": "ไง",
+                    "word": "ไง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "some ; any"
+                        }
+                    ],
+                    "phonetic": "บ้าง",
+                    "word": "บ้าง"
+                }
+            ]
+        },
+        {
+            "engSentence": "He's got partial amnesia.",
+            "id": 912,
+            "phonetic": "เขา คฺวาม จำ เสื่อม",
+            "thaiSentence": "เขาความจำเสื่อม",
+            "thaiSentenceSpaced": " เขา ความจำเสื่อม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "amensia ; poor memory"
+                        }
+                    ],
+                    "phonetic": "คฺวาม จำ เสื่อม",
+                    "word": "ความจำเสื่อม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Call him when he gets back.",
+            "id": 938,
+            "phonetic": "โท หา เขา ด้วย · ตอน เขา กฺลับ มา",
+            "thaiSentence": "โทรหาเขาด้วย ตอนเขากลับมา",
+            "thaiSentenceSpaced": " โทร หา เขา ด้วย  ·  ตอน เขา กลับมา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] call ; telephone ; phone"
+                        }
+                    ],
+                    "phonetic": "โท",
+                    "word": "โทร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] search for ; look for"
+                        }
+                    ],
+                    "phonetic": "หา",
+                    "word": "หา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "when ; during ; at"
+                        },
+                        {
+                            "meaning": "section ; piece ; bit ; part ; episode"
+                        }
+                    ],
+                    "phonetic": "ตอน",
+                    "word": "ตอน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] return ; come back ; go back"
+                        }
+                    ],
+                    "phonetic": "กฺลับ มา",
+                    "word": "กลับมา"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 124828,
+        "exampleSentences": [
+            {
+                "engSentence": "You kissed her ?",
+                "id": 415,
+                "thaiSentence": "เธอจูบเขาหรือ",
+                "thaiSentenceSpaced": " เธอ จูบ เขา หรือ "
+            },
+            {
+                "engSentence": "Did he say anything else ?",
+                "id": 462,
+                "thaiSentence": "เขาบอกอะไรอีกหรือเปล่า",
+                "thaiSentenceSpaced": " เขา บอก อะไร อีก หรือเปล่า "
+            },
+            {
+                "engSentence": "Is this her room ?",
+                "id": 474,
+                "thaiSentence": "นี่ห้องของเขาเหรอ",
+                "thaiSentenceSpaced": " นี่ ห้อง ของ เขา เหรอ "
+            },
+            {
+                "engSentence": "So what did he say ?",
+                "id": 875,
+                "thaiSentence": "แล้วเขาว่าไงบ้าง",
+                "thaiSentenceSpaced": " แล้ว เขา ว่า ไง บ้าง "
+            },
+            {
+                "engSentence": "He's got partial amnesia.",
+                "id": 912,
+                "thaiSentence": "เขาความจำเสื่อม",
+                "thaiSentenceSpaced": " เขา ความจำเสื่อม "
+            },
+            {
+                "engSentence": "Call him when he gets back.",
+                "id": 938,
+                "thaiSentence": "โทรหาเขาด้วย ตอนเขากลับมา",
+                "thaiSentenceSpaced": " โทร หา เขา ด้วย  &middot;  ตอน เขา กลับมา "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1277217,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "he",
+                        "word": "he"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "she",
+                        "word": "she"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "him",
+                        "word": "him"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "her",
+                        "word": "her"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "they",
+                        "word": "they"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "them",
+                        "word": "them"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 29962,
+                        "corpusScore": 10390,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36023,
+                        "legacyWordId": 1377392,
+                        "meaning": "they ; them",
+                        "parentId": 36023,
+                        "partOfSpeech": "PersonalPronoun",
+                        "t2e": "พวก เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พวกเขา"
+                    },
+                    {
+                        "childId": 29962,
+                        "corpusScore": 166,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43860,
+                        "legacyWordId": 1310673,
+                        "meaning": "himself ; herself",
+                        "parentId": 43860,
+                        "partOfSpeech": "PersonalPronoun",
+                        "t2e": "ตัว เขา เอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตัวเขาเอง"
+                    },
+                    {
+                        "childId": 29962,
+                        "corpusScore": 42,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29948,
+                        "legacyWordId": 1277479,
+                        "meaning": "they ; them",
+                        "parentId": 29948,
+                        "partOfSpeech": "PersonalPronoun",
+                        "t2e": "เขา ทั้ง หฺลาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เขาทั้งหลาย"
+                    },
+                    {
+                        "childId": 29962,
+                        "corpusScore": 26,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20406,
+                        "legacyWordId": 1457316,
+                        "meaning": "[to] be considerate ; be thoughtful",
+                        "parentId": 20406,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา ไจ เขา มา ไส่ ไจ เรา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาใจเขามาใส่ใจเรา"
+                    },
+                    {
+                        "childId": 29962,
+                        "corpusScore": 19,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30883,
+                        "legacyWordId": 1284168,
+                        "meaning": "red-handedly ; clearly",
+                        "parentId": 30883,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "คา หฺนัง คา เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คาหนังคาเขา"
+                    },
+                    {
+                        "childId": 29962,
+                        "corpusScore": 12,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400982,
+                        "legacyWordId": 1448121,
+                        "meaning": "valley ; ravine ; gorge",
+                        "parentId": 400982,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺว่าง เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หว่างเขา"
+                    },
+                    {
+                        "childId": 29962,
+                        "corpusScore": 4,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16064,
+                        "legacyWordId": 1319724,
+                        "meaning": "[to] discriminate ; distinguish ; be a partisan",
+                        "parentId": 16064,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถือ เขา ถือ เรา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถือเขาถือเรา"
+                    },
+                    {
+                        "childId": 29962,
+                        "corpusScore": 1,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398279,
+                        "legacyWordId": 1319761,
+                        "meaning": "[to] discriminate ; distinguish ; be a partisan",
+                        "parentId": 398279,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถือ เรา ถือ เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถือเราถือเขา"
+                    },
+                    {
+                        "childId": 29962,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 73319,
+                        "legacyWordId": 1399440,
+                        "meaning": "the pot that calls the kettle black",
+                        "parentId": 73319,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ว่า แต่ เขา อี-เหฺนา เป็น เอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ว่าแต่เขาอีเหนาเป็นเอง"
+                    },
+                    {
+                        "childId": 29962,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 809604,
+                        "legacyWordId": 1459103,
+                        "meaning": "Khao Sok",
+                        "parentId": 809604,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เขา-สก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เขาสก"
+                    },
+                    {
+                        "childId": 29962,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401299,
+                        "legacyWordId": 1277400,
+                        "meaning": "woman",
+                        "parentId": 401299,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เขา ดอก-ดั้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เขาดอกดั้ว"
+                    }
+                ],
+                "explanation": null,
+                "id": 29962,
+                "isUncommon": false,
+                "meaning": "he ; she ; him ; her ; they ; them",
+                "partOfSpeech": "PersonalPronoun",
+                "usage": "",
+                "word": "เขา"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "hill",
+                        "word": "hill"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "mountain",
+                        "word": "mountain"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 29963,
+                        "corpusScore": 6515,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29306,
+                        "legacyWordId": 1382117,
+                        "meaning": "hill ; mountain",
+                        "parentId": 29306,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ภูเขา"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 2927,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29028,
+                        "legacyWordId": 1325264,
+                        "meaning": "mountain range",
+                        "parentId": 29028,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เทือก เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เทือกเขา"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 2287,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "of a mountain",
+                        "hasSoundFile": false,
+                        "id": 28745,
+                        "legacyWordId": 1387441,
+                        "meaning": "peak ; top",
+                        "parentId": 28745,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ยอด เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยอดเขา"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 1174,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27086,
+                        "legacyWordId": 1449551,
+                        "meaning": "valley ; ravine ; gorge",
+                        "parentId": 27086,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หุบ เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หุบเขา"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 1013,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12457,
+                        "legacyWordId": 1292765,
+                        "meaning": "hill tribe ; mountaineer",
+                        "parentId": 12457,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชาว เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชาวเขา"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 822,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16585,
+                        "legacyWordId": 1276728,
+                        "meaning": "great mountain",
+                        "parentId": 16585,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ขุน เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขุนเขา"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 796,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11729,
+                        "legacyWordId": 1294027,
+                        "meaning": "foot of the hill",
+                        "parentId": 11729,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เชิง เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เชิงเขา"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 786,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32823,
+                        "legacyWordId": 1323248,
+                        "meaning": "mountain range",
+                        "parentId": 32823,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทิว เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทิวเขา"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 615,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401302,
+                        "legacyWordId": 1277822,
+                        "meaning": "rocky mountain ; mountain",
+                        "parentId": 401302,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เขา หิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เขาหิน"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 295,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10572,
+                        "legacyWordId": 1463092,
+                        "meaning": "mountain pass ; ravine ; gorge",
+                        "parentId": 10572,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ช่อง เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ช่องเขา"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 221,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 52522,
+                        "legacyWordId": 1456397,
+                        "meaning": "Khao Yai National Park",
+                        "parentId": 52522,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อุด-ทะ-ยาน แห่ง ชาด เขา ไหฺย่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อุทยานแห่งชาติเขาใหญ่"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 180,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5104,
+                        "legacyWordId": 1451343,
+                        "meaning": "mountain slope ; hillside ; brae",
+                        "parentId": 5104,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไหฺล่ เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไหล่เขา"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 174,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17189,
+                        "legacyWordId": 1277404,
+                        "meaning": "Dusit zoo",
+                        "parentId": 17189,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เขา ดิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เขาดิน"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 162,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401303,
+                        "legacyWordId": 1277830,
+                        "meaning": "five peaks",
+                        "parentId": 401303,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เขา หิ-มา-ไล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เขาหิมาลัย"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 158,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30053,
+                        "legacyWordId": 1277251,
+                        "meaning": "antler",
+                        "parentId": 30053,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เขา กฺวาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เขากวาง"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 153,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 99380,
+                        "legacyWordId": 1370997,
+                        "meaning": "hill evergreen forest",
+                        "parentId": 99380,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ป่า ดิบ เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ป่าดิบเขา"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 113,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17732,
+                        "legacyWordId": 1317616,
+                        "meaning": "foot of the mountain",
+                        "parentId": 17732,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตีน เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตีนเขา"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 89,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 475,
+                        "legacyWordId": 1330854,
+                        "meaning": "range of hill",
+                        "parentId": 475,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แนว เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แนวเขา"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 75,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395,
+                        "legacyWordId": 1285539,
+                        "meaning": "vine ; creeper ; climber",
+                        "parentId": 395,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เคฺรือ เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เครือเขา"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 75,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 51004,
+                        "legacyWordId": 1369222,
+                        "meaning": "Prasat Preah Vihear",
+                        "parentId": 51004,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺรา-สาด เขา พฺระ วิ-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปราสาทเขาพระวิหาร"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 70,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29974,
+                        "legacyWordId": 1277785,
+                        "meaning": "sheer rock ; steep hill ; precipitous hill",
+                        "parentId": 29974,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เขา สูง ชัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เขาสูงชัน"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 63,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401462,
+                        "legacyWordId": 1290490,
+                        "meaning": "mountain-lord ; chief of mountains",
+                        "parentId": 401462,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เจ้า เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ้าเขา"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 55,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32905,
+                        "legacyWordId": 1318557,
+                        "meaning": "[to] hike ; climb",
+                        "parentId": 32905,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ต่าย เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไต่เขา"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 50,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401300,
+                        "legacyWordId": 1277605,
+                        "meaning": "",
+                        "parentId": 401300,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เขา-พฺระ-สุ-เมน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เขาพระสุเมรุ"
+                    },
+                    {
+                        "childId": 29963,
+                        "corpusScore": 45,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397807,
+                        "legacyWordId": 1294522,
+                        "meaning": "valley ; ravine ; gorge",
+                        "parentId": 397807,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ซอก เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซอกเขา"
+                    }
+                ],
+                "explanation": null,
+                "id": 29963,
+                "isUncommon": true,
+                "meaning": "hill ; mountain",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "เขา"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "",
+                        "word": ""
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 390130,
+                        "corpusScore": 5,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 700872,
+                        "legacyWordId": 1450618,
+                        "meaning": "Banlaem Khao",
+                        "parentId": 700872,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แหฺลม เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แหลมเขา"
+                    }
+                ],
+                "explanation": "It's a marker that adds emphasis to the preceding noun or pronoun",
+                "id": 390130,
+                "isUncommon": true,
+                "meaning": "",
+                "partOfSpeech": "TopicMarker",
+                "usage": "",
+                "word": "เขา"
+            }
+        ],
+        "t2e": "เขา",
+        "verified": "เขา",
+        "word": "เขา"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

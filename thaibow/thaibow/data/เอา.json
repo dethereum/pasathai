@@ -1,0 +1,1298 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Did you bring an umbrella ?",
+            "id": 598,
+            "phonetic": "คุน เอา ร่ม มา หฺรือ เปฺล่า",
+            "thaiSentence": "คุณเอาร่มมาหรือเปล่า",
+            "thaiSentenceSpaced": " คุณ เอา ร่ม มา หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; desire"
+                        },
+                        {
+                            "meaning": "[to] take ; bring"
+                        }
+                    ],
+                    "phonetic": "เอา",
+                    "word": "เอา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "umbrella"
+                        },
+                        {
+                            "meaning": "[to] shade ; protect"
+                        },
+                        {
+                            "meaning": "[to] be shady ; be shadowy"
+                        }
+                    ],
+                    "phonetic": "ร่ม",
+                    "word": "ร่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "You want that mask ? OK.",
+            "id": 2041,
+            "phonetic": "คุน จะ เอา น่า กาก เหฺรอ · ด้าย",
+            "thaiSentence": "คุณจะเอาหน้ากากเหรอ ได้",
+            "thaiSentenceSpaced": " คุณ จะ เอา หน้ากาก เหรอ  ·  ได้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] show off"
+                        }
+                    ],
+                    "phonetic": "เอา น่า",
+                    "word": "เอาหน้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "garbage ; waste ; rubbish"
+                        }
+                    ],
+                    "phonetic": "กาก",
+                    "word": "กาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                }
+            ]
+        },
+        {
+            "engSentence": "Go ahead, shoot.",
+            "id": 2859,
+            "phonetic": "เอา สิ คฺรับ · ยิง เลย",
+            "thaiSentence": "เอาสิครับ ยิงเลย",
+            "thaiSentenceSpaced": " เอา สิ ครับ  ·  ยิง เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; desire"
+                        },
+                        {
+                            "meaning": "[to] take ; bring"
+                        }
+                    ],
+                    "phonetic": "เอา",
+                    "word": "เอา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] shoot ; fire"
+                        }
+                    ],
+                    "phonetic": "ยิง",
+                    "word": "ยิง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Hey, leave me the umbrella.",
+            "id": 4656,
+            "phonetic": "เฮ้ · นี่ · เอา ร่ม ทิ้ง ไว้ ไห้ ผม ด้วย สิ",
+            "thaiSentence": "เฮ้ นี่ เอาร่มทิ้งไว้ให้ผมด้วยสิ",
+            "thaiSentenceSpaced": " เฮ้  ·  นี่  ·  เอา ร่ม ทิ้ง ไว้ ให้ ผม ด้วย สิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hey!"
+                        }
+                    ],
+                    "phonetic": "เฮ้",
+                    "word": "เฮ้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; desire"
+                        },
+                        {
+                            "meaning": "[to] take ; bring"
+                        }
+                    ],
+                    "phonetic": "เอา",
+                    "word": "เอา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "umbrella"
+                        },
+                        {
+                            "meaning": "[to] shade ; protect"
+                        },
+                        {
+                            "meaning": "[to] be shady ; be shadowy"
+                        }
+                    ],
+                    "phonetic": "ร่ม",
+                    "word": "ร่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] leave ; throw away ; discard"
+                        }
+                    ],
+                    "phonetic": "ทิ้ง",
+                    "word": "ทิ้ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] keep ; save ; store"
+                        }
+                    ],
+                    "phonetic": "ไว้",
+                    "word": "ไว้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                }
+            ]
+        },
+        {
+            "engSentence": "All right . Continue.",
+            "id": 9084,
+            "phonetic": "เอา ล่ะ · ต่อ ไป",
+            "thaiSentence": "เอาล่ะ ต่อไป",
+            "thaiSentenceSpaced": " เอา ล่ะ  ·  ต่อ ไป ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "ok then ; alright then"
+                        }
+                    ],
+                    "phonetic": "เอา ล่ะ",
+                    "word": "เอาล่ะ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "continually ; further ; afterward"
+                        },
+                        {
+                            "meaning": "next ; latter ; later"
+                        }
+                    ],
+                    "phonetic": "ต่อ ไป",
+                    "word": "ต่อไป"
+                }
+            ]
+        },
+        {
+            "engSentence": "Well, did you hit him ?",
+            "id": 9817,
+            "phonetic": "เอา ล่ะ · โดน เขา ไหฺม",
+            "thaiSentence": "เอาล่ะ โดนเขาไหม",
+            "thaiSentenceSpaced": " เอา ล่ะ  ·  โดน เขา ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "ok then ; alright then"
+                        }
+                    ],
+                    "phonetic": "เอา ล่ะ",
+                    "word": "เอาล่ะ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be in trouble ; get in trouble"
+                        },
+                        {
+                            "meaning": " <i>(auxiliary that indicates the following verb is in the passive voice)</i>"
+                        },
+                        {
+                            "meaning": "[to] hit ; strike ; collide against"
+                        }
+                    ],
+                    "phonetic": "โดน",
+                    "word": "โดน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 73618,
+        "exampleSentences": [
+            {
+                "engSentence": "Did you bring an umbrella ?",
+                "id": 598,
+                "thaiSentence": "คุณเอาร่มมาหรือเปล่า",
+                "thaiSentenceSpaced": " คุณ เอา ร่ม มา หรือเปล่า "
+            },
+            {
+                "engSentence": "You want that mask ? OK.",
+                "id": 2041,
+                "thaiSentence": "คุณจะเอาหน้ากากเหรอ ได้",
+                "thaiSentenceSpaced": " คุณ จะ เอา หน้ากาก เหรอ  &middot;  ได้ "
+            },
+            {
+                "engSentence": "Go ahead, shoot.",
+                "id": 2859,
+                "thaiSentence": "เอาสิครับ ยิงเลย",
+                "thaiSentenceSpaced": " เอา สิ ครับ  &middot;  ยิง เลย "
+            },
+            {
+                "engSentence": "Hey, leave me the umbrella.",
+                "id": 4656,
+                "thaiSentence": "เฮ้ นี่ เอาร่มทิ้งไว้ให้ผมด้วยสิ",
+                "thaiSentenceSpaced": " เฮ้  &middot;  นี่  &middot;  เอา ร่ม ทิ้ง ไว้ ให้ ผม ด้วย สิ "
+            },
+            {
+                "engSentence": "All right . Continue.",
+                "id": 9084,
+                "thaiSentence": "เอาล่ะ ต่อไป",
+                "thaiSentenceSpaced": " เอา ล่ะ  &middot;  ต่อ ไป "
+            },
+            {
+                "engSentence": "Well, did you hit him ?",
+                "id": 9817,
+                "thaiSentence": "เอาล่ะ โดนเขาไหม",
+                "thaiSentenceSpaced": " เอา ล่ะ  &middot;  โดน เขา ไหม "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1457289,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] want",
+                        "word": "want"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "desire",
+                        "word": "desire"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 41665,
+                        "corpusScore": 1978,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 6285,
+                        "legacyWordId": 1387247,
+                        "meaning": "[to] not want ; be uninterested",
+                        "parentId": 6285,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไม่ เอา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่เอา"
+                    },
+                    {
+                        "childId": 41665,
+                        "corpusScore": 1716,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27139,
+                        "legacyWordId": 1457315,
+                        "meaning": "[to] try to please ; behave well ; please",
+                        "parentId": 27139,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาใจ"
+                    },
+                    {
+                        "childId": 41665,
+                        "corpusScore": 1185,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48253,
+                        "legacyWordId": 1457337,
+                        "meaning": "[to] only be interested in",
+                        "parentId": 48253,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาแต่"
+                    },
+                    {
+                        "childId": 41665,
+                        "corpusScore": 211,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46644,
+                        "legacyWordId": 1457328,
+                        "meaning": "[to] aim to be well-known",
+                        "parentId": 46644,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา ชื่อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาชื่อ"
+                    },
+                    {
+                        "childId": 41665,
+                        "corpusScore": 73,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "used when imploring someone to do something",
+                        "hasSoundFile": false,
+                        "id": 390115,
+                        "legacyWordId": 1457349,
+                        "meaning": "come on ; please",
+                        "parentId": 390115,
+                        "partOfSpeech": "Interjection",
+                        "t2e": "เอา น่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาน่า"
+                    },
+                    {
+                        "childId": 41665,
+                        "corpusScore": 47,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401787,
+                        "legacyWordId": 1392924,
+                        "meaning": "[to] claim ; demand ; request",
+                        "parentId": 401787,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เรียก เอา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรียกเอา"
+                    },
+                    {
+                        "childId": 41665,
+                        "corpusScore": 44,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 76198,
+                        "legacyWordId": 1289415,
+                        "meaning": "sum insured",
+                        "parentId": 76198,
+                        "partOfSpeech": "Noun",
+                        "t2e": "จำ-นวน เงิน เอา ปฺระ-กัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จำนวนเงินเอาประกัน"
+                    },
+                    {
+                        "childId": 41665,
+                        "corpusScore": 3,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "implying \"don't be like that\"",
+                        "hasSoundFile": false,
+                        "id": 390113,
+                        "legacyWordId": 1387252,
+                        "meaning": "come on ; please",
+                        "parentId": 390113,
+                        "partOfSpeech": "Interjection",
+                        "t2e": "ไม่ เอา น่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่เอาน่า"
+                    },
+                    {
+                        "childId": 41665,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400259,
+                        "legacyWordId": 1395345,
+                        "meaning": "utilitarianism",
+                        "parentId": 400259,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ลัด-ทิ เอา ปฺระ-โหฺยด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลัทธิเอาประโยชน์"
+                    },
+                    {
+                        "childId": 41665,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399528,
+                        "legacyWordId": 1377772,
+                        "meaning": "[to] rest for a while ; take a rest",
+                        "parentId": 399528,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พัก เอา เรี่ยว แรง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พักเอาเรี่ยวแรง"
+                    }
+                ],
+                "explanation": null,
+                "id": 41665,
+                "isUncommon": false,
+                "meaning": "[to] want ; desire",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "เอา"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] take",
+                        "word": "take"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "bring",
+                        "word": "bring"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 41666,
+                        "corpusScore": 8926,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 41678,
+                        "legacyWordId": 1457374,
+                        "meaning": "[to] keep ; save ; store",
+                        "parentId": 41678,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา ไว้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาไว้"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 7007,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402039,
+                        "legacyWordId": 1457363,
+                        "meaning": "[to] bring ; take ; bear",
+                        "parentId": 402039,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอามา"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 5740,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402046,
+                        "legacyWordId": 1457360,
+                        "meaning": "[to] seize ; grab ; take",
+                        "parentId": 402046,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาไป"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 1631,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31478,
+                        "legacyWordId": 1457322,
+                        "meaning": "[to] win ; triumph ; conquer",
+                        "parentId": 31478,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา ชะ-นะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาชนะ"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 1164,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50000,
+                        "legacyWordId": 1271977,
+                        "meaning": "taking ; bringing",
+                        "parentId": 50000,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน เอา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การเอา"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 879,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48254,
+                        "legacyWordId": 1457366,
+                        "meaning": "[to] make problems ; cause trouble",
+                        "parentId": 48254,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา เรื่อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาเรื่อง"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 879,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5548,
+                        "legacyWordId": 1457366,
+                        "meaning": "extremely ; exceedingly ; very particularly",
+                        "parentId": 5548,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เอา เรื่อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาเรื่อง"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 875,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38174,
+                        "legacyWordId": 1323155,
+                        "meaning": "[to] cause",
+                        "parentId": 38174,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ เอา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำเอา"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 745,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27549,
+                        "legacyWordId": 1457359,
+                        "meaning": "[to] exploit ; take advantage of",
+                        "parentId": 27549,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา เปฺรียบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาเปรียบ"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 696,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16269,
+                        "legacyWordId": 1319775,
+                        "meaning": "[to] assume",
+                        "parentId": 16269,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถือ เอา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถือเอา"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 457,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46606,
+                        "legacyWordId": 1397036,
+                        "meaning": "[to] cause to",
+                        "parentId": 46606,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เล่น เอา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เล่นเอา"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 433,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20507,
+                        "legacyWordId": 1457357,
+                        "meaning": "[to] conclude",
+                        "parentId": 20507,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา เป็น ว่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาเป็นว่า"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 415,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103047,
+                        "legacyWordId": 1457311,
+                        "meaning": "[to] be serious ; take something seriously",
+                        "parentId": 103047,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา จิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาจริง"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 400,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19095,
+                        "legacyWordId": 1457361,
+                        "meaning": "[to] take it as guilt",
+                        "parentId": 19095,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา ผิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาผิด"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 386,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4720,
+                        "legacyWordId": 1457326,
+                        "meaning": "[to] take one's life ; end one's life",
+                        "parentId": 4720,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา ชี-วิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาชีวิต"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 313,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27825,
+                        "legacyWordId": 1457381,
+                        "meaning": "[to] imitate ; follow",
+                        "parentId": 27825,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา หฺย่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาอย่าง"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 234,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": "either as in surviving a dangerous situation, or as in just surviving (getting by) in general",
+                        "hasSoundFile": false,
+                        "id": 47730,
+                        "legacyWordId": 1457335,
+                        "meaning": "[to] survive",
+                        "parentId": 47730,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา ตัว รอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาตัวรอด"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 177,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20514,
+                        "legacyWordId": 1457369,
+                        "meaning": "[to] rest",
+                        "parentId": 20514,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา แรง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาแรง"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 165,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21291,
+                        "legacyWordId": 1457376,
+                        "meaning": "[to] show off",
+                        "parentId": 21291,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา น่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาหน้า"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 158,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46643,
+                        "legacyWordId": 1457351,
+                        "meaning": "[to] take merit",
+                        "parentId": 46643,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา บุน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาบุญ"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 157,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402040,
+                        "legacyWordId": 1457364,
+                        "meaning": "[to] exploit ; molest",
+                        "parentId": 402040,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา รัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอารัด"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 147,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "as a sign of respect when being given something by a superior",
+                        "hasSoundFile": false,
+                        "id": 48251,
+                        "legacyWordId": 1457307,
+                        "meaning": "[to] raise one's hand",
+                        "parentId": 48251,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอางาน"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 109,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27497,
+                        "legacyWordId": 1457365,
+                        "meaning": "[to] take advantage of ; exploit",
+                        "parentId": 27497,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา รัด เอา เปฺรียบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอารัดเอาเปรียบ"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 109,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27497,
+                        "legacyWordId": 1457365,
+                        "meaning": "[to] take advantage of ; exploit",
+                        "parentId": 27497,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา รัด เอา เปฺรียบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอารัดเอาเปรียบ"
+                    },
+                    {
+                        "childId": 41666,
+                        "corpusScore": 109,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46642,
+                        "legacyWordId": 1457350,
+                        "meaning": "[to be] sure",
+                        "parentId": 46642,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "เอา แน่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาแน่"
+                    }
+                ],
+                "explanation": null,
+                "id": 41666,
+                "isUncommon": false,
+                "meaning": "[to] take ; bring",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "เอา"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "ok",
+                        "word": "ok"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "right",
+                        "word": "right"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "well",
+                        "word": "well"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 48252,
+                        "corpusScore": 143,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48255,
+                        "legacyWordId": 1457372,
+                        "meaning": "ok then ; alright then",
+                        "parentId": 48255,
+                        "partOfSpeech": "Interjection",
+                        "t2e": "เอา ล่ะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาล่ะ"
+                    },
+                    {
+                        "childId": 48252,
+                        "corpusScore": 120,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4711,
+                        "legacyWordId": 1457343,
+                        "meaning": "okay ; all right",
+                        "parentId": 4711,
+                        "partOfSpeech": "Interjection",
+                        "t2e": "เอา เถอะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาเถอะ"
+                    },
+                    {
+                        "childId": 48252,
+                        "corpusScore": 46,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 191324,
+                        "legacyWordId": 1457377,
+                        "meaning": "ok then ; right then ; well then",
+                        "parentId": 191324,
+                        "partOfSpeech": "Interjection",
+                        "t2e": "เอา หฺละ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาหละ"
+                    },
+                    {
+                        "childId": 48252,
+                        "corpusScore": 32,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48256,
+                        "legacyWordId": 1457344,
+                        "meaning": "OK ; alright then",
+                        "parentId": 48256,
+                        "partOfSpeech": "Interjection",
+                        "t2e": "เอา เถิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาเถิด"
+                    },
+                    {
+                        "childId": 48252,
+                        "corpusScore": 7,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398186,
+                        "legacyWordId": 1317929,
+                        "meaning": "[to] assume ; presume ; claim",
+                        "parentId": 398186,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตู่ เอา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตู่เอา"
+                    }
+                ],
+                "explanation": null,
+                "id": 48252,
+                "isUncommon": true,
+                "meaning": "ok ; right ; well",
+                "partOfSpeech": "Interjection",
+                "usage": "",
+                "word": "เอา"
+            }
+        ],
+        "t2e": "เอา",
+        "verified": null,
+        "word": "เอา"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

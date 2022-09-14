@@ -1,0 +1,917 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Cash, stock certificates.",
+            "id": 12998,
+            "phonetic": "เงิน สด · ไบ รับ รอง หุ้น",
+            "thaiSentence": "เงินสด ใบรับรองหุ้น",
+            "thaiSentenceSpaced": " เงิน สด  ·  ใบรับรอง หุ้น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "cash ; coins ; bills"
+                        }
+                    ],
+                    "phonetic": "เงิน สด",
+                    "word": "เงินสด"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "certificate ; testimonial ; guarantee"
+                        }
+                    ],
+                    "phonetic": "ไบ รับ รอง",
+                    "word": "ใบรับรอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "share ; stock"
+                        }
+                    ],
+                    "phonetic": "หุ้น",
+                    "word": "หุ้น"
+                }
+            ]
+        },
+        {
+            "engSentence": "I love your cash.",
+            "id": 57354,
+            "phonetic": "ผม รัก เงิน ต่าง หาก",
+            "thaiSentence": "ผมรักเงินต่างหาก",
+            "thaiSentenceSpaced": " ผม รัก เงิน ต่างหาก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] love"
+                        }
+                    ],
+                    "phonetic": "รัก",
+                    "word": "รัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "money ; currency ; cash"
+                        }
+                    ],
+                    "phonetic": "เงิน",
+                    "word": "เงิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "on the contrary ; far from it"
+                        }
+                    ],
+                    "phonetic": "ต่าง หาก",
+                    "word": "ต่างหาก"
+                }
+            ]
+        },
+        {
+            "engSentence": "You spent all your money ?",
+            "id": 75336,
+            "phonetic": "ไช้ เงิน หฺมด เลย เหฺรอ",
+            "thaiSentence": "ใช้เงินหมดเลยเหรอ",
+            "thaiSentenceSpaced": " นี่ ใช้ เงิน หมด เลย เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] use"
+                        }
+                    ],
+                    "phonetic": "ไช้",
+                    "word": "ใช้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "money ; currency ; cash"
+                        }
+                    ],
+                    "phonetic": "เงิน",
+                    "word": "เงิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "completely ; entirely"
+                        },
+                        {
+                            "meaning": "[to be] finished ; used up"
+                        }
+                    ],
+                    "phonetic": "หฺมด",
+                    "word": "หมด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Take what money ?",
+            "id": 84640,
+            "phonetic": "เงิน บ้า อะ-ไร",
+            "thaiSentence": "เงินบ้าอะไร",
+            "thaiSentenceSpaced": " เงิน บ้า อะไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "money ; currency ; cash"
+                        }
+                    ],
+                    "phonetic": "เงิน",
+                    "word": "เงิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] mad ; crazy ; insane"
+                        }
+                    ],
+                    "phonetic": "บ้า",
+                    "word": "บ้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "With what money ?",
+            "id": 91261,
+            "phonetic": "จะ เอา เงิน จาก ไหฺน มา ทำ",
+            "thaiSentence": "จะเอาเงินจากไหนมาทำ",
+            "thaiSentenceSpaced": " จะ เอา เงิน จากไหน มา ทำ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; desire"
+                        },
+                        {
+                            "meaning": "[to] take ; bring"
+                        }
+                    ],
+                    "phonetic": "เอา",
+                    "word": "เอา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "money ; currency ; cash"
+                        }
+                    ],
+                    "phonetic": "เงิน",
+                    "word": "เงิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "from where"
+                        }
+                    ],
+                    "phonetic": "จาก ไหฺน",
+                    "word": "จากไหน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is not about the money.",
+            "id": 97227,
+            "phonetic": "มัน ไม่ ด้าย เกี่ยว กับ เงิน หฺรอก",
+            "thaiSentence": "มันไม่ได้เกี่ยวกับเงินหรอก",
+            "thaiSentenceSpaced": " มัน ไม่ได้ เกี่ยวกับ เงิน หรอก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "didn't ; did not"
+                        },
+                        {
+                            "meaning": "can't ; cannot"
+                        }
+                    ],
+                    "phonetic": "ไม่ ด้าย",
+                    "word": "ไม่ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "about ; regarding ; concerning"
+                        }
+                    ],
+                    "phonetic": "เกี่ยว กับ",
+                    "word": "เกี่ยวกับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "money ; currency ; cash"
+                        }
+                    ],
+                    "phonetic": "เงิน",
+                    "word": "เงิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in the negative when making a contradiction)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺรอก",
+                    "word": "หรอก"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 49644,
+        "exampleSentences": [
+            {
+                "engSentence": "Cash, stock certificates.",
+                "id": 12998,
+                "thaiSentence": "เงินสด ใบรับรองหุ้น",
+                "thaiSentenceSpaced": " เงิน สด  &middot;  ใบรับรอง หุ้น "
+            },
+            {
+                "engSentence": "I love your cash.",
+                "id": 57354,
+                "thaiSentence": "ผมรักเงินต่างหาก",
+                "thaiSentenceSpaced": " ผม รัก เงิน ต่างหาก "
+            },
+            {
+                "engSentence": "You spent all your money ?",
+                "id": 75336,
+                "thaiSentence": "ใช้เงินหมดเลยเหรอ",
+                "thaiSentenceSpaced": " นี่ ใช้ เงิน หมด เลย เหรอ "
+            },
+            {
+                "engSentence": "Take what money ?",
+                "id": 84640,
+                "thaiSentence": "เงินบ้าอะไร",
+                "thaiSentenceSpaced": " เงิน บ้า อะไร "
+            },
+            {
+                "engSentence": "With what money ?",
+                "id": 91261,
+                "thaiSentence": "จะเอาเงินจากไหนมาทำ",
+                "thaiSentenceSpaced": " จะ เอา เงิน จากไหน มา ทำ "
+            },
+            {
+                "engSentence": "It is not about the money.",
+                "id": 97227,
+                "thaiSentence": "มันไม่ได้เกี่ยวกับเงินหรอก",
+                "thaiSentenceSpaced": " มัน ไม่ได้ เกี่ยวกับ เงิน หรอก "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1463081,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "money",
+                        "word": "money"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "currency",
+                        "word": "currency"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "cash",
+                        "word": "cash"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 454,
+                        "corpusScore": 6078,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9656,
+                        "legacyWordId": 1267866,
+                        "meaning": "finance ; monetary matters",
+                        "parentId": 9656,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การเงิน"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 2664,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26722,
+                        "legacyWordId": 1384487,
+                        "meaning": "[to] have money ; be wealthy ; be rich",
+                        "parentId": 26722,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีเงิน"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 2523,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35461,
+                        "legacyWordId": 1287820,
+                        "meaning": "salary ; monthly wage ; pay",
+                        "parentId": 35461,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เงิน เดือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เงินเดือน"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 2259,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394709,
+                        "legacyWordId": 1289292,
+                        "meaning": "[to] pay",
+                        "parentId": 394709,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จ่าย เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จ่ายเงิน"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 1975,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32363,
+                        "legacyWordId": 1287908,
+                        "meaning": "cash ; coins ; bills",
+                        "parentId": 32363,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เงิน สด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เงินสด"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 1732,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23906,
+                        "legacyWordId": 1292875,
+                        "meaning": "[to] pay for",
+                        "parentId": 23906,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชำ-ระ เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชำระเงิน"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 1617,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3247,
+                        "legacyWordId": 1391054,
+                        "meaning": "[to] receive money ; get money ; accept money",
+                        "parentId": 3247,
+                        "partOfSpeech": "Verb",
+                        "t2e": "รับ เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รับเงิน"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 1492,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46894,
+                        "legacyWordId": 1308678,
+                        "meaning": "[to] make money",
+                        "parentId": 46894,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ด้าย เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ได้เงิน"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 1404,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21931,
+                        "legacyWordId": 1457777,
+                        "meaning": "[to] transfer",
+                        "parentId": 21931,
+                        "partOfSpeech": "Verb",
+                        "t2e": "โอน เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โอนเงิน"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 1305,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48078,
+                        "legacyWordId": 1329506,
+                        "meaning": "[to be] blue ; dark blue ; navy blue",
+                        "parentId": 48078,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "น้าม เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น้ำเงิน"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 1213,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31648,
+                        "legacyWordId": 1287838,
+                        "meaning": "capital ; cost ; asset",
+                        "parentId": 31648,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เงิน ทุน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เงินทุน"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 1153,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4382,
+                        "legacyWordId": 1409966,
+                        "meaning": "[to] lose one's money",
+                        "parentId": 4382,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เสีย เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เสียเงิน"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 1142,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31459,
+                        "legacyWordId": 1287796,
+                        "meaning": "loan ; money lent",
+                        "parentId": 31459,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เงิน กู้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เงินกู้"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 1137,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32238,
+                        "legacyWordId": 1287822,
+                        "meaning": "income ; revenue",
+                        "parentId": 32238,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เงิน ด้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เงินได้"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 1070,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30796,
+                        "legacyWordId": 1273402,
+                        "meaning": "[to] save ; hoard ; accumulate",
+                        "parentId": 30796,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เก็บ เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เก็บเงิน"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 1065,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22174,
+                        "legacyWordId": 1449050,
+                        "meaning": "[to] earn money ; make money",
+                        "parentId": 22174,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หา เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาเงิน"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 1050,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35247,
+                        "legacyWordId": 1287835,
+                        "meaning": "money ; wealth",
+                        "parentId": 35247,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เงิน ทอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เงินทอง"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 806,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32156,
+                        "legacyWordId": 1287869,
+                        "meaning": "deposit ; bank deposit",
+                        "parentId": 32156,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เงิน ฝาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เงินฝาก"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 752,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7279,
+                        "legacyWordId": 1283728,
+                        "meaning": "value of money",
+                        "parentId": 7279,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ค่า เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ค่าเงิน"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 664,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31732,
+                        "legacyWordId": 1287827,
+                        "meaning": "money ; currency ; cash",
+                        "parentId": 31732,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เงิน ตฺรา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เงินตรา"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 661,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27197,
+                        "legacyWordId": 1450895,
+                        "meaning": "[to] give someone money",
+                        "parentId": 27197,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้เงิน"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 635,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31611,
+                        "legacyWordId": 1287875,
+                        "meaning": "inflation ; rising prices",
+                        "parentId": 31611,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เงิน เฟ้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เงินเฟ้อ"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 634,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9204,
+                        "legacyWordId": 1273248,
+                        "meaning": "[to] borrow money",
+                        "parentId": 9204,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กู้ เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กู้เงิน"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 594,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "Thai unit of currency",
+                        "hasSoundFile": false,
+                        "id": 31531,
+                        "legacyWordId": 1287846,
+                        "meaning": "baht",
+                        "parentId": 31531,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เงิน บาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เงินบาท"
+                    },
+                    {
+                        "childId": 454,
+                        "corpusScore": 556,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22370,
+                        "legacyWordId": 1284955,
+                        "meaning": "[to] pay back",
+                        "parentId": 22370,
+                        "partOfSpeech": "Verb",
+                        "t2e": "คืน เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คืนเงิน"
+                    }
+                ],
+                "explanation": null,
+                "id": 454,
+                "isUncommon": false,
+                "meaning": "money ; currency ; cash",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "เงิน"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "silver",
+                        "word": "silver"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 390093,
+                        "corpusScore": 7,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9904,
+                        "legacyWordId": 1263979,
+                        "meaning": "silver and gold paper",
+                        "parentId": 9904,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-ดาด เงิน กฺระ-ดาด ทอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระดาษเงินกระดาษทอง"
+                    },
+                    {
+                        "childId": 390093,
+                        "corpusScore": 1,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 390092,
+                        "legacyWordId": 1325919,
+                        "meaning": "silver",
+                        "parentId": 390092,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทาด เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ธาตุเงิน"
+                    }
+                ],
+                "explanation": null,
+                "id": 390093,
+                "isUncommon": true,
+                "meaning": "silver",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "เงิน"
+            }
+        ],
+        "t2e": "เงิน",
+        "verified": null,
+        "word": "เงิน"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

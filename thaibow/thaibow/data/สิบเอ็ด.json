@@ -1,0 +1,142 @@
+{
+    "commonessText": "Rarely",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 240,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1408343,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 19673,
+                        "corpusScore": 8278,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 19673,
+                        "legacyWordId": 1408315,
+                        "meaning": "ten",
+                        "parentId": 19225,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบ"
+                    },
+                    {
+                        "childId": 47727,
+                        "corpusScore": 1118,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "used to replace หนึ่ง when it's the final digit in a number",
+                        "hasSoundFile": false,
+                        "id": 47727,
+                        "legacyWordId": 1457037,
+                        "meaning": "one",
+                        "parentId": 19225,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เอ็ด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอ็ด"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "eleven",
+                        "word": "eleven"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 19225,
+                        "corpusScore": 17,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102760,
+                        "legacyWordId": 1408345,
+                        "meaning": "11am",
+                        "parentId": 102760,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิบ เอ็ด โมง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบเอ็ดโมง"
+                    },
+                    {
+                        "childId": 19225,
+                        "corpusScore": 1,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102756,
+                        "legacyWordId": 1408346,
+                        "meaning": "11am",
+                        "parentId": 102756,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิบ เอ็ด โมง เช้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบเอ็ดโมงเช้า"
+                    },
+                    {
+                        "childId": 19225,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19432,
+                        "legacyWordId": 1408348,
+                        "meaning": "hendecagon",
+                        "parentId": 19432,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิบ เอ็ด เหฺลี่ยม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบเอ็ดเหลี่ยม"
+                    },
+                    {
+                        "childId": 19225,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 67820,
+                        "legacyWordId": 1333893,
+                        "meaning": "hendecasyllabic line",
+                        "parentId": 67820,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บาด สิบ เอ็ด พะ-ยาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บาทสิบเอ็ดพยางค์"
+                    }
+                ],
+                "explanation": null,
+                "id": 19225,
+                "isUncommon": false,
+                "meaning": "eleven",
+                "partOfSpeech": "Quantifier",
+                "usage": "",
+                "word": "สิบเอ็ด"
+            }
+        ],
+        "t2e": "สิบ เอ็ด",
+        "verified": null,
+        "word": "สิบเอ็ด"
+    },
+    "greenBarCount": 1,
+    "pageUrl": "",
+    "type": "thai-word"
+}

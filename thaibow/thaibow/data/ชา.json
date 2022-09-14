@@ -1,0 +1,935 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Let's have some tea.",
+            "id": 43128,
+            "phonetic": "ขอ ชา หฺน่อย",
+            "thaiSentence": "ขอชาหน่อย",
+            "thaiSentenceSpaced": " ขอ ชา หน่อย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask for ; request for ; ask"
+                        }
+                    ],
+                    "phonetic": "ขอ",
+                    "word": "ขอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tea"
+                        },
+                        {
+                            "meaning": "[to] numb ; senseless"
+                        }
+                    ],
+                    "phonetic": "ชา",
+                    "word": "ชา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle added to soften a request or command)</i>"
+                        },
+                        {
+                            "meaning": "a little ; a little bit"
+                        }
+                    ],
+                    "phonetic": "หฺน่อย",
+                    "word": "หน่อย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Can I have tea ?",
+            "id": 87797,
+            "phonetic": "ขอ ชา ด้าย ไหฺม คะ",
+            "thaiSentence": "ขอชาได้ไหมคะ",
+            "thaiSentenceSpaced": " ขอ ชา ได้ ไหม คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask for ; request for ; ask"
+                        }
+                    ],
+                    "phonetic": "ขอ",
+                    "word": "ขอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tea"
+                        },
+                        {
+                            "meaning": "[to] numb ; senseless"
+                        }
+                    ],
+                    "phonetic": "ชา",
+                    "word": "ชา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Would you like to have tea ?",
+            "id": 103393,
+            "phonetic": "ชา สัก ถ้วย ไหฺม",
+            "thaiSentence": "ชาสักถ้วยไหม",
+            "thaiSentenceSpaced": " ชา สัก ถ้วย ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tea"
+                        },
+                        {
+                            "meaning": "[to] numb ; senseless"
+                        }
+                    ],
+                    "phonetic": "ชา",
+                    "word": "ชา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "just ; about ; around <i>(often implying \"as little as...\")</i>"
+                        }
+                    ],
+                    "phonetic": "สัก",
+                    "word": "สัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "cup ; bowl"
+                        }
+                    ],
+                    "phonetic": "ถ้วย",
+                    "word": "ถ้วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Here . Try this tea.",
+            "id": 251181,
+            "phonetic": "นี่ คะ · ลอง ชิม ชา นี่ ดู สิ คะ",
+            "thaiSentence": "นี่คะ ลองชิมชานี่ดูสิคะ",
+            "thaiSentenceSpaced": " นี่ คะ  ·  ลอง ชิม ชา นี่ ดู สิ คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] try ; sample"
+                        }
+                    ],
+                    "phonetic": "ลอง",
+                    "word": "ลอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] taste ; savour ; savor"
+                        }
+                    ],
+                    "phonetic": "ชิม",
+                    "word": "ชิม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tea"
+                        },
+                        {
+                            "meaning": "[to] numb ; senseless"
+                        }
+                    ],
+                    "phonetic": "ชา",
+                    "word": "ชา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] appear ; seem"
+                        },
+                        {
+                            "meaning": "[to] watch ; look ; see"
+                        }
+                    ],
+                    "phonetic": "ดู",
+                    "word": "ดู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Coffee or tea ?",
+            "id": 261293,
+            "phonetic": "กา-แฟ หฺรือ ชา ดี ล่ะ",
+            "thaiSentence": "กาแฟหรือชาดีล่ะ",
+            "thaiSentenceSpaced": " กาแฟ หรือ ชา ดี ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "coffee"
+                        }
+                    ],
+                    "phonetic": "กา-แฟ",
+                    "word": "กาแฟ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        },
+                        {
+                            "meaning": "or"
+                        }
+                    ],
+                    "phonetic": "หฺรือ",
+                    "word": "หรือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tea"
+                        },
+                        {
+                            "meaning": "[to] numb ; senseless"
+                        }
+                    ],
+                    "phonetic": "ชา",
+                    "word": "ชา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "The tea smells really nice.",
+            "id": 313939,
+            "phonetic": "ชา ก้อ ดู ท่า ทาง รด ชาด ดี",
+            "thaiSentence": "ชาก็ดูท่าทางรสชาติดี",
+            "thaiSentenceSpaced": " ชา ก็ ดู ท่าทาง รสชาติ ดี ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tea"
+                        },
+                        {
+                            "meaning": "[to] numb ; senseless"
+                        }
+                    ],
+                    "phonetic": "ชา",
+                    "word": "ชา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] seem to be ; be likely to ; seem"
+                        }
+                    ],
+                    "phonetic": "ดู ท่า ทาง",
+                    "word": "ดูท่าทาง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "taste ; flavour ; savour"
+                        }
+                    ],
+                    "phonetic": "รด ชาด",
+                    "word": "รสชาติ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 5393,
+        "exampleSentences": [
+            {
+                "engSentence": "Let's have some tea.",
+                "id": 43128,
+                "thaiSentence": "ขอชาหน่อย",
+                "thaiSentenceSpaced": " ขอ ชา หน่อย "
+            },
+            {
+                "engSentence": "Can I have tea ?",
+                "id": 87797,
+                "thaiSentence": "ขอชาได้ไหมคะ",
+                "thaiSentenceSpaced": " ขอ ชา ได้ ไหม คะ "
+            },
+            {
+                "engSentence": "Would you like to have tea ?",
+                "id": 103393,
+                "thaiSentence": "ชาสักถ้วยไหม",
+                "thaiSentenceSpaced": " ชา สัก ถ้วย ไหม "
+            },
+            {
+                "engSentence": "Here . Try this tea.",
+                "id": 251181,
+                "thaiSentence": "นี่คะ ลองชิมชานี่ดูสิคะ",
+                "thaiSentenceSpaced": " นี่ คะ  &middot;  ลอง ชิม ชา นี่ ดู สิ คะ "
+            },
+            {
+                "engSentence": "Coffee or tea ?",
+                "id": 261293,
+                "thaiSentence": "กาแฟหรือชาดีล่ะ",
+                "thaiSentenceSpaced": " กาแฟ หรือ ชา ดี ล่ะ "
+            },
+            {
+                "engSentence": "The tea smells really nice.",
+                "id": 313939,
+                "thaiSentence": "ชาก็ดูท่าทางรสชาติดี",
+                "thaiSentenceSpaced": " ชา ก็ ดู ท่าทาง รสชาติ ดี "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1292339,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] numb",
+                        "word": "numb"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "senseless",
+                        "word": "senseless"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 34699,
+                        "corpusScore": 300,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "either literally or in the sense of being indifferent and unfeeling towards someone",
+                        "hasSoundFile": false,
+                        "id": 384132,
+                        "legacyWordId": 1388557,
+                        "meaning": "[to be] cold",
+                        "parentId": 384132,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "เย็น ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เย็นชา"
+                    },
+                    {
+                        "childId": 34699,
+                        "corpusScore": 96,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 191328,
+                        "legacyWordId": 1387963,
+                        "meaning": "local anaesthetic",
+                        "parentId": 191328,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ยา ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยาชา"
+                    },
+                    {
+                        "childId": 34699,
+                        "corpusScore": 72,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19100,
+                        "legacyWordId": 1408418,
+                        "meaning": "light brown",
+                        "parentId": 19100,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "สี ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สีชา"
+                    },
+                    {
+                        "childId": 34699,
+                        "corpusScore": 50,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12676,
+                        "legacyWordId": 1291426,
+                        "meaning": "[to] be inactive ; be slow ; be inert",
+                        "parentId": 12676,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เฉื่อย ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เฉื่อยชา"
+                    },
+                    {
+                        "childId": 34699,
+                        "corpusScore": 47,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25398,
+                        "legacyWordId": 1396496,
+                        "meaning": "[to] be well-known ; be celebrated ; be renowned",
+                        "parentId": 25398,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ลือ ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลือชา"
+                    },
+                    {
+                        "childId": 34699,
+                        "corpusScore": 47,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11943,
+                        "legacyWordId": 1292964,
+                        "meaning": "[to] be apathetic ; be indifferent ; be unconcerned",
+                        "parentId": 11943,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชิน ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชินชา"
+                    },
+                    {
+                        "childId": 34699,
+                        "corpusScore": 33,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 779,
+                        "legacyWordId": 1291350,
+                        "meaning": "[to be] indifferent ; cold ; still",
+                        "parentId": 779,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "เฉย ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เฉยชา"
+                    },
+                    {
+                        "childId": 34699,
+                        "corpusScore": 20,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18587,
+                        "legacyWordId": 1393926,
+                        "meaning": "beriberi",
+                        "parentId": 18587,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรก เหฺน็บ ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรคเหน็บชา"
+                    },
+                    {
+                        "childId": 34699,
+                        "corpusScore": 17,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34449,
+                        "legacyWordId": 1292552,
+                        "meaning": "[to] be used to ; be familiar with",
+                        "parentId": 34449,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชา ชิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชาชิน"
+                    },
+                    {
+                        "childId": 34699,
+                        "corpusScore": 14,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29160,
+                        "legacyWordId": 1307233,
+                        "meaning": "[to] be insensitive ; be unfeeling ; be apathetic",
+                        "parentId": 29160,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ด้าน ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ด้านชา"
+                    },
+                    {
+                        "childId": 34699,
+                        "corpusScore": 7,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39614,
+                        "legacyWordId": 1384660,
+                        "meaning": "[to] be cool ; be indifferent ; be negligent",
+                        "parentId": 39614,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มึน ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มึนชา"
+                    },
+                    {
+                        "childId": 34699,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40434,
+                        "legacyWordId": 1371730,
+                        "meaning": "icy ; cold ; chilly",
+                        "parentId": 40434,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ปึ่ง ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปึ่งชา"
+                    },
+                    {
+                        "childId": 34699,
+                        "corpusScore": 0,
+                        "displayOrder": 4,
+                        "etymology": "",
+                        "explanation": "The name of a village in Rayong province",
+                        "hasSoundFile": false,
+                        "id": 611404,
+                        "legacyWordId": 1293248,
+                        "meaning": "Chum Chon Krok Yai Cha",
+                        "parentId": 611404,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม ชน กฺรอก ยาย ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนกรอกยายชา"
+                    },
+                    {
+                        "childId": 34699,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": "The name of a village in Chon Buri province",
+                        "hasSoundFile": false,
+                        "id": 610493,
+                        "legacyWordId": 1293302,
+                        "meaning": "Chum Chon Cha Kok Ro",
+                        "parentId": 610493,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม-ชน-ชาก-คฺร้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนชากคร้อ"
+                    },
+                    {
+                        "childId": 34699,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1921,
+                        "legacyWordId": 1369623,
+                        "meaning": "nearly-dead fish ; dying fish",
+                        "parentId": 1921,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลา ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลาชา"
+                    }
+                ],
+                "explanation": null,
+                "id": 34699,
+                "isUncommon": false,
+                "meaning": "[to] numb ; senseless",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ชา"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "tea",
+                        "word": "tea"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 12201,
+                        "corpusScore": 730,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34441,
+                        "legacyWordId": 1367261,
+                        "meaning": "tea leaf ; tea leaves",
+                        "parentId": 34441,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไบ ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใบชา"
+                    },
+                    {
+                        "childId": 12201,
+                        "corpusScore": 697,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13583,
+                        "legacyWordId": 1329544,
+                        "meaning": "tea",
+                        "parentId": 13583,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้าม ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น้ำชา"
+                    },
+                    {
+                        "childId": 12201,
+                        "corpusScore": 233,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8636,
+                        "legacyWordId": 1268100,
+                        "meaning": "tea making",
+                        "parentId": 8636,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ชง ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การชงชา"
+                    },
+                    {
+                        "childId": 12201,
+                        "corpusScore": 168,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9917,
+                        "legacyWordId": 1291923,
+                        "meaning": "teaspoon",
+                        "parentId": 9917,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ช้อน ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ช้อนชา"
+                    },
+                    {
+                        "childId": 12201,
+                        "corpusScore": 67,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4039,
+                        "legacyWordId": 1292729,
+                        "meaning": "iced tea",
+                        "parentId": 4039,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชา เย็น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชาเย็น"
+                    },
+                    {
+                        "childId": 12201,
+                        "corpusScore": 47,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4978,
+                        "legacyWordId": 1292749,
+                        "meaning": "hot tea",
+                        "parentId": 4978,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชา ร้อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชาร้อน"
+                    },
+                    {
+                        "childId": 12201,
+                        "corpusScore": 4,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14343,
+                        "legacyWordId": 1329831,
+                        "meaning": "bribe ; graft",
+                        "parentId": 14343,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้าม ร้อน น้าม ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น้ำร้อนน้ำชา"
+                    },
+                    {
+                        "childId": 12201,
+                        "corpusScore": 3,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16234,
+                        "legacyWordId": 1319550,
+                        "meaning": "tea-caddy ; tea canister",
+                        "parentId": 16234,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ถ้ำ ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถ้ำชา"
+                    },
+                    {
+                        "childId": 12201,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13587,
+                        "legacyWordId": 1308024,
+                        "meaning": "officer ; errand boy",
+                        "parentId": 13587,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กชา"
+                    }
+                ],
+                "explanation": null,
+                "id": 12201,
+                "isUncommon": false,
+                "meaning": "tea",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ชา"
+            }
+        ],
+        "t2e": "ชา",
+        "verified": null,
+        "word": "ชา"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

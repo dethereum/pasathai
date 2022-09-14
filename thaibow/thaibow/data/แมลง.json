@@ -1,0 +1,473 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Bugs don't have ears.",
+            "id": 53796,
+            "phonetic": "มะ-แลง ไม่ มี หู",
+            "thaiSentence": "แมลงไม่มีหู",
+            "thaiSentenceSpaced": " แมลง ไม่มี หู ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "insect ; bug ; beetle"
+                        }
+                    ],
+                    "phonetic": "มะ-แลง",
+                    "word": "แมลง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] don't have ; there isn't"
+                        }
+                    ],
+                    "phonetic": "ไม่ มี",
+                    "word": "ไม่มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "ear"
+                        }
+                    ],
+                    "phonetic": "หู",
+                    "word": "หู"
+                }
+            ]
+        },
+        {
+            "engSentence": "I want to see that bug.",
+            "id": 234472,
+            "phonetic": "ฉัน หฺยาก เห็น มะ-แลง",
+            "thaiSentence": "ฉันอยากเห็นแมลง",
+            "thaiSentenceSpaced": " ฉัน อยาก เห็น แมลง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want to"
+                        }
+                    ],
+                    "phonetic": "หฺยาก",
+                    "word": "อยาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] see"
+                        }
+                    ],
+                    "phonetic": "เห็น",
+                    "word": "เห็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "insect ; bug ; beetle"
+                        }
+                    ],
+                    "phonetic": "มะ-แลง",
+                    "word": "แมลง"
+                }
+            ]
+        },
+        {
+            "engSentence": "There's no bugs, right ?",
+            "id": 367300,
+            "phonetic": "ไม่ มี มะ-แลง หฺยู่ ไน นี้ · ไช่ ไหฺม",
+            "thaiSentence": "ไม่มีแมลงอยู่ในนี้ ใช่ไหม",
+            "thaiSentenceSpaced": " ไม่มี แมลง อยู่ ใน นี้  ·  ใช่ ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] don't have ; there isn't"
+                        }
+                    ],
+                    "phonetic": "ไม่ มี",
+                    "word": "ไม่มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "insect ; bug ; beetle"
+                        }
+                    ],
+                    "phonetic": "มะ-แลง",
+                    "word": "แมลง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "this"
+                        }
+                    ],
+                    "phonetic": "นี้",
+                    "word": "นี้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "right ? ; is that right? ; is that true? <i>(question particle used when seeking confirmation of something thought to be true)</i>"
+                        }
+                    ],
+                    "phonetic": "ไช่ ไหฺม",
+                    "word": "ใช่ไหม"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 4989,
+        "exampleSentences": [
+            {
+                "engSentence": "Bugs don't have ears.",
+                "id": 53796,
+                "thaiSentence": "แมลงไม่มีหู",
+                "thaiSentenceSpaced": " แมลง ไม่มี หู "
+            },
+            {
+                "engSentence": "I want to see that bug.",
+                "id": 234472,
+                "thaiSentence": "ฉันอยากเห็นแมลง",
+                "thaiSentenceSpaced": " ฉัน อยาก เห็น แมลง "
+            },
+            {
+                "engSentence": "There's no bugs, right ?",
+                "id": 367300,
+                "thaiSentence": "ไม่มีแมลงอยู่ในนี้ ใช่ไหม",
+                "thaiSentenceSpaced": " ไม่มี แมลง อยู่ ใน นี้  &middot;  ใช่ ไหม "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1386251,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "insect",
+                        "word": "insect"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "bug",
+                        "word": "bug"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "beetle",
+                        "word": "beetle"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 25843,
+                        "corpusScore": 341,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33689,
+                        "legacyWordId": 1386258,
+                        "meaning": "fly ; housefly",
+                        "parentId": 33689,
+                        "partOfSpeech": "Noun",
+                        "t2e": "มะ-แลง วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แมลงวัน"
+                    },
+                    {
+                        "childId": 25843,
+                        "corpusScore": 177,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6954,
+                        "legacyWordId": 1386261,
+                        "meaning": "cockroach",
+                        "parentId": 6954,
+                        "partOfSpeech": "Noun",
+                        "t2e": "มะ-แลง สาบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แมลงสาบ"
+                    },
+                    {
+                        "childId": 25843,
+                        "corpusScore": 165,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394436,
+                        "legacyWordId": 1386256,
+                        "meaning": "bee",
+                        "parentId": 394436,
+                        "partOfSpeech": "Noun",
+                        "t2e": "มะ-แลง พู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แมลงภู่"
+                    },
+                    {
+                        "childId": 25843,
+                        "corpusScore": 155,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28948,
+                        "legacyWordId": 1387742,
+                        "meaning": "insecticide",
+                        "parentId": 28948,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ยา ค่า มะ-แลง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยาฆ่าแมลง"
+                    },
+                    {
+                        "childId": 25843,
+                        "corpusScore": 115,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33932,
+                        "legacyWordId": 1386254,
+                        "meaning": "dragonfly",
+                        "parentId": 33932,
+                        "partOfSpeech": "Noun",
+                        "t2e": "มะ-แลง ปอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แมลงปอ"
+                    },
+                    {
+                        "childId": 25843,
+                        "corpusScore": 39,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398077,
+                        "legacyWordId": 1310899,
+                        "meaning": "insect ; bug ; beetle",
+                        "parentId": 398077,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตัว มะ-แลง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตัวแมลง"
+                    },
+                    {
+                        "childId": 25843,
+                        "corpusScore": 16,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402214,
+                        "legacyWordId": 1386257,
+                        "meaning": "tussock moth",
+                        "parentId": 402214,
+                        "partOfSpeech": "Noun",
+                        "t2e": "มะ-แลง เม่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แมลงเม่า"
+                    },
+                    {
+                        "childId": 25843,
+                        "corpusScore": 15,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26401,
+                        "legacyWordId": 1386262,
+                        "meaning": "fruit fly",
+                        "parentId": 26401,
+                        "partOfSpeech": "Noun",
+                        "t2e": "มะ-แลง-หฺวี่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แมลงหวี่"
+                    },
+                    {
+                        "childId": 25843,
+                        "corpusScore": 9,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399905,
+                        "legacyWordId": 1387705,
+                        "meaning": "insecticide",
+                        "parentId": 399905,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ยา กำ-จัด มะ-แลง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยากำจัดแมลง"
+                    },
+                    {
+                        "childId": 25843,
+                        "corpusScore": 1,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394435,
+                        "legacyWordId": 1386255,
+                        "meaning": "bee",
+                        "parentId": 394435,
+                        "partOfSpeech": "Noun",
+                        "t2e": "มะ-แลง พึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แมลงผึ้ง"
+                    },
+                    {
+                        "childId": 25843,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402213,
+                        "legacyWordId": 1386252,
+                        "meaning": "king crab ; horseshoe crab",
+                        "parentId": 402213,
+                        "partOfSpeech": "Noun",
+                        "t2e": "มะ-แลง-ดา-ทะ-เล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แมลงดาทะเล"
+                    },
+                    {
+                        "childId": 25843,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 424115,
+                        "legacyWordId": 1393320,
+                        "meaning": "lygophobia",
+                        "parentId": 424115,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรก กฺลัว มะ-แลง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรคกลัวแมลง"
+                    },
+                    {
+                        "childId": 25843,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 598051,
+                        "legacyWordId": 1386260,
+                        "meaning": "economic entomology",
+                        "parentId": 598051,
+                        "partOfSpeech": "Noun",
+                        "t2e": "มะ-แลง สัด-ตฺรู สำ-คัน ทาง เสด-ถะ-กิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แมลงศัตรูสำคัญทางเศรษฐกิจ"
+                    },
+                    {
+                        "childId": 25843,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394850,
+                        "legacyWordId": 1407380,
+                        "meaning": "DDT",
+                        "parentId": 394850,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สาน ค่า มะ-แลง ดี ดี ที",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สารฆ่าแมลงดีดีที"
+                    }
+                ],
+                "explanation": null,
+                "id": 25843,
+                "isUncommon": false,
+                "meaning": "insect ; bug ; beetle",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "แมลง"
+            }
+        ],
+        "t2e": "มะ-แลง",
+        "verified": "มะ-แลง",
+        "word": "แมลง"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

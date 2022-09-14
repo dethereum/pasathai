@@ -1,0 +1,598 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "It is fun.",
+            "id": 5668,
+            "phonetic": "มัน สะ-หฺนุก ออก",
+            "thaiSentence": "มันสนุกออก",
+            "thaiSentenceSpaced": " มัน สนุก ออก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] fun ; enjoyable"
+                        }
+                    ],
+                    "phonetic": "สะ-หฺนุก",
+                    "word": "สนุก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "out ; out of"
+                        },
+                        {
+                            "meaning": "[to] issue ; produce ; reveal"
+                        },
+                        {
+                            "meaning": "[to] leave ; exit ; go out"
+                        }
+                    ],
+                    "phonetic": "ออก",
+                    "word": "ออก"
+                }
+            ]
+        },
+        {
+            "engSentence": "I hope you enjoy it.",
+            "id": 24244,
+            "phonetic": "หฺวัง ว่า จะ สะ-หฺนุก นะ",
+            "thaiSentence": "หวังว่าจะสนุกนะ",
+            "thaiSentenceSpaced": " หวังว่า จะ สนุก นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] hope that"
+                        }
+                    ],
+                    "phonetic": "หฺวัง ว่า",
+                    "word": "หวังว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] fun ; enjoyable"
+                        }
+                    ],
+                    "phonetic": "สะ-หฺนุก",
+                    "word": "สนุก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Have fun with your teacher.",
+            "id": 24408,
+            "phonetic": "ขอ ไห้ สะ-หฺนุก กับ คฺรู ของ คุน นะ",
+            "thaiSentence": "ขอให้สนุกกับครูของคุณนะ",
+            "thaiSentenceSpaced": " ขอให้ สนุก กับ ครู ของคุณ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] request ; beg ; ask"
+                        }
+                    ],
+                    "phonetic": "ขอ ไห้",
+                    "word": "ขอให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] fun ; enjoyable"
+                        }
+                    ],
+                    "phonetic": "สะ-หฺนุก",
+                    "word": "สนุก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "with ; together with"
+                        }
+                    ],
+                    "phonetic": "กับ",
+                    "word": "กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "teacher ; instructor ; school teacher"
+                        }
+                    ],
+                    "phonetic": "คฺรู",
+                    "word": "ครู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "your ; of you"
+                        }
+                    ],
+                    "phonetic": "ของ คุน",
+                    "word": "ของคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Are you enjoying the movie ?",
+            "id": 25852,
+            "phonetic": "ดู หฺนัง สะ-หฺนุก หฺรือ เปฺล่า",
+            "thaiSentence": "ดูหนังสนุกหรือเปล่า",
+            "thaiSentenceSpaced": " ดู หนัง สนุก หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] appear ; seem"
+                        },
+                        {
+                            "meaning": "[to] watch ; look ; see"
+                        }
+                    ],
+                    "phonetic": "ดู",
+                    "word": "ดู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "movie ; film"
+                        }
+                    ],
+                    "phonetic": "หฺนัง",
+                    "word": "หนัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] fun ; enjoyable"
+                        }
+                    ],
+                    "phonetic": "สะ-หฺนุก",
+                    "word": "สนุก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "I hope you enjoy it.",
+            "id": 30602,
+            "phonetic": "หฺวัง ว่า คง จะ สะ-หฺนุก นะ",
+            "thaiSentence": "หวังว่าคงจะสนุกนะ",
+            "thaiSentenceSpaced": " หวังว่า คงจะ สนุก นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] hope that"
+                        }
+                    ],
+                    "phonetic": "หฺวัง ว่า",
+                    "word": "หวังว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "may ; might ; perhaps ; possibly ; maybe"
+                        }
+                    ],
+                    "phonetic": "คง จะ",
+                    "word": "คงจะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] fun ; enjoyable"
+                        }
+                    ],
+                    "phonetic": "สะ-หฺนุก",
+                    "word": "สนุก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Have fun with your teacher.",
+            "id": 30734,
+            "phonetic": "ขอ ไห้ สะ-หฺนุก กับ คุน คฺรู นะ",
+            "thaiSentence": "ขอให้สนุกกับคุณครูนะ",
+            "thaiSentenceSpaced": " ขอให้ สนุก กับ คุณครู นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] request ; beg ; ask"
+                        }
+                    ],
+                    "phonetic": "ขอ ไห้",
+                    "word": "ขอให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] fun ; enjoyable"
+                        }
+                    ],
+                    "phonetic": "สะ-หฺนุก",
+                    "word": "สนุก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "with ; together with"
+                        }
+                    ],
+                    "phonetic": "กับ",
+                    "word": "กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "teacher ; instructor ; professor"
+                        }
+                    ],
+                    "phonetic": "คุน คฺรู",
+                    "word": "คุณครู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 9532,
+        "exampleSentences": [
+            {
+                "engSentence": "It is fun.",
+                "id": 5668,
+                "thaiSentence": "มันสนุกออก",
+                "thaiSentenceSpaced": " มัน สนุก ออก "
+            },
+            {
+                "engSentence": "I hope you enjoy it.",
+                "id": 24244,
+                "thaiSentence": "หวังว่าจะสนุกนะ",
+                "thaiSentenceSpaced": " หวังว่า จะ สนุก นะ "
+            },
+            {
+                "engSentence": "Have fun with your teacher.",
+                "id": 24408,
+                "thaiSentence": "ขอให้สนุกกับครูของคุณนะ",
+                "thaiSentenceSpaced": " ขอให้ สนุก กับ ครู ของคุณ นะ "
+            },
+            {
+                "engSentence": "Are you enjoying the movie ?",
+                "id": 25852,
+                "thaiSentence": "ดูหนังสนุกหรือเปล่า",
+                "thaiSentenceSpaced": " ดู หนัง สนุก หรือเปล่า "
+            },
+            {
+                "engSentence": "I hope you enjoy it.",
+                "id": 30602,
+                "thaiSentence": "หวังว่าคงจะสนุกนะ",
+                "thaiSentenceSpaced": " หวังว่า คงจะ สนุก นะ "
+            },
+            {
+                "engSentence": "Have fun with your teacher.",
+                "id": 30734,
+                "thaiSentence": "ขอให้สนุกกับคุณครูนะ",
+                "thaiSentenceSpaced": " ขอให้ สนุก กับ คุณครู นะ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1402855,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] fun",
+                        "word": "fun"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "enjoyable",
+                        "word": "enjoyable"
+                    }
+                ],
+                "etymology": "Khmer",
+                "examples": [
+                    {
+                        "childId": 26700,
+                        "corpusScore": 2116,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1452,
+                        "legacyWordId": 1402858,
+                        "meaning": "cheerfully ; joyfully ; hilariously",
+                        "parentId": 1452,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "สะ-หฺนุก-สะ-หฺนาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สนุกสนาน"
+                    },
+                    {
+                        "childId": 26700,
+                        "corpusScore": 930,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8516,
+                        "legacyWordId": 1282703,
+                        "meaning": "amusement ; pleasure",
+                        "parentId": 8516,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม สะ-หฺนุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความสนุก"
+                    },
+                    {
+                        "childId": 26700,
+                        "corpusScore": 599,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 390044,
+                        "legacyWordId": 1402856,
+                        "meaning": "[to be] fun ; enjoyable",
+                        "parentId": 390044,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "สะ-หฺนุก ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สนุกดี"
+                    },
+                    {
+                        "childId": 26700,
+                        "corpusScore": 331,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24727,
+                        "legacyWordId": 1452173,
+                        "meaning": "joyfully ; merrily ; cheerfully",
+                        "parentId": 24727,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺย่าง สะ-หฺนุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อย่างสนุก"
+                    },
+                    {
+                        "childId": 26700,
+                        "corpusScore": 266,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19439,
+                        "legacyWordId": 1404882,
+                        "meaning": "amusement park",
+                        "parentId": 19439,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สวน สะ-หฺนุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สวนสนุก"
+                    },
+                    {
+                        "childId": 26700,
+                        "corpusScore": 236,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 661,
+                        "legacyWordId": 1329120,
+                        "meaning": "[to be] fun ; enjoyable",
+                        "parentId": 661,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "น่า สะ-หฺนุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น่าสนุก"
+                    },
+                    {
+                        "childId": 26700,
+                        "corpusScore": 168,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401812,
+                        "legacyWordId": 1393058,
+                        "meaning": "entertainment ; amusement ; leisure activity",
+                        "parentId": 401812,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เรื่อง สะ-หฺนุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรื่องสนุก"
+                    },
+                    {
+                        "childId": 26700,
+                        "corpusScore": 37,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27438,
+                        "legacyWordId": 1414101,
+                        "meaning": "[to] have no fun",
+                        "parentId": 27438,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺมด สะ-หฺนุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หมดสนุก"
+                    },
+                    {
+                        "childId": 26700,
+                        "corpusScore": 24,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21896,
+                        "legacyWordId": 1402857,
+                        "meaning": "entertainingly ; amusingly ; pleasantly",
+                        "parentId": 21896,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "สะ-หฺนุก ปาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สนุกปาก"
+                    },
+                    {
+                        "childId": 26700,
+                        "corpusScore": 10,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396547,
+                        "legacyWordId": 1270991,
+                        "meaning": "athletics ; track and field sports",
+                        "parentId": 396547,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน เล่น สะ-หฺนุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การเล่นสนุก"
+                    },
+                    {
+                        "childId": 26700,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24599,
+                        "legacyWordId": 1278993,
+                        "meaning": "pleasure-loving people ; fun-loving person",
+                        "parentId": 24599,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน รัก สะ-หฺนุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนรักสนุก"
+                    }
+                ],
+                "explanation": null,
+                "id": 26700,
+                "isUncommon": false,
+                "meaning": "[to be] fun ; enjoyable",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "สนุก"
+            }
+        ],
+        "t2e": "สะ-หฺนุก",
+        "verified": "สะ-หฺนุก",
+        "word": "สนุก"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

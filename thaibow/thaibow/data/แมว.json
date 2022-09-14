@@ -1,0 +1,658 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Can cats talk ?",
+            "id": 12077,
+            "phonetic": "แมว พูด ด้าย ไหฺม คะ",
+            "thaiSentence": "แมวพูดได้ไหมคะ",
+            "thaiSentenceSpaced": " แมว พูด ได้ ไหม คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "cat"
+                        }
+                    ],
+                    "phonetic": "แมว",
+                    "word": "แมว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] talk ; say ; speak"
+                        }
+                    ],
+                    "phonetic": "พูด",
+                    "word": "พูด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Cats are good.",
+            "id": 110258,
+            "phonetic": "แมว ก้อ ดี",
+            "thaiSentence": "แมวก็ดี",
+            "thaiSentenceSpaced": " แมว ก็ดี ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "cat"
+                        }
+                    ],
+                    "phonetic": "แมว",
+                    "word": "แมว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be quite good ; be not bad"
+                        }
+                    ],
+                    "phonetic": "ก้อ ดี",
+                    "word": "ก็ดี"
+                }
+            ]
+        },
+        {
+            "engSentence": "Be careful with that cat.",
+            "id": 110267,
+            "phonetic": "ระ-วัง แมว หฺน่อย ล่ะ",
+            "thaiSentence": "ระวังแมวหน่อยล่ะ",
+            "thaiSentenceSpaced": " ระวัง แมว หน่อย ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be careful ; watch out for ; be cautious"
+                        }
+                    ],
+                    "phonetic": "ระ-วัง",
+                    "word": "ระวัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "cat"
+                        }
+                    ],
+                    "phonetic": "แมว",
+                    "word": "แมว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle added to soften a request or command)</i>"
+                        },
+                        {
+                            "meaning": "a little ; a little bit"
+                        }
+                    ],
+                    "phonetic": "หฺน่อย",
+                    "word": "หน่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What kind of cat are you ?",
+            "id": 144754,
+            "phonetic": "คุน เป็น แมว พัน ไหฺน",
+            "thaiSentence": "คุณเป็นแมวพันธุ์ไหน",
+            "thaiSentenceSpaced": " คุณ เป็น แมว พันธุ์ ไหน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "cat"
+                        }
+                    ],
+                    "phonetic": "แมว",
+                    "word": "แมว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "species ; lineage ; breed"
+                        }
+                    ],
+                    "phonetic": "พัน",
+                    "word": "พันธุ์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whichever one"
+                        },
+                        {
+                            "meaning": "which"
+                        },
+                        {
+                            "meaning": "where ; which place <i>(a shortened form of ที่ไหน)</i>"
+                        },
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        }
+                    ],
+                    "phonetic": "ไหฺน",
+                    "word": "ไหน"
+                }
+            ]
+        },
+        {
+            "engSentence": "One is a cat's eye.",
+            "id": 251948,
+            "phonetic": "หฺนึ่ง คือ · ดวง ตา-ขอ ง แมว",
+            "thaiSentence": "หนึ่งคือ ดวงตาของแมว",
+            "thaiSentenceSpaced": " หนึ่ง คือ  ·  ดวง ตาขอ ง แมว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "หฺนึ่ง",
+                    "word": "หนึ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be"
+                        }
+                    ],
+                    "phonetic": "คือ",
+                    "word": "คือ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "disc ; sphere ; circle <i>(ดวง is the classifier for planets, stars, postage stamps, lights and hearts.)</i>"
+                        },
+                        {
+                            "meaning": "fate ; destiny"
+                        }
+                    ],
+                    "phonetic": "ดวง",
+                    "word": "ดวง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hook ; long-handled hook ; gaff"
+                        }
+                    ],
+                    "phonetic": "ตา-ขอ",
+                    "word": "ตาขอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "ngor ngoo <i>(ง - the seventh letter of the Thai alphabet)</i>"
+                        }
+                    ],
+                    "phonetic": "ง",
+                    "word": "ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "cat"
+                        }
+                    ],
+                    "phonetic": "แมว",
+                    "word": "แมว"
+                }
+            ]
+        },
+        {
+            "engSentence": "Be afraid of cats, right ?",
+            "id": 512703,
+            "phonetic": "กฺลัว แมว หฺรอก นะ · ไช่ ไหฺม",
+            "thaiSentence": "กลัวแมวหรอกนะ ใช่ไหม",
+            "thaiSentenceSpaced": " กลัว แมว หรอก นะ  ·  ใช่ ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be scared ; fear"
+                        }
+                    ],
+                    "phonetic": "กฺลัว",
+                    "word": "กลัว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "cat"
+                        }
+                    ],
+                    "phonetic": "แมว",
+                    "word": "แมว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in the negative when making a contradiction)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺรอก",
+                    "word": "หรอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "right ? ; is that right? ; is that true? <i>(question particle used when seeking confirmation of something thought to be true)</i>"
+                        }
+                    ],
+                    "phonetic": "ไช่ ไหฺม",
+                    "word": "ใช่ไหม"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 3716,
+        "exampleSentences": [
+            {
+                "engSentence": "Can cats talk ?",
+                "id": 12077,
+                "thaiSentence": "แมวพูดได้ไหมคะ",
+                "thaiSentenceSpaced": " แมว พูด ได้ ไหม คะ "
+            },
+            {
+                "engSentence": "Cats are good.",
+                "id": 110258,
+                "thaiSentence": "แมวก็ดี",
+                "thaiSentenceSpaced": " แมว ก็ดี "
+            },
+            {
+                "engSentence": "Be careful with that cat.",
+                "id": 110267,
+                "thaiSentence": "ระวังแมวหน่อยล่ะ",
+                "thaiSentenceSpaced": " ระวัง แมว หน่อย ล่ะ "
+            },
+            {
+                "engSentence": "What kind of cat are you ?",
+                "id": 144754,
+                "thaiSentence": "คุณเป็นแมวพันธุ์ไหน",
+                "thaiSentenceSpaced": " คุณ เป็น แมว พันธุ์ ไหน "
+            },
+            {
+                "engSentence": "One is a cat's eye.",
+                "id": 251948,
+                "thaiSentence": "หนึ่งคือ ดวงตาของแมว",
+                "thaiSentenceSpaced": " หนึ่ง คือ  &middot;  ดวง ตาขอ ง แมว "
+            },
+            {
+                "engSentence": "Be afraid of cats, right ?",
+                "id": 512703,
+                "thaiSentence": "กลัวแมวหรอกนะ ใช่ไหม",
+                "thaiSentenceSpaced": " กลัว แมว หรอก นะ  &middot;  ใช่ ไหม "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1386317,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "cat",
+                        "word": "cat"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 6374,
+                        "corpusScore": 166,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31121,
+                        "legacyWordId": 1286151,
+                        "meaning": "owl",
+                        "parentId": 31121,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เค้า แมว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เค้าแมว"
+                    },
+                    {
+                        "childId": 6374,
+                        "corpusScore": 76,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33899,
+                        "legacyWordId": 1386324,
+                        "meaning": "seal",
+                        "parentId": 33899,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แมว น้าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แมวน้ำ"
+                    },
+                    {
+                        "childId": 6374,
+                        "corpusScore": 72,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4936,
+                        "legacyWordId": 1386326,
+                        "meaning": "scout ; sentinel",
+                        "parentId": 4936,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แมว มอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แมวมอง"
+                    },
+                    {
+                        "childId": 6374,
+                        "corpusScore": 72,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6951,
+                        "legacyWordId": 1386326,
+                        "meaning": "spy",
+                        "parentId": 6951,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แมว มอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แมวมอง"
+                    },
+                    {
+                        "childId": 6374,
+                        "corpusScore": 39,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8821,
+                        "legacyWordId": 1274903,
+                        "meaning": "flaw ; imperfection",
+                        "parentId": 8821,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ขน แมว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขนแมว"
+                    },
+                    {
+                        "childId": 6374,
+                        "corpusScore": 35,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47068,
+                        "legacyWordId": 1311371,
+                        "meaning": "cat's eye",
+                        "parentId": 47068,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตา แมว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตาแมว"
+                    },
+                    {
+                        "childId": 6374,
+                        "corpusScore": 30,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6938,
+                        "legacyWordId": 1386325,
+                        "meaning": "wild cat ; jungle cat",
+                        "parentId": 6938,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แมว ป่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แมวป่า"
+                    },
+                    {
+                        "childId": 6374,
+                        "corpusScore": 5,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399972,
+                        "legacyWordId": 1387525,
+                        "meaning": "[to] deceive ; hoodwink ; cheat",
+                        "parentId": 399972,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ย้อม แมว ขาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ย้อมแมวขาย"
+                    },
+                    {
+                        "childId": 6374,
+                        "corpusScore": 4,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "snake",
+                        "hasSoundFile": false,
+                        "id": 102848,
+                        "legacyWordId": 1287739,
+                        "meaning": "Russell's Viper",
+                        "parentId": 102848,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งู แมว เซา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งูแมวเซา"
+                    },
+                    {
+                        "childId": 6374,
+                        "corpusScore": 4,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 422938,
+                        "legacyWordId": 1386323,
+                        "meaning": "leopard cat",
+                        "parentId": 422938,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แมว ดาว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แมวดาว"
+                    },
+                    {
+                        "childId": 6374,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 424089,
+                        "legacyWordId": 1393765,
+                        "meaning": "cat scratch disease",
+                        "parentId": 424089,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรก แมว ข่วน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรคแมวข่วน"
+                    },
+                    {
+                        "childId": 6374,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402215,
+                        "legacyWordId": 1386321,
+                        "meaning": "occasion ; opportunity ; chance",
+                        "parentId": 402215,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แมว คฺราว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แมวคราว"
+                    },
+                    {
+                        "childId": 6374,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 589716,
+                        "legacyWordId": 1462998,
+                        "meaning": "nung maeo",
+                        "parentId": 589716,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนอง แมว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนองแมว"
+                    }
+                ],
+                "explanation": null,
+                "id": 6374,
+                "isUncommon": false,
+                "meaning": "cat",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "แมว"
+            }
+        ],
+        "t2e": "แมว",
+        "verified": null,
+        "word": "แมว"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

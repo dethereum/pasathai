@@ -1,0 +1,726 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "You have a nice house there.",
+            "id": 3070,
+            "phonetic": "บ้าน คุน สวย นี่",
+            "thaiSentence": "บ้านคุณสวยนี่",
+            "thaiSentenceSpaced": " บ้าน คุณ สวย นี่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "home ; house"
+                        }
+                    ],
+                    "phonetic": "บ้าน",
+                    "word": "บ้าน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] beautiful ; attractive ; pretty"
+                        }
+                    ],
+                    "phonetic": "สวย",
+                    "word": "สวย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                }
+            ]
+        },
+        {
+            "engSentence": "Wow . You look so beautiful.",
+            "id": 3277,
+            "phonetic": "ว้าว · คุน ดู สวย มาก",
+            "thaiSentence": "ว้าว คุณดูสวยมาก",
+            "thaiSentenceSpaced": " ว้าว  ·  คุณ ดู สวย มาก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "wow!"
+                        }
+                    ],
+                    "phonetic": "ว้าว",
+                    "word": "ว้าว"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] appear ; seem"
+                        },
+                        {
+                            "meaning": "[to] watch ; look ; see"
+                        }
+                    ],
+                    "phonetic": "ดู",
+                    "word": "ดู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] beautiful ; attractive ; pretty"
+                        }
+                    ],
+                    "phonetic": "สวย",
+                    "word": "สวย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much ; a lot ; very"
+                        }
+                    ],
+                    "phonetic": "มาก",
+                    "word": "มาก"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is a nice room.",
+            "id": 5731,
+            "phonetic": "ห้อง สวย ดี นะ คะ",
+            "thaiSentence": "ห้องสวยดีนะคะ",
+            "thaiSentenceSpaced": " ห้อง สวย ดี นะ คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "room <i>(ห้อง is also the classifier for rooms.)</i>"
+                        }
+                    ],
+                    "phonetic": "ห้อง",
+                    "word": "ห้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] beautiful ; attractive ; pretty"
+                        }
+                    ],
+                    "phonetic": "สวย",
+                    "word": "สวย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is so nice here.",
+            "id": 1138,
+            "phonetic": "นี่ · สวย จัง เลย",
+            "thaiSentence": "นี่ สวยจังเลย",
+            "thaiSentenceSpaced": " นี่  ·  สวย จังเลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] beautiful ; attractive ; pretty"
+                        }
+                    ],
+                    "phonetic": "สวย",
+                    "word": "สวย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "so much ; extremely ; greatly <i>(จังเลย is more commonly used by female speakers than males.)</i>"
+                        }
+                    ],
+                    "phonetic": "จัง เลย",
+                    "word": "จังเลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "She's so beautiful.",
+            "id": 23386,
+            "phonetic": "เขา สวย มาก",
+            "thaiSentence": "เขาสวยมาก",
+            "thaiSentenceSpaced": " เขา สวย มาก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] beautiful ; attractive ; pretty"
+                        }
+                    ],
+                    "phonetic": "สวย",
+                    "word": "สวย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much ; a lot ; very"
+                        }
+                    ],
+                    "phonetic": "มาก",
+                    "word": "มาก"
+                }
+            ]
+        },
+        {
+            "engSentence": "Is the flower beautiful ?",
+            "id": 25158,
+            "phonetic": "แล้ว ดอก ไม้ มัน สวย ไหฺม ล่ะ",
+            "thaiSentence": "แล้วดอกไม้มันสวยไหมล่ะ",
+            "thaiSentenceSpaced": " แล้ว ดอกไม้ มัน สวย ไหม ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "flower"
+                        }
+                    ],
+                    "phonetic": "ดอก ไม้",
+                    "word": "ดอกไม้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] beautiful ; attractive ; pretty"
+                        }
+                    ],
+                    "phonetic": "สวย",
+                    "word": "สวย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 28384,
+        "exampleSentences": [
+            {
+                "engSentence": "You have a nice house there.",
+                "id": 3070,
+                "thaiSentence": "บ้านคุณสวยนี่",
+                "thaiSentenceSpaced": " บ้าน คุณ สวย นี่ "
+            },
+            {
+                "engSentence": "Wow . You look so beautiful.",
+                "id": 3277,
+                "thaiSentence": "ว้าว คุณดูสวยมาก",
+                "thaiSentenceSpaced": " ว้าว  &middot;  คุณ ดู สวย มาก "
+            },
+            {
+                "engSentence": "It is a nice room.",
+                "id": 5731,
+                "thaiSentence": "ห้องสวยดีนะคะ",
+                "thaiSentenceSpaced": " ห้อง สวย ดี นะ คะ "
+            },
+            {
+                "engSentence": "It is so nice here.",
+                "id": 1138,
+                "thaiSentence": "นี่ สวยจังเลย",
+                "thaiSentenceSpaced": " นี่  &middot;  สวย จังเลย "
+            },
+            {
+                "engSentence": "She's so beautiful.",
+                "id": 23386,
+                "thaiSentence": "เขาสวยมาก",
+                "thaiSentenceSpaced": " เขา สวย มาก "
+            },
+            {
+                "engSentence": "Is the flower beautiful ?",
+                "id": 25158,
+                "thaiSentence": "แล้วดอกไม้มันสวยไหมล่ะ",
+                "thaiSentenceSpaced": " แล้ว ดอกไม้ มัน สวย ไหม ล่ะ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1404963,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] beautiful",
+                        "word": "beautiful"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "attractive",
+                        "word": "attractive"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "pretty",
+                        "word": "pretty"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 44901,
+                        "corpusScore": 11483,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27280,
+                        "legacyWordId": 1404965,
+                        "meaning": "beautiful ; attractive ; charming",
+                        "parentId": 27280,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "สวย งาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สวยงาม"
+                    },
+                    {
+                        "childId": 44901,
+                        "corpusScore": 3608,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44900,
+                        "legacyWordId": 1404980,
+                        "meaning": "[to be] beautiful ; very beautiful",
+                        "parentId": 44900,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "สวย สวย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สวยๆ"
+                    },
+                    {
+                        "childId": 44901,
+                        "corpusScore": 1588,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49582,
+                        "legacyWordId": 1282733,
+                        "meaning": "beauty",
+                        "parentId": 49582,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม สวย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความสวย"
+                    },
+                    {
+                        "childId": 44901,
+                        "corpusScore": 844,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400675,
+                        "legacyWordId": 1407581,
+                        "meaning": "beautiful woman ; pretty woman",
+                        "parentId": 400675,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สาว สวย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สาวสวย"
+                    },
+                    {
+                        "childId": 44901,
+                        "corpusScore": 620,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9638,
+                        "legacyWordId": 1279049,
+                        "meaning": "beauty",
+                        "parentId": 9638,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน สวย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนสวย"
+                    },
+                    {
+                        "childId": 44901,
+                        "corpusScore": 288,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36698,
+                        "legacyWordId": 1404975,
+                        "meaning": "splendidly ; gorgeously ; sumptuously",
+                        "parentId": 36698,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "สวย หฺรู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สวยหรู"
+                    },
+                    {
+                        "childId": 44901,
+                        "corpusScore": 256,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399222,
+                        "legacyWordId": 1374086,
+                        "meaning": "beautiful complexion",
+                        "parentId": 399222,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ผิว สวย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผิวสวย"
+                    },
+                    {
+                        "childId": 44901,
+                        "corpusScore": 174,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19336,
+                        "legacyWordId": 1409636,
+                        "meaning": "[to] beautify ; embellish ; prettify",
+                        "parentId": 19336,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เสิม สวย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เสริมสวย"
+                    },
+                    {
+                        "childId": 44901,
+                        "corpusScore": 173,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28802,
+                        "legacyWordId": 1276366,
+                        "meaning": "cooked rice",
+                        "parentId": 28802,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าว สวย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้าวสวย"
+                    },
+                    {
+                        "childId": 44901,
+                        "corpusScore": 86,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400594,
+                        "legacyWordId": 1404979,
+                        "meaning": "sweet looking ; pretty",
+                        "parentId": 400594,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "สวย หฺวาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สวยหวาน"
+                    },
+                    {
+                        "childId": 44901,
+                        "corpusScore": 34,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24593,
+                        "legacyWordId": 1390668,
+                        "meaning": "take pride in one's appearance",
+                        "parentId": 24593,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "รัก สวย รัก งาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รักสวยรักงาม"
+                    },
+                    {
+                        "childId": 44901,
+                        "corpusScore": 12,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400592,
+                        "legacyWordId": 1404967,
+                        "meaning": "beautiful ; pretty ; good-looking",
+                        "parentId": 400592,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "สวย พฺริ้ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สวยพริ้ง"
+                    },
+                    {
+                        "childId": 44901,
+                        "corpusScore": 12,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400595,
+                        "legacyWordId": 1404969,
+                        "meaning": "[to be] beautiful ; attractive ; alluring",
+                        "parentId": 400595,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "สวย เลิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สวยเลิศ"
+                    },
+                    {
+                        "childId": 44901,
+                        "corpusScore": 5,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400593,
+                        "legacyWordId": 1404973,
+                        "meaning": "[to be] beautiful ; attractive ; alluring",
+                        "parentId": 400593,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "สวย หฺยาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สวยหยาด"
+                    },
+                    {
+                        "childId": 44901,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400596,
+                        "legacyWordId": 1404970,
+                        "meaning": "[to be] beautiful ; attractive ; alluring",
+                        "parentId": 400596,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "สวย เลิด เลอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สวยเลิศเลอ"
+                    },
+                    {
+                        "childId": 44901,
+                        "corpusScore": 1,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45465,
+                        "legacyWordId": 1404974,
+                        "meaning": "[to be] beautiful ; attractive ; alluring",
+                        "parentId": 45465,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "สวย หฺยาด เยิ้ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สวยหยาดเยิ้ม"
+                    },
+                    {
+                        "childId": 44901,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 73287,
+                        "legacyWordId": 1404966,
+                        "meaning": "beauty is but skin-deep",
+                        "parentId": 73287,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สวย แต่ รูบ จูบ ไม่ หอม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สวยแต่รูปจูบไม่หอม"
+                    }
+                ],
+                "explanation": null,
+                "id": 44901,
+                "isUncommon": false,
+                "meaning": "[to be] beautiful ; attractive ; pretty",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "สวย"
+            }
+        ],
+        "t2e": "สวย",
+        "verified": null,
+        "word": "สวย"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

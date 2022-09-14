@@ -1,0 +1,925 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "There's a game we play.",
+            "id": 7380,
+            "phonetic": "มัน เป็น เกม ที่ พวก เรา เล่น กัน",
+            "thaiSentence": "มันเป็นเกมส์ที่พวกเราเล่นกัน",
+            "thaiSentenceSpaced": " มัน เป็น เกมส์ ที่ พวกเรา เล่น กัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "Game"
+                        }
+                    ],
+                    "phonetic": "เกม",
+                    "word": "เกมส์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us ; all of us"
+                        }
+                    ],
+                    "phonetic": "พวก เรา",
+                    "word": "พวกเรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] play"
+                        }
+                    ],
+                    "phonetic": "เล่น",
+                    "word": "เล่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one another ; each other"
+                        },
+                        {
+                            "meaning": "together ; jointly"
+                        }
+                    ],
+                    "phonetic": "กัน",
+                    "word": "กัน"
+                }
+            ]
+        },
+        {
+            "engSentence": "So I play until I win.",
+            "id": 16029,
+            "phonetic": "ดัง นั้น ผม จะ เล่น จน กฺว่า จะ ชะ-นะ",
+            "thaiSentence": "ดังนั้นผมจะเล่นจนกว่าจะชนะ",
+            "thaiSentenceSpaced": " ดังนั้น ผม จะ เล่น จนกว่า จะ ชนะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "therefore ; in consequence"
+                        }
+                    ],
+                    "phonetic": "ดัง นั้น",
+                    "word": "ดังนั้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] play"
+                        }
+                    ],
+                    "phonetic": "เล่น",
+                    "word": "เล่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "until ; till"
+                        },
+                        {
+                            "meaning": "[to be] poor ; impoverished ; broke"
+                        }
+                    ],
+                    "phonetic": "จน",
+                    "word": "จน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "before ; until <i>(something happens)</i>"
+                        }
+                    ],
+                    "phonetic": "กฺว่า จะ",
+                    "word": "กว่าจะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] win ; beat ; defeat"
+                        }
+                    ],
+                    "phonetic": "ชะ-นะ",
+                    "word": "ชนะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Do you still play the piano ?",
+            "id": 36202,
+            "phonetic": "คุน ยัง เล่น เปีย โน หฺยู่ หฺรือ เปฺล่า",
+            "thaiSentence": "คุณยังเล่นเปียโนอยู่หรือเปล่า",
+            "thaiSentenceSpaced": " คุณ ยัง เล่น เปียโน อยู่ หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "still ; yet"
+                        }
+                    ],
+                    "phonetic": "ยัง",
+                    "word": "ยัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] play"
+                        }
+                    ],
+                    "phonetic": "เล่น",
+                    "word": "เล่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "piano"
+                        }
+                    ],
+                    "phonetic": "เปีย โน",
+                    "word": "เปียโน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "How do you play ?",
+            "id": 66476,
+            "phonetic": "คุน เล่น มัน ยัง ไง",
+            "thaiSentence": "คุณเล่นมันยังไง",
+            "thaiSentenceSpaced": " คุณ เล่น มัน ยังไง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] play"
+                        }
+                    ],
+                    "phonetic": "เล่น",
+                    "word": "เล่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "ยัง ไง",
+                    "word": "ยังไง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Wanna play with us ?",
+            "id": 95491,
+            "phonetic": "มา เล่น กับ เรา ไหฺม",
+            "thaiSentence": "มาเล่นกับเราไหม",
+            "thaiSentenceSpaced": " มา เล่น กับ เรา ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] play"
+                        }
+                    ],
+                    "phonetic": "เล่น",
+                    "word": "เล่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "with ; together with"
+                        }
+                    ],
+                    "phonetic": "กับ",
+                    "word": "กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "You play a dangerous game.",
+            "id": 110544,
+            "phonetic": "คุน เล่น เกม อัน-ตะ-ราย",
+            "thaiSentence": "คุณเล่นเกมอันตราย",
+            "thaiSentenceSpaced": " คุณ เล่น เกม อันตราย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] play"
+                        }
+                    ],
+                    "phonetic": "เล่น",
+                    "word": "เล่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "game"
+                        }
+                    ],
+                    "phonetic": "เกม",
+                    "word": "เกม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "danger ; hazard"
+                        },
+                        {
+                            "meaning": "[to be] dangerous"
+                        }
+                    ],
+                    "phonetic": "อัน-ตะ-ราย",
+                    "word": "อันตราย"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 35607,
+        "exampleSentences": [
+            {
+                "engSentence": "There's a game we play.",
+                "id": 7380,
+                "thaiSentence": "มันเป็นเกมส์ที่พวกเราเล่นกัน",
+                "thaiSentenceSpaced": " มัน เป็น เกมส์ ที่ พวกเรา เล่น กัน "
+            },
+            {
+                "engSentence": "So I play until I win.",
+                "id": 16029,
+                "thaiSentence": "ดังนั้นผมจะเล่นจนกว่าจะชนะ",
+                "thaiSentenceSpaced": " ดังนั้น ผม จะ เล่น จนกว่า จะ ชนะ "
+            },
+            {
+                "engSentence": "Do you still play the piano ?",
+                "id": 36202,
+                "thaiSentence": "คุณยังเล่นเปียโนอยู่หรือเปล่า",
+                "thaiSentenceSpaced": " คุณ ยัง เล่น เปียโน อยู่ หรือเปล่า "
+            },
+            {
+                "engSentence": "How do you play ?",
+                "id": 66476,
+                "thaiSentence": "คุณเล่นมันยังไง",
+                "thaiSentenceSpaced": " คุณ เล่น มัน ยังไง "
+            },
+            {
+                "engSentence": "Wanna play with us ?",
+                "id": 95491,
+                "thaiSentence": "มาเล่นกับเราไหม",
+                "thaiSentenceSpaced": " มา เล่น กับ เรา ไหม "
+            },
+            {
+                "engSentence": "You play a dangerous game.",
+                "id": 110544,
+                "thaiSentence": "คุณเล่นเกมอันตราย",
+                "thaiSentenceSpaced": " คุณ เล่น เกม อันตราย "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1396983,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] play",
+                        "word": "play"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 39128,
+                        "corpusScore": 3159,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49934,
+                        "legacyWordId": 1270980,
+                        "meaning": "playing",
+                        "parentId": 49934,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การเล่น"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 2435,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 93257,
+                        "legacyWordId": 1374931,
+                        "meaning": "player",
+                        "parentId": 93257,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้เล่น"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 2095,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46608,
+                        "legacyWordId": 1396996,
+                        "meaning": "play in the water ; swim",
+                        "parentId": 46608,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เล่น น้าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เล่นน้ำ"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 1296,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8202,
+                        "legacyWordId": 1275439,
+                        "meaning": "toy ; plaything",
+                        "parentId": 8202,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ของ เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ของเล่น"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 1195,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46604,
+                        "legacyWordId": 1397039,
+                        "meaning": "[to] play",
+                        "parentId": 46604,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เล่น เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เล่นๆ"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 1040,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18047,
+                        "legacyWordId": 1308283,
+                        "meaning": "[to] stroll ; promenade ; take a walk",
+                        "parentId": 18047,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เดิน เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดินเล่น"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 708,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24091,
+                        "legacyWordId": 1285924,
+                        "meaning": "plaything",
+                        "parentId": 24091,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เคฺรื่อง เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เครื่องเล่น"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 671,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7364,
+                        "legacyWordId": 1328019,
+                        "meaning": "[to] sit leisurely",
+                        "parentId": 7364,
+                        "partOfSpeech": "Verb",
+                        "t2e": "นั่ง เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นั่งเล่น"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 578,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42298,
+                        "legacyWordId": 1403792,
+                        "meaning": "amateur ; novice",
+                        "parentId": 42298,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ-หฺมัก เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สมัครเล่น"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 511,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42422,
+                        "legacyWordId": 1396989,
+                        "meaning": "[to] attack ; assault ; persecute",
+                        "parentId": 42422,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เล่น งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เล่นงาน"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 485,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26789,
+                        "legacyWordId": 1396768,
+                        "meaning": "tactics ; artifice ; tact",
+                        "parentId": 26789,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ลูก เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลูกเล่น"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 470,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11891,
+                        "legacyWordId": 1293144,
+                        "meaning": "nickname",
+                        "parentId": 11891,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชื่อ เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชื่อเล่น"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 457,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46606,
+                        "legacyWordId": 1397036,
+                        "meaning": "[to] cause to",
+                        "parentId": 46606,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เล่น เอา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เล่นเอา"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 395,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 390117,
+                        "legacyWordId": 1394979,
+                        "meaning": "[to] joke ; tease",
+                        "parentId": 390117,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้อ เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้อเล่น"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 358,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "in a play or show",
+                        "hasSoundFile": false,
+                        "id": 46607,
+                        "legacyWordId": 1397012,
+                        "meaning": "[to] act",
+                        "parentId": 46607,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เล่น ละ-คอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เล่นละคร"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 328,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26768,
+                        "legacyWordId": 1399653,
+                        "meaning": "[to] run and play",
+                        "parentId": 26768,
+                        "partOfSpeech": "Verb",
+                        "t2e": "วิ่ง เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วิ่งเล่น"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 253,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37173,
+                        "legacyWordId": 1396994,
+                        "meaning": "[to] play hard to get ; hold out (for something)",
+                        "parentId": 37173,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เล่น ตัว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เล่นตัว"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 213,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4834,
+                        "legacyWordId": 1397031,
+                        "meaning": "[to] play the stock market",
+                        "parentId": 4834,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เล่น หุ้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เล่นหุ้น"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 168,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5255,
+                        "legacyWordId": 1400507,
+                        "meaning": "playtime",
+                        "parentId": 5255,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เว-ลา เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เวลาเล่น"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 160,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 416274,
+                        "legacyWordId": 1379254,
+                        "meaning": "[to] joke ; kid",
+                        "parentId": 416274,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พูด เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พูดเล่น"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 156,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3936,
+                        "legacyWordId": 1325256,
+                        "meaning": "[to] loaf ; stroll ; saunter",
+                        "parentId": 3936,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เที่ยว เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เที่ยวเล่น"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 154,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "for amusement",
+                        "hasSoundFile": false,
+                        "id": 13985,
+                        "legacyWordId": 1307988,
+                        "meaning": "[to] look",
+                        "parentId": 13985,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดู เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดูเล่น"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 143,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25604,
+                        "legacyWordId": 1276565,
+                        "meaning": "[to be] playful ; mischievous ; frisky",
+                        "parentId": 25604,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ขี้ เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขี้เล่น"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 142,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6584,
+                        "legacyWordId": 1327597,
+                        "meaning": "[to] lie leisurely ; take a rest ; lie down",
+                        "parentId": 6584,
+                        "partOfSpeech": "Verb",
+                        "t2e": "นอน เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นอนเล่น"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 124,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46609,
+                        "legacyWordId": 1396986,
+                        "meaning": "[to] play politics ; get into politics",
+                        "parentId": 46609,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เล่น กาน เมือง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เล่นการเมือง"
+                    }
+                ],
+                "explanation": null,
+                "id": 39128,
+                "isUncommon": false,
+                "meaning": "[to] play",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "เล่น"
+            }
+        ],
+        "t2e": "เล่น",
+        "verified": null,
+        "word": "เล่น"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,541 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "Eight on the eight.",
+            "id": 636741,
+            "phonetic": "แปด · ด้าย · แปด",
+            "thaiSentence": "แปด ได้ แปด",
+            "thaiSentenceSpaced": " แปด  ·  ได้  ·  แปด ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "eight"
+                        }
+                    ],
+                    "phonetic": "แปด",
+                    "word": "แปด"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "eight"
+                        }
+                    ],
+                    "phonetic": "แปด",
+                    "word": "แปด"
+                }
+            ]
+        },
+        {
+            "engSentence": "Eight on the eight.",
+            "id": 636741,
+            "phonetic": "แปด · ด้าย · แปด",
+            "thaiSentence": "แปด ได้ แปด",
+            "thaiSentenceSpaced": " แปด  ·  ได้  ·  แปด ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "eight"
+                        }
+                    ],
+                    "phonetic": "แปด",
+                    "word": "แปด"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "eight"
+                        }
+                    ],
+                    "phonetic": "แปด",
+                    "word": "แปด"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 2239,
+        "exampleSentences": [
+            {
+                "engSentence": "Eight on the eight.",
+                "id": 636741,
+                "thaiSentence": "แปด ได้ แปด",
+                "thaiSentenceSpaced": " แปด  &middot;  ได้  &middot;  แปด "
+            },
+            {
+                "engSentence": "Eight on the eight.",
+                "id": 636741,
+                "thaiSentence": "แปด ได้ แปด",
+                "thaiSentenceSpaced": " แปด  &middot;  ได้  &middot;  แปด "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1372735,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "eight",
+                        "word": "eight"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 22761,
+                        "corpusScore": 211,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25736,
+                        "legacyWordId": 1389866,
+                        "meaning": "miscellaneous ; various ; plentiful",
+                        "parentId": 25736,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ร้อย แปด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยแปด"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 152,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102687,
+                        "legacyWordId": 1408326,
+                        "meaning": "eighteen",
+                        "parentId": 102687,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สิบ แปด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบแปด"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 142,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39612,
+                        "legacyWordId": 1372751,
+                        "meaning": "octagon",
+                        "parentId": 39612,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แปด เหฺลี่ยม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปดเหลี่ยม"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 139,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22423,
+                        "legacyWordId": 1372746,
+                        "meaning": "eighty",
+                        "parentId": 22423,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แปด สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปดสิบ"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 124,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102758,
+                        "legacyWordId": 1372739,
+                        "meaning": "8 o'clock",
+                        "parentId": 102758,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แปด โมง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปดโมง"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 101,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41034,
+                        "legacyWordId": 1372737,
+                        "meaning": "[to] contaminate ; soil ; dirty",
+                        "parentId": 41034,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แปด เปื้อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปดเปื้อน"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 71,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102708,
+                        "legacyWordId": 1372738,
+                        "meaning": "eight thousand ; 8000",
+                        "parentId": 102708,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แปด พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปดพัน"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 57,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102718,
+                        "legacyWordId": 1372749,
+                        "meaning": "eighty thousand ; 80,000",
+                        "parentId": 102718,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "แปด หฺมื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปดหมื่น"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 43,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102700,
+                        "legacyWordId": 1372741,
+                        "meaning": "eight hundred ; 800",
+                        "parentId": 102700,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "แปด ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปดร้อย"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 26,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102727,
+                        "legacyWordId": 1372747,
+                        "meaning": "eight hundred thousand ; 800,000",
+                        "parentId": 102727,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "แปด แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปดแสน"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 24,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102754,
+                        "legacyWordId": 1372740,
+                        "meaning": "8am",
+                        "parentId": 102754,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แปด โมง เช้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปดโมงเช้า"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 17,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25138,
+                        "legacyWordId": 1401676,
+                        "meaning": "eight commandments ; eight precepts",
+                        "parentId": 25138,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สีน แปด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ศีลแปด"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 16,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102736,
+                        "legacyWordId": 1372745,
+                        "meaning": "eight million ; 8,000,000",
+                        "parentId": 102736,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "แปด ล้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปดล้าน"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 12,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 88027,
+                        "legacyWordId": 1305628,
+                        "meaning": "octal",
+                        "parentId": 88027,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ถาน แปด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ฐานแปด"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 7,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39771,
+                        "legacyWordId": 1384671,
+                        "meaning": "[to] be utterly mystified ; see no way out",
+                        "parentId": 39771,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มืด แปด ด้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มืดแปดด้าน"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19035,
+                        "legacyWordId": 1408327,
+                        "meaning": "swindler ; cheater ; flimflammer",
+                        "parentId": 19035,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิบ แปด มง-กุด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบแปดมงกุฎ"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 0,
+                        "displayOrder": 4,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 71964,
+                        "legacyWordId": 1291699,
+                        "meaning": "octave",
+                        "parentId": 71964,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ช่วง เสียง ขั้น คู่ แปด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ช่วงเสียงขั้นคู่แปด"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 60899,
+                        "legacyWordId": 1265613,
+                        "meaning": "the eight",
+                        "parentId": 60899,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺลุ่ม แปด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กลุ่มแปด"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 68044,
+                        "legacyWordId": 1333883,
+                        "meaning": "octosyllabic line",
+                        "parentId": 68044,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บาด แปด พะ-ยาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บาทแปดพยางค์"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 75612,
+                        "legacyWordId": 1390271,
+                        "meaning": "Eighths system",
+                        "parentId": 75612,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ระ-บบ ส่วน แปด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ระบบส่วนแปด"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": "The name of a village in Chon Buri province",
+                        "hasSoundFile": false,
+                        "id": 610555,
+                        "legacyWordId": 1293612,
+                        "meaning": "Chum Chon Ruam Paet Phatthana",
+                        "parentId": 610555,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม ชน รวม แปด พัด-ทะ-นา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนรวมแปดพัฒนา"
+                    },
+                    {
+                        "childId": 22761,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 68148,
+                        "legacyWordId": 1372748,
+                        "meaning": "quarto",
+                        "parentId": 68148,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แปด น่า ยก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปดหน้ายก"
+                    }
+                ],
+                "explanation": null,
+                "id": 22761,
+                "isUncommon": false,
+                "meaning": "eight",
+                "partOfSpeech": "Quantifier",
+                "usage": "",
+                "word": "แปด"
+            }
+        ],
+        "t2e": "แปด",
+        "verified": null,
+        "word": "แปด"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

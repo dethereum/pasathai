@@ -1,0 +1,531 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "I can't swim.",
+            "id": 128407,
+            "phonetic": "ก้อ ผม ว่าย น้าม ไม่ เป็น",
+            "thaiSentence": "ก็ผมว่ายน้ำไม่เป็น",
+            "thaiSentenceSpaced": " ก็ ผม ว่ายน้ำ ไม่ เป็น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] swim"
+                        }
+                    ],
+                    "phonetic": "ว่าย น้าม",
+                    "word": "ว่ายน้ำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                }
+            ]
+        },
+        {
+            "engSentence": "I can't swim.",
+            "id": 128444,
+            "phonetic": "ผม ว่าย น้าม ไม่ เป็น",
+            "thaiSentence": "ผมว่ายน้ำไม่เป็น",
+            "thaiSentenceSpaced": " ผม ว่ายน้ำ ไม่ เป็น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] swim"
+                        }
+                    ],
+                    "phonetic": "ว่าย น้าม",
+                    "word": "ว่ายน้ำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                }
+            ]
+        },
+        {
+            "engSentence": "See I told you I can't swim.",
+            "id": 225097,
+            "phonetic": "ฉัน บอก แล้ว นะ ว่า ฉัน ว่าย น้าม ไม่ เป็น",
+            "thaiSentence": "ฉันบอกแล้วนะว่าฉันว่ายน้ำไม่เป็น",
+            "thaiSentenceSpaced": " ฉัน บอก แล้ว นะ ว่า ฉัน ว่ายน้ำ ไม่ เป็น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] tell ; say ; describe"
+                        }
+                    ],
+                    "phonetic": "บอก",
+                    "word": "บอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        },
+                        {
+                            "meaning": "[to] say ; tell"
+                        },
+                        {
+                            "meaning": "[to] blame ; criticise"
+                        }
+                    ],
+                    "phonetic": "ว่า",
+                    "word": "ว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] swim"
+                        }
+                    ],
+                    "phonetic": "ว่าย น้าม",
+                    "word": "ว่ายน้ำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                }
+            ]
+        },
+        {
+            "engSentence": "My swimming teacher.",
+            "id": 395745,
+            "phonetic": "คุน คฺรู สอน ว่าย น้าม",
+            "thaiSentence": "คุณครูสอนว่ายน้ำ",
+            "thaiSentenceSpaced": " คุณครู สอน ว่ายน้ำ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "teacher ; instructor ; professor"
+                        }
+                    ],
+                    "phonetic": "คุน คฺรู",
+                    "word": "คุณครู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] teach ; instruct ; educate"
+                        }
+                    ],
+                    "phonetic": "สอน",
+                    "word": "สอน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] swim"
+                        }
+                    ],
+                    "phonetic": "ว่าย น้าม",
+                    "word": "ว่ายน้ำ"
+                }
+            ]
+        },
+        {
+            "engSentence": "We want to swim.",
+            "id": 409180,
+            "phonetic": "เรา หฺยาก ว่าย น้าม",
+            "thaiSentence": "เราอยากว่ายน้ำ",
+            "thaiSentenceSpaced": " เรา อยาก ว่ายน้ำ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want to"
+                        }
+                    ],
+                    "phonetic": "หฺยาก",
+                    "word": "อยาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] swim"
+                        }
+                    ],
+                    "phonetic": "ว่าย น้าม",
+                    "word": "ว่ายน้ำ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Swimming is possible.",
+            "id": 409181,
+            "phonetic": "ว่าย น้าม น่ะ เป็น ไป ด้าย",
+            "thaiSentence": "ว่ายน้ำน่ะเป็นไปได้",
+            "thaiSentenceSpaced": " ว่ายน้ำ น่ะ เป็นไปได้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] swim"
+                        }
+                    ],
+                    "phonetic": "ว่าย น้าม",
+                    "word": "ว่ายน้ำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to after a noun to highlight it as the subject of the sentence, or to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "น่ะ",
+                    "word": "น่ะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be possible ; be feasible"
+                        }
+                    ],
+                    "phonetic": "เป็น ไป ด้าย",
+                    "word": "เป็นไปได้"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 1772,
+        "exampleSentences": [
+            {
+                "engSentence": "I can't swim.",
+                "id": 128407,
+                "thaiSentence": "ก็ผมว่ายน้ำไม่เป็น",
+                "thaiSentenceSpaced": " ก็ ผม ว่ายน้ำ ไม่ เป็น "
+            },
+            {
+                "engSentence": "I can't swim.",
+                "id": 128444,
+                "thaiSentence": "ผมว่ายน้ำไม่เป็น",
+                "thaiSentenceSpaced": " ผม ว่ายน้ำ ไม่ เป็น "
+            },
+            {
+                "engSentence": "See I told you I can't swim.",
+                "id": 225097,
+                "thaiSentence": "ฉันบอกแล้วนะว่าฉันว่ายน้ำไม่เป็น",
+                "thaiSentenceSpaced": " ฉัน บอก แล้ว นะ ว่า ฉัน ว่ายน้ำ ไม่ เป็น "
+            },
+            {
+                "engSentence": "My swimming teacher.",
+                "id": 395745,
+                "thaiSentence": "คุณครูสอนว่ายน้ำ",
+                "thaiSentenceSpaced": " คุณครู สอน ว่ายน้ำ "
+            },
+            {
+                "engSentence": "We want to swim.",
+                "id": 409180,
+                "thaiSentence": "เราอยากว่ายน้ำ",
+                "thaiSentenceSpaced": " เรา อยาก ว่ายน้ำ "
+            },
+            {
+                "engSentence": "Swimming is possible.",
+                "id": 409181,
+                "thaiSentence": "ว่ายน้ำน่ะเป็นไปได้",
+                "thaiSentenceSpaced": " ว่ายน้ำ น่ะ เป็นไปได้ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1399521,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 20118,
+                        "corpusScore": 2558,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20118,
+                        "legacyWordId": 1399514,
+                        "meaning": "[to] swim",
+                        "parentId": 26097,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ว่าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ว่าย"
+                    },
+                    {
+                        "childId": 15486,
+                        "corpusScore": 142976,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 15486,
+                        "legacyWordId": 1329399,
+                        "meaning": "water ; fluid ; liquid",
+                        "parentId": 26097,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้าม",
+                        "usage": "",
+                        "verified": "น้าม",
+                        "word": "น้ำ"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] swim",
+                        "word": "swim"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 26097,
+                        "corpusScore": 313,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395226,
+                        "legacyWordId": 1404287,
+                        "meaning": "swimming pool",
+                        "parentId": 395226,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ ว่าย น้าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สระว่ายน้ำ"
+                    },
+                    {
+                        "childId": 26097,
+                        "corpusScore": 50,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 52399,
+                        "legacyWordId": 1271124,
+                        "meaning": "swimming",
+                        "parentId": 52399,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ว่าย น้าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การว่ายน้ำ"
+                    },
+                    {
+                        "childId": 26097,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8476,
+                        "legacyWordId": 1266790,
+                        "meaning": "swimming trunks",
+                        "parentId": 8476,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาง-เกง ว่าย น้าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กางเกงว่ายน้ำ"
+                    },
+                    {
+                        "childId": 26097,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103126,
+                        "legacyWordId": 1405284,
+                        "meaning": "[to] teach your grandmother to suck eggs",
+                        "parentId": 103126,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สอน จอ-ระ-เข้ ว่าย น้าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สอนจระเข้ว่ายน้ำ"
+                    }
+                ],
+                "explanation": null,
+                "id": 26097,
+                "isUncommon": false,
+                "meaning": "[to] swim",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ว่ายน้ำ"
+            }
+        ],
+        "t2e": "ว่าย น้าม",
+        "verified": null,
+        "word": "ว่ายน้ำ"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

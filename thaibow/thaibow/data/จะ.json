@@ -1,0 +1,950 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Then whose was it ?",
+            "id": 451,
+            "phonetic": "แล้ว มัน จะ เป็น ของ ไคฺร ด้าย ล่ะ",
+            "thaiSentence": "แล้วมันจะเป็นของใครได้ล่ะ",
+            "thaiSentenceSpaced": " แล้ว มัน จะ เป็นของ ใคร ได้ ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will be"
+                        }
+                    ],
+                    "phonetic": "จะ เป็น",
+                    "word": "จะเป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whose"
+                        },
+                        {
+                            "meaning": "of someone ; of anyone"
+                        }
+                    ],
+                    "phonetic": "ของ ไคฺร",
+                    "word": "ของใคร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "How should I know ?",
+            "id": 791,
+            "phonetic": "ฉัน จะ รู้ ด้าย ยัง ไง ล่ะ",
+            "thaiSentence": "ฉันจะรู้ได้ยังไงล่ะ",
+            "thaiSentenceSpaced": " ฉัน จะ รู้ ได้ ยังไง ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] know <i>(รู้ is \"to know\" in the sense of knowing information ; to say \"to know\" in the sense of knowing someone รู้จัก is used instead.)</i>"
+                        }
+                    ],
+                    "phonetic": "รู้",
+                    "word": "รู้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "ยัง ไง",
+                    "word": "ยังไง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I'll write you often.",
+            "id": 1550,
+            "phonetic": "แล้ว จะ เขียน ถึง บ่อย บ่อย",
+            "thaiSentence": "แล้วจะเขียนถึงบ่อยๆ",
+            "thaiSentenceSpaced": " แล้ว จะ เขียน ถึง บ่อยๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] write"
+                        }
+                    ],
+                    "phonetic": "เขียน",
+                    "word": "เขียน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] reach ; arrive ; get to"
+                        },
+                        {
+                            "meaning": "even though ; even if"
+                        },
+                        {
+                            "meaning": "about ; of"
+                        }
+                    ],
+                    "phonetic": "ถึง",
+                    "word": "ถึง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "often ; very often"
+                        }
+                    ],
+                    "phonetic": "บ่อย บ่อย",
+                    "word": "บ่อยๆ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You are not leaving ?",
+            "id": 1594,
+            "phonetic": "จะ ไม่ ไป เหฺรอ",
+            "thaiSentence": "จะไม่ไปเหรอ",
+            "thaiSentenceSpaced": " จะ ไม่ ไป เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Oh, come on , I insist.",
+            "id": 2023,
+            "phonetic": "โอ้ · มา เถอะ · ฉัน จะ",
+            "thaiSentence": "โอ้ มาเถอะ ฉันจะ",
+            "thaiSentenceSpaced": " โอ้  ·  มา เถอะ  ·  ฉัน จะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "oh"
+                        }
+                    ],
+                    "phonetic": "โอ้",
+                    "word": "โอ้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(a particle adding a sense of mild urging or emphasis to the sentence, sometimes equivalent to \"let's...\" in English)</i>"
+                        }
+                    ],
+                    "phonetic": "เถอะ",
+                    "word": "เถอะ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You want that mask ? OK.",
+            "id": 2041,
+            "phonetic": "คุน จะ เอา น่า กาก เหฺรอ · ด้าย",
+            "thaiSentence": "คุณจะเอาหน้ากากเหรอ ได้",
+            "thaiSentenceSpaced": " คุณ จะ เอา หน้ากาก เหรอ  ·  ได้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] show off"
+                        }
+                    ],
+                    "phonetic": "เอา น่า",
+                    "word": "เอาหน้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "garbage ; waste ; rubbish"
+                        }
+                    ],
+                    "phonetic": "กาก",
+                    "word": "กาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 618897,
+        "exampleSentences": [
+            {
+                "engSentence": "Then whose was it ?",
+                "id": 451,
+                "thaiSentence": "แล้วมันจะเป็นของใครได้ล่ะ",
+                "thaiSentenceSpaced": " แล้ว มัน จะ เป็นของ ใคร ได้ ล่ะ "
+            },
+            {
+                "engSentence": "How should I know ?",
+                "id": 791,
+                "thaiSentence": "ฉันจะรู้ได้ยังไงล่ะ",
+                "thaiSentenceSpaced": " ฉัน จะ รู้ ได้ ยังไง ล่ะ "
+            },
+            {
+                "engSentence": "I'll write you often.",
+                "id": 1550,
+                "thaiSentence": "แล้วจะเขียนถึงบ่อยๆ",
+                "thaiSentenceSpaced": " แล้ว จะ เขียน ถึง บ่อยๆ "
+            },
+            {
+                "engSentence": "You are not leaving ?",
+                "id": 1594,
+                "thaiSentence": "จะไม่ไปเหรอ",
+                "thaiSentenceSpaced": " จะ ไม่ ไป เหรอ "
+            },
+            {
+                "engSentence": "Oh, come on , I insist.",
+                "id": 2023,
+                "thaiSentence": "โอ้ มาเถอะ ฉันจะ",
+                "thaiSentenceSpaced": " โอ้  &middot;  มา เถอะ  &middot;  ฉัน จะ "
+            },
+            {
+                "engSentence": "You want that mask ? OK.",
+                "id": 2041,
+                "thaiSentence": "คุณจะเอาหน้ากากเหรอ ได้",
+                "thaiSentenceSpaced": " คุณ จะ เอา หน้ากาก เหรอ  &middot;  ได้ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1288576,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "will",
+                        "word": "will"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "shall",
+                        "word": "shall"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 8852,
+                        "corpusScore": 67990,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 14864,
+                        "legacyWordId": 1323332,
+                        "meaning": "that will ; who will ; which will",
+                        "parentId": 14864,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ที่ จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่จะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 39286,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 41408,
+                        "legacyWordId": 1288619,
+                        "meaning": "will be",
+                        "parentId": 41408,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จะ เป็น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จะเป็น"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 23568,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 295,
+                        "legacyWordId": 1453942,
+                        "meaning": "might ; maybe ; may",
+                        "parentId": 295,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "อาด จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาจจะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 17824,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 14915,
+                        "legacyWordId": 1328455,
+                        "meaning": "should ; had better",
+                        "parentId": 14915,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "น่า จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น่าจะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 10374,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 25815,
+                        "legacyWordId": 1383634,
+                        "meaning": "often ; frequently",
+                        "parentId": 25815,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มัก จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มักจะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 9123,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 104004,
+                        "legacyWordId": 1452017,
+                        "meaning": "[to] want to ; would like to",
+                        "parentId": 104004,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยาก จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยากจะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 8464,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 6744,
+                        "legacyWordId": 1278345,
+                        "meaning": "may ; might ; perhaps ; possibly ; maybe",
+                        "parentId": 6744,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "คง จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คงจะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 6969,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 29452,
+                        "legacyWordId": 1281070,
+                        "meaning": "should ; ought to",
+                        "parentId": 29452,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "ควน จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ควรจะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 5011,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42099,
+                        "legacyWordId": 1272295,
+                        "meaning": "be about to ; be on the verge of",
+                        "parentId": 42099,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "กำ-ลัง จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กำลังจะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 4340,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 384056,
+                        "legacyWordId": 1385796,
+                        "meaning": "even ; even if",
+                        "parentId": 384056,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "แม้ จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แม้จะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 3991,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 43940,
+                        "legacyWordId": 1319682,
+                        "meaning": "even though ; even ; though ; although",
+                        "parentId": 43940,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ถึง จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถึงจะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 3991,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 43941,
+                        "legacyWordId": 1319682,
+                        "meaning": "so ; therefore",
+                        "parentId": 43941,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ถึง จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถึงจะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 2957,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44425,
+                        "legacyWordId": 1377591,
+                        "meaning": "[to] be enough to ; be adequate to",
+                        "parentId": 44425,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พอ จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พอจะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 2269,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26791,
+                        "legacyWordId": 1325354,
+                        "meaning": "almost ; nearly ; just about",
+                        "parentId": 26791,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แทบ จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แทบจะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 1793,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42102,
+                        "legacyWordId": 1288607,
+                        "meaning": "will die ; will suffer",
+                        "parentId": 42102,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จะ ตาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จะตาย"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 1793,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42100,
+                        "legacyWordId": 1288607,
+                        "meaning": "so much ; to death",
+                        "parentId": 42100,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "จะ ตาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จะตาย"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 1410,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13515,
+                        "legacyWordId": 1307915,
+                        "meaning": "seem ; look like",
+                        "parentId": 13515,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "ดู จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดูจะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 1336,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28680,
+                        "legacyWordId": 1379729,
+                        "meaning": "just ; just now",
+                        "parentId": 28680,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "เพิ่ง จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพิ่งจะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 1163,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46621,
+                        "legacyWordId": 1449711,
+                        "meaning": "[to] seem ; appear",
+                        "parentId": 46621,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เห็น จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เห็นจะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 1093,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40854,
+                        "legacyWordId": 1376465,
+                        "meaning": "be ready to",
+                        "parentId": 40854,
+                        "partOfSpeech": "None",
+                        "t2e": "พฺร้อม จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พร้อมจะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 1074,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1891,
+                        "legacyWordId": 1452573,
+                        "meaning": "rather ; somewhat",
+                        "parentId": 1891,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "ออก จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ออกจะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 1073,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29372,
+                        "legacyWordId": 1274167,
+                        "meaning": "about ; almost ; shortly",
+                        "parentId": 29372,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เกือบ จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกือบจะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 832,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24709,
+                        "legacyWordId": 1325334,
+                        "meaning": "instead of",
+                        "parentId": 24709,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แทน ที่ จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แทนที่จะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 799,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46709,
+                        "legacyWordId": 1410298,
+                        "meaning": "greatly ; extremely",
+                        "parentId": 46709,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "แสน จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แสนจะ"
+                    },
+                    {
+                        "childId": 8852,
+                        "corpusScore": 647,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3197,
+                        "legacyWordId": 1321990,
+                        "meaning": "possibly ; perhaps ; probably ; maybe",
+                        "parentId": 3197,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "ท่า จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ท่าจะ"
+                    }
+                ],
+                "explanation": null,
+                "id": 8852,
+                "isUncommon": false,
+                "meaning": "will ; shall",
+                "partOfSpeech": "AdverbAuxiliary",
+                "usage": "",
+                "word": "จะ"
+            }
+        ],
+        "t2e": "จะ",
+        "verified": "จะ",
+        "word": "จะ"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

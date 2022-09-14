@@ -1,0 +1,317 @@
+{
+    "commonessText": "Very rarely",
+    "exampleSentences": [
+        {
+            "engSentence": "How are you ?",
+            "id": 24781,
+            "phonetic": "สะ-บาย ดี ไหฺม คะ",
+            "thaiSentence": "สบายดีไหมคะ",
+            "thaiSentenceSpaced": " สบายดีไหม คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how are you ?"
+                        }
+                    ],
+                    "phonetic": "สะ-บาย ดี ไหฺม",
+                    "word": "สบายดีไหม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Oh, how are you , sir ?",
+            "id": 42919,
+            "phonetic": "อ๋อ · ทั่น สะ-บาย ดี ไหฺม คฺรับ",
+            "thaiSentence": "อ๋อ ท่านสบายดีไหมครับ",
+            "thaiSentenceSpaced": " อ๋อ  ·  ท่าน สบายดีไหม ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "oh ; yes ; well ; right"
+                        }
+                    ],
+                    "phonetic": "อ๋อ",
+                    "word": "อ๋อ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you <i>(when talking to someone respected or of high status)</i>"
+                        },
+                        {
+                            "meaning": "he ; him ; she ; her <i>(when referring to someone respected or of high status)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a title used to show respect to someone of high status, or by businesses to their customers)</i>"
+                        }
+                    ],
+                    "phonetic": "ทั่น",
+                    "word": "ท่าน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how are you ?"
+                        }
+                    ],
+                    "phonetic": "สะ-บาย ดี ไหฺม",
+                    "word": "สบายดีไหม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Are you doing well ?",
+            "id": 75890,
+            "phonetic": "คุน สะ-บาย ดี ไหฺม",
+            "thaiSentence": "คุณสบายดีไหม",
+            "thaiSentenceSpaced": " คุณ สบายดีไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how are you ?"
+                        }
+                    ],
+                    "phonetic": "สะ-บาย ดี ไหฺม",
+                    "word": "สบายดีไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Are you doing okay ?",
+            "id": 132099,
+            "phonetic": "คุน สะ-บาย ดี ไหฺม",
+            "thaiSentence": "คุณสบายดีไหม",
+            "thaiSentenceSpaced": " คุณ สบายดีไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how are you ?"
+                        }
+                    ],
+                    "phonetic": "สะ-บาย ดี ไหฺม",
+                    "word": "สบายดีไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Is everyone okay ?",
+            "id": 132101,
+            "phonetic": "ทุก คน สะ-บาย ดี ไหฺม",
+            "thaiSentence": "ทุกคนสบายดีไหม",
+            "thaiSentenceSpaced": " ทุกคน สบายดีไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "everyone ; everybody"
+                        }
+                    ],
+                    "phonetic": "ทุก คน",
+                    "word": "ทุกคน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how are you ?"
+                        }
+                    ],
+                    "phonetic": "สะ-บาย ดี ไหฺม",
+                    "word": "สบายดีไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "How have you been ?",
+            "id": 139235,
+            "phonetic": "สะ-บาย ดี ไหฺม คะ",
+            "thaiSentence": "สบายดีไหมคะ",
+            "thaiSentenceSpaced": " สบายดีไหม คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how are you ?"
+                        }
+                    ],
+                    "phonetic": "สะ-บาย ดี ไหฺม",
+                    "word": "สบายดีไหม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 47,
+        "exampleSentences": [
+            {
+                "engSentence": "How are you ?",
+                "id": 24781,
+                "thaiSentence": "สบายดีไหมคะ",
+                "thaiSentenceSpaced": " สบายดีไหม คะ "
+            },
+            {
+                "engSentence": "Oh, how are you , sir ?",
+                "id": 42919,
+                "thaiSentence": "อ๋อ ท่านสบายดีไหมครับ",
+                "thaiSentenceSpaced": " อ๋อ  &middot;  ท่าน สบายดีไหม ครับ "
+            },
+            {
+                "engSentence": "Are you doing well ?",
+                "id": 75890,
+                "thaiSentence": "คุณสบายดีไหม",
+                "thaiSentenceSpaced": " คุณ สบายดีไหม "
+            },
+            {
+                "engSentence": "Are you doing okay ?",
+                "id": 132099,
+                "thaiSentence": "คุณสบายดีไหม",
+                "thaiSentenceSpaced": " คุณ สบายดีไหม "
+            },
+            {
+                "engSentence": "Is everyone okay ?",
+                "id": 132101,
+                "thaiSentence": "ทุกคนสบายดีไหม",
+                "thaiSentenceSpaced": " ทุกคน สบายดีไหม "
+            },
+            {
+                "engSentence": "How have you been ?",
+                "id": 139235,
+                "thaiSentence": "สบายดีไหมคะ",
+                "thaiSentenceSpaced": " สบายดีไหม คะ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1402930,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 3672,
+                        "corpusScore": 970,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3672,
+                        "legacyWordId": 1402929,
+                        "meaning": "[to] be fine ; be well ; be happy",
+                        "parentId": 41650,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สะ-บาย ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สบายดี"
+                    },
+                    {
+                        "childId": 103300,
+                        "corpusScore": 50059,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "It's a particle used to turn a statement into a question, similar to a question mark",
+                        "hasSoundFile": false,
+                        "id": 103300,
+                        "legacyWordId": 1451325,
+                        "meaning": "",
+                        "parentId": 41650,
+                        "partOfSpeech": "Interrogative",
+                        "t2e": "ไหฺม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไหม"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "how are you ?",
+                        "word": "how are you ?"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 41650,
+                "isUncommon": false,
+                "meaning": "how are you ?",
+                "partOfSpeech": "Interrogative",
+                "usage": "",
+                "word": "สบายดีไหม"
+            }
+        ],
+        "t2e": "สะ-บาย ดี ไหฺม",
+        "verified": null,
+        "word": "สบายดีไหม"
+    },
+    "greenBarCount": 0,
+    "pageUrl": "",
+    "type": "thai-word"
+}

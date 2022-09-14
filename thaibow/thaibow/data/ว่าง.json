@@ -1,0 +1,802 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "What are you doing today ?",
+            "id": 11848,
+            "phonetic": "วัน นี้ คุน ว่าง หฺรือ เปฺล่า",
+            "thaiSentence": "วันนี้คุณว่างหรือเปล่า",
+            "thaiSentenceSpaced": " วันนี้ คุณ ว่าง หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "today"
+                        }
+                    ],
+                    "phonetic": "วัน นี้",
+                    "word": "วันนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] free ; empty ; vacant"
+                        }
+                    ],
+                    "phonetic": "ว่าง",
+                    "word": "ว่าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "Are you free tonight ?",
+            "id": 73983,
+            "phonetic": "คุน ว่าง ไหฺม คืน นี้",
+            "thaiSentence": "คุณว่างไหมคืนนี้",
+            "thaiSentenceSpaced": " คุณ ว่าง ไหม คืนนี้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] free ; empty ; vacant"
+                        }
+                    ],
+                    "phonetic": "ว่าง",
+                    "word": "ว่าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tonight ; this night ; this evening"
+                        }
+                    ],
+                    "phonetic": "คืน นี้",
+                    "word": "คืนนี้"
+                }
+            ]
+        },
+        {
+            "engSentence": "Are you free tonight ?",
+            "id": 74321,
+            "phonetic": "คุน ว่าง หฺรือ เปฺล่า คืน นี้",
+            "thaiSentence": "คุณว่างหรือเปล่าคืนนี้",
+            "thaiSentenceSpaced": " คุณ ว่าง หรือเปล่า คืนนี้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] free ; empty ; vacant"
+                        }
+                    ],
+                    "phonetic": "ว่าง",
+                    "word": "ว่าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tonight ; this night ; this evening"
+                        }
+                    ],
+                    "phonetic": "คืน นี้",
+                    "word": "คืนนี้"
+                }
+            ]
+        },
+        {
+            "engSentence": "Are you free now ?",
+            "id": 83681,
+            "phonetic": "ตอน-นี้ คุน ว่าง หฺรือ เปฺล่า",
+            "thaiSentence": "ตอนนี้คุณว่างหรือเปล่า",
+            "thaiSentenceSpaced": " ตอนนี้ คุณ ว่าง หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "now ; right now ; at this moment"
+                        }
+                    ],
+                    "phonetic": "ตอน-นี้",
+                    "word": "ตอนนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] free ; empty ; vacant"
+                        }
+                    ],
+                    "phonetic": "ว่าง",
+                    "word": "ว่าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "Are you free tonight ?",
+            "id": 127394,
+            "phonetic": "คืน นี้ · ลูก พี่ ว่าง ไหฺม",
+            "thaiSentence": "คืนนี้ ลูกพี่ว่างไหม",
+            "thaiSentenceSpaced": " คืนนี้  ·  ลูก พี่ ว่าง ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tonight ; this night ; this evening"
+                        }
+                    ],
+                    "phonetic": "คืน นี้",
+                    "word": "คืนนี้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you <i>(used by a parent when talking to their children)</i>"
+                        },
+                        {
+                            "meaning": " <i>(ลูก is the classifier for anything small and round shaped - mostly fruit and types of balls. It is also the classifier for hills, mountains, storms, hurricanes and waves too.)</i>"
+                        },
+                        {
+                            "meaning": " <i>(prefix used before small objects, usually round or spherical)</i>"
+                        },
+                        {
+                            "meaning": "child ; offspring <i>(used for both humans and animals)</i>"
+                        },
+                        {
+                            "meaning": " <i>(prefix used before a subordinate, purchaser, employee or junior partner)</i>"
+                        }
+                    ],
+                    "phonetic": "ลูก",
+                    "word": "ลูก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I <i>(used when talking to someone younger)</i>"
+                        },
+                        {
+                            "meaning": "you <i>(used when talking to someone older)</i>"
+                        },
+                        {
+                            "meaning": "he ; she ; him ; her <i>(used when referring to someone older)</i>"
+                        },
+                        {
+                            "meaning": " <i>(elder)</i> brother ; sister <i>(or friend, relative, work colleague etc...)</i>"
+                        }
+                    ],
+                    "phonetic": "พี่",
+                    "word": "พี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] free ; empty ; vacant"
+                        }
+                    ],
+                    "phonetic": "ว่าง",
+                    "word": "ว่าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "What are you doing tonight ?",
+            "id": 141501,
+            "phonetic": "คืน นี้ คุน ว่าง หฺรือ เปฺล่า คฺรับ",
+            "thaiSentence": "คืนนี้คุณว่างหรือเปล่าครับ",
+            "thaiSentenceSpaced": " คืนนี้ คุณ ว่าง หรือเปล่า ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tonight ; this night ; this evening"
+                        }
+                    ],
+                    "phonetic": "คืน นี้",
+                    "word": "คืนนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] free ; empty ; vacant"
+                        }
+                    ],
+                    "phonetic": "ว่าง",
+                    "word": "ว่าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 7219,
+        "exampleSentences": [
+            {
+                "engSentence": "What are you doing today ?",
+                "id": 11848,
+                "thaiSentence": "วันนี้คุณว่างหรือเปล่า",
+                "thaiSentenceSpaced": " วันนี้ คุณ ว่าง หรือเปล่า "
+            },
+            {
+                "engSentence": "Are you free tonight ?",
+                "id": 73983,
+                "thaiSentence": "คุณว่างไหมคืนนี้",
+                "thaiSentenceSpaced": " คุณ ว่าง ไหม คืนนี้ "
+            },
+            {
+                "engSentence": "Are you free tonight ?",
+                "id": 74321,
+                "thaiSentence": "คุณว่างหรือเปล่าคืนนี้",
+                "thaiSentenceSpaced": " คุณ ว่าง หรือเปล่า คืนนี้ "
+            },
+            {
+                "engSentence": "Are you free now ?",
+                "id": 83681,
+                "thaiSentence": "ตอนนี้คุณว่างหรือเปล่า",
+                "thaiSentenceSpaced": " ตอนนี้ คุณ ว่าง หรือเปล่า "
+            },
+            {
+                "engSentence": "Are you free tonight ?",
+                "id": 127394,
+                "thaiSentence": "คืนนี้ ลูกพี่ว่างไหม",
+                "thaiSentenceSpaced": " คืนนี้  &middot;  ลูก พี่ ว่าง ไหม "
+            },
+            {
+                "engSentence": "What are you doing tonight ?",
+                "id": 141501,
+                "thaiSentence": "คืนนี้คุณว่างหรือเปล่าครับ",
+                "thaiSentenceSpaced": " คืนนี้ คุณ ว่าง หรือเปล่า ครับ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1399337,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] free",
+                        "word": "free"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "empty",
+                        "word": "empty"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "vacant",
+                        "word": "vacant"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 42766,
+                        "corpusScore": 1382,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11053,
+                        "legacyWordId": 1291876,
+                        "meaning": "gap",
+                        "parentId": 11053,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ช่อง ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ช่องว่าง"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 870,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41110,
+                        "legacyWordId": 1323563,
+                        "meaning": "space ; blank ; gap",
+                        "parentId": 41110,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ที่ ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่ว่าง"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 862,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4036,
+                        "legacyWordId": 1400508,
+                        "meaning": "free time ; leisure time ; recreational time",
+                        "parentId": 4036,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เว-ลา ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เวลาว่าง"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 707,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41984,
+                        "legacyWordId": 1399373,
+                        "meaning": "[to be] empty ; vacant ; blank",
+                        "parentId": 41984,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ว่าง เปฺล่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ว่างเปล่า"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 464,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29342,
+                        "legacyWordId": 1387156,
+                        "meaning": "[to] be busy ; be not free",
+                        "parentId": 29342,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไม่ ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ว่าง"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 464,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15449,
+                        "legacyWordId": 1387156,
+                        "meaning": "[to] be full",
+                        "parentId": 15449,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไม่ ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ว่าง"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 375,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397518,
+                        "legacyWordId": 1287590,
+                        "meaning": "hobby",
+                        "parentId": 397518,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานว่าง"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 341,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42767,
+                        "legacyWordId": 1399350,
+                        "meaning": "[to be] unemployed ; out of work",
+                        "parentId": 42767,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ว่าง งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ว่างงาน"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 264,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38390,
+                        "legacyWordId": 1454543,
+                        "meaning": "snack ; refreshment",
+                        "parentId": 38390,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-หาน ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาหารว่าง"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 215,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7635,
+                        "legacyWordId": 1282639,
+                        "meaning": "emptiness ; vacantness ; void",
+                        "parentId": 7635,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความว่าง"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 157,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8013,
+                        "legacyWordId": 1275446,
+                        "meaning": "snack",
+                        "parentId": 8013,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ของ ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ของว่าง"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 136,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48064,
+                        "legacyWordId": 1320841,
+                        "meaning": "[to] have an empty stomach",
+                        "parentId": 48064,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ท้อง ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ท้องว่าง"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 133,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37442,
+                        "legacyWordId": 1399397,
+                        "meaning": "[to] free ; cease ; abstain",
+                        "parentId": 37442,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ว่าง เว้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ว่างเว้น"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 79,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 93933,
+                        "legacyWordId": 1378892,
+                        "meaning": "unallocated",
+                        "parentId": 93933,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พื้น ที่ ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พื้นที่ว่าง"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 45,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24138,
+                        "legacyWordId": 1317406,
+                        "meaning": "vacancy",
+                        "parentId": 24138,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตำ-แหฺน่ง ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตำแหน่งว่าง"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 33,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 86208,
+                        "legacyWordId": 1413889,
+                        "meaning": "blank",
+                        "parentId": 86208,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น่า ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หน้าว่าง"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 17,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395476,
+                        "legacyWordId": 1317396,
+                        "meaning": "vacancy",
+                        "parentId": 395476,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตำ-แหฺน่ง งาน ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตำแหน่งงานว่าง"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 6,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31682,
+                        "legacyWordId": 1285945,
+                        "meaning": "snack ; potluck ; refreshments",
+                        "parentId": 31682,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เคฺรื่อง ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เครื่องว่าง"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 4,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401626,
+                        "legacyWordId": 1372443,
+                        "meaning": "[to] be spacious ; be empty ; be vast",
+                        "parentId": 401626,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เปฺล่า ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เปล่าว่าง"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 86419,
+                        "legacyWordId": 1319993,
+                        "meaning": "clear band",
+                        "parentId": 86419,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แถบ ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แถบว่าง"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 86733,
+                        "legacyWordId": 1400510,
+                        "meaning": "dead time",
+                        "parentId": 86733,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เว-ลา เว้น ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เวลาเว้นว่าง"
+                    },
+                    {
+                        "childId": 42766,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24318,
+                        "legacyWordId": 1323513,
+                        "meaning": "waste lands",
+                        "parentId": 24318,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ที่ รก ร้าง ว่าง เปฺล่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่รกร้างว่างเปล่า"
+                    }
+                ],
+                "explanation": null,
+                "id": 42766,
+                "isUncommon": false,
+                "meaning": "[to be] free ; empty ; vacant",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "ว่าง"
+            }
+        ],
+        "t2e": "ว่าง",
+        "verified": null,
+        "word": "ว่าง"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

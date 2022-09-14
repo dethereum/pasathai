@@ -1,0 +1,107 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 4112,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1400648,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "Vietnam",
+                        "word": "Vietnam"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 45192,
+                        "corpusScore": 320,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50680,
+                        "legacyWordId": 1368680,
+                        "meaning": "Vietnam",
+                        "parentId": 50680,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด เวียด-นาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศเวียดนาม"
+                    },
+                    {
+                        "childId": 45192,
+                        "corpusScore": 270,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 51830,
+                        "legacyWordId": 1402218,
+                        "meaning": "Vietnam War",
+                        "parentId": 51830,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สง-คฺราม เวียด-นาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สงครามเวียดนาม"
+                    },
+                    {
+                        "childId": 45192,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102967,
+                        "legacyWordId": 1406773,
+                        "meaning": "Socialist Republic of Vietnam",
+                        "parentId": 102967,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สา-ทา-ระ-นะ รัด สัง-คม นิ-ยม เวียด-นาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สาธารณรัฐสังคมนิยมเวียดนาม"
+                    },
+                    {
+                        "childId": 45192,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50852,
+                        "legacyWordId": 1380935,
+                        "meaning": "Vietnam national football team",
+                        "parentId": 50852,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ฟุด บอน ทีม ชาด เวียด-นาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ฟุตบอลทีมชาติเวียดนาม"
+                    }
+                ],
+                "explanation": null,
+                "id": 45192,
+                "isUncommon": false,
+                "meaning": "Vietnam",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "เวียดนาม"
+            }
+        ],
+        "t2e": "เวียด-นาม",
+        "verified": null,
+        "word": "เวียดนาม"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

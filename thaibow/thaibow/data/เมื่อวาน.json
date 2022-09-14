@@ -1,0 +1,476 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "Yesterday I waited for you.",
+            "id": 82009,
+            "phonetic": "เมื่อ วาน ฉัน ก้อ รอ คุน",
+            "thaiSentence": "เมื่อวานฉันก็รอคุณ",
+            "thaiSentenceSpaced": " เมื่อวาน ฉัน ก็ รอ คุณ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yesterday"
+                        }
+                    ],
+                    "phonetic": "เมื่อ วาน",
+                    "word": "เมื่อวาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wait (for)"
+                        }
+                    ],
+                    "phonetic": "รอ",
+                    "word": "รอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                }
+            ]
+        },
+        {
+            "engSentence": "How did it go yesterday ?",
+            "id": 112920,
+            "phonetic": "เมื่อ วาน เป็น ยัง ไง บ้าง",
+            "thaiSentence": "เมื่อวานเป็นยังไงบ้าง",
+            "thaiSentenceSpaced": " เมื่อวาน เป็น ยังไง บ้าง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yesterday"
+                        }
+                    ],
+                    "phonetic": "เมื่อ วาน",
+                    "word": "เมื่อวาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "ยัง ไง",
+                    "word": "ยังไง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "some ; any"
+                        }
+                    ],
+                    "phonetic": "บ้าง",
+                    "word": "บ้าง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Something came up yesterday ?",
+            "id": 114891,
+            "phonetic": "เมื่อ วาน มี อะ-ไร หฺรือ เปฺล่า",
+            "thaiSentence": "เมื่อวานมีอะไรหรือเปล่า",
+            "thaiSentenceSpaced": " เมื่อวาน มี อะไร หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yesterday"
+                        }
+                    ],
+                    "phonetic": "เมื่อ วาน",
+                    "word": "เมื่อวาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "Hey, how was it yesterday ?",
+            "id": 190412,
+            "phonetic": "เฮ้ · เมื่อ วาน เป็น ไง บ้าง",
+            "thaiSentence": "เฮ้ เมื่อวานเป็นไงบ้าง",
+            "thaiSentenceSpaced": " เฮ้  ·  เมื่อวาน เป็นไงบ้าง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hey!"
+                        }
+                    ],
+                    "phonetic": "เฮ้",
+                    "word": "เฮ้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yesterday"
+                        }
+                    ],
+                    "phonetic": "เมื่อ วาน",
+                    "word": "เมื่อวาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how are you ; how's things"
+                        }
+                    ],
+                    "phonetic": "เป็น ไง บ้าง",
+                    "word": "เป็นไงบ้าง"
+                }
+            ]
+        },
+        {
+            "engSentence": "I was happy yesterday.",
+            "id": 195313,
+            "phonetic": "เมื่อ วาน เป็น วัน ที่ ฉัน มี คฺวาม สุก",
+            "thaiSentence": "เมื่อวานเป็นวันที่ฉันมีความสุข",
+            "thaiSentenceSpaced": " เมื่อวาน เป็น วันที่ ฉัน มีความสุข ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yesterday"
+                        }
+                    ],
+                    "phonetic": "เมื่อ วาน",
+                    "word": "เมื่อวาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "date"
+                        },
+                        {
+                            "meaning": "the day that"
+                        }
+                    ],
+                    "phonetic": "วัน ที่",
+                    "word": "วันที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be happy"
+                        }
+                    ],
+                    "phonetic": "มี คฺวาม สุก",
+                    "word": "มีความสุข"
+                }
+            ]
+        },
+        {
+            "engSentence": "What did I say yesterday ?",
+            "id": 247197,
+            "phonetic": "เมื่อ วาน ฉัน พูด อะ-ไร ออก ไป",
+            "thaiSentence": "เมื่อวานฉันพูดอะไรออกไป",
+            "thaiSentenceSpaced": " เมื่อวาน ฉัน พูด อะไร ออกไป ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yesterday"
+                        }
+                    ],
+                    "phonetic": "เมื่อ วาน",
+                    "word": "เมื่อวาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] talk ; say ; speak"
+                        }
+                    ],
+                    "phonetic": "พูด",
+                    "word": "พูด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "go out"
+                        }
+                    ],
+                    "phonetic": "ออก ไป",
+                    "word": "ออกไป"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 1738,
+        "exampleSentences": [
+            {
+                "engSentence": "Yesterday I waited for you.",
+                "id": 82009,
+                "thaiSentence": "เมื่อวานฉันก็รอคุณ",
+                "thaiSentenceSpaced": " เมื่อวาน ฉัน ก็ รอ คุณ "
+            },
+            {
+                "engSentence": "How did it go yesterday ?",
+                "id": 112920,
+                "thaiSentence": "เมื่อวานเป็นยังไงบ้าง",
+                "thaiSentenceSpaced": " เมื่อวาน เป็น ยังไง บ้าง "
+            },
+            {
+                "engSentence": "Something came up yesterday ?",
+                "id": 114891,
+                "thaiSentence": "เมื่อวานมีอะไรหรือเปล่า",
+                "thaiSentenceSpaced": " เมื่อวาน มี อะไร หรือเปล่า "
+            },
+            {
+                "engSentence": "Hey, how was it yesterday ?",
+                "id": 190412,
+                "thaiSentence": "เฮ้ เมื่อวานเป็นไงบ้าง",
+                "thaiSentenceSpaced": " เฮ้  &middot;  เมื่อวาน เป็นไงบ้าง "
+            },
+            {
+                "engSentence": "I was happy yesterday.",
+                "id": 195313,
+                "thaiSentence": "เมื่อวานเป็นวันที่ฉันมีความสุข",
+                "thaiSentenceSpaced": " เมื่อวาน เป็น วันที่ ฉัน มีความสุข "
+            },
+            {
+                "engSentence": "What did I say yesterday ?",
+                "id": 247197,
+                "thaiSentence": "เมื่อวานฉันพูดอะไรออกไป",
+                "thaiSentenceSpaced": " เมื่อวาน ฉัน พูด อะไร ออกไป "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1385560,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 5828,
+                        "corpusScore": 122723,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 5828,
+                        "legacyWordId": 1385235,
+                        "meaning": "when ; at the time ; at",
+                        "parentId": 23497,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "เมื่อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เมื่อ"
+                    },
+                    {
+                        "childId": 26336,
+                        "corpusScore": 2836,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26336,
+                        "legacyWordId": 1399459,
+                        "meaning": "yesterday",
+                        "parentId": 23497,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "วาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วาน"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "yesterday",
+                        "word": "yesterday"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 23497,
+                        "corpusScore": 315,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41197,
+                        "legacyWordId": 1385563,
+                        "meaning": "yesterday",
+                        "parentId": 41197,
+                        "partOfSpeech": "None",
+                        "t2e": "เมื่อ วาน นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เมื่อวานนี้"
+                    }
+                ],
+                "explanation": null,
+                "id": 23497,
+                "isUncommon": false,
+                "meaning": "yesterday",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "เมื่อวาน"
+            }
+        ],
+        "t2e": "เมื่อ วาน",
+        "verified": null,
+        "word": "เมื่อวาน"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

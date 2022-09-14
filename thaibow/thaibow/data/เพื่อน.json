@@ -1,0 +1,853 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "What if a friend comes ?",
+            "id": 5555,
+            "phonetic": "ถ้า เพื่อน เทอ มา ล่ะ",
+            "thaiSentence": "ถ้าเพื่อนเธอมาล่ะ",
+            "thaiSentenceSpaced": " ถ้า เพื่อน เธอ มา ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "if"
+                        }
+                    ],
+                    "phonetic": "ถ้า",
+                    "word": "ถ้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "friend ; mate ; pal"
+                        }
+                    ],
+                    "phonetic": "เพื่อน",
+                    "word": "เพื่อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "เทอ",
+                    "word": "เธอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You and your friends.",
+            "id": 13513,
+            "phonetic": "คุน และ เพื่อน ของ คุน",
+            "thaiSentence": "คุณและเพื่อนของคุณ",
+            "thaiSentenceSpaced": " คุณ และ เพื่อน ของคุณ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and"
+                        }
+                    ],
+                    "phonetic": "และ",
+                    "word": "และ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "friend ; mate ; pal"
+                        }
+                    ],
+                    "phonetic": "เพื่อน",
+                    "word": "เพื่อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "your ; of you"
+                        }
+                    ],
+                    "phonetic": "ของ คุน",
+                    "word": "ของคุณ"
+                }
+            ]
+        },
+        {
+            "engSentence": "My only friend.",
+            "id": 15081,
+            "phonetic": "เพื่อน เพียง คน เดียว ของ ผม",
+            "thaiSentence": "เพื่อนเพียงคนเดียวของผม",
+            "thaiSentenceSpaced": " เพื่อน เพียง คนเดียว ของ ผม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "friend ; mate ; pal"
+                        }
+                    ],
+                    "phonetic": "เพื่อน",
+                    "word": "เพื่อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "alone ; by oneself"
+                        }
+                    ],
+                    "phonetic": "เพียง คน เดียว",
+                    "word": "เพียงคนเดียว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                }
+            ]
+        },
+        {
+            "engSentence": "No, a friend of mine.",
+            "id": 27257,
+            "phonetic": "เปฺล่า · มา กับ เพื่อน นะ",
+            "thaiSentence": "เปล่า มากับเพื่อนนะ",
+            "thaiSentenceSpaced": " เปล่า  ·  มา กับ เพื่อน นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "เปฺล่า",
+                    "word": "เปล่า"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "with ; together with"
+                        }
+                    ],
+                    "phonetic": "กับ",
+                    "word": "กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "friend ; mate ; pal"
+                        }
+                    ],
+                    "phonetic": "เพื่อน",
+                    "word": "เพื่อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Lots of friends.",
+            "id": 28624,
+            "phonetic": "มี เพื่อน มาก",
+            "thaiSentence": "มีเพื่อนมาก",
+            "thaiSentenceSpaced": " มี เพื่อน มาก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "friend ; mate ; pal"
+                        }
+                    ],
+                    "phonetic": "เพื่อน",
+                    "word": "เพื่อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much ; a lot ; very"
+                        }
+                    ],
+                    "phonetic": "มาก",
+                    "word": "มาก"
+                }
+            ]
+        },
+        {
+            "engSentence": "It hit our friend.",
+            "id": 33444,
+            "phonetic": "มัน ตี เพื่อน เรา นะ",
+            "thaiSentence": "มันตีเพื่อนเรานะ",
+            "thaiSentenceSpaced": " มัน ตี เพื่อน เรา นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] hit ; beat ; strike"
+                        },
+                        {
+                            "meaning": "a.m. <i>(Although the principal meaning of ตี is \"to strike\", it's also used to refer to each hour from 1am to 5am. This comes from a practice in olden times when night watchmen would strike (ตี) a bell on the hour each hour during the night to reassure local residents of their safety and alert them to the time.)</i>"
+                        }
+                    ],
+                    "phonetic": "ตี",
+                    "word": "ตี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "friend ; mate ; pal"
+                        }
+                    ],
+                    "phonetic": "เพื่อน",
+                    "word": "เพื่อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 32845,
+        "exampleSentences": [
+            {
+                "engSentence": "What if a friend comes ?",
+                "id": 5555,
+                "thaiSentence": "ถ้าเพื่อนเธอมาล่ะ",
+                "thaiSentenceSpaced": " ถ้า เพื่อน เธอ มา ล่ะ "
+            },
+            {
+                "engSentence": "You and your friends.",
+                "id": 13513,
+                "thaiSentence": "คุณและเพื่อนของคุณ",
+                "thaiSentenceSpaced": " คุณ และ เพื่อน ของคุณ "
+            },
+            {
+                "engSentence": "My only friend.",
+                "id": 15081,
+                "thaiSentence": "เพื่อนเพียงคนเดียวของผม",
+                "thaiSentenceSpaced": " เพื่อน เพียง คนเดียว ของ ผม "
+            },
+            {
+                "engSentence": "No, a friend of mine.",
+                "id": 27257,
+                "thaiSentence": "เปล่า มากับเพื่อนนะ",
+                "thaiSentenceSpaced": " เปล่า  &middot;  มา กับ เพื่อน นะ "
+            },
+            {
+                "engSentence": "Lots of friends.",
+                "id": 28624,
+                "thaiSentence": "มีเพื่อนมาก",
+                "thaiSentenceSpaced": " มี เพื่อน มาก "
+            },
+            {
+                "engSentence": "It hit our friend.",
+                "id": 33444,
+                "thaiSentence": "มันตีเพื่อนเรานะ",
+                "thaiSentenceSpaced": " มัน ตี เพื่อน เรา นะ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1379820,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "friend",
+                        "word": "friend"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "mate",
+                        "word": "mate"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "pal",
+                        "word": "pal"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 28439,
+                        "corpusScore": 7984,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 45325,
+                        "legacyWordId": 1379853,
+                        "meaning": "friends",
+                        "parentId": 45325,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน เพื่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนๆ"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 2487,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 22017,
+                        "legacyWordId": 1372216,
+                        "meaning": "[to] be friends",
+                        "parentId": 22017,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เป็น เพื่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เป็นเพื่อน"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 2487,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 38834,
+                        "legacyWordId": 1372216,
+                        "meaning": "[to] accompany someone ; go with someone",
+                        "parentId": 38834,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เป็น เพื่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เป็นเพื่อน"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 2196,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25633,
+                        "legacyWordId": 1379836,
+                        "meaning": "neighbor ; neighbour",
+                        "parentId": 25633,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน บ้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนบ้าน"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 677,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42785,
+                        "legacyWordId": 1379852,
+                        "meaning": "[to be] close friend ; best friend",
+                        "parentId": 42785,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "เพื่อน สะ-หฺนิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนสนิท"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 600,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28625,
+                        "legacyWordId": 1379838,
+                        "meaning": "friends ; company",
+                        "parentId": 28625,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน ฝูง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนฝูง"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 562,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30869,
+                        "legacyWordId": 1379849,
+                        "meaning": "valued friend ; bosom friend ; close friend",
+                        "parentId": 30869,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน รัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนรัก"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 300,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25224,
+                        "legacyWordId": 1379840,
+                        "meaning": "fellowman ; fellow creature ; fellowmen",
+                        "parentId": 25224,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน มะ-นุด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนมนุษย์"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 248,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3999,
+                        "legacyWordId": 1379824,
+                        "meaning": "old friend ; former friend",
+                        "parentId": 3999,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน เก่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนเก่า"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 221,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29297,
+                        "legacyWordId": 1379842,
+                        "meaning": "colleague ; co-worker ; associate",
+                        "parentId": 29297,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน ร่วม งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนร่วมงาน"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 206,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46498,
+                        "legacyWordId": 1379839,
+                        "meaning": "friends",
+                        "parentId": 46498,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน พ้อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนพ้อง"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 128,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401719,
+                        "legacyWordId": 1379825,
+                        "meaning": "interlocutor ; conversationalist ; talker",
+                        "parentId": 401719,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน คุย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนคุย"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 113,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22358,
+                        "legacyWordId": 1379831,
+                        "meaning": "close friend ; bosom friend ; intimate friend",
+                        "parentId": 22358,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน ซี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนซี้"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 100,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "Used only when referrring to men",
+                        "hasSoundFile": false,
+                        "id": 49501,
+                        "legacyWordId": 1379830,
+                        "meaning": "friend",
+                        "parentId": 49501,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน ชาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนชาย"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 80,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6378,
+                        "legacyWordId": 1379845,
+                        "meaning": "traveling companion",
+                        "parentId": 6378,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน ร่วม ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนร่วมทาง"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 77,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31080,
+                        "legacyWordId": 1379835,
+                        "meaning": "true friend ; good friend",
+                        "parentId": 31080,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน แท้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนแท้"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 66,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25305,
+                        "legacyWordId": 1379851,
+                        "meaning": "friend",
+                        "parentId": 25305,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนเล่น"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 44,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39288,
+                        "legacyWordId": 1379834,
+                        "meaning": "real friend ; true friend",
+                        "parentId": 39288,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน ตาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนตาย"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 41,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17277,
+                        "legacyWordId": 1379821,
+                        "meaning": "fair-weather friend ; false friend",
+                        "parentId": 17277,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน กิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนกิน"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 40,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24675,
+                        "legacyWordId": 1379843,
+                        "meaning": "classmate",
+                        "parentId": 24675,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน ร่วม ชั้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนร่วมชั้น"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 37,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38844,
+                        "legacyWordId": 1379841,
+                        "meaning": "real friend ; true friend",
+                        "parentId": 38844,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน ยาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนยาก"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 36,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17188,
+                        "legacyWordId": 1379844,
+                        "meaning": "compatriot ; fellow-countryman ; countryman",
+                        "parentId": 17188,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน ร่วม ชาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนร่วมชาติ"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 30,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13486,
+                        "legacyWordId": 1379848,
+                        "meaning": "room-mate ; flatmate",
+                        "parentId": 13486,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน ร่วม ห้อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนร่วมห้อง"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 22,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34790,
+                        "legacyWordId": 1379833,
+                        "meaning": "friend of opposite sex",
+                        "parentId": 34790,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน ต่าง เพด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนต่างเพศ"
+                    },
+                    {
+                        "childId": 28439,
+                        "corpusScore": 18,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39255,
+                        "legacyWordId": 1379832,
+                        "meaning": "traveling companion",
+                        "parentId": 39255,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน เดิน ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนเดินทาง"
+                    }
+                ],
+                "explanation": null,
+                "id": 28439,
+                "isUncommon": false,
+                "meaning": "friend ; mate ; pal",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "เพื่อน"
+            }
+        ],
+        "t2e": "เพื่อน",
+        "verified": null,
+        "word": "เพื่อน"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

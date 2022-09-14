@@ -1,0 +1,558 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Because I choose to.",
+            "id": 62198,
+            "phonetic": "เพฺราะ ว่า ผม เลือก น่ะ สิ",
+            "thaiSentence": "เพราะว่าผมเลือกน่ะสิ",
+            "thaiSentenceSpaced": " เพราะว่า ผม เลือก น่ะ สิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "because ; because of"
+                        }
+                    ],
+                    "phonetic": "เพฺราะ ว่า",
+                    "word": "เพราะว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] choose ; select ; pick"
+                        }
+                    ],
+                    "phonetic": "เลือก",
+                    "word": "เลือก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to after a noun to highlight it as the subject of the sentence, or to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "น่ะ",
+                    "word": "น่ะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Because you love him.",
+            "id": 79898,
+            "phonetic": "เพฺราะ ว่า คุน รัก เขา",
+            "thaiSentence": "เพราะว่าคุณรักเขา",
+            "thaiSentenceSpaced": " เพราะว่า คุณ รัก เขา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "because ; because of"
+                        }
+                    ],
+                    "phonetic": "เพฺราะ ว่า",
+                    "word": "เพราะว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] love"
+                        }
+                    ],
+                    "phonetic": "รัก",
+                    "word": "รัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                }
+            ]
+        },
+        {
+            "engSentence": "Because of the scent on him ?",
+            "id": 113231,
+            "phonetic": "เพฺราะ ว่า กฺลิ่น ของ เขา",
+            "thaiSentence": "เพราะว่ากลิ่นของเขา",
+            "thaiSentenceSpaced": " เพราะว่า กลิ่น ของ เขา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "because ; because of"
+                        }
+                    ],
+                    "phonetic": "เพฺราะ ว่า",
+                    "word": "เพราะว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "smell ; odor ; scent"
+                        }
+                    ],
+                    "phonetic": "กฺลิ่น",
+                    "word": "กลิ่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                }
+            ]
+        },
+        {
+            "engSentence": "Because I had promised you.",
+            "id": 120045,
+            "phonetic": "เพฺราะ ว่า ฉัน ด้าย เคย สัน-ยา กับ คุน แล้ว ยัง ไง ละ",
+            "thaiSentence": "เพราะว่าฉันได้เคยสัญญากับคุณแล้วยังไงละ",
+            "thaiSentenceSpaced": " เพราะว่า ฉัน ได้ เคย สัญญา กับ คุณ แล้ว ยังไง ละ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "because ; because of"
+                        }
+                    ],
+                    "phonetic": "เพฺราะ ว่า",
+                    "word": "เพราะว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "once ; ever ; used to"
+                        }
+                    ],
+                    "phonetic": "เคย",
+                    "word": "เคย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "contract ; agreement ; promise"
+                        },
+                        {
+                            "meaning": "[to] promise ; vow"
+                        }
+                    ],
+                    "phonetic": "สัน-ยา",
+                    "word": "สัญญา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "with ; together with"
+                        }
+                    ],
+                    "phonetic": "กับ",
+                    "word": "กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "ยัง ไง",
+                    "word": "ยังไง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ละ",
+                    "word": "ละ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Because I'm a girl.",
+            "id": 177632,
+            "phonetic": "เพฺราะ ว่า ฉัน คือ เด็ก พู่ หฺยิง",
+            "thaiSentence": "เพราะว่าฉันคือเด็กผู้หญิง",
+            "thaiSentenceSpaced": " เพราะว่า ฉัน คือ เด็กผู้หญิง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "because ; because of"
+                        }
+                    ],
+                    "phonetic": "เพฺราะ ว่า",
+                    "word": "เพราะว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be"
+                        }
+                    ],
+                    "phonetic": "คือ",
+                    "word": "คือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] childish ; immature"
+                        },
+                        {
+                            "meaning": "child ; children"
+                        }
+                    ],
+                    "phonetic": "เด็ก",
+                    "word": "เด็ก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "woman ; lady ; female"
+                        }
+                    ],
+                    "phonetic": "พู่ หฺยิง",
+                    "word": "ผู้หญิง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Because it is normal.",
+            "id": 197822,
+            "phonetic": "เพฺราะ ว่า มัน เป็น เรื่อง ปก-กะ-ติ นะ ซิ",
+            "thaiSentence": "เพราะว่ามันเป็นเรื่องปกตินะซิ",
+            "thaiSentenceSpaced": " เพราะว่า มัน เป็น เรื่องปกติ นะ ซิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "because ; because of"
+                        }
+                    ],
+                    "phonetic": "เพฺราะ ว่า",
+                    "word": "เพราะว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be ; become ; be about"
+                        },
+                        {
+                            "meaning": "[to] get into trouble ; make a mess of things"
+                        }
+                    ],
+                    "phonetic": "เป็น เรื่อง",
+                    "word": "เป็นเรื่อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "usually ; normally ; commonly"
+                        },
+                        {
+                            "meaning": "[to be] normal ; ordinary"
+                        }
+                    ],
+                    "phonetic": "ปก-กะ-ติ",
+                    "word": "ปกติ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "ซิ",
+                    "word": "ซิ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 5136,
+        "exampleSentences": [
+            {
+                "engSentence": "Because I choose to.",
+                "id": 62198,
+                "thaiSentence": "เพราะว่าผมเลือกน่ะสิ",
+                "thaiSentenceSpaced": " เพราะว่า ผม เลือก น่ะ สิ "
+            },
+            {
+                "engSentence": "Because you love him.",
+                "id": 79898,
+                "thaiSentence": "เพราะว่าคุณรักเขา",
+                "thaiSentenceSpaced": " เพราะว่า คุณ รัก เขา "
+            },
+            {
+                "engSentence": "Because of the scent on him ?",
+                "id": 113231,
+                "thaiSentence": "เพราะว่ากลิ่นของเขา",
+                "thaiSentenceSpaced": " เพราะว่า กลิ่น ของ เขา "
+            },
+            {
+                "engSentence": "Because I had promised you.",
+                "id": 120045,
+                "thaiSentence": "เพราะว่าฉันได้เคยสัญญากับคุณแล้วยังไงละ",
+                "thaiSentenceSpaced": " เพราะว่า ฉัน ได้ เคย สัญญา กับ คุณ แล้ว ยังไง ละ "
+            },
+            {
+                "engSentence": "Because I'm a girl.",
+                "id": 177632,
+                "thaiSentence": "เพราะว่าฉันคือเด็กผู้หญิง",
+                "thaiSentenceSpaced": " เพราะว่า ฉัน คือ เด็กผู้หญิง "
+            },
+            {
+                "engSentence": "Because it is normal.",
+                "id": 197822,
+                "thaiSentence": "เพราะว่ามันเป็นเรื่องปกตินะซิ",
+                "thaiSentenceSpaced": " เพราะว่า มัน เป็น เรื่องปกติ นะ ซิ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1379582,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 47703,
+                        "corpusScore": 127961,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 47703,
+                        "legacyWordId": 1379573,
+                        "meaning": "because ; because of",
+                        "parentId": 39256,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "เพฺราะ",
+                        "usage": "",
+                        "verified": "เพฺราะ",
+                        "word": "เพราะ"
+                    },
+                    {
+                        "childId": 45671,
+                        "corpusScore": 396349,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 45671,
+                        "legacyWordId": 1399316,
+                        "meaning": "that",
+                        "parentId": 39256,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ว่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ว่า"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "because",
+                        "word": "because"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "because of",
+                        "word": "because of"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 39256,
+                        "corpusScore": 283,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 447,
+                        "legacyWordId": 1263337,
+                        "meaning": "because ; as ; since",
+                        "parentId": 447,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ก้อ เพฺราะ ว่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ก็เพราะว่า"
+                    }
+                ],
+                "explanation": null,
+                "id": 39256,
+                "isUncommon": false,
+                "meaning": "because ; because of",
+                "partOfSpeech": "Conjunction",
+                "usage": "",
+                "word": "เพราะว่า"
+            }
+        ],
+        "t2e": "เพฺราะ ว่า",
+        "verified": null,
+        "word": "เพราะว่า"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

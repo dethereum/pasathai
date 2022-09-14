@@ -1,0 +1,867 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "I am four.",
+            "id": 32441,
+            "phonetic": "สี่ ขวบ ค่ะ",
+            "thaiSentence": "สี่ขวบค่ะ",
+            "thaiSentenceSpaced": " สี่ ขวบ ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "four"
+                        }
+                    ],
+                    "phonetic": "สี่",
+                    "word": "สี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "years old ; years of age <i>(ขวบ is only used to refer to the ages of children approximately 12 years old or younger. For anyone older, ปี is used instead.)</i>"
+                        }
+                    ],
+                    "phonetic": "ขวบ",
+                    "word": "ขวบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "She'd be about four now.",
+            "id": 32444,
+            "phonetic": "ตอน-นี้ ก้อ คง สี่ ขวบ",
+            "thaiSentence": "ตอนนี้ก็คงสี่ขวบ",
+            "thaiSentenceSpaced": " ตอนนี้ ก็ คง สี่ ขวบ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "now ; right now ; at this moment"
+                        }
+                    ],
+                    "phonetic": "ตอน-นี้",
+                    "word": "ตอนนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "may ; will probably ; might"
+                        }
+                    ],
+                    "phonetic": "คง",
+                    "word": "คง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "four"
+                        }
+                    ],
+                    "phonetic": "สี่",
+                    "word": "สี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "years old ; years of age <i>(ขวบ is only used to refer to the ages of children approximately 12 years old or younger. For anyone older, ปี is used instead.)</i>"
+                        }
+                    ],
+                    "phonetic": "ขวบ",
+                    "word": "ขวบ"
+                }
+            ]
+        },
+        {
+            "engSentence": "All four of you.",
+            "id": 50739,
+            "phonetic": "คุน ทั้ง หฺมด สี่ คน",
+            "thaiSentence": "คุณทั้งหมดสี่คน",
+            "thaiSentenceSpaced": " คุณ ทั้งหมด สี่ คน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "absolutely ; all ; total"
+                        }
+                    ],
+                    "phonetic": "ทั้ง หฺมด",
+                    "word": "ทั้งหมด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "four"
+                        }
+                    ],
+                    "phonetic": "สี่",
+                    "word": "สี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                }
+            ]
+        },
+        {
+            "engSentence": "Play with me for four hours.",
+            "id": 131899,
+            "phonetic": "เล่น กับ ฉัน ซัก สี่ ชั่ว โมง นะ",
+            "thaiSentence": "เล่นกับฉันซักสี่ชั่วโมงนะ",
+            "thaiSentenceSpaced": " เล่น กับ ฉัน ซัก สี่ ชั่วโมง นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] play"
+                        }
+                    ],
+                    "phonetic": "เล่น",
+                    "word": "เล่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "with ; together with"
+                        }
+                    ],
+                    "phonetic": "กับ",
+                    "word": "กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "just ; about ; around <i>(often implying \"as little as...\")</i>"
+                        }
+                    ],
+                    "phonetic": "ซัก",
+                    "word": "ซัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "four"
+                        }
+                    ],
+                    "phonetic": "สี่",
+                    "word": "สี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] bad ; evil ; wicked"
+                        },
+                        {
+                            "meaning": "throughout ; during ; in every part of"
+                        }
+                    ],
+                    "phonetic": "ชั่ว",
+                    "word": "ชั่ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hour ; o'clock"
+                        }
+                    ],
+                    "phonetic": "โมง",
+                    "word": "โมง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "There will not be a four.",
+            "id": 172735,
+            "phonetic": "จะ ไม่ มี คำ ว่า สี่",
+            "thaiSentence": "จะไม่มีคำว่าสี่",
+            "thaiSentenceSpaced": " จะ ไม่มี คำว่า สี่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] don't have ; there isn't"
+                        }
+                    ],
+                    "phonetic": "ไม่ มี",
+                    "word": "ไม่มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "the word"
+                        }
+                    ],
+                    "phonetic": "คำ ว่า",
+                    "word": "คำว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "four"
+                        }
+                    ],
+                    "phonetic": "สี่",
+                    "word": "สี่"
+                }
+            ]
+        },
+        {
+            "engSentence": "Four servings, okay ?",
+            "id": 176509,
+            "phonetic": "สำ-หฺรับ สี่ ที่ ตก ลง ไหฺม",
+            "thaiSentence": "สำหรับสี่ที่ ตกลงไหม",
+            "thaiSentenceSpaced": " สำหรับ สี่ ที่ ตกลง ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "for ; to ; on behalf of"
+                        }
+                    ],
+                    "phonetic": "สำ-หฺรับ",
+                    "word": "สำหรับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "four"
+                        }
+                    ],
+                    "phonetic": "สี่",
+                    "word": "สี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] fall down"
+                        },
+                        {
+                            "meaning": "OK ; okay then ; sure"
+                        },
+                        {
+                            "meaning": "[to] be OK ; agree"
+                        }
+                    ],
+                    "phonetic": "ตก ลง",
+                    "word": "ตกลง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 8825,
+        "exampleSentences": [
+            {
+                "engSentence": "I am four.",
+                "id": 32441,
+                "thaiSentence": "สี่ขวบค่ะ",
+                "thaiSentenceSpaced": " สี่ ขวบ ค่ะ "
+            },
+            {
+                "engSentence": "She'd be about four now.",
+                "id": 32444,
+                "thaiSentence": "ตอนนี้ก็คงสี่ขวบ",
+                "thaiSentenceSpaced": " ตอนนี้ ก็ คง สี่ ขวบ "
+            },
+            {
+                "engSentence": "All four of you.",
+                "id": 50739,
+                "thaiSentence": "คุณทั้งหมดสี่คน",
+                "thaiSentenceSpaced": " คุณ ทั้งหมด สี่ คน "
+            },
+            {
+                "engSentence": "Play with me for four hours.",
+                "id": 131899,
+                "thaiSentence": "เล่นกับฉันซักสี่ชั่วโมงนะ",
+                "thaiSentenceSpaced": " เล่น กับ ฉัน ซัก สี่ ชั่วโมง นะ "
+            },
+            {
+                "engSentence": "There will not be a four.",
+                "id": 172735,
+                "thaiSentence": "จะไม่มีคำว่าสี่",
+                "thaiSentenceSpaced": " จะ ไม่มี คำว่า สี่ "
+            },
+            {
+                "engSentence": "Four servings, okay ?",
+                "id": 176509,
+                "thaiSentence": "สำหรับสี่ที่ ตกลงไหม",
+                "thaiSentenceSpaced": " สำหรับ สี่ ที่ ตกลง ไหม "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1408377,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "four",
+                        "word": "four"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 341,
+                        "corpusScore": 1464,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3572,
+                        "legacyWordId": 1408641,
+                        "meaning": "square",
+                        "parentId": 3572,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "สี่ เหฺลี่ยม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สี่เหลี่ยม"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 996,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23051,
+                        "legacyWordId": 1408507,
+                        "meaning": "square",
+                        "parentId": 23051,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สี่ แยก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สี่แยก"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 670,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8164,
+                        "legacyWordId": 1323580,
+                        "meaning": "fourth",
+                        "parentId": 8164,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ที่ สี่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่สี่"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 326,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102691,
+                        "legacyWordId": 1408618,
+                        "meaning": "fourty ; 40",
+                        "parentId": 102691,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สี่ สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สี่สิบ"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 196,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102704,
+                        "legacyWordId": 1408491,
+                        "meaning": "four thousand ; 4000",
+                        "parentId": 102704,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สี่ พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สี่พัน"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 194,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102749,
+                        "legacyWordId": 1408448,
+                        "meaning": "10pm",
+                        "parentId": 102749,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สี่ ทุ่ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สี่ทุ่ม"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 160,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102683,
+                        "legacyWordId": 1408338,
+                        "meaning": "fourteen",
+                        "parentId": 102683,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สิบ สี่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบสี่"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 158,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47061,
+                        "legacyWordId": 1317685,
+                        "meaning": "4 a.m.",
+                        "parentId": 47061,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตี สี่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตีสี่"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 116,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102714,
+                        "legacyWordId": 1408634,
+                        "meaning": "fourty thousand ; 40,000",
+                        "parentId": 102714,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สี่ หฺมื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สี่หมื่น"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 85,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102697,
+                        "legacyWordId": 1408530,
+                        "meaning": "four hundred ; 400",
+                        "parentId": 102697,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สี่ ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สี่ร้อย"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 62,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35628,
+                        "legacyWordId": 1370161,
+                        "meaning": "four requisites",
+                        "parentId": 35628,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปัด-ไจ สี่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปัจจัยสี่"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 57,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19672,
+                        "legacyWordId": 1413985,
+                        "meaning": "one fourth",
+                        "parentId": 19672,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนึ่ง ไน สี่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนึ่งในสี่"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 48,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400744,
+                        "legacyWordId": 1408474,
+                        "meaning": "four fold",
+                        "parentId": 400744,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "สี่ ปฺระ-กาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สี่ประการ"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 43,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400746,
+                        "legacyWordId": 1408656,
+                        "meaning": "four fold",
+                        "parentId": 400746,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "สี่ หฺย่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สี่อย่าง"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 36,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102722,
+                        "legacyWordId": 1408629,
+                        "meaning": "four hundred thousand ; 400,000",
+                        "parentId": 102722,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สี่ แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สี่แสน"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 22,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26288,
+                        "legacyWordId": 1406069,
+                        "meaning": "quadruped",
+                        "parentId": 26288,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สัด สี่ เท้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สัตว์สี่เท้า"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 21,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102773,
+                        "legacyWordId": 1365765,
+                        "meaning": "4pm",
+                        "parentId": 102773,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ่าย สี่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ่ายสี่"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 16,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102732,
+                        "legacyWordId": 1408604,
+                        "meaning": "four million ; 4,000,000",
+                        "parentId": 102732,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สี่ ล้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สี่ล้าน"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 13,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17820,
+                        "legacyWordId": 1409174,
+                        "meaning": "blindly ; ignorantly",
+                        "parentId": 17820,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "สุ่ม สี่ สุ่ม ห้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สุ่มสี่สุ่มห้า"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 13,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102772,
+                        "legacyWordId": 1365766,
+                        "meaning": "4pm",
+                        "parentId": 102772,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ่าย สี่ โมง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ่ายสี่โมง"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 5,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 422896,
+                        "legacyWordId": 1327073,
+                        "meaning": "chrysocolaptes lucidus",
+                        "parentId": 422896,
+                        "partOfSpeech": "Noun",
+                        "t2e": "นก หัว ขฺวาน สี่ นิ้ว หฺลัง ทอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นกหัวขวานสี่นิ้วหลังทอง"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 4,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400281,
+                        "legacyWordId": 1396133,
+                        "meaning": "fourth",
+                        "parentId": 400281,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ลำ-ดับ ที่ สี่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลำดับที่สี่"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 2,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25926,
+                        "legacyWordId": 1401991,
+                        "meaning": "one-fourth",
+                        "parentId": 25926,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เสด หฺนึ่ง ส่วน สี่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เศษหนึ่งส่วนสี่"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 1,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102763,
+                        "legacyWordId": 1408502,
+                        "meaning": "10am",
+                        "parentId": 102763,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สี่ โมง เช้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สี่โมงเช้า"
+                    },
+                    {
+                        "childId": 341,
+                        "corpusScore": 1,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 58885,
+                        "legacyWordId": 1408630,
+                        "meaning": "Four Beauties",
+                        "parentId": 58885,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สี่ หฺยิง งาม แห่ง แผ่น ดิน จีน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สี่หญิงงามแห่งแผ่นดินจีน"
+                    }
+                ],
+                "explanation": null,
+                "id": 341,
+                "isUncommon": false,
+                "meaning": "four",
+                "partOfSpeech": "Quantifier",
+                "usage": "",
+                "word": "สี่"
+            }
+        ],
+        "t2e": "สี่",
+        "verified": null,
+        "word": "สี่"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

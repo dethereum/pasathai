@@ -1,0 +1,541 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Sorry for what ?",
+            "id": 1510,
+            "phonetic": "ขอ โทด อะ-ไร",
+            "thaiSentence": "ขอโทษอะไร",
+            "thaiSentenceSpaced": " ขอโทษ อะไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sorry ! ; excuse me !"
+                        },
+                        {
+                            "meaning": "[to] apologize ; say sorry <i>(ขอโทษ is \"sorry\" in the sense of making an apology; for \"sorry\" in the sense of offering sympathy เสียใจ is used instead.)</i>"
+                        }
+                    ],
+                    "phonetic": "ขอ โทด",
+                    "word": "ขอโทษ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "Sorry to make you wait.",
+            "id": 4836,
+            "phonetic": "ขอ โทด ที่ ทำ ไห้ ต้อง รอ นะ คะ",
+            "thaiSentence": "ขอโทษที่ทำให้ต้องรอนะคะ",
+            "thaiSentenceSpaced": " ขอโทษ ที่ ทำให้ ต้อง รอ นะ คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sorry ! ; excuse me !"
+                        },
+                        {
+                            "meaning": "[to] apologize ; say sorry <i>(ขอโทษ is \"sorry\" in the sense of making an apology; for \"sorry\" in the sense of offering sympathy เสียใจ is used instead.)</i>"
+                        }
+                    ],
+                    "phonetic": "ขอ โทด",
+                    "word": "ขอโทษ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] cause ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ ไห้",
+                    "word": "ทำให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wait (for)"
+                        }
+                    ],
+                    "phonetic": "รอ",
+                    "word": "รอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Sorry for the dust.",
+            "id": 5074,
+            "phonetic": "ขอ โทด เรื่อง ฝุ่น ด้วย",
+            "thaiSentence": "ขอโทษเรื่องฝุ่นด้วย",
+            "thaiSentenceSpaced": " ขอโทษ เรื่อง ฝุ่น ด้วย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sorry ! ; excuse me !"
+                        },
+                        {
+                            "meaning": "[to] apologize ; say sorry <i>(ขอโทษ is \"sorry\" in the sense of making an apology; for \"sorry\" in the sense of offering sympathy เสียใจ is used instead.)</i>"
+                        }
+                    ],
+                    "phonetic": "ขอ โทด",
+                    "word": "ขอโทษ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "matter ; affair ; thing <i>(เรื่อง is the classifier for a movie, story or tale.)</i>"
+                        },
+                        {
+                            "meaning": "about ; regarding ; concerning"
+                        },
+                        {
+                            "meaning": "problem ; trouble"
+                        }
+                    ],
+                    "phonetic": "เรื่อง",
+                    "word": "เรื่อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "dust ; powder"
+                        }
+                    ],
+                    "phonetic": "ฝุ่น",
+                    "word": "ฝุ่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Sorry . I've already eaten.",
+            "id": 5708,
+            "phonetic": "ขอ โทด ที · ฉัน ทาน เรียบ ร้อย แล้ว",
+            "thaiSentence": "ขอโทษที ฉันทานเรียบร้อยแล้ว",
+            "thaiSentenceSpaced": " ขอโทษ ที  ·  ฉัน ทาน เรียบร้อยแล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask for ; request for ; ask"
+                        }
+                    ],
+                    "phonetic": "ขอ",
+                    "word": "ขอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sorry ; excuse me"
+                        }
+                    ],
+                    "phonetic": "โทด ที",
+                    "word": "โทษที"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] eat"
+                        }
+                    ],
+                    "phonetic": "ทาน",
+                    "word": "ทาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(of a task)</i> [to be] ready ; finish ; completed"
+                        }
+                    ],
+                    "phonetic": "เรียบ ร้อย แล้ว",
+                    "word": "เรียบร้อยแล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am sorry.",
+            "id": 6626,
+            "phonetic": "ขอ โทด ที",
+            "thaiSentence": "ขอโทษที",
+            "thaiSentenceSpaced": " ขอโทษ ที ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask for ; request for ; ask"
+                        }
+                    ],
+                    "phonetic": "ขอ",
+                    "word": "ขอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sorry ; excuse me"
+                        }
+                    ],
+                    "phonetic": "โทด ที",
+                    "word": "โทษที"
+                }
+            ]
+        },
+        {
+            "engSentence": "Sorry for the intrusion.",
+            "id": 7203,
+            "phonetic": "ขอ โทด ที่ มา ขัด จัง-หฺวะ นะ",
+            "thaiSentence": "ขอโทษที่มาขัดจังหวะนะ",
+            "thaiSentenceSpaced": " ขอโทษ ที่มา ขัดจังหวะ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sorry ! ; excuse me !"
+                        },
+                        {
+                            "meaning": "[to] apologize ; say sorry <i>(ขอโทษ is \"sorry\" in the sense of making an apology; for \"sorry\" in the sense of offering sympathy เสียใจ is used instead.)</i>"
+                        }
+                    ],
+                    "phonetic": "ขอ โทด",
+                    "word": "ขอโทษ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "origin ; source ; cause"
+                        }
+                    ],
+                    "phonetic": "ที่ มา",
+                    "word": "ที่มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] interrupt ; break"
+                        }
+                    ],
+                    "phonetic": "ขัด จัง-หฺวะ",
+                    "word": "ขัดจังหวะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 2600,
+        "exampleSentences": [
+            {
+                "engSentence": "Sorry for what ?",
+                "id": 1510,
+                "thaiSentence": "ขอโทษอะไร",
+                "thaiSentenceSpaced": " ขอโทษ อะไร "
+            },
+            {
+                "engSentence": "Sorry to make you wait.",
+                "id": 4836,
+                "thaiSentence": "ขอโทษที่ทำให้ต้องรอนะคะ",
+                "thaiSentenceSpaced": " ขอโทษ ที่ ทำให้ ต้อง รอ นะ คะ "
+            },
+            {
+                "engSentence": "Sorry for the dust.",
+                "id": 5074,
+                "thaiSentence": "ขอโทษเรื่องฝุ่นด้วย",
+                "thaiSentenceSpaced": " ขอโทษ เรื่อง ฝุ่น ด้วย "
+            },
+            {
+                "engSentence": "Sorry . I've already eaten.",
+                "id": 5708,
+                "thaiSentence": "ขอโทษที ฉันทานเรียบร้อยแล้ว",
+                "thaiSentenceSpaced": " ขอโทษ ที  &middot;  ฉัน ทาน เรียบร้อยแล้ว "
+            },
+            {
+                "engSentence": "I am sorry.",
+                "id": 6626,
+                "thaiSentence": "ขอโทษที",
+                "thaiSentenceSpaced": " ขอโทษ ที "
+            },
+            {
+                "engSentence": "Sorry for the intrusion.",
+                "id": 7203,
+                "thaiSentence": "ขอโทษที่มาขัดจังหวะนะ",
+                "thaiSentenceSpaced": " ขอโทษ ที่มา ขัดจังหวะ นะ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1275582,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 7513,
+                        "corpusScore": 81824,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 7513,
+                        "legacyWordId": 1275230,
+                        "meaning": "[to] ask for ; request for ; ask",
+                        "parentId": 49473,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอ"
+                    },
+                    {
+                        "childId": 49522,
+                        "corpusScore": 9078,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49522,
+                        "legacyWordId": 1325481,
+                        "meaning": "punishment ; penalty",
+                        "parentId": 49473,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โทด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โทษ"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "sorry !",
+                        "word": "sorry !"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "excuse me !",
+                        "word": "excuse me !"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 49473,
+                "isUncommon": false,
+                "meaning": "sorry ! ; excuse me !",
+                "partOfSpeech": "Interjection",
+                "usage": "",
+                "word": "ขอโทษ"
+            },
+            {
+                "components": [
+                    {
+                        "childId": 7513,
+                        "corpusScore": 81824,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 7513,
+                        "legacyWordId": 1275230,
+                        "meaning": "[to] ask for ; request for ; ask",
+                        "parentId": 49523,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอ"
+                    },
+                    {
+                        "childId": 49522,
+                        "corpusScore": 9078,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49522,
+                        "legacyWordId": 1325481,
+                        "meaning": "punishment ; penalty",
+                        "parentId": 49523,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โทด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โทษ"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] apologize",
+                        "word": "apologize"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "say sorry",
+                        "word": "say sorry"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 49523,
+                        "corpusScore": 51,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4208,
+                        "legacyWordId": 1284214,
+                        "meaning": "excuse ; pardon",
+                        "parentId": 4208,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ ขอ โทด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำขอโทษ"
+                    },
+                    {
+                        "childId": 49523,
+                        "corpusScore": 20,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 508717,
+                        "legacyWordId": 1267379,
+                        "meaning": "apologies",
+                        "parentId": 508717,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ขอ โทด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การขอโทษ"
+                    }
+                ],
+                "explanation": "ขอโทษ is \"sorry\" in the sense of making an apology; for \"sorry\" in the sense of offering sympathy เสียใจ is used instead.",
+                "id": 49523,
+                "isUncommon": false,
+                "meaning": "[to] apologize ; say sorry",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ขอโทษ"
+            }
+        ],
+        "t2e": "ขอ โทด",
+        "verified": null,
+        "word": "ขอโทษ"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

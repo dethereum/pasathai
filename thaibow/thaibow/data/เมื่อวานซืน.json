@@ -1,0 +1,91 @@
+{
+    "commonessText": "Very rarely",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 34,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1385561,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 5828,
+                        "corpusScore": 122723,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 5828,
+                        "legacyWordId": 1385235,
+                        "meaning": "when ; at the time ; at",
+                        "parentId": 7258,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "เมื่อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เมื่อ"
+                    },
+                    {
+                        "childId": 25570,
+                        "corpusScore": 32,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25570,
+                        "legacyWordId": 1399469,
+                        "meaning": "day before yesterday",
+                        "parentId": 7258,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "วาน-ซืน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วานซืน"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "the day before yesterday",
+                        "word": "the day before yesterday"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 7258,
+                        "corpusScore": 3,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401760,
+                        "legacyWordId": 1385562,
+                        "meaning": "day before yesterday",
+                        "parentId": 401760,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เมื่อ วาน-ซืน นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เมื่อวานซืนนี้"
+                    }
+                ],
+                "explanation": null,
+                "id": 7258,
+                "isUncommon": false,
+                "meaning": "the day before yesterday",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "เมื่อวานซืน"
+            }
+        ],
+        "t2e": "เมื่อ วาน-ซืน",
+        "verified": null,
+        "word": "เมื่อวานซืน"
+    },
+    "greenBarCount": 0,
+    "pageUrl": "",
+    "type": "thai-word"
+}

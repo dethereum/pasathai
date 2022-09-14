@@ -1,0 +1,73 @@
+{
+    "commonessText": "Rarely",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 148,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1366739,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "burger",
+                        "word": "burger"
+                    }
+                ],
+                "etymology": "English",
+                "examples": [
+                    {
+                        "childId": 396,
+                        "corpusScore": 42,
+                        "displayOrder": 1,
+                        "etymology": "English",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20047,
+                        "legacyWordId": 1458453,
+                        "meaning": "hamburger",
+                        "parentId": 20047,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แฮม เบอ-เก้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แฮมเบอร์เกอร์"
+                    },
+                    {
+                        "childId": 396,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 599084,
+                        "legacyWordId": 1366740,
+                        "meaning": "teriyaki chicken burger",
+                        "parentId": 599084,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เบอ-เก้อ ไก่ เทอ-ริ-ยา-กิ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เบอร์เกอร์ไก่เทอริยากิ"
+                    }
+                ],
+                "explanation": null,
+                "id": 396,
+                "isUncommon": false,
+                "meaning": "burger",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "เบอร์เกอร์"
+            }
+        ],
+        "t2e": "เบอ-เก้อ",
+        "verified": null,
+        "word": "เบอร์เกอร์"
+    },
+    "greenBarCount": 1,
+    "pageUrl": "",
+    "type": "thai-word"
+}

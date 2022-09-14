@@ -1,0 +1,812 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "I am normally like this.",
+            "id": 1560,
+            "phonetic": "ปก-กะ-ติ ฉัน ก้อ เป็น หฺย่าง นี้",
+            "thaiSentence": "ปกติฉันก็เป็นอย่างนี้",
+            "thaiSentenceSpaced": " ปกติ ฉัน ก็ เป็น อย่างนี้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "usually ; normally ; commonly"
+                        },
+                        {
+                            "meaning": "[to be] normal ; ordinary"
+                        }
+                    ],
+                    "phonetic": "ปก-กะ-ติ",
+                    "word": "ปกติ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "like this ; in this way"
+                        }
+                    ],
+                    "phonetic": "หฺย่าง นี้",
+                    "word": "อย่างนี้"
+                }
+            ]
+        },
+        {
+            "engSentence": "I meant about being normal.",
+            "id": 50098,
+            "phonetic": "ฉัน หฺมาย ถึง ว่า เป็น แบบ ปก-กะ-ติ นะ",
+            "thaiSentence": "ฉันหมายถึงว่าเป็นแบบปกตินะ",
+            "thaiSentenceSpaced": " ฉัน หมายถึง ว่า เป็น แบบ ปกติ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] mean"
+                        }
+                    ],
+                    "phonetic": "หฺมาย ถึง",
+                    "word": "หมายถึง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        },
+                        {
+                            "meaning": "[to] say ; tell"
+                        },
+                        {
+                            "meaning": "[to] blame ; criticise"
+                        }
+                    ],
+                    "phonetic": "ว่า",
+                    "word": "ว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "model ; style ; way"
+                        },
+                        {
+                            "meaning": "like ; as ; in the same way as"
+                        }
+                    ],
+                    "phonetic": "แบบ",
+                    "word": "แบบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "usually ; normally ; commonly"
+                        },
+                        {
+                            "meaning": "[to be] normal ; ordinary"
+                        }
+                    ],
+                    "phonetic": "ปก-กะ-ติ",
+                    "word": "ปกติ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "We never lived sane anyway.",
+            "id": 129078,
+            "phonetic": "เรา ไม่ เคย ไช้ ชี-วิด หฺย่าง ปก-กะ-ติ หฺยู่ แล้ว นี่",
+            "thaiSentence": "เราไม่เคยใช้ชีวิตอย่างปกติอยู่แล้วนี่",
+            "thaiSentenceSpaced": " เรา ไม่เคย ใช้ชีวิต อย่าง ปกติ อยู่ แล้ว นี่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "never"
+                        }
+                    ],
+                    "phonetic": "ไม่ เคย",
+                    "word": "ไม่เคย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] live ; spend one's life ; make a living"
+                        }
+                    ],
+                    "phonetic": "ไช้ ชี-วิด",
+                    "word": "ใช้ชีวิต"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "way ; sort ; variety <i>(อย่าง is a classifier for referring to types, kinds or sorts of objects.)</i>"
+                        },
+                        {
+                            "meaning": "as ; like <i>(converts an adjective to an adverb, equivalent to English -ly suffix or saying \"in a ... way\")</i>"
+                        }
+                    ],
+                    "phonetic": "หฺย่าง",
+                    "word": "อย่าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "usually ; normally ; commonly"
+                        },
+                        {
+                            "meaning": "[to be] normal ; ordinary"
+                        }
+                    ],
+                    "phonetic": "ปก-กะ-ติ",
+                    "word": "ปกติ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                }
+            ]
+        },
+        {
+            "engSentence": "How much do you usually pay ?",
+            "id": 142503,
+            "phonetic": "แล้ว ปก-กะ-ติ คุน จ่าย เท่า ไหฺร่ ล่ะ คะ",
+            "thaiSentence": "แล้วปกติคุณจ่ายเท่าไหร่ล่ะคะ",
+            "thaiSentenceSpaced": " แล้ว ปกติ คุณ จ่าย เท่าไหร่ ล่ะ คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "usually ; normally ; commonly"
+                        },
+                        {
+                            "meaning": "[to be] normal ; ordinary"
+                        }
+                    ],
+                    "phonetic": "ปก-กะ-ติ",
+                    "word": "ปกติ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pay ; spend"
+                        },
+                        {
+                            "meaning": "[to] distribute ; disburse ; divide"
+                        }
+                    ],
+                    "phonetic": "จ่าย",
+                    "word": "จ่าย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how much ; how many"
+                        },
+                        {
+                            "meaning": "however much"
+                        }
+                    ],
+                    "phonetic": "เท่า ไหฺร่",
+                    "word": "เท่าไหร่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Is your brain okay ?",
+            "id": 244963,
+            "phonetic": "สะ-หฺมอง คุน ปก-กะ-ติ นะ",
+            "thaiSentence": "สมองคุณปกตินะ",
+            "thaiSentenceSpaced": " สมอง คุณ ปกติ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "brains ; head ; intelligence"
+                        }
+                    ],
+                    "phonetic": "สะ-หฺมอง",
+                    "word": "สมอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "usually ; normally ; commonly"
+                        },
+                        {
+                            "meaning": "[to be] normal ; ordinary"
+                        }
+                    ],
+                    "phonetic": "ปก-กะ-ติ",
+                    "word": "ปกติ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Usually she argues back.",
+            "id": 269558,
+            "phonetic": "ปก-กะ-ติ เขา จะ เถียง กฺลับ นี่",
+            "thaiSentence": "ปกติเขาจะเถียงกลับนี่",
+            "thaiSentenceSpaced": " ปกติ เขา จะ เถียง กลับ นี่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "usually ; normally ; commonly"
+                        },
+                        {
+                            "meaning": "[to be] normal ; ordinary"
+                        }
+                    ],
+                    "phonetic": "ปก-กะ-ติ",
+                    "word": "ปกติ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] dispute ; debate ; argue"
+                        }
+                    ],
+                    "phonetic": "เถียง",
+                    "word": "เถียง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] return ; go back ; reverse"
+                        }
+                    ],
+                    "phonetic": "กฺลับ",
+                    "word": "กลับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 16007,
+        "exampleSentences": [
+            {
+                "engSentence": "I am normally like this.",
+                "id": 1560,
+                "thaiSentence": "ปกติฉันก็เป็นอย่างนี้",
+                "thaiSentenceSpaced": " ปกติ ฉัน ก็ เป็น อย่างนี้ "
+            },
+            {
+                "engSentence": "I meant about being normal.",
+                "id": 50098,
+                "thaiSentence": "ฉันหมายถึงว่าเป็นแบบปกตินะ",
+                "thaiSentenceSpaced": " ฉัน หมายถึง ว่า เป็น แบบ ปกติ นะ "
+            },
+            {
+                "engSentence": "We never lived sane anyway.",
+                "id": 129078,
+                "thaiSentence": "เราไม่เคยใช้ชีวิตอย่างปกติอยู่แล้วนี่",
+                "thaiSentenceSpaced": " เรา ไม่เคย ใช้ชีวิต อย่าง ปกติ อยู่ แล้ว นี่ "
+            },
+            {
+                "engSentence": "How much do you usually pay ?",
+                "id": 142503,
+                "thaiSentence": "แล้วปกติคุณจ่ายเท่าไหร่ล่ะคะ",
+                "thaiSentenceSpaced": " แล้ว ปกติ คุณ จ่าย เท่าไหร่ ล่ะ คะ "
+            },
+            {
+                "engSentence": "Is your brain okay ?",
+                "id": 244963,
+                "thaiSentence": "สมองคุณปกตินะ",
+                "thaiSentenceSpaced": " สมอง คุณ ปกติ นะ "
+            },
+            {
+                "engSentence": "Usually she argues back.",
+                "id": 269558,
+                "thaiSentence": "ปกติเขาจะเถียงกลับนี่",
+                "thaiSentenceSpaced": " ปกติ เขา จะ เถียง กลับ นี่ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1367424,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "usually",
+                        "word": "usually"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "normally",
+                        "word": "normally"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "commonly",
+                        "word": "commonly"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [
+                    {
+                        "childId": 12922,
+                        "corpusScore": 3485,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39006,
+                        "legacyWordId": 1374033,
+                        "meaning": "unusual",
+                        "parentId": 39006,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ผิด ปก-กะ-ติ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผิดปกติ"
+                    },
+                    {
+                        "childId": 12922,
+                        "corpusScore": 2161,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47635,
+                        "legacyWordId": 1311305,
+                        "meaning": "as normal ; as usual",
+                        "parentId": 47635,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ตาม ปก-กะ-ติ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตามปกติ"
+                    },
+                    {
+                        "childId": 12922,
+                        "corpusScore": 1478,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46437,
+                        "legacyWordId": 1372165,
+                        "meaning": "normal ; natural ; usual",
+                        "parentId": 46437,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "เป็น ปก-กะ-ติ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เป็นปกติ"
+                    },
+                    {
+                        "childId": 12922,
+                        "corpusScore": 930,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19363,
+                        "legacyWordId": 1308566,
+                        "meaning": "usually ; normally ; ordinarily",
+                        "parentId": 19363,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "โดย ปก-กะ-ติ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โดยปกติ"
+                    },
+                    {
+                        "childId": 12922,
+                        "corpusScore": 538,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401809,
+                        "legacyWordId": 1393032,
+                        "meaning": "ordinary ; natural thing ; common",
+                        "parentId": 401809,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เรื่อง ปก-กะ-ติ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรื่องปกติ"
+                    },
+                    {
+                        "childId": 12922,
+                        "corpusScore": 407,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402624,
+                        "legacyWordId": 1386942,
+                        "meaning": "deformed ; disfigured ; crippled",
+                        "parentId": 402624,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไม่ ปก-กะ-ติ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ปกติ"
+                    },
+                    {
+                        "childId": 12922,
+                        "corpusScore": 155,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24320,
+                        "legacyWordId": 1367427,
+                        "meaning": "regularly ; usually ; commonly",
+                        "parentId": 24320,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ปก-กะ-ติ ทำ-มะ-ดา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปกติธรรมดา"
+                    },
+                    {
+                        "childId": 12922,
+                        "corpusScore": 79,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2427,
+                        "legacyWordId": 1449932,
+                        "meaning": "as usual ; usually ; still",
+                        "parentId": 2427,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เหฺมือน ปก-กะ-ติ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เหมือนปกติ"
+                    },
+                    {
+                        "childId": 12922,
+                        "corpusScore": 69,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12992,
+                        "legacyWordId": 1367430,
+                        "meaning": "normality ; nature ; common",
+                        "parentId": 12992,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปก-กะ-ติ วิ-ไส",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปกติวิสัย"
+                    },
+                    {
+                        "childId": 12922,
+                        "corpusScore": 30,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 87982,
+                        "legacyWordId": 1310846,
+                        "meaning": "normal",
+                        "parentId": 87982,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตัว ปก-กะ-ติ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตัวปกติ"
+                    },
+                    {
+                        "childId": 12922,
+                        "corpusScore": 1,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 51848,
+                        "legacyWordId": 1371685,
+                        "meaning": "common year",
+                        "parentId": 51848,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปีบ-กะ-ติ-สุ-ระ-ทิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีปกติสุรทิน"
+                    },
+                    {
+                        "childId": 12922,
+                        "corpusScore": 0,
+                        "displayOrder": 4,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 72289,
+                        "legacyWordId": 1291691,
+                        "meaning": "apprehensive period",
+                        "parentId": 72289,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ช่วง เว-ลา ไม่ ไช้ อัด-ตฺรา ปก-กะ-ติ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ช่วงเวลาไม่ใช้อัตราปกติ"
+                    }
+                ],
+                "explanation": null,
+                "id": 12922,
+                "isUncommon": false,
+                "meaning": "usually ; normally ; commonly",
+                "partOfSpeech": "Adverb",
+                "usage": "",
+                "word": "ปกติ"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] normal",
+                        "word": "normal"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "ordinary",
+                        "word": "ordinary"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [],
+                "explanation": null,
+                "id": 702101,
+                "isUncommon": false,
+                "meaning": "[to be] normal ; ordinary",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "ปกติ"
+            }
+        ],
+        "t2e": "ปก-กะ-ติ",
+        "verified": "ปก-กะ-ติ, ปะ-กะ-ติ",
+        "word": "ปกติ"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

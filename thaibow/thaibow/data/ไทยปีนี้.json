@@ -1,0 +1,35 @@
+{
+    "thaiTranslationLines": [
+        {
+            "isWordBreakdownShown": true,
+            "phonetic": "ไท ปี นี้",
+            "unspacedText": "ไทยปีนี้",
+            "wordObjects": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "Thailand"
+                        },
+                        {
+                            "meaning": "Thai"
+                        }
+                    ],
+                    "phonetic": "ไท",
+                    "word": "ไทย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "this year"
+                        }
+                    ],
+                    "phonetic": "ปี นี้",
+                    "word": "ปีนี้"
+                }
+            ]
+        }
+    ],
+    "type": "translation"
+}

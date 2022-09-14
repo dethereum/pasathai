@@ -1,0 +1,427 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "The air's so nice here.",
+            "id": 27501,
+            "phonetic": "อา-กาด ที่ นี่ ดี มาก เลย นะ",
+            "thaiSentence": "อากาศที่นี่ดีมากเลยนะ",
+            "thaiSentenceSpaced": " อากาศ ที่นี่ ดีมาก เลย นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "air ; climate ; weather"
+                        }
+                    ],
+                    "phonetic": "อา-กาด",
+                    "word": "อากาศ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "here"
+                        }
+                    ],
+                    "phonetic": "ที่ นี่",
+                    "word": "ที่นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] great ; excellent ; very good"
+                        }
+                    ],
+                    "phonetic": "ดี มาก",
+                    "word": "ดีมาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You look really great today.",
+            "id": 78953,
+            "phonetic": "คุน ดู ดี มาก เลย นะ วัน นี้",
+            "thaiSentence": "คุณดูดีมากเลยนะวันนี้",
+            "thaiSentenceSpaced": " คุณ ดู ดีมาก เลย นะ วันนี้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] look good ; have good appearance"
+                        }
+                    ],
+                    "phonetic": "ดู ดี",
+                    "word": "ดูดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much"
+                        }
+                    ],
+                    "phonetic": "มาก เลย",
+                    "word": "มากเลย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "today"
+                        }
+                    ],
+                    "phonetic": "วัน นี้",
+                    "word": "วันนี้"
+                }
+            ]
+        },
+        {
+            "engSentence": "You did great today.",
+            "id": 105984,
+            "phonetic": "วัน นี้ พวก คุน ทำ ด้าย ดี มาก นะ",
+            "thaiSentence": "วันนี้พวกคุณทำได้ดีมากนะ",
+            "thaiSentenceSpaced": " วันนี้ พวกคุณ ทำได้ ดีมาก นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "today"
+                        }
+                    ],
+                    "phonetic": "วัน นี้",
+                    "word": "วันนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you ; you all"
+                        }
+                    ],
+                    "phonetic": "พวก คุน",
+                    "word": "พวกคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] can ; be able to"
+                        }
+                    ],
+                    "phonetic": "ทำ ด้าย",
+                    "word": "ทำได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] great ; excellent ; very good"
+                        }
+                    ],
+                    "phonetic": "ดี มาก",
+                    "word": "ดีมาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is so good.",
+            "id": 128665,
+            "phonetic": "มัน ดี มาก เลย",
+            "thaiSentence": "มันดีมากเลย",
+            "thaiSentenceSpaced": " มัน ดีมาก เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much"
+                        }
+                    ],
+                    "phonetic": "มาก เลย",
+                    "word": "มากเลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "You looked great out there.",
+            "id": 139359,
+            "phonetic": "คุน ดู ดี มาก เลย นะ",
+            "thaiSentence": "คุณดูดีมากเลยนะ",
+            "thaiSentenceSpaced": " คุณ ดู ดีมาก เลย นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] look good ; have good appearance"
+                        }
+                    ],
+                    "phonetic": "ดู ดี",
+                    "word": "ดูดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much"
+                        }
+                    ],
+                    "phonetic": "มาก เลย",
+                    "word": "มากเลย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is good work.",
+            "id": 145148,
+            "phonetic": "ทำ ด้าย ดี มาก",
+            "thaiSentence": "ทำได้ดีมาก",
+            "thaiSentenceSpaced": " ทำได้ ดีมาก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] can ; be able to"
+                        }
+                    ],
+                    "phonetic": "ทำ ด้าย",
+                    "word": "ทำได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] great ; excellent ; very good"
+                        }
+                    ],
+                    "phonetic": "ดี มาก",
+                    "word": "ดีมาก"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 4549,
+        "exampleSentences": [
+            {
+                "engSentence": "The air's so nice here.",
+                "id": 27501,
+                "thaiSentence": "อากาศที่นี่ดีมากเลยนะ",
+                "thaiSentenceSpaced": " อากาศ ที่นี่ ดีมาก เลย นะ "
+            },
+            {
+                "engSentence": "You look really great today.",
+                "id": 78953,
+                "thaiSentence": "คุณดูดีมากเลยนะวันนี้",
+                "thaiSentenceSpaced": " คุณ ดู ดีมาก เลย นะ วันนี้ "
+            },
+            {
+                "engSentence": "You did great today.",
+                "id": 105984,
+                "thaiSentence": "วันนี้พวกคุณทำได้ดีมากนะ",
+                "thaiSentenceSpaced": " วันนี้ พวกคุณ ทำได้ ดีมาก นะ "
+            },
+            {
+                "engSentence": "It is so good.",
+                "id": 128665,
+                "thaiSentence": "มันดีมากเลย",
+                "thaiSentenceSpaced": " มัน ดีมาก เลย "
+            },
+            {
+                "engSentence": "You looked great out there.",
+                "id": 139359,
+                "thaiSentence": "คุณดูดีมากเลยนะ",
+                "thaiSentenceSpaced": " คุณ ดู ดีมาก เลย นะ "
+            },
+            {
+                "engSentence": "It is good work.",
+                "id": 145148,
+                "thaiSentence": "ทำได้ดีมาก",
+                "thaiSentenceSpaced": " ทำได้ ดีมาก "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1307759,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 421586,
+                        "corpusScore": 138563,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 421586,
+                        "legacyWordId": 1307696,
+                        "meaning": "[to be] good ; nice",
+                        "parentId": 402830,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดี"
+                    },
+                    {
+                        "childId": 43051,
+                        "corpusScore": 151387,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 43051,
+                        "legacyWordId": 1383860,
+                        "meaning": "very much ; a lot ; very",
+                        "parentId": 402830,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มาก"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] great",
+                        "word": "great"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "excellent",
+                        "word": "excellent"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "very good",
+                        "word": "very good"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 402830,
+                "isUncommon": false,
+                "meaning": "[to be] great ; excellent ; very good",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "ดีมาก"
+            }
+        ],
+        "t2e": "ดี มาก",
+        "verified": null,
+        "word": "ดีมาก"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

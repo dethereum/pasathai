@@ -1,0 +1,931 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Why do you ask ?",
+            "id": 16541,
+            "phonetic": "ถาม ทำ-ไม เหฺรอ คฺรับ",
+            "thaiSentence": "ถามทำไมเหรอครับ",
+            "thaiSentenceSpaced": " ถาม ทำไม เหรอ ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask"
+                        }
+                    ],
+                    "phonetic": "ถาม",
+                    "word": "ถาม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "why"
+                        }
+                    ],
+                    "phonetic": "ทำ-ไม",
+                    "word": "ทำไม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Can I ask you something ?",
+            "id": 24524,
+            "phonetic": "ฉัน ถาม อะ-ไร หฺน่อย สิ",
+            "thaiSentence": "ฉันถามอะไรหน่อยสิ",
+            "thaiSentenceSpaced": " ฉัน ถาม อะไร หน่อย สิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask"
+                        }
+                    ],
+                    "phonetic": "ถาม",
+                    "word": "ถาม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle added to soften a request or command)</i>"
+                        },
+                        {
+                            "meaning": "a little ; a little bit"
+                        }
+                    ],
+                    "phonetic": "หฺน่อย",
+                    "word": "หน่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                }
+            ]
+        },
+        {
+            "engSentence": "She'll ask you.",
+            "id": 25431,
+            "phonetic": "เดี๋ยว เทอ มา ถาม คุน",
+            "thaiSentence": "เดี๋ยวเธอมาถามคุณ",
+            "thaiSentenceSpaced": " เดี๋ยว เธอ มา ถาม คุณ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "moment"
+                        },
+                        {
+                            "meaning": "in just a minute ; in just a moment"
+                        }
+                    ],
+                    "phonetic": "เดี๋ยว",
+                    "word": "เดี๋ยว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "เทอ",
+                    "word": "เธอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask"
+                        }
+                    ],
+                    "phonetic": "ถาม",
+                    "word": "ถาม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                }
+            ]
+        },
+        {
+            "engSentence": "So she'll ask you again.",
+            "id": 25437,
+            "phonetic": "งั้น เดี๋ยว เทอ ต้อง มา ถาม คุน อีก แน่ แน่",
+            "thaiSentence": "งั้นเดี๋ยวเธอต้องมาถามคุณอีกแน่ๆ",
+            "thaiSentenceSpaced": " งั้น เดี๋ยว เธอ ต้อง มา ถาม คุณ อีก แน่ๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "like that"
+                        },
+                        {
+                            "meaning": "if so ; in that case ; then"
+                        }
+                    ],
+                    "phonetic": "งั้น",
+                    "word": "งั้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "moment"
+                        },
+                        {
+                            "meaning": "in just a minute ; in just a moment"
+                        }
+                    ],
+                    "phonetic": "เดี๋ยว",
+                    "word": "เดี๋ยว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "เทอ",
+                    "word": "เธอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask"
+                        }
+                    ],
+                    "phonetic": "ถาม",
+                    "word": "ถาม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "again ; once more ; more"
+                        }
+                    ],
+                    "phonetic": "อีก",
+                    "word": "อีก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "certainly ; surely ; definitely"
+                        }
+                    ],
+                    "phonetic": "แน่ แน่",
+                    "word": "แน่ๆ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Did you ever ask her why ?",
+            "id": 26398,
+            "phonetic": "คุน เคย ถาม เทอ ไหฺม ว่า ทำ-ไม",
+            "thaiSentence": "คุณเคยถามเธอไหมว่าทำไม",
+            "thaiSentenceSpaced": " คุณ เคย ถาม เธอ ไหม ว่า ทำไม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "once ; ever ; used to"
+                        }
+                    ],
+                    "phonetic": "เคย",
+                    "word": "เคย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask"
+                        }
+                    ],
+                    "phonetic": "ถาม",
+                    "word": "ถาม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "เทอ",
+                    "word": "เธอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        },
+                        {
+                            "meaning": "[to] say ; tell"
+                        },
+                        {
+                            "meaning": "[to] blame ; criticise"
+                        }
+                    ],
+                    "phonetic": "ว่า",
+                    "word": "ว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "why"
+                        }
+                    ],
+                    "phonetic": "ทำ-ไม",
+                    "word": "ทำไม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Can I ask you something ?",
+            "id": 28075,
+            "phonetic": "ขอ ถาม อะ-ไร ด้าย ไหฺม",
+            "thaiSentence": "ขอถามอะไรได้ไหม",
+            "thaiSentenceSpaced": " ขอ ถาม อะไร ได้ ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask for ; request for ; ask"
+                        }
+                    ],
+                    "phonetic": "ขอ",
+                    "word": "ขอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask"
+                        }
+                    ],
+                    "phonetic": "ถาม",
+                    "word": "ถาม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 32835,
+        "exampleSentences": [
+            {
+                "engSentence": "Why do you ask ?",
+                "id": 16541,
+                "thaiSentence": "ถามทำไมเหรอครับ",
+                "thaiSentenceSpaced": " ถาม ทำไม เหรอ ครับ "
+            },
+            {
+                "engSentence": "Can I ask you something ?",
+                "id": 24524,
+                "thaiSentence": "ฉันถามอะไรหน่อยสิ",
+                "thaiSentenceSpaced": " ฉัน ถาม อะไร หน่อย สิ "
+            },
+            {
+                "engSentence": "She'll ask you.",
+                "id": 25431,
+                "thaiSentence": "เดี๋ยวเธอมาถามคุณ",
+                "thaiSentenceSpaced": " เดี๋ยว เธอ มา ถาม คุณ "
+            },
+            {
+                "engSentence": "So she'll ask you again.",
+                "id": 25437,
+                "thaiSentence": "งั้นเดี๋ยวเธอต้องมาถามคุณอีกแน่ๆ",
+                "thaiSentenceSpaced": " งั้น เดี๋ยว เธอ ต้อง มา ถาม คุณ อีก แน่ๆ "
+            },
+            {
+                "engSentence": "Did you ever ask her why ?",
+                "id": 26398,
+                "thaiSentence": "คุณเคยถามเธอไหมว่าทำไม",
+                "thaiSentenceSpaced": " คุณ เคย ถาม เธอ ไหม ว่า ทำไม "
+            },
+            {
+                "engSentence": "Can I ask you something ?",
+                "id": 28075,
+                "thaiSentence": "ขอถามอะไรได้ไหม",
+                "thaiSentenceSpaced": " ขอ ถาม อะไร ได้ ไหม "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1319470,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] ask",
+                        "word": "ask"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 17691,
+                        "corpusScore": 7217,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30671,
+                        "legacyWordId": 1284351,
+                        "meaning": "question ; query ; inquiry",
+                        "parentId": 30671,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำถาม"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 5841,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39192,
+                        "legacyWordId": 1405302,
+                        "meaning": "[to] question ; ask ; inquire",
+                        "parentId": 39192,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สอบ ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สอบถาม"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 969,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24211,
+                        "legacyWordId": 1319474,
+                        "meaning": "[to] ask for",
+                        "parentId": 24211,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถาม ถึง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถามถึง"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 437,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16978,
+                        "legacyWordId": 1319478,
+                        "meaning": "[to] ask ; inquire ; question",
+                        "parentId": 16978,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถาม หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถามหา"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 357,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37823,
+                        "legacyWordId": 1304430,
+                        "meaning": "[to] question ; interrogate ; inquire",
+                        "parentId": 37823,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ซัก ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซักถาม"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 208,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25042,
+                        "legacyWordId": 1392953,
+                        "meaning": "[to] ask ; inquire ; question",
+                        "parentId": 25042,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เรียน ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรียนถาม"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 207,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15950,
+                        "legacyWordId": 1320518,
+                        "meaning": "[to] press the claim ; claim ; ask for",
+                        "parentId": 15950,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทวง ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทวงถาม"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 181,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17379,
+                        "legacyWordId": 1319475,
+                        "meaning": "[to] ask (about) ; inquire after",
+                        "parentId": 17379,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถาม ถ่าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถามไถ่"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 177,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398252,
+                        "legacyWordId": 1319471,
+                        "meaning": "[to] ask in return",
+                        "parentId": 398252,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถาม กฺลับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถามกลับ"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 125,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6491,
+                        "legacyWordId": 1324627,
+                        "meaning": "[to] ask ; query ; inquire",
+                        "parentId": 6491,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทูน ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทูลถาม"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 125,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395006,
+                        "legacyWordId": 1319473,
+                        "meaning": "[to] ask a question ; pose a question",
+                        "parentId": 395006,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถาม คำ ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถามคำถาม"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 112,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44163,
+                        "legacyWordId": 1374517,
+                        "meaning": "questioner",
+                        "parentId": 44163,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้ถาม"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 110,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36321,
+                        "legacyWordId": 1264259,
+                        "meaning": "question ; quiz ; enquiry",
+                        "parentId": 36321,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-ทู้ ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระทู้ถาม"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 63,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3055,
+                        "legacyWordId": 1387500,
+                        "meaning": "[to] ask in return",
+                        "parentId": 3055,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ย้อน ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ย้อนถาม"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 62,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16569,
+                        "legacyWordId": 1318561,
+                        "meaning": "[to] ask ; inquire ; question",
+                        "parentId": 16569,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ต่าย ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไต่ถาม"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 59,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30471,
+                        "legacyWordId": 1389516,
+                        "meaning": "[to] inquire ; question",
+                        "parentId": 30471,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ร้อง ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้องถาม"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 54,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32533,
+                        "legacyWordId": 1319472,
+                        "meaning": "[to] ask (about) ; inquire after",
+                        "parentId": 32533,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถาม ข่าว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถามข่าว"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 43,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15899,
+                        "legacyWordId": 1320052,
+                        "meaning": "[to] ask ; inquire ; question",
+                        "parentId": 15899,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถ่าย ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไถ่ถาม"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 22,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35866,
+                        "legacyWordId": 1375906,
+                        "meaning": "[to] question closely ; keep an asking",
+                        "parentId": 35866,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เฝ้า ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เฝ้าถาม"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 15,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19256,
+                        "legacyWordId": 1408678,
+                        "meaning": "[to] inquire ; ask ; enquire",
+                        "parentId": 19256,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สืบ ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สืบถาม"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 8,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29106,
+                        "legacyWordId": 1319476,
+                        "meaning": "[to] ask after someone's health",
+                        "parentId": 29106,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถาม ทุก สุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถามทุกข์สุข"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 8,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398253,
+                        "legacyWordId": 1319477,
+                        "meaning": "[to] ask after someone's health",
+                        "parentId": 398253,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถาม สา-ระ-ทุก-สุก-ดิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถามสารทุกข์สุขดิบ"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400230,
+                        "legacyWordId": 1394743,
+                        "meaning": "[to] delve ; dig ; draw out",
+                        "parentId": 400230,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ลวง ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลวงถาม"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400355,
+                        "legacyWordId": 1394744,
+                        "meaning": "[to] delve ; dig ; draw out",
+                        "parentId": 400355,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้วง ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้วงถาม"
+                    }
+                ],
+                "explanation": null,
+                "id": 17691,
+                "isUncommon": false,
+                "meaning": "[to] ask",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ถาม"
+            }
+        ],
+        "t2e": "ถาม",
+        "verified": null,
+        "word": "ถาม"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

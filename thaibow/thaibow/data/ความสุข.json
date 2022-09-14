@@ -1,0 +1,529 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "He has blown his joy.",
+            "id": 188418,
+            "phonetic": "เขา ทำ ไห้ คฺวาม สุก ของ เขา จบ ลง",
+            "thaiSentence": "เขาทำให้ความสุขของเขาจบลง",
+            "thaiSentenceSpaced": " เขา ทำให้ ความสุข ของ เขา จบลง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] cause ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ ไห้",
+                    "word": "ทำให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "happiness ; pleasure"
+                        }
+                    ],
+                    "phonetic": "คฺวาม สุก",
+                    "word": "ความสุข"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] end ; come to an end ; finish"
+                        }
+                    ],
+                    "phonetic": "จบ ลง",
+                    "word": "จบลง"
+                }
+            ]
+        },
+        {
+            "engSentence": "What's being happy ?",
+            "id": 442678,
+            "phonetic": "แล้ว อะ-ไร คือ คฺวาม สุก ล่ะ",
+            "thaiSentence": "แล้วอะไรคือความสุขล่ะ",
+            "thaiSentenceSpaced": " แล้ว อะไร คือ ความสุข ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be"
+                        }
+                    ],
+                    "phonetic": "คือ",
+                    "word": "คือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "happiness ; pleasure"
+                        }
+                    ],
+                    "phonetic": "คฺวาม สุก",
+                    "word": "ความสุข"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "That is true happiness.",
+            "id": 482069,
+            "phonetic": "นั้น คือ คฺวาม สุก ที่ แท้ จิง",
+            "thaiSentence": "นั้นคือความสุขที่แท้จริง",
+            "thaiSentenceSpaced": " นั้น คือ ความสุข ที่แท้ จริง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence, or to show the end of a relative clause)</i>"
+                        },
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั้น",
+                    "word": "นั้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be"
+                        }
+                    ],
+                    "phonetic": "คือ",
+                    "word": "คือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "happiness ; pleasure"
+                        }
+                    ],
+                    "phonetic": "คฺวาม สุก",
+                    "word": "ความสุข"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in fact ; actually"
+                        }
+                    ],
+                    "phonetic": "ที่ แท้",
+                    "word": "ที่แท้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] real ; true ; actual"
+                        },
+                        {
+                            "meaning": "really ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง",
+                    "word": "จริง"
+                }
+            ]
+        },
+        {
+            "engSentence": "My last little joy.",
+            "id": 496312,
+            "phonetic": "คฺวาม สุก สุด ท้าย ของ ฉัน",
+            "thaiSentence": "ความสุขสุดท้ายของฉัน",
+            "thaiSentenceSpaced": " ความสุข สุดท้าย ของ ฉัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "happiness ; pleasure"
+                        }
+                    ],
+                    "phonetic": "คฺวาม สุก",
+                    "word": "ความสุข"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "last ; final"
+                        },
+                        {
+                            "meaning": "finally ; lastly"
+                        }
+                    ],
+                    "phonetic": "สุด ท้าย",
+                    "word": "สุดท้าย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                }
+            ]
+        },
+        {
+            "engSentence": "Feeling of happiness.",
+            "id": 511875,
+            "phonetic": "คฺวาม รู้ สึก แห่ง คฺวาม สุก",
+            "thaiSentence": "ความรู้สึกแห่งความสุข",
+            "thaiSentenceSpaced": " ความรู้สึก แห่ง ความสุข ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "feeling ; emotion ; passion"
+                        }
+                    ],
+                    "phonetic": "คฺวาม รู้ สึก",
+                    "word": "ความรู้สึก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "place ; location ; spot <i>(แห่ง is the classifier for a place.)</i>"
+                        },
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "แห่ง",
+                    "word": "แห่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "happiness ; pleasure"
+                        }
+                    ],
+                    "phonetic": "คฺวาม สุก",
+                    "word": "ความสุข"
+                }
+            ]
+        },
+        {
+            "engSentence": "Sadness follows happiness.",
+            "id": 639105,
+            "phonetic": "คฺวาม เส้า มัก ตาม มา หฺลัง คฺวาม สุก",
+            "thaiSentence": "ความเศร้ามักตามมาหลังความสุข",
+            "thaiSentenceSpaced": " ความเศร้า มัก ตามมา หลัง ความสุข ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sadness ; depression"
+                        }
+                    ],
+                    "phonetic": "คฺวาม เส้า",
+                    "word": "ความเศร้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "likely to ; inclined to"
+                        }
+                    ],
+                    "phonetic": "มัก",
+                    "word": "มัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "follow ; arrive later"
+                        }
+                    ],
+                    "phonetic": "ตาม มา",
+                    "word": "ตามมา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(หลัง is the classifier for a house.)</i>"
+                        },
+                        {
+                            "meaning": "following ; next ; later"
+                        },
+                        {
+                            "meaning": "after ; behind"
+                        },
+                        {
+                            "meaning": "back ; behind ; rear"
+                        }
+                    ],
+                    "phonetic": "หฺลัง",
+                    "word": "หลัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "happiness ; pleasure"
+                        }
+                    ],
+                    "phonetic": "คฺวาม สุก",
+                    "word": "ความสุข"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 9771,
+        "exampleSentences": [
+            {
+                "engSentence": "He has blown his joy.",
+                "id": 188418,
+                "thaiSentence": "เขาทำให้ความสุขของเขาจบลง",
+                "thaiSentenceSpaced": " เขา ทำให้ ความสุข ของ เขา จบลง "
+            },
+            {
+                "engSentence": "What's being happy ?",
+                "id": 442678,
+                "thaiSentence": "แล้วอะไรคือความสุขล่ะ",
+                "thaiSentenceSpaced": " แล้ว อะไร คือ ความสุข ล่ะ "
+            },
+            {
+                "engSentence": "That is true happiness.",
+                "id": 482069,
+                "thaiSentence": "นั้นคือความสุขที่แท้จริง",
+                "thaiSentenceSpaced": " นั้น คือ ความสุข ที่แท้ จริง "
+            },
+            {
+                "engSentence": "My last little joy.",
+                "id": 496312,
+                "thaiSentence": "ความสุขสุดท้ายของฉัน",
+                "thaiSentenceSpaced": " ความสุข สุดท้าย ของ ฉัน "
+            },
+            {
+                "engSentence": "Feeling of happiness.",
+                "id": 511875,
+                "thaiSentence": "ความรู้สึกแห่งความสุข",
+                "thaiSentenceSpaced": " ความรู้สึก แห่ง ความสุข "
+            },
+            {
+                "engSentence": "Sadness follows happiness.",
+                "id": 639105,
+                "thaiSentence": "ความเศร้ามักตามมาหลังความสุข",
+                "thaiSentenceSpaced": " ความเศร้า มัก ตามมา หลัง ความสุข "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1282817,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 45927,
+                        "corpusScore": 297995,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "It's a prefix which converts a verb or adjective into an abstract noun",
+                        "hasSoundFile": true,
+                        "id": 45927,
+                        "legacyWordId": 1281113,
+                        "meaning": "",
+                        "parentId": 31254,
+                        "partOfSpeech": "Prefix",
+                        "t2e": "คฺวาม",
+                        "usage": "",
+                        "verified": "คฺวาม",
+                        "word": "ความ"
+                    },
+                    {
+                        "childId": 48094,
+                        "corpusScore": 20592,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 48094,
+                        "legacyWordId": 1408747,
+                        "meaning": "[to be] happy ; pleased",
+                        "parentId": 31254,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "สุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สุข"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "happiness",
+                        "word": "happiness"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "pleasure",
+                        "word": "pleasure"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 31254,
+                        "corpusScore": 3555,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 681260,
+                        "legacyWordId": 1384476,
+                        "meaning": "[to] be happy",
+                        "parentId": 681260,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี คฺวาม สุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีความสุข"
+                    },
+                    {
+                        "childId": 31254,
+                        "corpusScore": 419,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395582,
+                        "legacyWordId": 1452122,
+                        "meaning": "happily ; contentedly ; satisfyingly",
+                        "parentId": 395582,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺย่าง มี คฺวาม สุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อย่างมีความสุข"
+                    },
+                    {
+                        "childId": 31254,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 104267,
+                        "legacyWordId": 1402226,
+                        "meaning": "Happy New Year card",
+                        "parentId": 104267,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ส่ง คฺวาม สุก ปี ไหฺม่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ส่งความสุขปีใหม่"
+                    }
+                ],
+                "explanation": null,
+                "id": 31254,
+                "isUncommon": false,
+                "meaning": "happiness ; pleasure",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ความสุข"
+            }
+        ],
+        "t2e": "คฺวาม สุก",
+        "verified": null,
+        "word": "ความสุข"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

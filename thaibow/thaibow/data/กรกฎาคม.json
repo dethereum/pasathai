@@ -1,0 +1,108 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 752,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1263366,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 47582,
+                        "corpusScore": 84,
+                        "displayOrder": 0,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": "the symbol of the Zodiac sign Cancer",
+                        "hasSoundFile": false,
+                        "id": 47582,
+                        "legacyWordId": 1263364,
+                        "meaning": "crab",
+                        "parentId": 10641,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กอ-ระ-กด",
+                        "usage": "",
+                        "verified": "กอ-ระ-กด",
+                        "word": "กรกฎ"
+                    },
+                    {
+                        "childId": 47563,
+                        "corpusScore": 384,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47563,
+                        "legacyWordId": 1453850,
+                        "meaning": "the arrival of ; the coming of",
+                        "parentId": 10641,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-คม",
+                        "usage": "",
+                        "verified": "อา-คม",
+                        "word": "อาคม"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "July",
+                        "word": "July"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [
+                    {
+                        "childId": 10641,
+                        "corpusScore": 0,
+                        "displayOrder": 4,
+                        "etymology": "",
+                        "explanation": "a road in the Pom Prap district of Bangkok",
+                        "hasSoundFile": false,
+                        "id": 373481,
+                        "legacyWordId": 1318981,
+                        "meaning": "Wong Wian Yi Sip Song Karakadakhom Road",
+                        "parentId": 373481,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ถะ-หฺนน วง เวียน ยี่ สิบ สอง กะ-ระ-กะ-ดา-คม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถนนวงเวียนยี่สิบสองกรกฎาคม"
+                    },
+                    {
+                        "childId": 10641,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45303,
+                        "legacyWordId": 1308357,
+                        "meaning": "July",
+                        "parentId": 45303,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน กะ-ระ-กะ-ดา-คม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนกรกฎาคม"
+                    }
+                ],
+                "explanation": null,
+                "id": 10641,
+                "isUncommon": false,
+                "meaning": "July",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "กรกฎาคม"
+            }
+        ],
+        "t2e": "กะ-ระ-กะ-ดา-คม",
+        "verified": "กะ-ระ-กะ-ดา-คม",
+        "word": "กรกฎาคม"
+    },
+    "greenBarCount": 2,
+    "pageUrl": "",
+    "type": "thai-word"
+}

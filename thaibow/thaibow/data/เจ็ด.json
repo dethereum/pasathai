@@ -1,0 +1,516 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "On the seventh day.",
+            "id": 30411,
+            "phonetic": "มา  ไน วัน ที่ เจ็ด",
+            "thaiSentence": "มาในวันที่เจ็ด",
+            "thaiSentenceSpaced": " มา ใน วันที่ เจ็ด ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "on the 7th"
+                        }
+                    ],
+                    "phonetic": " ไน วัน ที่ เจ็ด",
+                    "word": "ในวันที่เจ็ด"
+                }
+            ]
+        },
+        {
+            "engSentence": "Those the seven survivors ?",
+            "id": 515818,
+            "phonetic": "นั่น เหฺรอ เจ็ด คน ที่ รอด",
+            "thaiSentence": "นั่นเหรอเจ็ดคนที่รอด",
+            "thaiSentenceSpaced": " นั่น เหรอ เจ็ด คน ที่ รอด ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั่น",
+                    "word": "นั่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "seven"
+                        }
+                    ],
+                    "phonetic": "เจ็ด",
+                    "word": "เจ็ด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] survive ; escape from death ; save"
+                        }
+                    ],
+                    "phonetic": "รอด",
+                    "word": "รอด"
+                }
+            ]
+        },
+        {
+            "engSentence": "About 7km per liter.",
+            "id": 630458,
+            "phonetic": "เจ็ด · กิ-โล ลิด",
+            "thaiSentence": "เจ็ด กิโลลิตร",
+            "thaiSentenceSpaced": " เจ็ด  ·  กิโล ลิตร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "seven"
+                        }
+                    ],
+                    "phonetic": "เจ็ด",
+                    "word": "เจ็ด"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "kilolitre ; kiloliter"
+                        }
+                    ],
+                    "phonetic": "กิ-โล ลิด",
+                    "word": "กิโลลิตร"
+                }
+            ]
+        },
+        {
+            "engSentence": "About 7km per liter.",
+            "id": 631103,
+            "phonetic": "ปฺระ-มาน เจ็ด กิ-โล เม้ด ต่อ ลิด",
+            "thaiSentence": "ประมาณเจ็ดกิโลเมตรต่อลิตร",
+            "thaiSentenceSpaced": " ประมาณ เจ็ด กิโลเมตร ต่อ ลิตร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "about ; around ; approximately"
+                        }
+                    ],
+                    "phonetic": "ปฺระ-มาน",
+                    "word": "ประมาณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "seven"
+                        }
+                    ],
+                    "phonetic": "เจ็ด",
+                    "word": "เจ็ด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "kilometre ; kilometer"
+                        }
+                    ],
+                    "phonetic": "กิ-โล เม้ด",
+                    "word": "กิโลเมตร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] bargain ; haggle ; negotiate"
+                        },
+                        {
+                            "meaning": "to ; towards ; against ; for"
+                        },
+                        {
+                            "meaning": "[to] connect ; add on ; extend"
+                        },
+                        {
+                            "meaning": "[to] resist ; fight ; complain"
+                        },
+                        {
+                            "meaning": "next ; further on"
+                        }
+                    ],
+                    "phonetic": "ต่อ",
+                    "word": "ต่อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "liter ; litre"
+                        }
+                    ],
+                    "phonetic": "ลิด",
+                    "word": "ลิตร"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 822,
+        "exampleSentences": [
+            {
+                "engSentence": "On the seventh day.",
+                "id": 30411,
+                "thaiSentence": "มาในวันที่เจ็ด",
+                "thaiSentenceSpaced": " มา ใน วันที่ เจ็ด "
+            },
+            {
+                "engSentence": "Those the seven survivors ?",
+                "id": 515818,
+                "thaiSentence": "นั่นเหรอเจ็ดคนที่รอด",
+                "thaiSentenceSpaced": " นั่น เหรอ เจ็ด คน ที่ รอด "
+            },
+            {
+                "engSentence": "About 7km per liter.",
+                "id": 630458,
+                "thaiSentence": "เจ็ด กิโลลิตร",
+                "thaiSentenceSpaced": " เจ็ด  &middot;  กิโล ลิตร "
+            },
+            {
+                "engSentence": "About 7km per liter.",
+                "id": 631103,
+                "thaiSentence": "ประมาณเจ็ดกิโลเมตรต่อลิตร",
+                "thaiSentenceSpaced": " ประมาณ เจ็ด กิโลเมตร ต่อ ลิตร "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1290030,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "seven",
+                        "word": "seven"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 16571,
+                        "corpusScore": 72,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102757,
+                        "legacyWordId": 1290038,
+                        "meaning": "7 o'clock",
+                        "parentId": 102757,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เจ็ด โมง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ็ดโมง"
+                    },
+                    {
+                        "childId": 16571,
+                        "corpusScore": 72,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102686,
+                        "legacyWordId": 1408318,
+                        "meaning": "seventeen",
+                        "parentId": 102686,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สิบ เจ็ด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบเจ็ด"
+                    },
+                    {
+                        "childId": 16571,
+                        "corpusScore": 70,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40766,
+                        "legacyWordId": 1290045,
+                        "meaning": "seventy ; 70",
+                        "parentId": 40766,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เจ็ด สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ็ดสิบ"
+                    },
+                    {
+                        "childId": 16571,
+                        "corpusScore": 40,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102717,
+                        "legacyWordId": 1290048,
+                        "meaning": "seventy thousand ; 70,000",
+                        "parentId": 102717,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "เจ็ด หฺมื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ็ดหมื่น"
+                    },
+                    {
+                        "childId": 16571,
+                        "corpusScore": 30,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102699,
+                        "legacyWordId": 1290041,
+                        "meaning": "seven hundred ; 700",
+                        "parentId": 102699,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "เจ็ด ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ็ดร้อย"
+                    },
+                    {
+                        "childId": 16571,
+                        "corpusScore": 23,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102753,
+                        "legacyWordId": 1290039,
+                        "meaning": "7am",
+                        "parentId": 102753,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เจ็ด โมง เช้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ็ดโมงเช้า"
+                    },
+                    {
+                        "childId": 16571,
+                        "corpusScore": 8,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16358,
+                        "legacyWordId": 1290032,
+                        "meaning": "endless ; everlasting",
+                        "parentId": 16358,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "เจ็ด ชั่ว โคด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ็ดชั่วโคตร"
+                    },
+                    {
+                        "childId": 16571,
+                        "corpusScore": 8,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102707,
+                        "legacyWordId": 1290037,
+                        "meaning": "seven thousand ; 7000",
+                        "parentId": 102707,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "เจ็ด พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ็ดพัน"
+                    },
+                    {
+                        "childId": 16571,
+                        "corpusScore": 4,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102735,
+                        "legacyWordId": 1290043,
+                        "meaning": "seven million ; 7,000,000",
+                        "parentId": 102735,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "เจ็ด ล้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ็ดล้าน"
+                    },
+                    {
+                        "childId": 16571,
+                        "corpusScore": 3,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102726,
+                        "legacyWordId": 1290047,
+                        "meaning": "seven hundred thousand ; 700,000",
+                        "parentId": 102726,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "เจ็ด แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ็ดแสน"
+                    },
+                    {
+                        "childId": 16571,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15852,
+                        "legacyWordId": 1290050,
+                        "meaning": "heptagon",
+                        "parentId": 15852,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เจ็ด เหฺลี่ยม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ็ดเหลี่ยม"
+                    },
+                    {
+                        "childId": 16571,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 68216,
+                        "legacyWordId": 1331860,
+                        "meaning": "septet",
+                        "parentId": 68216,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บด เจ็ด บาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บทเจ็ดบาท"
+                    },
+                    {
+                        "childId": 16571,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 67821,
+                        "legacyWordId": 1383984,
+                        "meaning": "heptameter",
+                        "parentId": 67821,
+                        "partOfSpeech": "Noun",
+                        "t2e": "มาด-ตฺรา เจ็ด คะ-นะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มาตราเจ็ดคณะ"
+                    },
+                    {
+                        "childId": 16571,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 68222,
+                        "legacyWordId": 1401558,
+                        "meaning": "seven liberal arts",
+                        "parentId": 68222,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิน-ละ-ปะ สาด เจ็ด ปฺระ-กาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ศิลปศาสตร์เจ็ดประการ"
+                    }
+                ],
+                "explanation": null,
+                "id": 16571,
+                "isUncommon": false,
+                "meaning": "seven",
+                "partOfSpeech": "Quantifier",
+                "usage": "",
+                "word": "เจ็ด"
+            }
+        ],
+        "t2e": "เจ็ด",
+        "verified": null,
+        "word": "เจ็ด"
+    },
+    "greenBarCount": 2,
+    "pageUrl": "",
+    "type": "thai-word"
+}

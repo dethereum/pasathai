@@ -1,0 +1,496 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "We have not got all day.",
+            "id": 47686,
+            "phonetic": "เรา ไม่ ด้าย มี เว-ลา รอ ทั้ง วัน นะ",
+            "thaiSentence": "เราไม่ได้มีเวลารอทั้งวันนะ",
+            "thaiSentenceSpaced": " เรา ไม่ได้ มี เวลารอ ทั้งวัน นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "didn't ; did not"
+                        },
+                        {
+                            "meaning": "can't ; cannot"
+                        }
+                    ],
+                    "phonetic": "ไม่ ด้าย",
+                    "word": "ไม่ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "wait time"
+                        }
+                    ],
+                    "phonetic": "เว-ลา รอ",
+                    "word": "เวลารอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "for daylong ; for all day ; for whole day"
+                        }
+                    ],
+                    "phonetic": "ทั้ง วัน",
+                    "word": "ทั้งวัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Where were you all day ?",
+            "id": 84817,
+            "phonetic": "ไป ไหฺน มา ทั้ง วัน",
+            "thaiSentence": "ไปไหนมาทั้งวัน",
+            "thaiSentenceSpaced": " ไป ไหน มา ทั้งวัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whichever one"
+                        },
+                        {
+                            "meaning": "which"
+                        },
+                        {
+                            "meaning": "where ; which place <i>(a shortened form of ที่ไหน)</i>"
+                        },
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        }
+                    ],
+                    "phonetic": "ไหฺน",
+                    "word": "ไหน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "for daylong ; for all day ; for whole day"
+                        }
+                    ],
+                    "phonetic": "ทั้ง วัน",
+                    "word": "ทั้งวัน"
+                }
+            ]
+        },
+        {
+            "engSentence": "I know you're busy all day.",
+            "id": 199230,
+            "phonetic": "ฉัน รู้ ว่า คุน ยุ่ง ทั้ง วัน",
+            "thaiSentence": "ฉันรู้ว่าคุณยุ่งทั้งวัน",
+            "thaiSentenceSpaced": " ฉัน รู้ว่า คุณ ยุ่ง ทั้งวัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] know that"
+                        }
+                    ],
+                    "phonetic": "รู้ ว่า",
+                    "word": "รู้ว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be involved with ; be mixed up with"
+                        },
+                        {
+                            "meaning": "[to] bother ; disturb ; interfere"
+                        },
+                        {
+                            "meaning": "[to be] busy ; hectic"
+                        }
+                    ],
+                    "phonetic": "ยุ่ง",
+                    "word": "ยุ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "for daylong ; for all day ; for whole day"
+                        }
+                    ],
+                    "phonetic": "ทั้ง วัน",
+                    "word": "ทั้งวัน"
+                }
+            ]
+        },
+        {
+            "engSentence": "Haven't you eaten at all ?",
+            "id": 234080,
+            "phonetic": "คุน ไม่ ด้าย กิน อะ-ไร มา ทั้ง วัน หฺรือ ไง",
+            "thaiSentence": "คุณไม่ได้กินอะไรมาทั้งวันหรือไง ",
+            "thaiSentenceSpaced": " คุณ ไม่ได้ กิน อะไร มา ทั้งวัน หรือไง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "didn't ; did not"
+                        },
+                        {
+                            "meaning": "can't ; cannot"
+                        }
+                    ],
+                    "phonetic": "ไม่ ด้าย",
+                    "word": "ไม่ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] eat ; consume <i>(As well as food, กิน is also used when referring to drinks and medicines in Thai.)</i>"
+                        }
+                    ],
+                    "phonetic": "กิน",
+                    "word": "กิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "for daylong ; for all day ; for whole day"
+                        }
+                    ],
+                    "phonetic": "ทั้ง วัน",
+                    "word": "ทั้งวัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or what ; or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ ไง",
+                    "word": "หรือไง"
+                }
+            ]
+        },
+        {
+            "engSentence": "I've observed all day.",
+            "id": 635404,
+            "phonetic": "ฉัน สัง-เกด กาน มา ทั้ง วัน แล้ว",
+            "thaiSentence": "ฉันสังเกตการณ์มาทั้งวันแล้ว",
+            "thaiSentenceSpaced": " ฉัน สังเกตการณ์ มา ทั้งวัน แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] observe ; watch ; keep an eye on"
+                        }
+                    ],
+                    "phonetic": "สัง-เกด กาน",
+                    "word": "สังเกตการณ์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "for daylong ; for all day ; for whole day"
+                        }
+                    ],
+                    "phonetic": "ทั้ง วัน",
+                    "word": "ทั้งวัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 1844,
+        "exampleSentences": [
+            {
+                "engSentence": "We have not got all day.",
+                "id": 47686,
+                "thaiSentence": "เราไม่ได้มีเวลารอทั้งวันนะ",
+                "thaiSentenceSpaced": " เรา ไม่ได้ มี เวลารอ ทั้งวัน นะ "
+            },
+            {
+                "engSentence": "Where were you all day ?",
+                "id": 84817,
+                "thaiSentence": "ไปไหนมาทั้งวัน",
+                "thaiSentenceSpaced": " ไป ไหน มา ทั้งวัน "
+            },
+            {
+                "engSentence": "I know you're busy all day.",
+                "id": 199230,
+                "thaiSentence": "ฉันรู้ว่าคุณยุ่งทั้งวัน",
+                "thaiSentenceSpaced": " ฉัน รู้ว่า คุณ ยุ่ง ทั้งวัน "
+            },
+            {
+                "engSentence": "Haven't you eaten at all ?",
+                "id": 234080,
+                "thaiSentence": "คุณไม่ได้กินอะไรมาทั้งวันหรือไง ",
+                "thaiSentenceSpaced": " คุณ ไม่ได้ กิน อะไร มา ทั้งวัน หรือไง "
+            },
+            {
+                "engSentence": "I've observed all day.",
+                "id": 635404,
+                "thaiSentence": "ฉันสังเกตการณ์มาทั้งวันแล้ว",
+                "thaiSentenceSpaced": " ฉัน สังเกตการณ์ มา ทั้งวัน แล้ว "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1321309,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 47982,
+                        "corpusScore": 122685,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 47982,
+                        "legacyWordId": 1321277,
+                        "meaning": "all ; entire ; whole",
+                        "parentId": 16495,
+                        "partOfSpeech": "PreposedAdjective",
+                        "t2e": "ทั้ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทั้ง"
+                    },
+                    {
+                        "childId": 362198,
+                        "corpusScore": 106774,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 362198,
+                        "legacyWordId": 1399065,
+                        "meaning": "day",
+                        "parentId": 16495,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วัน"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "for daylong",
+                        "word": "for daylong"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "for all day",
+                        "word": "for all day"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "for whole day",
+                        "word": "for whole day"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 16495,
+                        "corpusScore": 91,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38712,
+                        "legacyWordId": 1321310,
+                        "meaning": "around the clock",
+                        "parentId": 38712,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทั้ง วัน ทั้ง คืน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทั้งวันทั้งคืน"
+                    }
+                ],
+                "explanation": null,
+                "id": 16495,
+                "isUncommon": false,
+                "meaning": "for daylong ; for all day ; for whole day",
+                "partOfSpeech": "Adverb",
+                "usage": "",
+                "word": "ทั้งวัน"
+            }
+        ],
+        "t2e": "ทั้ง วัน",
+        "verified": null,
+        "word": "ทั้งวัน"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

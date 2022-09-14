@@ -1,0 +1,895 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Oh, we were five.",
+            "id": 35880,
+            "phonetic": "โอ้ · ตอน เรา ห้า ขวบ นะ",
+            "thaiSentence": "โอ้ ตอนเราห้าขวบนะ",
+            "thaiSentenceSpaced": " โอ้  ·  ตอน เรา ห้า ขวบ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "oh"
+                        }
+                    ],
+                    "phonetic": "โอ้",
+                    "word": "โอ้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "when ; during ; at"
+                        },
+                        {
+                            "meaning": "section ; piece ; bit ; part ; episode"
+                        }
+                    ],
+                    "phonetic": "ตอน",
+                    "word": "ตอน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "five"
+                        }
+                    ],
+                    "phonetic": "ห้า",
+                    "word": "ห้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "years old ; years of age <i>(ขวบ is only used to refer to the ages of children approximately 12 years old or younger. For anyone older, ปี is used instead.)</i>"
+                        }
+                    ],
+                    "phonetic": "ขวบ",
+                    "word": "ขวบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "That was five months ago.",
+            "id": 58175,
+            "phonetic": "นั่น มัน ผ่าน มา ห้า เดือน แล้ว",
+            "thaiSentence": "นั่นมันผ่านมาห้าเดือนแล้ว",
+            "thaiSentenceSpaced": " นั่น มัน ผ่านมา ห้า เดือน แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั่น",
+                    "word": "นั่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass by ; pass through ; pass"
+                        }
+                    ],
+                    "phonetic": "ผ่าน มา",
+                    "word": "ผ่านมา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "five"
+                        }
+                    ],
+                    "phonetic": "ห้า",
+                    "word": "ห้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "month"
+                        }
+                    ],
+                    "phonetic": "เดือน",
+                    "word": "เดือน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "Late five minutes.",
+            "id": 61246,
+            "phonetic": "ช้า ไป ห้า นา-ที",
+            "thaiSentence": "ช้าไปห้านาที",
+            "thaiSentenceSpaced": " ช้า ไป ห้า นาที ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be slow ; be sluggish"
+                        },
+                        {
+                            "meaning": "slowly ; late"
+                        },
+                        {
+                            "meaning": "evil ; wicked"
+                        }
+                    ],
+                    "phonetic": "ช้า",
+                    "word": "ช้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "five"
+                        }
+                    ],
+                    "phonetic": "ห้า",
+                    "word": "ห้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "minute"
+                        }
+                    ],
+                    "phonetic": "นา-ที",
+                    "word": "นาที"
+                }
+            ]
+        },
+        {
+            "engSentence": "Five more minutes.",
+            "id": 66799,
+            "phonetic": "อีก ห้า นา-ที นะ",
+            "thaiSentence": "อีกห้านาทีนะ",
+            "thaiSentenceSpaced": " อีก ห้า นาที นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "again ; once more ; more"
+                        }
+                    ],
+                    "phonetic": "อีก",
+                    "word": "อีก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "five"
+                        }
+                    ],
+                    "phonetic": "ห้า",
+                    "word": "ห้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "minute"
+                        }
+                    ],
+                    "phonetic": "นา-ที",
+                    "word": "นาที"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I killed about five people.",
+            "id": 89099,
+            "phonetic": "ผม ค่า ไป ซัก ห้า คน ด้าย",
+            "thaiSentence": "ผมฆ่าไปซักห้าคนได้",
+            "thaiSentenceSpaced": " ผม ฆ่า ไป ซัก ห้า คน ได้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] assassinate ; kill ; murder"
+                        }
+                    ],
+                    "phonetic": "ค่า",
+                    "word": "ฆ่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "just ; about ; around <i>(often implying \"as little as...\")</i>"
+                        }
+                    ],
+                    "phonetic": "ซัก",
+                    "word": "ซัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "five"
+                        }
+                    ],
+                    "phonetic": "ห้า",
+                    "word": "ห้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                }
+            ]
+        },
+        {
+            "engSentence": "Another five reels.",
+            "id": 324204,
+            "phonetic": "อีก ห้า ม้วน",
+            "thaiSentence": "อีกห้าม้วน",
+            "thaiSentenceSpaced": " อีก ห้า ม้วน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "again ; once more ; more"
+                        }
+                    ],
+                    "phonetic": "อีก",
+                    "word": "อีก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "five"
+                        }
+                    ],
+                    "phonetic": "ห้า",
+                    "word": "ห้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(ม้วน is the classifier for a roll of something, like film or paper.)</i>"
+                        },
+                        {
+                            "meaning": "[to] roll ; coil ; wind"
+                        }
+                    ],
+                    "phonetic": "ม้วน",
+                    "word": "ม้วน"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 5276,
+        "exampleSentences": [
+            {
+                "engSentence": "Oh, we were five.",
+                "id": 35880,
+                "thaiSentence": "โอ้ ตอนเราห้าขวบนะ",
+                "thaiSentenceSpaced": " โอ้  &middot;  ตอน เรา ห้า ขวบ นะ "
+            },
+            {
+                "engSentence": "That was five months ago.",
+                "id": 58175,
+                "thaiSentence": "นั่นมันผ่านมาห้าเดือนแล้ว",
+                "thaiSentenceSpaced": " นั่น มัน ผ่านมา ห้า เดือน แล้ว "
+            },
+            {
+                "engSentence": "Late five minutes.",
+                "id": 61246,
+                "thaiSentence": "ช้าไปห้านาที",
+                "thaiSentenceSpaced": " ช้า ไป ห้า นาที "
+            },
+            {
+                "engSentence": "Five more minutes.",
+                "id": 66799,
+                "thaiSentence": "อีกห้านาทีนะ",
+                "thaiSentenceSpaced": " อีก ห้า นาที นะ "
+            },
+            {
+                "engSentence": "I killed about five people.",
+                "id": 89099,
+                "thaiSentence": "ผมฆ่าไปซักห้าคนได้",
+                "thaiSentenceSpaced": " ผม ฆ่า ไป ซัก ห้า คน ได้ "
+            },
+            {
+                "engSentence": "Another five reels.",
+                "id": 324204,
+                "thaiSentence": "อีกห้าม้วน",
+                "thaiSentenceSpaced": " อีก ห้า ม้วน "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1448963,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "five",
+                        "word": "five"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 542,
+                        "corpusScore": 474,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102684,
+                        "legacyWordId": 1408340,
+                        "meaning": "fifteen",
+                        "parentId": 102684,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สิบ ห้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบห้า"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 349,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102692,
+                        "legacyWordId": 1449253,
+                        "meaning": "fifty ; 50",
+                        "parentId": 102692,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "ห้า สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้าสิบ"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 329,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45084,
+                        "legacyWordId": 1449234,
+                        "meaning": "five hundred ; 500",
+                        "parentId": 45084,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้า ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้าร้อย"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 203,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47059,
+                        "legacyWordId": 1317697,
+                        "meaning": "5 a.m.",
+                        "parentId": 47059,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตี ห้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตีห้า"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 186,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102705,
+                        "legacyWordId": 1449179,
+                        "meaning": "five thousand ; 5000",
+                        "parentId": 102705,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "ห้า พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้าพัน"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 162,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102715,
+                        "legacyWordId": 1449257,
+                        "meaning": "fifty thousand ; 50,000",
+                        "parentId": 102715,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "ห้า หฺมื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้าหมื่น"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 106,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26246,
+                        "legacyWordId": 1401679,
+                        "meaning": "five commandments ; five precepts",
+                        "parentId": 26246,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สีน ห้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ศีลห้า"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 105,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102723,
+                        "legacyWordId": 1449256,
+                        "meaning": "five hundred thousand ; 500,000",
+                        "parentId": 102723,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "ห้า แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้าแสน"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 102,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102750,
+                        "legacyWordId": 1449165,
+                        "meaning": "11pm",
+                        "parentId": 102750,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้า ทุ่ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้าทุ่ม"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 44,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36385,
+                        "legacyWordId": 1449260,
+                        "meaning": "pentagon",
+                        "parentId": 36385,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ห้า เหฺลี่ยม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้าเหลี่ยม"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 36,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102733,
+                        "legacyWordId": 1449241,
+                        "meaning": "five million ; 5,000,000",
+                        "parentId": 102733,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "ห้า ล้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้าล้าน"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 13,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17820,
+                        "legacyWordId": 1409174,
+                        "meaning": "blindly ; ignorantly",
+                        "parentId": 17820,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "สุ่ม สี่ สุ่ม ห้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สุ่มสี่สุ่มห้า"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 5,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401067,
+                        "legacyWordId": 1449171,
+                        "meaning": "5 a.m.",
+                        "parentId": 401067,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้า นา-ลิ-กา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้านาฬิกา"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102764,
+                        "legacyWordId": 1449196,
+                        "meaning": "11am",
+                        "parentId": 102764,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้า โมง เช้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้าโมงเช้า"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 58973,
+                        "legacyWordId": 1449162,
+                        "meaning": "Five Tiger Generals",
+                        "parentId": 58973,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้า ทะ-หาน เสือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้าทหารเสือ"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 1,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399150,
+                        "legacyWordId": 1371691,
+                        "meaning": "five kinds of musical instruments",
+                        "parentId": 399150,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปี่-พาด เคฺรื่อง ห้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปี่พาทย์เครื่องห้า"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 1,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 59843,
+                        "legacyWordId": 1330894,
+                        "meaning": "fifth columnist",
+                        "parentId": 59843,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แนว ที่ ห้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แนวที่ห้า"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 71933,
+                        "legacyWordId": 1275904,
+                        "meaning": "dominant",
+                        "parentId": 71933,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ขั้น ที่ ห้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขั้นที่ห้า"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 67861,
+                        "legacyWordId": 1406521,
+                        "meaning": "iambic pentameter couplet",
+                        "parentId": 67861,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สำ-ผัด คู่ มาด-ตฺรา ไอ-แอม ห้า คะ-นะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สัมผัสคู่มาตราไอแอมบ์ห้าคณะ"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 70109,
+                        "legacyWordId": 1375941,
+                        "meaning": "quintuplets",
+                        "parentId": 70109,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แฝด ห้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แฝดห้า"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28545,
+                        "legacyWordId": 1382301,
+                        "meaning": "five eatables",
+                        "parentId": 28545,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โพ-ชะ-นะ ห้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โภชนะห้า"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401304,
+                        "legacyWordId": 1462700,
+                        "meaning": "five peaks",
+                        "parentId": 401304,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เขา ห้า ยอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เขาห้ายอด"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 57062,
+                        "legacyWordId": 1392701,
+                        "meaning": "polygon",
+                        "parentId": 57062,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รูบ ห้า สิบ เหฺลี่ยม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รูปห้าสิบเหลี่ยม"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102775,
+                        "legacyWordId": 1449197,
+                        "meaning": "5pm",
+                        "parentId": 102775,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้า โมง เย็น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้าโมงเย็น"
+                    },
+                    {
+                        "childId": 542,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 68090,
+                        "legacyWordId": 1383997,
+                        "meaning": "pentameter",
+                        "parentId": 68090,
+                        "partOfSpeech": "Noun",
+                        "t2e": "มาด-ตฺรา ห้า คะ-นะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มาตราห้าคณะ"
+                    }
+                ],
+                "explanation": null,
+                "id": 542,
+                "isUncommon": false,
+                "meaning": "five",
+                "partOfSpeech": "Quantifier",
+                "usage": "",
+                "word": "ห้า"
+            }
+        ],
+        "t2e": "ห้า",
+        "verified": null,
+        "word": "ห้า"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

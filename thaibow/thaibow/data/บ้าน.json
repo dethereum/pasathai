@@ -1,0 +1,934 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "You have a nice house there.",
+            "id": 3070,
+            "phonetic": "บ้าน คุน สวย นี่",
+            "thaiSentence": "บ้านคุณสวยนี่",
+            "thaiSentenceSpaced": " บ้าน คุณ สวย นี่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "home ; house"
+                        }
+                    ],
+                    "phonetic": "บ้าน",
+                    "word": "บ้าน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] beautiful ; attractive ; pretty"
+                        }
+                    ],
+                    "phonetic": "สวย",
+                    "word": "สวย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                }
+            ]
+        },
+        {
+            "engSentence": "Let me take you home.",
+            "id": 3325,
+            "phonetic": "ไห้ ผม พา คุน กฺลับ บ้า น เถอะ",
+            "thaiSentence": "ให้ผมพาคุณกลับบ้านเถอะ",
+            "thaiSentenceSpaced": " ให้ ผม พา คุณ กลับ บ้าน เถอะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] bring ; lead ; guide"
+                        }
+                    ],
+                    "phonetic": "พา",
+                    "word": "พา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] return ; go back ; reverse"
+                        }
+                    ],
+                    "phonetic": "กฺลับ",
+                    "word": "กลับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] mad ; crazy ; insane"
+                        }
+                    ],
+                    "phonetic": "บ้า",
+                    "word": "บ้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "nor noo <i>(น - the twenty fifth letter in the Thai alphabet)</i>"
+                        }
+                    ],
+                    "phonetic": "น",
+                    "word": "น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(a particle adding a sense of mild urging or emphasis to the sentence, sometimes equivalent to \"let's...\" in English)</i>"
+                        }
+                    ],
+                    "phonetic": "เถอะ",
+                    "word": "เถอะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "They are repenting at home.",
+            "id": 5037,
+            "phonetic": "พวก เขา จะ ไว้ อา-ไล กัน ที่ บ้าน",
+            "thaiSentence": "พวกเขาจะไว้อาลัยกันที่บ้าน",
+            "thaiSentenceSpaced": " พวกเขา จะ ไว้อาลัย กันที่ บ้าน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "they ; them"
+                        }
+                    ],
+                    "phonetic": "พวก เขา",
+                    "word": "พวกเขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] mourn for"
+                        }
+                    ],
+                    "phonetic": "ไว้ อา-ไล",
+                    "word": "ไว้อาลัย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] reserve ; store ; keep"
+                        }
+                    ],
+                    "phonetic": "กัน ที่",
+                    "word": "กันที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "home ; house"
+                        }
+                    ],
+                    "phonetic": "บ้าน",
+                    "word": "บ้าน"
+                }
+            ]
+        },
+        {
+            "engSentence": "Repenting at home ?",
+            "id": 5038,
+            "phonetic": "ไว้ อา-ไล ที่ บ้าน เหฺรอ",
+            "thaiSentence": "ไว้อาลัยที่บ้านเหรอ",
+            "thaiSentenceSpaced": " ไว้อาลัย ที่ บ้าน เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] mourn for"
+                        }
+                    ],
+                    "phonetic": "ไว้ อา-ไล",
+                    "word": "ไว้อาลัย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "home ; house"
+                        }
+                    ],
+                    "phonetic": "บ้าน",
+                    "word": "บ้าน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I didn't know he moved.",
+            "id": 5419,
+            "phonetic": "ฉัน ไม่ รู้ ว่า เขา ย้าย บ้าน",
+            "thaiSentence": "ฉันไม่รู้ว่าเขาย้ายบ้าน",
+            "thaiSentenceSpaced": " ฉัน ไม่รู้ ว่า เขา ย้าย บ้าน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] not know"
+                        }
+                    ],
+                    "phonetic": "ไม่ รู้",
+                    "word": "ไม่รู้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        },
+                        {
+                            "meaning": "[to] say ; tell"
+                        },
+                        {
+                            "meaning": "[to] blame ; criticise"
+                        }
+                    ],
+                    "phonetic": "ว่า",
+                    "word": "ว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] move ; transfer <i>(from one location to another)</i>"
+                        }
+                    ],
+                    "phonetic": "ย้าย",
+                    "word": "ย้าย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "home ; house"
+                        }
+                    ],
+                    "phonetic": "บ้าน",
+                    "word": "บ้าน"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am going . Home ?",
+            "id": 6090,
+            "phonetic": "ฉัน ไป ล่ะ · จะ กฺลับ บ้าน เหฺรอ",
+            "thaiSentence": "ฉันไปล่ะ จะกลับบ้านเหรอ",
+            "thaiSentenceSpaced": " ฉัน ไป ล่ะ  ·  จะ กลับ บ้าน เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] return ; go back ; reverse"
+                        }
+                    ],
+                    "phonetic": "กฺลับ",
+                    "word": "กลับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "home ; house"
+                        }
+                    ],
+                    "phonetic": "บ้าน",
+                    "word": "บ้าน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 122121,
+        "exampleSentences": [
+            {
+                "engSentence": "You have a nice house there.",
+                "id": 3070,
+                "thaiSentence": "บ้านคุณสวยนี่",
+                "thaiSentenceSpaced": " บ้าน คุณ สวย นี่ "
+            },
+            {
+                "engSentence": "Let me take you home.",
+                "id": 3325,
+                "thaiSentence": "ให้ผมพาคุณกลับบ้านเถอะ",
+                "thaiSentenceSpaced": " ให้ ผม พา คุณ กลับ บ้าน เถอะ "
+            },
+            {
+                "engSentence": "They are repenting at home.",
+                "id": 5037,
+                "thaiSentence": "พวกเขาจะไว้อาลัยกันที่บ้าน",
+                "thaiSentenceSpaced": " พวกเขา จะ ไว้อาลัย กันที่ บ้าน "
+            },
+            {
+                "engSentence": "Repenting at home ?",
+                "id": 5038,
+                "thaiSentence": "ไว้อาลัยที่บ้านเหรอ",
+                "thaiSentenceSpaced": " ไว้อาลัย ที่ บ้าน เหรอ "
+            },
+            {
+                "engSentence": "I didn't know he moved.",
+                "id": 5419,
+                "thaiSentence": "ฉันไม่รู้ว่าเขาย้ายบ้าน",
+                "thaiSentenceSpaced": " ฉัน ไม่รู้ ว่า เขา ย้าย บ้าน "
+            },
+            {
+                "engSentence": "I am going . Home ?",
+                "id": 6090,
+                "thaiSentence": "ฉันไปล่ะ จะกลับบ้านเหรอ",
+                "thaiSentenceSpaced": " ฉัน ไป ล่ะ  &middot;  จะ กลับ บ้าน เหรอ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1333900,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "home",
+                        "word": "home"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "house",
+                        "word": "house"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 103051,
+                        "corpusScore": 16306,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 32941,
+                        "legacyWordId": 1292791,
+                        "meaning": "villager ; folk ; ordinary people",
+                        "parentId": 32941,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชาว บ้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชาวบ้าน"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 11272,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 27748,
+                        "legacyWordId": 1414588,
+                        "meaning": "village",
+                        "parentId": 27748,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺมู่ บ้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หมู่บ้าน"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 4451,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33053,
+                        "legacyWordId": 1353628,
+                        "meaning": "country ; state ; nation",
+                        "parentId": 33053,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ้าน เมือง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ้านเมือง"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 2781,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16798,
+                        "legacyWordId": 1378908,
+                        "meaning": "local ; folk ; homegrown",
+                        "parentId": 16798,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "พื้น บ้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พื้นบ้าน"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 2715,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14236,
+                        "legacyWordId": 1352365,
+                        "meaning": "residence ; dwelling house ; house",
+                        "parentId": 14236,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ้าน พัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ้านพัก"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 2196,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25633,
+                        "legacyWordId": 1379836,
+                        "meaning": "neighbor ; neighbour",
+                        "parentId": 25633,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน บ้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนบ้าน"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 1966,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15349,
+                        "legacyWordId": 1355419,
+                        "meaning": "home ; house ; habitation",
+                        "parentId": 15349,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ้าน เรือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ้านเรือน"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 1674,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45118,
+                        "legacyWordId": 1452246,
+                        "meaning": "be at home ; stay at home",
+                        "parentId": 45118,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺยู่ บ้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่บ้าน"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 1628,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4193,
+                        "legacyWordId": 1413801,
+                        "meaning": "front yard",
+                        "parentId": 4193,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น่า บ้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หน้าบ้าน"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 1307,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23565,
+                        "legacyWordId": 1386064,
+                        "meaning": "housewife",
+                        "parentId": 23565,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แม่ บ้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แม่บ้าน"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 1307,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28457,
+                        "legacyWordId": 1386064,
+                        "meaning": "housekeeper ; maid ; servant",
+                        "parentId": 28457,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แม่ บ้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แม่บ้าน"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 1273,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4242,
+                        "legacyWordId": 1404382,
+                        "meaning": "[to] build a house ; construct a house",
+                        "parentId": 4242,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ส้าง บ้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สร้างบ้าน"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 1246,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13814,
+                        "legacyWordId": 1335308,
+                        "meaning": "homeland ; hometown ; native village",
+                        "parentId": 13814,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ้าน เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ้านเกิด"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 1205,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9659,
+                        "legacyWordId": 1269286,
+                        "meaning": "homework ; assignment ; schoolwork",
+                        "parentId": 9659,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน บ้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การบ้าน"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 769,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2779,
+                        "legacyWordId": 1327515,
+                        "meaning": "outside ; outdoor",
+                        "parentId": 2779,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "นอก บ้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นอกบ้าน"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 741,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "บ้านนอก is often used jokingly, but used seriously it can be a somewhat derogatory term with  implications of lack of sophistication and unfamiliarity with urban ways.",
+                        "hasSoundFile": false,
+                        "id": 47172,
+                        "legacyWordId": 1345674,
+                        "meaning": "countryside",
+                        "parentId": 47172,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ้าน นอก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ้านนอก"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 630,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23923,
+                        "legacyWordId": 1446859,
+                        "meaning": "backyard ; behind the house",
+                        "parentId": 23923,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺลัง บ้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หลังบ้าน"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 625,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "29 provinces in Thailand have a village with this name",
+                        "hasSoundFile": false,
+                        "id": 604692,
+                        "legacyWordId": 1345788,
+                        "meaning": "Banna",
+                        "parentId": 604692,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ้าน นา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ้านนา"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 570,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20247,
+                        "legacyWordId": 1341969,
+                        "meaning": "detached house",
+                        "parentId": 20247,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ้าน เดี่ยว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ้านเดี่ยว"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 569,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15275,
+                        "legacyWordId": 1321886,
+                        "meaning": "folks at home ; people at home",
+                        "parentId": 15275,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทาง บ้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทางบ้าน"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 561,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24082,
+                        "legacyWordId": 1290537,
+                        "meaning": "homeowner",
+                        "parentId": 24082,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เจ้า บ้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ้าบ้าน"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 514,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14799,
+                        "legacyWordId": 1355484,
+                        "meaning": "farmhouse",
+                        "parentId": 14799,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ้าน ไร่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ้านไร่"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 484,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44139,
+                        "legacyWordId": 1375058,
+                        "meaning": "village chief ; village headman",
+                        "parentId": 44139,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ ไหฺย่ บ้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้ใหญ่บ้าน"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 472,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14746,
+                        "legacyWordId": 1358175,
+                        "meaning": "garden house ; farmhouse",
+                        "parentId": 14746,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ้าน สวน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ้านสวน"
+                    },
+                    {
+                        "childId": 103051,
+                        "corpusScore": 397,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3225,
+                        "legacyWordId": 1290480,
+                        "meaning": "house-owner ; home-owner",
+                        "parentId": 3225,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เจ้า ของ บ้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ้าของบ้าน"
+                    }
+                ],
+                "explanation": null,
+                "id": 103051,
+                "isUncommon": false,
+                "meaning": "home ; house",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "บ้าน"
+            }
+        ],
+        "t2e": "บ้าน",
+        "verified": null,
+        "word": "บ้าน"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,563 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Isn't it for you ?",
+            "id": 783,
+            "phonetic": "ไม่ ไช่ ของ คุน หฺรอก เหฺรอ",
+            "thaiSentence": "ไม่ใช่ของคุณหรอกเหรอ",
+            "thaiSentenceSpaced": " ไม่ใช่ ของคุณ หรอก เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be not ; no"
+                        }
+                    ],
+                    "phonetic": "ไม่ ไช่",
+                    "word": "ไม่ใช่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "your ; of you"
+                        }
+                    ],
+                    "phonetic": "ของ คุน",
+                    "word": "ของคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in the negative when making a contradiction)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺรอก",
+                    "word": "หรอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Then it was no big deal.",
+            "id": 919,
+            "phonetic": "นั้น ไม่ ไช่ เรื่อง ไหฺย่ หฺรอก",
+            "thaiSentence": "นั้นไม่ใช่เรื่องใหญ่หรอก",
+            "thaiSentenceSpaced": " นั้น ไม่ใช่ เรื่องใหญ่ หรอก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence, or to show the end of a relative clause)</i>"
+                        },
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั้น",
+                    "word": "นั้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be not ; no"
+                        }
+                    ],
+                    "phonetic": "ไม่ ไช่",
+                    "word": "ไม่ใช่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "important event ; major event"
+                        }
+                    ],
+                    "phonetic": "เรื่อง ไหฺย่",
+                    "word": "เรื่องใหญ่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in the negative when making a contradiction)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺรอก",
+                    "word": "หรอก"
+                }
+            ]
+        },
+        {
+            "engSentence": "No it is not that.",
+            "id": 977,
+            "phonetic": "ไม่ · ไม่ ไช่ แบบ นั้น",
+            "thaiSentence": "ไม่ ไม่ใช่แบบนั้น",
+            "thaiSentenceSpaced": " ไม่  ·  ไม่ใช่ แบบนั้น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be not ; no"
+                        }
+                    ],
+                    "phonetic": "ไม่ ไช่",
+                    "word": "ไม่ใช่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "like that ; that way"
+                        }
+                    ],
+                    "phonetic": "แบบ นั้น",
+                    "word": "แบบนั้น"
+                }
+            ]
+        },
+        {
+            "engSentence": "This isn't my day.",
+            "id": 1283,
+            "phonetic": "นี่ ไม่ ไช่ วัน ของ ฉัน เลย",
+            "thaiSentence": "นี่ไม่ใช่วันของฉันเลย",
+            "thaiSentenceSpaced": " นี่ ไม่ใช่ วัน ของ ฉัน เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be not ; no"
+                        }
+                    ],
+                    "phonetic": "ไม่ ไช่",
+                    "word": "ไม่ใช่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "day"
+                        }
+                    ],
+                    "phonetic": "วัน",
+                    "word": "วัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Tonight is not an accident.",
+            "id": 2805,
+            "phonetic": "คืน นี้ ไม่ ไช่ เหด บัง-เอิน",
+            "thaiSentence": "คืนนี้ไม่ใช่เหตุบังเอิญ",
+            "thaiSentenceSpaced": " คืนนี้ ไม่ใช่ เหตุบังเอิญ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tonight ; this night ; this evening"
+                        }
+                    ],
+                    "phonetic": "คืน นี้",
+                    "word": "คืนนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be not ; no"
+                        }
+                    ],
+                    "phonetic": "ไม่ ไช่",
+                    "word": "ไม่ใช่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "accident ; coincidence"
+                        }
+                    ],
+                    "phonetic": "เหด บัง-เอิน",
+                    "word": "เหตุบังเอิญ"
+                }
+            ]
+        },
+        {
+            "engSentence": "No, that's not it.",
+            "id": 6927,
+            "phonetic": "ไม่ ไช่ · มัน ไม่ ไช่ หฺย่าง นั้น",
+            "thaiSentence": "ไม่ใช่ มันไม่ใช่อย่างนั้น",
+            "thaiSentenceSpaced": " ไม่ ใช่  ·  มัน ไม่ใช่ อย่างนั้น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be not ; no"
+                        }
+                    ],
+                    "phonetic": "ไม่ ไช่",
+                    "word": "ไม่ใช่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be not ; no"
+                        }
+                    ],
+                    "phonetic": "ไม่ ไช่",
+                    "word": "ไม่ใช่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "like that"
+                        }
+                    ],
+                    "phonetic": "หฺย่าง นั้น",
+                    "word": "อย่างนั้น"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 24675,
+        "exampleSentences": [
+            {
+                "engSentence": "Isn't it for you ?",
+                "id": 783,
+                "thaiSentence": "ไม่ใช่ของคุณหรอกเหรอ",
+                "thaiSentenceSpaced": " ไม่ใช่ ของคุณ หรอก เหรอ "
+            },
+            {
+                "engSentence": "Then it was no big deal.",
+                "id": 919,
+                "thaiSentence": "นั้นไม่ใช่เรื่องใหญ่หรอก",
+                "thaiSentenceSpaced": " นั้น ไม่ใช่ เรื่องใหญ่ หรอก "
+            },
+            {
+                "engSentence": "No it is not that.",
+                "id": 977,
+                "thaiSentence": "ไม่ ไม่ใช่แบบนั้น",
+                "thaiSentenceSpaced": " ไม่  &middot;  ไม่ใช่ แบบนั้น "
+            },
+            {
+                "engSentence": "This isn't my day.",
+                "id": 1283,
+                "thaiSentence": "นี่ไม่ใช่วันของฉันเลย",
+                "thaiSentenceSpaced": " นี่ ไม่ใช่ วัน ของ ฉัน เลย "
+            },
+            {
+                "engSentence": "Tonight is not an accident.",
+                "id": 2805,
+                "thaiSentence": "คืนนี้ไม่ใช่เหตุบังเอิญ",
+                "thaiSentenceSpaced": " คืนนี้ ไม่ใช่ เหตุบังเอิญ "
+            },
+            {
+                "engSentence": "No, that's not it.",
+                "id": 6927,
+                "thaiSentence": "ไม่ใช่ มันไม่ใช่อย่างนั้น",
+                "thaiSentenceSpaced": " ไม่ ใช่  &middot;  มัน ไม่ใช่ อย่างนั้น "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1386823,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 42109,
+                        "corpusScore": 472057,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42109,
+                        "legacyWordId": 1386654,
+                        "meaning": "no ; not ",
+                        "parentId": 27306,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "ไม่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่"
+                    },
+                    {
+                        "childId": 390067,
+                        "corpusScore": 25166,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 390067,
+                        "legacyWordId": 1294399,
+                        "meaning": "yes",
+                        "parentId": 27306,
+                        "partOfSpeech": "Interjection",
+                        "t2e": "ไช่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใช่"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] be not",
+                        "word": "not"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "no",
+                        "word": "no"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 27306,
+                        "corpusScore": 47,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25236,
+                        "legacyWordId": 1386827,
+                        "meaning": "really ; not a little ; very",
+                        "parentId": 25236,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไม่ ไช่ เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ใช่เล่น"
+                    },
+                    {
+                        "childId": 27306,
+                        "corpusScore": 12,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402696,
+                        "legacyWordId": 1386826,
+                        "meaning": "extraordinary ; special ; unusual",
+                        "parentId": 402696,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ไม่ ไช่ ทำ-มะ-ดา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ใช่ธรรมดา"
+                    },
+                    {
+                        "childId": 27306,
+                        "corpusScore": 3,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402698,
+                        "legacyWordId": 1386824,
+                        "meaning": "no ; not",
+                        "parentId": 402698,
+                        "partOfSpeech": "NEG",
+                        "t2e": "ไม่ ไช่ เช่น นั้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ใช่เช่นนั้น"
+                    },
+                    {
+                        "childId": 27306,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402697,
+                        "legacyWordId": 1386828,
+                        "meaning": "extraordinary ; special ; unusual",
+                        "parentId": 402697,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ไม่ ไช่ สา-มัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ใช่สามัญ"
+                    },
+                    {
+                        "childId": 27306,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 66118,
+                        "legacyWordId": 1386825,
+                        "meaning": "non-marine",
+                        "parentId": 66118,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไม่ ไช่ ทาง ทะ-เล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ใช่ทางทะเล"
+                    },
+                    {
+                        "childId": 27306,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25250,
+                        "legacyWordId": 1386829,
+                        "meaning": "quite ; not a little ; really",
+                        "parentId": 25250,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไม่ ไช่ หฺยอก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ใช่หยอก"
+                    },
+                    {
+                        "childId": 27306,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 69781,
+                        "legacyWordId": 1374780,
+                        "meaning": "non-white",
+                        "parentId": 69781,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ ไม่ ไช่ คน ผิว ขาว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้ไม่ใช่คนผิวขาว"
+                    }
+                ],
+                "explanation": null,
+                "id": 27306,
+                "isUncommon": false,
+                "meaning": "[to] be not ; no",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ไม่ใช่"
+            }
+        ],
+        "t2e": "ไม่ ไช่",
+        "verified": null,
+        "word": "ไม่ใช่"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

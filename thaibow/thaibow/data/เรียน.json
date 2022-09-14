@@ -1,0 +1,942 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "So what major are you in ?",
+            "id": 1069,
+            "phonetic": "แล้ว คุน เรียน เอก อะ-ไร",
+            "thaiSentence": "แล้วคุณเรียนเอกอะไร",
+            "thaiSentenceSpaced": " แล้ว คุณ เรียน เอก อะไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] learn ; study"
+                        }
+                    ],
+                    "phonetic": "เรียน",
+                    "word": "เรียน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "main ; most important ; principal"
+                        },
+                        {
+                            "meaning": "sole ; solitary ; unique"
+                        }
+                    ],
+                    "phonetic": "เอก",
+                    "word": "เอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "Don't you have a class ?",
+            "id": 4803,
+            "phonetic": "คุน ไม่ มี เรียน บ้าง หฺรือ ไง",
+            "thaiSentence": "คุณไม่มีเรียนบ้างหรือไง",
+            "thaiSentenceSpaced": " คุณ ไม่มี เรียน บ้าง หรือไง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] don't have ; there isn't"
+                        }
+                    ],
+                    "phonetic": "ไม่ มี",
+                    "word": "ไม่มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] learn ; study"
+                        }
+                    ],
+                    "phonetic": "เรียน",
+                    "word": "เรียน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "some ; any"
+                        }
+                    ],
+                    "phonetic": "บ้าง",
+                    "word": "บ้าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or what ; or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ ไง",
+                    "word": "หรือไง"
+                }
+            ]
+        },
+        {
+            "engSentence": "We have same classes.",
+            "id": 4804,
+            "phonetic": "ก้อ เรา ลง เรียน เหฺมือน กัน ไง ล่ะ",
+            "thaiSentence": "ก็เราลงเรียนเหมือนกันไงล่ะ",
+            "thaiSentenceSpaced": " ก็ เรา ลง เรียน เหมือนกัน ไง ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] write down ; note down ; register"
+                        },
+                        {
+                            "meaning": "down ; downward"
+                        },
+                        {
+                            "meaning": "[to] go down ; reduce ; descend"
+                        },
+                        {
+                            "meaning": "[to] get out off ; get off <i>(e.g. a vehicle)</i>"
+                        },
+                        {
+                            "meaning": "[to] enter <i>(into ; down into)</i>"
+                        },
+                        {
+                            "meaning": "[to] apply ; use ; put down"
+                        }
+                    ],
+                    "phonetic": "ลง",
+                    "word": "ลง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] learn ; study"
+                        }
+                    ],
+                    "phonetic": "เรียน",
+                    "word": "เรียน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; as well ; too"
+                        }
+                    ],
+                    "phonetic": "เหฺมือน กัน",
+                    "word": "เหมือนกัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle showing the preceding statement is self-evident)</i>"
+                        },
+                        {
+                            "meaning": "how"
+                        }
+                    ],
+                    "phonetic": "ไง",
+                    "word": "ไง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What's your first class ?",
+            "id": 5698,
+            "phonetic": "วิ-ชา แรก คุน เรียน อะ-ไร",
+            "thaiSentence": "วิชาแรกคุณเรียนอะไร",
+            "thaiSentenceSpaced": " วิชา แรก คุณ เรียน อะไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "subject ; knowledge ; branch of knowledge"
+                        }
+                    ],
+                    "phonetic": "วิ-ชา",
+                    "word": "วิชา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "first ; initial ; original"
+                        }
+                    ],
+                    "phonetic": "แรก",
+                    "word": "แรก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] learn ; study"
+                        }
+                    ],
+                    "phonetic": "เรียน",
+                    "word": "เรียน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "So how shall we have class ?",
+            "id": 23645,
+            "phonetic": "แล้ว เรา จะ เรียน กัน ยัง ไง ล่ะ",
+            "thaiSentence": "แล้วเราจะเรียนกันยังไงล่ะ",
+            "thaiSentenceSpaced": " แล้ว เรา จะ เรียน กัน ยังไง ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] learn ; study"
+                        }
+                    ],
+                    "phonetic": "เรียน",
+                    "word": "เรียน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one another ; each other"
+                        },
+                        {
+                            "meaning": "together ; jointly"
+                        }
+                    ],
+                    "phonetic": "กัน",
+                    "word": "กัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "still ; yet"
+                        }
+                    ],
+                    "phonetic": "ยัง",
+                    "word": "ยัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle showing the preceding statement is self-evident)</i>"
+                        },
+                        {
+                            "meaning": "how"
+                        }
+                    ],
+                    "phonetic": "ไง",
+                    "word": "ไง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Go study abroad.",
+            "id": 24147,
+            "phonetic": "ไป เรียน เมือง นอก",
+            "thaiSentence": "ไปเรียนเมืองนอก",
+            "thaiSentenceSpaced": " ไป เรียน เมืองนอก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] learn ; study"
+                        }
+                    ],
+                    "phonetic": "เรียน",
+                    "word": "เรียน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "abroad ; foreign country"
+                        }
+                    ],
+                    "phonetic": "เมือง นอก",
+                    "word": "เมืองนอก"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 55866,
+        "exampleSentences": [
+            {
+                "engSentence": "So what major are you in ?",
+                "id": 1069,
+                "thaiSentence": "แล้วคุณเรียนเอกอะไร",
+                "thaiSentenceSpaced": " แล้ว คุณ เรียน เอก อะไร "
+            },
+            {
+                "engSentence": "Don't you have a class ?",
+                "id": 4803,
+                "thaiSentence": "คุณไม่มีเรียนบ้างหรือไง",
+                "thaiSentenceSpaced": " คุณ ไม่มี เรียน บ้าง หรือไง "
+            },
+            {
+                "engSentence": "We have same classes.",
+                "id": 4804,
+                "thaiSentence": "ก็เราลงเรียนเหมือนกันไงล่ะ",
+                "thaiSentenceSpaced": " ก็ เรา ลง เรียน เหมือนกัน ไง ล่ะ "
+            },
+            {
+                "engSentence": "What's your first class ?",
+                "id": 5698,
+                "thaiSentence": "วิชาแรกคุณเรียนอะไร",
+                "thaiSentenceSpaced": " วิชา แรก คุณ เรียน อะไร "
+            },
+            {
+                "engSentence": "So how shall we have class ?",
+                "id": 23645,
+                "thaiSentence": "แล้วเราจะเรียนกันยังไงล่ะ",
+                "thaiSentenceSpaced": " แล้ว เรา จะ เรียน กัน ยังไง ล่ะ "
+            },
+            {
+                "engSentence": "Go study abroad.",
+                "id": 24147,
+                "thaiSentence": "ไปเรียนเมืองนอก",
+                "thaiSentenceSpaced": " ไป เรียน เมืองนอก "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1392949,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] learn",
+                        "word": "learn"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "study",
+                        "word": "study"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 38418,
+                        "corpusScore": 20730,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21707,
+                        "legacyWordId": 1394072,
+                        "meaning": "school",
+                        "parentId": 21707,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรง เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรงเรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 10516,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "usually referring to junior or high school students",
+                        "hasSoundFile": true,
+                        "id": 193523,
+                        "legacyWordId": 1327893,
+                        "meaning": "student ; learner",
+                        "parentId": 193523,
+                        "partOfSpeech": "Noun",
+                        "t2e": "นัก เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นักเรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 10040,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50230,
+                        "legacyWordId": 1392956,
+                        "meaning": "[to] learn ; study",
+                        "parentId": 50230,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เรียน รู้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรียนรู้"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 7804,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12501,
+                        "legacyWordId": 1270793,
+                        "meaning": "education ; study ; learning",
+                        "parentId": 12501,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การเรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 2202,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32415,
+                        "legacyWordId": 1331918,
+                        "meaning": "lesson",
+                        "parentId": 32415,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บด เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บทเรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 2086,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14412,
+                        "legacyWordId": 1374903,
+                        "meaning": "student ; learner ; pupil",
+                        "parentId": 14412,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้เรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 1391,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24252,
+                        "legacyWordId": 1389652,
+                        "meaning": "[to] complain ; appeal (to someone)",
+                        "parentId": 24252,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ร้อง เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้องเรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 1211,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26790,
+                        "legacyWordId": 1448270,
+                        "meaning": "classroom",
+                        "parentId": 26790,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องเรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 1201,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24325,
+                        "legacyWordId": 1392952,
+                        "meaning": "[to] further study ; continue to study",
+                        "parentId": 24325,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เรียน ต่อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรียนต่อ"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 1007,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25776,
+                        "legacyWordId": 1392950,
+                        "meaning": "[to] graduate",
+                        "parentId": 25776,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เรียน จบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรียนจบ"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 914,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30025,
+                        "legacyWordId": 1277696,
+                        "meaning": "[to] attend class ; take a lesson ; go to class",
+                        "parentId": 30025,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าเรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 727,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13115,
+                        "legacyWordId": 1292213,
+                        "meaning": "classroom ; class",
+                        "parentId": 13115,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชั้น เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชั้นเรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 584,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46603,
+                        "legacyWordId": 1397141,
+                        "meaning": "[to] study",
+                        "parentId": 46603,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เล่า เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เล่าเรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 486,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41729,
+                        "legacyWordId": 1324591,
+                        "meaning": "durian",
+                        "parentId": 41729,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทุ เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุเรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 417,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 428,
+                        "legacyWordId": 1453863,
+                        "meaning": "school building ; education building",
+                        "parentId": 428,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-คาน เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาคารเรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 383,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26214,
+                        "legacyWordId": 1392957,
+                        "meaning": "[to] study ; learn ; be in school",
+                        "parentId": 26214,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เรียน หฺนัง-สือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรียนหนังสือ"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 331,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10528,
+                        "legacyWordId": 1264777,
+                        "meaning": "[to] inform",
+                        "parentId": 10528,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กฺราบ เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กราบเรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 331,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10526,
+                        "legacyWordId": 1264777,
+                        "meaning": "[to] respectedly inform",
+                        "parentId": 10526,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กฺราบ เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กราบเรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 310,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40264,
+                        "legacyWordId": 1381393,
+                        "meaning": "semester ; session ; term",
+                        "parentId": 40264,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พาก เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ภาคเรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 303,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "เลิกเรียน usually implies quitting prematurely, where as เรียนจบ is used to describe finishing studying after graduating. It can also mean \"finish studying\" in a temporary sense, such as when referring to what time lessons finish that day.",
+                        "hasSoundFile": false,
+                        "id": 49466,
+                        "legacyWordId": 1397163,
+                        "meaning": "[to] quit school ; quit studying",
+                        "parentId": 49466,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เลิก เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เลิกเรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 285,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21796,
+                        "legacyWordId": 1399248,
+                        "meaning": "studying age ; education age",
+                        "parentId": 21796,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไว เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วัยเรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 281,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3623,
+                        "legacyWordId": 1400506,
+                        "meaning": "school hours ; studying time ; time in school",
+                        "parentId": 3623,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เว-ลา เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เวลาเรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 267,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38324,
+                        "legacyWordId": 1392951,
+                        "meaning": "[to] invite",
+                        "parentId": 38324,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เรียน เชิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรียนเชิญ"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 256,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26103,
+                        "legacyWordId": 1392185,
+                        "meaning": "[to] study ; learn",
+                        "parentId": 26103,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ร่ำ เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร่ำเรียน"
+                    },
+                    {
+                        "childId": 38418,
+                        "corpusScore": 250,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37652,
+                        "legacyWordId": 1392955,
+                        "meaning": "[to] take extra tutorial class",
+                        "parentId": 37652,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เรียน พิ-เสด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรียนพิเศษ"
+                    }
+                ],
+                "explanation": null,
+                "id": 38418,
+                "isUncommon": false,
+                "meaning": "[to] learn ; study",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "เรียน"
+            }
+        ],
+        "t2e": "เรียน",
+        "verified": null,
+        "word": "เรียน"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

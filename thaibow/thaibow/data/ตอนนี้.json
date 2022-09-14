@@ -1,0 +1,604 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Are you okay now ?",
+            "id": 921,
+            "phonetic": "ตอน-นี้ · โอ เค หฺรือ เปฺล่า",
+            "thaiSentence": "ตอนนี้ โอเคหรือเปล่า",
+            "thaiSentenceSpaced": " ตอนนี้  ·  โอเค หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "now ; right now ; at this moment"
+                        }
+                    ],
+                    "phonetic": "ตอน-นี้",
+                    "word": "ตอนนี้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "OK"
+                        }
+                    ],
+                    "phonetic": "โอ เค",
+                    "word": "โอเค"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "Anyway, now is a bad time.",
+            "id": 978,
+            "phonetic": "ยัง ไง ก้อ · ตอน-นี้ เป็น เว-ลา ที่ ไม่ ดี เลย",
+            "thaiSentence": "ยังไงก็ ตอนนี้เป็นเวลาที่ไม่ดีเลย",
+            "thaiSentenceSpaced": " ยังไง ก็  ·  ตอนนี้ เป็นเวลา ที่ ไม่ดี เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "ยัง ไง",
+                    "word": "ยังไง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "now ; right now ; at this moment"
+                        }
+                    ],
+                    "phonetic": "ตอน-นี้",
+                    "word": "ตอนนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "when ; at the time that"
+                        }
+                    ],
+                    "phonetic": "เว-ลา ที่",
+                    "word": "เวลาที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "badly ; terribly"
+                        },
+                        {
+                            "meaning": "[to be] bad ; not good"
+                        }
+                    ],
+                    "phonetic": "ไม่ ดี",
+                    "word": "ไม่ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Where are you now ?",
+            "id": 3615,
+            "phonetic": "แล้ว ตอน-นี้ หฺยู่ ไหฺน กัน แล้ว เนี่ย",
+            "thaiSentence": "แล้วตอนนี้อยู่ไหนกันแล้วเนี่ย",
+            "thaiSentenceSpaced": " แล้ว ตอนนี้ อยู่ ไหน กัน แล้ว เนี่ย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "now ; right now ; at this moment"
+                        }
+                    ],
+                    "phonetic": "ตอน-นี้",
+                    "word": "ตอนนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whichever one"
+                        },
+                        {
+                            "meaning": "which"
+                        },
+                        {
+                            "meaning": "where ; which place <i>(a shortened form of ที่ไหน)</i>"
+                        },
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        }
+                    ],
+                    "phonetic": "ไหฺน",
+                    "word": "ไหน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one another ; each other"
+                        },
+                        {
+                            "meaning": "together ; jointly"
+                        }
+                    ],
+                    "phonetic": "กัน",
+                    "word": "กัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(ending particle, sometimes showing suprise or confusion)</i>"
+                        }
+                    ],
+                    "phonetic": "เนี่ย",
+                    "word": "เนี่ย"
+                }
+            ]
+        },
+        {
+            "engSentence": "A highway runs over it now.",
+            "id": 5178,
+            "phonetic": "ตอน-นี้ · มี ถะ-หฺนน ตัด ผ่าน ค่ะ",
+            "thaiSentence": "ตอนนี้ มีถนนตัดผ่านค่ะ",
+            "thaiSentenceSpaced": " ตอนนี้  ·  มี ถนน ตัดผ่าน ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "now ; right now ; at this moment"
+                        }
+                    ],
+                    "phonetic": "ตอน-นี้",
+                    "word": "ตอนนี้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "road ; street ; avenue"
+                        }
+                    ],
+                    "phonetic": "ถะ-หฺนน",
+                    "word": "ถนน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] cut through ; bypass"
+                        }
+                    ],
+                    "phonetic": "ตัด ผ่าน",
+                    "word": "ตัดผ่าน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What are you doing now ?",
+            "id": 11551,
+            "phonetic": "ตอน-นี้ คุน กำ-ลัง ทำ อะ-ไร หฺยู่",
+            "thaiSentence": "ตอนนี้คุณกำลังทำอะไรอยู่",
+            "thaiSentenceSpaced": " ตอนนี้ คุณ กำลัง ทำ อะไร อยู่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "now ; right now ; at this moment"
+                        }
+                    ],
+                    "phonetic": "ตอน-นี้",
+                    "word": "ตอนนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "power ; energy ; strength"
+                        },
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense)</i>"
+                        }
+                    ],
+                    "phonetic": "กำ-ลัง",
+                    "word": "กำลัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                }
+            ]
+        },
+        {
+            "engSentence": "He belongs to me now.",
+            "id": 27518,
+            "phonetic": "เขา เข้า มา หฺยู่ ไน ไจ ฉัน แล้ว ตอน-นี้",
+            "thaiSentence": "เขาเข้ามาอยู่ในใจฉันแล้วตอนนี้",
+            "thaiSentenceSpaced": " เขา เข้ามา อยู่ ในใจ ฉัน แล้ว ตอนนี้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] enter ; get in"
+                        }
+                    ],
+                    "phonetic": "เข้า มา",
+                    "word": "เข้ามา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in one's heart ; in one's mind"
+                        }
+                    ],
+                    "phonetic": "ไน ไจ",
+                    "word": "ในใจ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "now ; right now ; at this moment"
+                        }
+                    ],
+                    "phonetic": "ตอน-นี้",
+                    "word": "ตอนนี้"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 16957,
+        "exampleSentences": [
+            {
+                "engSentence": "Are you okay now ?",
+                "id": 921,
+                "thaiSentence": "ตอนนี้ โอเคหรือเปล่า",
+                "thaiSentenceSpaced": " ตอนนี้  &middot;  โอเค หรือเปล่า "
+            },
+            {
+                "engSentence": "Anyway, now is a bad time.",
+                "id": 978,
+                "thaiSentence": "ยังไงก็ ตอนนี้เป็นเวลาที่ไม่ดีเลย",
+                "thaiSentenceSpaced": " ยังไง ก็  &middot;  ตอนนี้ เป็นเวลา ที่ ไม่ดี เลย "
+            },
+            {
+                "engSentence": "Where are you now ?",
+                "id": 3615,
+                "thaiSentence": "แล้วตอนนี้อยู่ไหนกันแล้วเนี่ย",
+                "thaiSentenceSpaced": " แล้ว ตอนนี้ อยู่ ไหน กัน แล้ว เนี่ย "
+            },
+            {
+                "engSentence": "A highway runs over it now.",
+                "id": 5178,
+                "thaiSentence": "ตอนนี้ มีถนนตัดผ่านค่ะ",
+                "thaiSentenceSpaced": " ตอนนี้  &middot;  มี ถนน ตัดผ่าน ค่ะ "
+            },
+            {
+                "engSentence": "What are you doing now ?",
+                "id": 11551,
+                "thaiSentence": "ตอนนี้คุณกำลังทำอะไรอยู่",
+                "thaiSentenceSpaced": " ตอนนี้ คุณ กำลัง ทำ อะไร อยู่ "
+            },
+            {
+                "engSentence": "He belongs to me now.",
+                "id": 27518,
+                "thaiSentence": "เขาเข้ามาอยู่ในใจฉันแล้วตอนนี้",
+                "thaiSentenceSpaced": " เขา เข้ามา อยู่ ในใจ ฉัน แล้ว ตอนนี้ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1309855,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 42145,
+                        "corpusScore": 314016,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42145,
+                        "legacyWordId": 1330353,
+                        "meaning": "this",
+                        "parentId": 45790,
+                        "partOfSpeech": "DemonstrativeAdjective",
+                        "t2e": "นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นี้"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "now",
+                        "word": "now"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "right now",
+                        "word": "right now"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "at this moment",
+                        "word": "at this moment"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 45790,
+                        "corpusScore": 479,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46813,
+                        "legacyWordId": 1331694,
+                        "meaning": "at this moment ; now",
+                        "parentId": 46813,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไน ตอน-นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในตอนนี้"
+                    }
+                ],
+                "explanation": null,
+                "id": 45790,
+                "isUncommon": false,
+                "meaning": "now ; right now ; at this moment",
+                "partOfSpeech": "Adverb",
+                "usage": "",
+                "word": "ตอนนี้"
+            }
+        ],
+        "t2e": "ตอน-นี้",
+        "verified": null,
+        "word": "ตอนนี้"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

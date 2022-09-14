@@ -1,0 +1,1665 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "What are you doing here ?",
+            "id": 364,
+            "phonetic": "คุน มา ทำ อะ-ไร ที่ นี่ เหฺรอ",
+            "thaiSentence": "คุณมาทำอะไรที่นี่เหรอ",
+            "thaiSentenceSpaced": " คุณ มา ทำ อะไร ที่นี่ เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "here"
+                        }
+                    ],
+                    "phonetic": "ที่ นี่",
+                    "word": "ที่นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Did you bring an umbrella ?",
+            "id": 598,
+            "phonetic": "คุน เอา ร่ม มา หฺรือ เปฺล่า",
+            "thaiSentence": "คุณเอาร่มมาหรือเปล่า",
+            "thaiSentenceSpaced": " คุณ เอา ร่ม มา หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; desire"
+                        },
+                        {
+                            "meaning": "[to] take ; bring"
+                        }
+                    ],
+                    "phonetic": "เอา",
+                    "word": "เอา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "umbrella"
+                        },
+                        {
+                            "meaning": "[to] shade ; protect"
+                        },
+                        {
+                            "meaning": "[to] be shady ; be shadowy"
+                        }
+                    ],
+                    "phonetic": "ร่ม",
+                    "word": "ร่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "Tell me what's wrong.",
+            "id": 1433,
+            "phonetic": "บอก มา สิ · มา เป็น อะ-ไร",
+            "thaiSentence": "บอกมาสิ มาเป็นอะไร",
+            "thaiSentenceSpaced": " บอก มา สิ  ·  มา เป็นอะไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] tell ; say ; describe"
+                        }
+                    ],
+                    "phonetic": "บอก",
+                    "word": "บอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have something wrong ; have a problem <i>(Although the literally meaning of เป็นอะไร is closer to \"what are you?\" it's frequently used as a phrase by itself to mean \"What's wrong ?\". To reply there's nothing wrong you can use ไม่เป็นอะไร (or the shortened form ไม่เป็นไร), though the literal meaning often invites sarcastic replies like เป็นคน (\"I'm a person\").)</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น อะ-ไร",
+                    "word": "เป็นอะไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "Tell me what's wrong.",
+            "id": 1433,
+            "phonetic": "บอก มา สิ · มา เป็น อะ-ไร",
+            "thaiSentence": "บอกมาสิ มาเป็นอะไร",
+            "thaiSentenceSpaced": " บอก มา สิ  ·  มา เป็นอะไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] tell ; say ; describe"
+                        }
+                    ],
+                    "phonetic": "บอก",
+                    "word": "บอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have something wrong ; have a problem <i>(Although the literally meaning of เป็นอะไร is closer to \"what are you?\" it's frequently used as a phrase by itself to mean \"What's wrong ?\". To reply there's nothing wrong you can use ไม่เป็นอะไร (or the shortened form ไม่เป็นไร), though the literal meaning often invites sarcastic replies like เป็นคน (\"I'm a person\").)</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น อะ-ไร",
+                    "word": "เป็นอะไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "Why can't she come ?",
+            "id": 1435,
+            "phonetic": "ทำ-ไม เขา มา ไม่ ด้าย",
+            "thaiSentence": "ทำไมเขามาไม่ได้",
+            "thaiSentenceSpaced": " ทำไม เขา มา ไม่ได้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "why"
+                        }
+                    ],
+                    "phonetic": "ทำ-ไม",
+                    "word": "ทำไม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "didn't ; did not"
+                        },
+                        {
+                            "meaning": "can't ; cannot"
+                        }
+                    ],
+                    "phonetic": "ไม่ ด้าย",
+                    "word": "ไม่ได้"
+                }
+            ]
+        },
+        {
+            "engSentence": "You saw this musical, too ?",
+            "id": 1582,
+            "phonetic": "คุน มา ดูด น ตฺรี ด้วย เหฺรอ",
+            "thaiSentence": "คุณมาดูดนตรีด้วยเหรอ",
+            "thaiSentenceSpaced": " คุณ มา ดูด น ตรี ด้วย เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] suck ; absorb ; inhale"
+                        }
+                    ],
+                    "phonetic": "ดูด",
+                    "word": "ดูด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "nor noo <i>(น - the twenty fifth letter in the Thai alphabet)</i>"
+                        }
+                    ],
+                    "phonetic": "น",
+                    "word": "น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "three ; third ; triple"
+                        }
+                    ],
+                    "phonetic": "ตฺรี",
+                    "word": "ตรี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 404413,
+        "exampleSentences": [
+            {
+                "engSentence": "What are you doing here ?",
+                "id": 364,
+                "thaiSentence": "คุณมาทำอะไรที่นี่เหรอ",
+                "thaiSentenceSpaced": " คุณ มา ทำ อะไร ที่นี่ เหรอ "
+            },
+            {
+                "engSentence": "Did you bring an umbrella ?",
+                "id": 598,
+                "thaiSentence": "คุณเอาร่มมาหรือเปล่า",
+                "thaiSentenceSpaced": " คุณ เอา ร่ม มา หรือเปล่า "
+            },
+            {
+                "engSentence": "Tell me what's wrong.",
+                "id": 1433,
+                "thaiSentence": "บอกมาสิ มาเป็นอะไร",
+                "thaiSentenceSpaced": " บอก มา สิ  &middot;  มา เป็นอะไร "
+            },
+            {
+                "engSentence": "Tell me what's wrong.",
+                "id": 1433,
+                "thaiSentence": "บอกมาสิ มาเป็นอะไร",
+                "thaiSentenceSpaced": " บอก มา สิ  &middot;  มา เป็นอะไร "
+            },
+            {
+                "engSentence": "Why can't she come ?",
+                "id": 1435,
+                "thaiSentence": "ทำไมเขามาไม่ได้",
+                "thaiSentenceSpaced": " ทำไม เขา มา ไม่ได้ "
+            },
+            {
+                "engSentence": "You saw this musical, too ?",
+                "id": 1582,
+                "thaiSentence": "คุณมาดูดนตรีด้วยเหรอ",
+                "thaiSentenceSpaced": " คุณ มา ดูด น ตรี ด้วย เหรอ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1383855,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 1,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] come",
+                        "word": "come"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "arrive",
+                        "word": "arrive"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 59335,
+                        "corpusScore": 28304,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 41340,
+                        "legacyWordId": 1383903,
+                        "meaning": "[to] come from ; be from",
+                        "parentId": 41340,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มา จาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มาจาก"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 12334,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 8038,
+                        "legacyWordId": 1323500,
+                        "meaning": "origin ; source ; cause",
+                        "parentId": 8038,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ที่ มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่มา"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 9699,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24528,
+                        "legacyWordId": 1384013,
+                        "meaning": "[to] reach at ; arrive at",
+                        "parentId": 24528,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มา ถึง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มาถึง"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 6579,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 44518,
+                        "legacyWordId": 1383886,
+                        "meaning": "before",
+                        "parentId": 44518,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มา ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มาก่อน"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 6318,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 41664,
+                        "legacyWordId": 1384044,
+                        "meaning": "for a long time",
+                        "parentId": 41664,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มา นาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มานาน"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 4754,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30610,
+                        "legacyWordId": 1384257,
+                        "meaning": "[to] come to meet ; call on ; drop in on",
+                        "parentId": 30610,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มา หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มาหา"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 2141,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4716,
+                        "legacyWordId": 1384251,
+                        "meaning": "[to] come (to) ; move toward ; reach",
+                        "parentId": 4716,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มา สู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มาสู่"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 1821,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399788,
+                        "legacyWordId": 1384142,
+                        "meaning": "[to] visit ; call on ; drop in",
+                        "parentId": 399788,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มา เยี่ยม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มาเยี่ยม"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 1613,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50154,
+                        "legacyWordId": 1270313,
+                        "meaning": "coming ; arrival",
+                        "parentId": 50154,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การมา"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 759,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16813,
+                        "legacyWordId": 1291016,
+                        "meaning": "[to] be encouraged ; be confident ; be hopeful",
+                        "parentId": 16813,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไจ มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใจมา"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 703,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34094,
+                        "legacyWordId": 1384209,
+                        "meaning": "[to] be highly popular ; be hugely popular",
+                        "parentId": 34094,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มา แรง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มาแรง"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 539,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 812,
+                        "legacyWordId": 1383939,
+                        "meaning": "always",
+                        "parentId": 812,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มา โดย ตะ-หฺลอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มาโดยตลอด"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 527,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 193626,
+                        "legacyWordId": 1384048,
+                        "meaning": "[to] come here ; come over here",
+                        "parentId": 193626,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มา นี่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มานี่"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 468,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394993,
+                        "legacyWordId": 1383908,
+                        "meaning": "[to] arrive late ; come late",
+                        "parentId": 394993,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มา ช้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มาช้า"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 238,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28266,
+                        "legacyWordId": 1374751,
+                        "meaning": "visitor ; guest ; caller",
+                        "parentId": 28266,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ มา เยือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้มาเยือน"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 215,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46878,
+                        "legacyWordId": 1373314,
+                        "meaning": "[to] go here and there ; travel around",
+                        "parentId": 46878,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป ไหฺน มา ไหฺน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปไหนมาไหน"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 164,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22704,
+                        "legacyWordId": 1385551,
+                        "meaning": "recently",
+                        "parentId": 22704,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เมื่อ ไม่ นาน มา นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เมื่อไม่นานมานี้"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 141,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25595,
+                        "legacyWordId": 1328694,
+                        "meaning": "long ago ; long time ago",
+                        "parentId": 25595,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "นาน มา แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นานมาแล้ว"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 140,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4451,
+                        "legacyWordId": 1384250,
+                        "meaning": "[to] arrive late ; come late",
+                        "parentId": 4451,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มา สาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มาสาย"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 72,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24996,
+                        "legacyWordId": 1327590,
+                        "meaning": "[to] have a landslide victory",
+                        "parentId": 24996,
+                        "partOfSpeech": "Verb",
+                        "t2e": "นอน มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นอนมา"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 65,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394994,
+                        "legacyWordId": 1384217,
+                        "meaning": "[to] arrive late ; come late",
+                        "parentId": 394994,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มา ล่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มาล่า"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 21,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 800,
+                        "legacyWordId": 1374752,
+                        "meaning": "new-comer ; newly-arrived person",
+                        "parentId": 800,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ มา ไหฺม่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้มาใหม่"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 3,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394526,
+                        "legacyWordId": 1278961,
+                        "meaning": "new-comer ; newly-arrived person",
+                        "parentId": 394526,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน มา ไหฺม่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนมาใหม่"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18291,
+                        "legacyWordId": 1384206,
+                        "meaning": "[to] besiege ; throng ; mob",
+                        "parentId": 18291,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มา รุม มา ตุ้ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มารุมมาตุ้ม"
+                    },
+                    {
+                        "childId": 59335,
+                        "corpusScore": 2,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18291,
+                        "legacyWordId": 1384206,
+                        "meaning": "[to] besiege ; throng ; mob",
+                        "parentId": 18291,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มา รุม มา ตุ้ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มารุมมาตุ้ม"
+                    }
+                ],
+                "explanation": null,
+                "id": 59335,
+                "isUncommon": false,
+                "meaning": "[to] come ; arrive",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "มา"
+            },
+            {
+                "components": [],
+                "displayOrder": 2,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "to",
+                        "word": "to"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "in",
+                        "word": "in"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "into",
+                        "word": "into"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "towards",
+                        "word": "towards"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 59334,
+                        "corpusScore": 33116,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 30459,
+                        "legacyWordId": 1277637,
+                        "meaning": "[to] enter ; get in",
+                        "parentId": 30459,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้ามา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 31354,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 25341,
+                        "legacyWordId": 1452641,
+                        "meaning": "[to] come out",
+                        "parentId": 25341,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ออก มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ออกมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 22149,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 29369,
+                        "legacyWordId": 1276661,
+                        "meaning": "[to] upward ; rise",
+                        "parentId": 29369,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขึ้น มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขึ้นมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 17230,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 34599,
+                        "legacyWordId": 1265311,
+                        "meaning": "[to] return ; come back ; go back",
+                        "parentId": 34599,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กฺลับ มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กลับมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 13553,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 28473,
+                        "legacyWordId": 1329795,
+                        "meaning": "[to] bring ; take ; bear",
+                        "parentId": 28473,
+                        "partOfSpeech": "Verb",
+                        "t2e": "นำ มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นำมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 9957,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 18418,
+                        "legacyWordId": 1309938,
+                        "meaning": "afterwards ; later ; subsequently ; after that",
+                        "parentId": 18418,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ต่อ มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ต่อมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 8814,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 19484,
+                        "legacyWordId": 1394527,
+                        "meaning": "down ; downward",
+                        "parentId": 19484,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ลง มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลงมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 8814,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 38779,
+                        "legacyWordId": 1394527,
+                        "meaning": "[to] come down ; descend",
+                        "parentId": 38779,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ลง มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลงมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 8234,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 635,
+                        "legacyWordId": 1373910,
+                        "meaning": "[to] pass by ; pass through ; pass",
+                        "parentId": 635,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ผ่าน มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผ่านมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 7007,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402039,
+                        "legacyWordId": 1457363,
+                        "meaning": "[to] bring ; take ; bear",
+                        "parentId": 402039,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอามา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 6959,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19374,
+                        "legacyWordId": 1308730,
+                        "meaning": "[to] obtain ; gain ; get",
+                        "parentId": 19374,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ด้าย มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ได้มา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 4020,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43843,
+                        "legacyWordId": 1311314,
+                        "meaning": "follow ; arrive later",
+                        "parentId": 43843,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตาม มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตามมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 3999,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37891,
+                        "legacyWordId": 1373281,
+                        "meaning": "back and forth ; to and fro",
+                        "parentId": 37891,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไป มา",
+                        "usage": "",
+                        "verified": "ไป มา",
+                        "word": "ไปมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 3301,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23187,
+                        "legacyWordId": 1448451,
+                        "meaning": "[to] turn to",
+                        "parentId": 23187,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หัน มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หันมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 2138,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4501,
+                        "legacyWordId": 1372228,
+                        "meaning": "[to] happen ; occur ; arise",
+                        "parentId": 4501,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เป็น มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เป็นมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 784,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17714,
+                        "legacyWordId": 1309556,
+                        "meaning": "all along ; all the time ; consistently",
+                        "parentId": 17714,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ตะ-หฺลอด มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตลอดมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 608,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46365,
+                        "legacyWordId": 1391091,
+                        "meaning": "[to] receive ; get ; acquire",
+                        "parentId": 46365,
+                        "partOfSpeech": "Verb",
+                        "t2e": "รับ มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รับมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 452,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4442,
+                        "legacyWordId": 1409602,
+                        "meaning": "consistently ; persistently ; all along",
+                        "parentId": 4442,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "สะ-เหฺมอ มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เสมอมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 316,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4009,
+                        "legacyWordId": 1372089,
+                        "meaning": "until now ; up to now",
+                        "parentId": 4009,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เป็น ต้น มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เป็นต้นมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 303,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26930,
+                        "legacyWordId": 1408685,
+                        "meaning": "continuously ; continually",
+                        "parentId": 26930,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "สืบ มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สืบมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 284,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394601,
+                        "legacyWordId": 1387498,
+                        "meaning": "[to] turn back ; return ; retrace",
+                        "parentId": 394601,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ย้อน กฺลับ มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ย้อนกลับมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 238,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396165,
+                        "legacyWordId": 1269107,
+                        "meaning": "bringing ; taking ; carrying",
+                        "parentId": 396165,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน นำ มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การนำมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 179,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3248,
+                        "legacyWordId": 1309255,
+                        "meaning": "frankly ; straightforwardly ; openly",
+                        "parentId": 3248,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ตฺรง ไป ตฺรง มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตรงไปตรงมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 128,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18841,
+                        "legacyWordId": 1310450,
+                        "meaning": "from that time on ; from then on ; since then",
+                        "parentId": 18841,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ตั้ง แต่ นั้น มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตั้งแต่นั้นมา"
+                    },
+                    {
+                        "childId": 59334,
+                        "corpusScore": 97,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402043,
+                        "legacyWordId": 1457383,
+                        "meaning": "[to] pry ; lever ; lift",
+                        "parentId": 402043,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา ออก มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาออกมา"
+                    }
+                ],
+                "explanation": "The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.",
+                "id": 59334,
+                "isUncommon": false,
+                "meaning": "to ; in ; into ; towards",
+                "partOfSpeech": "SecondaryVerb",
+                "usage": "",
+                "word": "มา"
+            },
+            {
+                "components": [],
+                "displayOrder": 3,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "",
+                        "word": ""
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 59336,
+                        "corpusScore": 2470,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399778,
+                        "legacyWordId": 1383999,
+                        "meaning": "all along ; all the time ; consistently",
+                        "parentId": 399778,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มา ตะ-หฺลอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มาตลอด"
+                    },
+                    {
+                        "childId": 59336,
+                        "corpusScore": 106,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25563,
+                        "legacyWordId": 1323293,
+                        "meaning": "above-mentioned",
+                        "parentId": 25563,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ที่ กฺล่าว มา ข้าง ต้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่กล่าวมาข้างต้น"
+                    },
+                    {
+                        "childId": 59336,
+                        "corpusScore": 45,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395510,
+                        "legacyWordId": 1386925,
+                        "meaning": "recently",
+                        "parentId": 395510,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไม่ นาน มา นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่นานมานี้"
+                    },
+                    {
+                        "childId": 59336,
+                        "corpusScore": 24,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3432,
+                        "legacyWordId": 1307082,
+                        "meaning": "as above-mentioned",
+                        "parentId": 3432,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ดัง ที่ ได้ กฺล่าว มา แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดังที่ได้กล่าวมาแล้ว"
+                    },
+                    {
+                        "childId": 59336,
+                        "corpusScore": 10,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402024,
+                        "legacyWordId": 1449739,
+                        "meaning": "[to] see with one's own eyes",
+                        "parentId": 402024,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เห็น มา กับ ตา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เห็นมากับตา"
+                    },
+                    {
+                        "childId": 59336,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": "do/did something",
+                        "hasSoundFile": false,
+                        "id": 191364,
+                        "legacyWordId": 1285490,
+                        "meaning": "have previously ; used to",
+                        "parentId": 191364,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "เคย (...) มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เคย (...) มา"
+                    },
+                    {
+                        "childId": 59336,
+                        "corpusScore": 0,
+                        "displayOrder": 5,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 190015,
+                        "legacyWordId": 1283956,
+                        "meaning": "unearned increment",
+                        "parentId": 190015,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ค่า เพิ่ม ขึ้น โดย มิ ด้าย หา มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ค่าเพิ่มขึ้นโดยมิได้หามา"
+                    },
+                    {
+                        "childId": 59336,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": "The name of a village in Si Sa Ket province",
+                        "hasSoundFile": false,
+                        "id": 626422,
+                        "legacyWordId": 1293588,
+                        "meaning": "Chum Chon Mari Nong Khaen",
+                        "parentId": 626422,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม-ชน-มา-รี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนมารี-หนองแคน"
+                    },
+                    {
+                        "childId": 59336,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 190129,
+                        "legacyWordId": 1375079,
+                        "meaning": "manageable voter",
+                        "parentId": 190129,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ ออก เสียง ลง คะ-แนน ที่ จัด มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้ออกเสียงลงคะแนนที่จัดมา"
+                    },
+                    {
+                        "childId": 59336,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400751,
+                        "legacyWordId": 1408705,
+                        "meaning": "ancient ; old ; legendary",
+                        "parentId": 400751,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "สืบ สืบ กัน มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สืบๆ กันมา"
+                    },
+                    {
+                        "childId": 59336,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 190269,
+                        "legacyWordId": 1376362,
+                        "meaning": "splinter party",
+                        "parentId": 190269,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พัก กาน เมือง ที่ แยก ออก มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พรรคการเมืองที่แยกออกมา"
+                    },
+                    {
+                        "childId": 59336,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "The name of a village in Chumphon province",
+                        "hasSoundFile": false,
+                        "id": 675292,
+                        "legacyWordId": 1291833,
+                        "meaning": "Chong Ban Ma",
+                        "parentId": 675292,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ช่อง บ้าน มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ช่องบ้านมา"
+                    },
+                    {
+                        "childId": 59336,
+                        "corpusScore": 0,
+                        "displayOrder": 4,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401870,
+                        "legacyWordId": 1397134,
+                        "meaning": "by word of mouth",
+                        "parentId": 401870,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เล่า ต่อ ต่อ กัน มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เล่าต่อๆ กันมา"
+                    }
+                ],
+                "explanation": "It's a marker that puts the main verb in the present perfect tense",
+                "id": 59336,
+                "isUncommon": false,
+                "meaning": "",
+                "partOfSpeech": "SecondaryVerb",
+                "usage": "",
+                "word": "มา"
+            }
+        ],
+        "t2e": "มา",
+        "verified": "มา",
+        "word": "มา"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,1455 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "What did I tell you ?",
+            "id": 852,
+            "phonetic": "ฉัน บอก อะ-ไร ไป",
+            "thaiSentence": "ฉันบอกอะไรไป",
+            "thaiSentenceSpaced": " ฉัน บอก อะไร ไป ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] tell ; say ; describe"
+                        }
+                    ],
+                    "phonetic": "บอก",
+                    "word": "บอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                }
+            ]
+        },
+        {
+            "engSentence": "What's wrong with you ?",
+            "id": 868,
+            "phonetic": "พี่ เป็น อะ-ไร ไป",
+            "thaiSentence": "พี่เป็นอะไรไป",
+            "thaiSentenceSpaced": " พี่ เป็นอะไร ไป ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I <i>(used when talking to someone younger)</i>"
+                        },
+                        {
+                            "meaning": "you <i>(used when talking to someone older)</i>"
+                        },
+                        {
+                            "meaning": "he ; she ; him ; her <i>(used when referring to someone older)</i>"
+                        },
+                        {
+                            "meaning": " <i>(elder)</i> brother ; sister <i>(or friend, relative, work colleague etc...)</i>"
+                        }
+                    ],
+                    "phonetic": "พี่",
+                    "word": "พี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have something wrong ; have a problem <i>(Although the literally meaning of เป็นอะไร is closer to \"what are you?\" it's frequently used as a phrase by itself to mean \"What's wrong ?\". To reply there's nothing wrong you can use ไม่เป็นอะไร (or the shortened form ไม่เป็นไร), though the literal meaning often invites sarcastic replies like เป็นคน (\"I'm a person\").)</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น อะ-ไร",
+                    "word": "เป็นอะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                }
+            ]
+        },
+        {
+            "engSentence": "So how did it go ?",
+            "id": 940,
+            "phonetic": "แล้ว · มัน ไป ยัง ไง",
+            "thaiSentence": "แล้ว มันไปยังไง",
+            "thaiSentenceSpaced": " แล้ว  ·  มัน ไป ยังไง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "ยัง ไง",
+                    "word": "ยังไง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Where could she be ?",
+            "id": 995,
+            "phonetic": "เขา ไป ที่ ไหฺน",
+            "thaiSentence": "เขาไปที่ไหน",
+            "thaiSentenceSpaced": " เขา ไป ที่ไหน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        },
+                        {
+                            "meaning": "where ; which place"
+                        }
+                    ],
+                    "phonetic": "ที่ ไหฺน",
+                    "word": "ที่ไหน"
+                }
+            ]
+        },
+        {
+            "engSentence": "Then forget it.",
+            "id": 1450,
+            "phonetic": "งั้น ลืม ไป ซะ",
+            "thaiSentence": "งั้นลืมไปซะ",
+            "thaiSentenceSpaced": " งั้น ลืม ไป ซะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "like that"
+                        },
+                        {
+                            "meaning": "if so ; in that case ; then"
+                        }
+                    ],
+                    "phonetic": "งั้น",
+                    "word": "งั้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] forget"
+                        }
+                    ],
+                    "phonetic": "ลืม",
+                    "word": "ลืม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle implying the verb should be done quickly or completely)</i>"
+                        }
+                    ],
+                    "phonetic": "ซะ",
+                    "word": "ซะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Where did that person go ?",
+            "id": 1474,
+            "phonetic": "คน ๆ · นั้น ไป ที่ ไหฺน แล้ว",
+            "thaiSentence": "คนๆ นั้นไปที่ไหนแล้ว",
+            "thaiSentenceSpaced": " คน ๆ  ·  นั้น ไป ที่ไหน แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(character used to indicate the previous word is repeated)</i>"
+                        }
+                    ],
+                    "phonetic": "ๆ",
+                    "word": "ๆ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence, or to show the end of a relative clause)</i>"
+                        },
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั้น",
+                    "word": "นั้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go to"
+                        }
+                    ],
+                    "phonetic": "ไป ที่",
+                    "word": "ไปที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whichever one"
+                        },
+                        {
+                            "meaning": "which"
+                        },
+                        {
+                            "meaning": "where ; which place <i>(a shortened form of ที่ไหน)</i>"
+                        },
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        }
+                    ],
+                    "phonetic": "ไหฺน",
+                    "word": "ไหน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 462804,
+        "exampleSentences": [
+            {
+                "engSentence": "What did I tell you ?",
+                "id": 852,
+                "thaiSentence": "ฉันบอกอะไรไป",
+                "thaiSentenceSpaced": " ฉัน บอก อะไร ไป "
+            },
+            {
+                "engSentence": "What's wrong with you ?",
+                "id": 868,
+                "thaiSentence": "พี่เป็นอะไรไป",
+                "thaiSentenceSpaced": " พี่ เป็นอะไร ไป "
+            },
+            {
+                "engSentence": "So how did it go ?",
+                "id": 940,
+                "thaiSentence": "แล้ว มันไปยังไง",
+                "thaiSentenceSpaced": " แล้ว  &middot;  มัน ไป ยังไง "
+            },
+            {
+                "engSentence": "Where could she be ?",
+                "id": 995,
+                "thaiSentence": "เขาไปที่ไหน",
+                "thaiSentenceSpaced": " เขา ไป ที่ไหน "
+            },
+            {
+                "engSentence": "Then forget it.",
+                "id": 1450,
+                "thaiSentence": "งั้นลืมไปซะ",
+                "thaiSentenceSpaced": " งั้น ลืม ไป ซะ "
+            },
+            {
+                "engSentence": "Where did that person go ?",
+                "id": 1474,
+                "thaiSentence": "คนๆ นั้นไปที่ไหนแล้ว",
+                "thaiSentenceSpaced": " คน ๆ  &middot;  นั้น ไป ที่ไหน แล้ว "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1373258,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] go",
+                        "word": "go"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "leave",
+                        "word": "leave"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "depart",
+                        "word": "depart"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 38010,
+                        "corpusScore": 12234,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 46881,
+                        "legacyWordId": 1373284,
+                        "meaning": "[to] go to",
+                        "parentId": 46881,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป ยัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปยัง"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 9005,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46883,
+                        "legacyWordId": 1373271,
+                        "meaning": "[to] arrive at ; reach",
+                        "parentId": 46883,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป ถึง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปถึง"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 8981,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 46882,
+                        "legacyWordId": 1373273,
+                        "meaning": "[to] go to",
+                        "parentId": 46882,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป ที่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปที่"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 7640,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 46884,
+                        "legacyWordId": 1373268,
+                        "meaning": "[to] go and see",
+                        "parentId": 46884,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป ดู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปดู"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 7531,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40147,
+                        "legacyWordId": 1373312,
+                        "meaning": "[to] visit ; go to see ; meet",
+                        "parentId": 40147,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปหา"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 7147,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46880,
+                        "legacyWordId": 1373309,
+                        "meaning": "to ; towards",
+                        "parentId": 46880,
+                        "partOfSpeech": "Preposition",
+                        "t2e": "ไป สู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปสู่"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 6724,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37592,
+                        "legacyWordId": 1373275,
+                        "meaning": "[to] travel ; tour ; go out",
+                        "parentId": 37592,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป เที่ยว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปเที่ยว"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 4757,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 46885,
+                        "legacyWordId": 1373263,
+                        "meaning": "[to] go with ; accompany",
+                        "parentId": 46885,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปกับ"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 3999,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37891,
+                        "legacyWordId": 1373281,
+                        "meaning": "back and forth ; to and fro",
+                        "parentId": 37891,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไป มา",
+                        "usage": "",
+                        "verified": "ไป มา",
+                        "word": "ไปมา"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 2326,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50009,
+                        "legacyWordId": 1269933,
+                        "meaning": "going",
+                        "parentId": 50009,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การไป"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 1601,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402564,
+                        "legacyWordId": 1373280,
+                        "meaning": "[to] see ; meet tocall on",
+                        "parentId": 402564,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป พบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปพบ"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 677,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46886,
+                        "legacyWordId": 1373261,
+                        "meaning": "[to] go and return ; go back and forth",
+                        "parentId": 46886,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป กฺลับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปกลับ"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 419,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40667,
+                        "legacyWordId": 1373276,
+                        "meaning": "[to] go abroad ; go overseas",
+                        "parentId": 40667,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป นอก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปนอก"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 215,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46878,
+                        "legacyWordId": 1373314,
+                        "meaning": "[to] go here and there ; travel around",
+                        "parentId": 46878,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป ไหฺน มา ไหฺน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปไหนมาไหน"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 140,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40709,
+                        "legacyWordId": 1373308,
+                        "meaning": "[to] dead ; go to heaven ; die",
+                        "parentId": 40709,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป สะ-หฺวัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปสวรรค์"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 125,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44052,
+                        "legacyWordId": 1327541,
+                        "meaning": "in addition ; besides",
+                        "parentId": 44052,
+                        "partOfSpeech": "Preposition",
+                        "t2e": "นอก เหฺนือ ไป จาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นอกเหนือไปจาก"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 117,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20867,
+                        "legacyWordId": 1283378,
+                        "meaning": "in due time ; proceedingly",
+                        "parentId": 20867,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ค่อย เป็น ค่อย ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ค่อยเป็นค่อยไป"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 94,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38098,
+                        "legacyWordId": 1373306,
+                        "meaning": "[to] be on duty as a civil servan",
+                        "parentId": 38098,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป ราด-ชะ-กาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปราชการ"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 63,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38711,
+                        "legacyWordId": 1373274,
+                        "meaning": "[to] go to the toilet ; relieve oneself ; defecate",
+                        "parentId": 38711,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป ทุ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปทุ่ง"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 52,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39032,
+                        "legacyWordId": 1373262,
+                        "meaning": "[to] get along well (with)",
+                        "parentId": 39032,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป กัน ด้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปกันได้"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 38,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48187,
+                        "legacyWordId": 1373313,
+                        "meaning": "go away! ; leave me alone!",
+                        "parentId": 48187,
+                        "partOfSpeech": "Interjection",
+                        "t2e": "ไป ไห้ พ้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปให้พ้น"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 34,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 740,
+                        "legacyWordId": 1373311,
+                        "meaning": "[to] go to heaven",
+                        "parentId": 740,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป สู่ สุก คะ-ติ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปสู่สุขคติ"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 26,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31892,
+                        "legacyWordId": 1377626,
+                        "meaning": "[to] not too bad ; be passable ; be moderate",
+                        "parentId": 31892,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พอ ไป ได้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พอไปได้"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 5,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1277,
+                        "legacyWordId": 1373315,
+                        "meaning": "[to] cannot escape to anywhere",
+                        "parentId": 1277,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป ไหฺน ไม่ รอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปไหนไม่รอด"
+                    },
+                    {
+                        "childId": 38010,
+                        "corpusScore": 4,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26589,
+                        "legacyWordId": 1410609,
+                        "meaning": "[to] get out ; go away",
+                        "parentId": 26589,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไส หัว ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไสหัวไป"
+                    }
+                ],
+                "explanation": null,
+                "id": 38010,
+                "isUncommon": false,
+                "meaning": "[to] go ; leave ; depart",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ไป"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "to",
+                        "word": "to"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "off",
+                        "word": "off"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "away",
+                        "word": "away"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "into",
+                        "word": "into"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "in",
+                        "word": "in"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 48188,
+                        "corpusScore": 31879,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 30519,
+                        "legacyWordId": 1277568,
+                        "meaning": "[to] enter ; reach ; get into",
+                        "parentId": 30519,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 26465,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 33599,
+                        "legacyWordId": 1309906,
+                        "meaning": "next ; latter ; later",
+                        "parentId": 33599,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ต่อ ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ต่อไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 26465,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 18161,
+                        "legacyWordId": 1309906,
+                        "meaning": "continually ; further ; afterward",
+                        "parentId": 18161,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ต่อ ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ต่อไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 20350,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 33089,
+                        "legacyWordId": 1321554,
+                        "meaning": "[to be] general ; common ; ordinary",
+                        "parentId": 33089,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ทั่ว ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทั่วไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 17238,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 41304,
+                        "legacyWordId": 1452628,
+                        "meaning": "go out",
+                        "parentId": 41304,
+                        "partOfSpeech": "None",
+                        "t2e": "ออก ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ออกไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 10991,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 29815,
+                        "legacyWordId": 1276657,
+                        "meaning": "[to] go upward ; up",
+                        "parentId": 29815,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขึ้น ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขึ้นไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 7505,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48141,
+                        "legacyWordId": 1372184,
+                        "meaning": "[to] go on ; happen ; develop",
+                        "parentId": 48141,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เป็น ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เป็นไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 7189,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 45095,
+                        "legacyWordId": 1449215,
+                        "meaning": "[to] disappear ; be missing ; be lost",
+                        "parentId": 45095,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หาย ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หายไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 5740,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402046,
+                        "legacyWordId": 1457360,
+                        "meaning": "[to] seize ; grab ; take",
+                        "parentId": 402046,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 5022,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 421583,
+                        "legacyWordId": 1373905,
+                        "meaning": "[to] pass by",
+                        "parentId": 421583,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ผ่าน ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผ่านไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 4924,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402559,
+                        "legacyWordId": 1373265,
+                        "meaning": "from ; depart ; leave ; go away from",
+                        "parentId": 402559,
+                        "partOfSpeech": "Preposition",
+                        "t2e": "ไป จาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปจาก"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 3677,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 30981,
+                        "legacyWordId": 1372468,
+                        "meaning": "[to] change to ; turn into ; transform into",
+                        "parentId": 30981,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เปฺลี่ยน ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เปลี่ยนไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 2509,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 17036,
+                        "legacyWordId": 1309555,
+                        "meaning": "forever ; always ; ever",
+                        "parentId": 17036,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ตะ-หฺลอด ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตลอดไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 2328,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399540,
+                        "legacyWordId": 1378203,
+                        "meaning": "[to] lead ; guide ; beacon",
+                        "parentId": 399540,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พา ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พาไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 2240,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44928,
+                        "legacyWordId": 1402272,
+                        "meaning": "[to] send",
+                        "parentId": 44928,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ส่ง ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ส่งไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 2056,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47506,
+                        "legacyWordId": 1448449,
+                        "meaning": "[to] turn to ; turn towards",
+                        "parentId": 47506,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หัน ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หันไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 1883,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3505,
+                        "legacyWordId": 1289186,
+                        "meaning": "[to] depart ; leave ; go away from",
+                        "parentId": 3505,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จาก ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จากไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 1871,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48109,
+                        "legacyWordId": 1319381,
+                        "meaning": "next",
+                        "parentId": 48109,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ถัด ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถัดไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 1799,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395206,
+                        "legacyWordId": 1414077,
+                        "meaning": "[to] disappear ; lose",
+                        "parentId": 395206,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺมด ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หมดไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 1733,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26844,
+                        "legacyWordId": 1397412,
+                        "meaning": "[to] be over ; be ended ; be bygone",
+                        "parentId": 26844,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แล้ว ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แล้วไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 1709,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400844,
+                        "legacyWordId": 1413945,
+                        "meaning": "[to] leave ; abandon ; desert",
+                        "parentId": 400844,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺนี ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนีไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 1623,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17245,
+                        "legacyWordId": 1318001,
+                        "meaning": "[to] full of ; filled with",
+                        "parentId": 17245,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เต็ม ไป ด้วย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เต็มไปด้วย"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 1443,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15346,
+                        "legacyWordId": 1329711,
+                        "meaning": "[to] bring about to ; go to be",
+                        "parentId": 15346,
+                        "partOfSpeech": "Verb",
+                        "t2e": "นำ ไป สู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นำไปสู่"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 1431,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397984,
+                        "legacyWordId": 1309254,
+                        "meaning": "straightly ; preoccupied ; concentrating",
+                        "parentId": 397984,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ตฺรง ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตรงไป"
+                    },
+                    {
+                        "childId": 48188,
+                        "corpusScore": 1235,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402563,
+                        "legacyWordId": 1373277,
+                        "meaning": "[to] go to bed",
+                        "parentId": 402563,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปนอน"
+                    }
+                ],
+                "explanation": "The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.",
+                "id": 48188,
+                "isUncommon": false,
+                "meaning": "to ; off ; away ; into ; in",
+                "partOfSpeech": "SecondaryVerb",
+                "usage": "",
+                "word": "ไป"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "too much",
+                        "word": "too much"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "excessively",
+                        "word": "excessively"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 296,
+                        "corpusScore": 7941,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29255,
+                        "legacyWordId": 1274080,
+                        "meaning": "too much ; excessively",
+                        "parentId": 29255,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เกิน ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกินไป"
+                    },
+                    {
+                        "childId": 296,
+                        "corpusScore": 1865,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40798,
+                        "legacyWordId": 1383873,
+                        "meaning": "too much",
+                        "parentId": 40798,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มาก ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มากไป"
+                    },
+                    {
+                        "childId": 296,
+                        "corpusScore": 931,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44055,
+                        "legacyWordId": 1327676,
+                        "meaning": "too little ; too few",
+                        "parentId": 44055,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "น้อย ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น้อยไป"
+                    },
+                    {
+                        "childId": 296,
+                        "corpusScore": 119,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24841,
+                        "legacyWordId": 1388213,
+                        "meaning": "in addition ; moreover ; besides",
+                        "parentId": 24841,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ยิ่ง ไป กฺว่า นั้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยิ่งไปกว่านั้น"
+                    },
+                    {
+                        "childId": 296,
+                        "corpusScore": 74,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398232,
+                        "legacyWordId": 1319166,
+                        "meaning": "abundant ; plentiful ; overwhelming",
+                        "parentId": 398232,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ถม ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถมไป"
+                    }
+                ],
+                "explanation": null,
+                "id": 296,
+                "isUncommon": true,
+                "meaning": "too much ; excessively",
+                "partOfSpeech": "Adverb",
+                "usage": "",
+                "word": "ไป"
+            }
+        ],
+        "t2e": "ไป",
+        "verified": null,
+        "word": "ไป"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

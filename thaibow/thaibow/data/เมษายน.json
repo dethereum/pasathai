@@ -1,0 +1,91 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 1074,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1385166,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 47575,
+                        "corpusScore": 241,
+                        "displayOrder": 0,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": "the symbol of the Zodiac sign Aries",
+                        "hasSoundFile": false,
+                        "id": 47575,
+                        "legacyWordId": 1385164,
+                        "meaning": "ram ; sheep",
+                        "parentId": 6024,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เมด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เมษ"
+                    },
+                    {
+                        "childId": 47576,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47576,
+                        "legacyWordId": 1454200,
+                        "meaning": "the arrival of ; the coming of",
+                        "parentId": 6024,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-ยน",
+                        "usage": "",
+                        "verified": "อา-ยน",
+                        "word": "อายน"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "April",
+                        "word": "April"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [
+                    {
+                        "childId": 6024,
+                        "corpusScore": 475,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45292,
+                        "legacyWordId": 1308382,
+                        "meaning": "April",
+                        "parentId": 45292,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน เม-สา-ยน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนเมษายน"
+                    }
+                ],
+                "explanation": null,
+                "id": 6024,
+                "isUncommon": false,
+                "meaning": "April",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "เมษายน"
+            }
+        ],
+        "t2e": "เม-สา-ยน",
+        "verified": null,
+        "word": "เมษายน"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

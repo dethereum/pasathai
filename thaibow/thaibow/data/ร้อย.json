@@ -1,0 +1,1010 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Yes, hundreds of letters.",
+            "id": 152027,
+            "phonetic": "ไช่ แล้ว · จด หฺมาย นับ ร้อย ฉะ-บับ",
+            "thaiSentence": "ใช่แล้ว จดหมายนับร้อยฉบับ",
+            "thaiSentenceSpaced": " ใช่ แล้ว  ·  จดหมาย นับ ร้อย ฉบับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yes <i>(that's right, that's the case , exactly that)</i>"
+                        }
+                    ],
+                    "phonetic": "ไช่ แล้ว",
+                    "word": "ใช่แล้ว"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "letter ; correspondence ; mail"
+                        }
+                    ],
+                    "phonetic": "จด หฺมาย",
+                    "word": "จดหมาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] regard as ; count as ; adopt as"
+                        },
+                        {
+                            "meaning": "[to] count"
+                        }
+                    ],
+                    "phonetic": "นับ",
+                    "word": "นับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hundred"
+                        }
+                    ],
+                    "phonetic": "ร้อย",
+                    "word": "ร้อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "copy ; issue ; edition <i>(ฉบับ is a classifier for documents, letters, papers, newspapers.)</i>"
+                        }
+                    ],
+                    "phonetic": "ฉะ-บับ",
+                    "word": "ฉบับ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Miss, are you alright ?",
+            "id": 26069,
+            "phonetic": "คุน · รีบ ร้อย ดี ไหฺม",
+            "thaiSentence": "คุณ รีบร้อยดีไหม",
+            "thaiSentenceSpaced": " คุณ  ·  รีบ ร้อย ดี ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "quickly ; hurriedly"
+                        },
+                        {
+                            "meaning": "[to] hurry ; be in a hurry"
+                        }
+                    ],
+                    "phonetic": "รีบ",
+                    "word": "รีบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hundred"
+                        }
+                    ],
+                    "phonetic": "ร้อย",
+                    "word": "ร้อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Hundred day praying.",
+            "id": 540391,
+            "phonetic": "สวด พา-วะ-นา ร้อย วัน",
+            "thaiSentence": "สวดภาวนาร้อยวัน",
+            "thaiSentenceSpaced": " สวด ภาวนา ร้อย วัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pray ; recite the rosary ; chant"
+                        }
+                    ],
+                    "phonetic": "สวด",
+                    "word": "สวด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pray ; wish ; hope"
+                        }
+                    ],
+                    "phonetic": "พา-วะ-นา",
+                    "word": "ภาวนา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hundred"
+                        }
+                    ],
+                    "phonetic": "ร้อย",
+                    "word": "ร้อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "day"
+                        }
+                    ],
+                    "phonetic": "วัน",
+                    "word": "วัน"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 15341,
+        "exampleSentences": [
+            {
+                "engSentence": "Yes, hundreds of letters.",
+                "id": 152027,
+                "thaiSentence": "ใช่แล้ว จดหมายนับร้อยฉบับ",
+                "thaiSentenceSpaced": " ใช่ แล้ว  &middot;  จดหมาย นับ ร้อย ฉบับ "
+            },
+            {
+                "engSentence": "Miss, are you alright ?",
+                "id": 26069,
+                "thaiSentence": "คุณ รีบร้อยดีไหม",
+                "thaiSentenceSpaced": " คุณ  &middot;  รีบ ร้อย ดี ไหม "
+            },
+            {
+                "engSentence": "Hundred day praying.",
+                "id": 540391,
+                "thaiSentence": "สวดภาวนาร้อยวัน",
+                "thaiSentenceSpaced": " สวด ภาวนา ร้อย วัน "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1389810,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "hundred",
+                        "word": "hundred"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 14267,
+                        "corpusScore": 4323,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44640,
+                        "legacyWordId": 1389888,
+                        "meaning": "percent",
+                        "parentId": 44640,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้อย ละ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยละ"
+                    },
+                    {
+                        "childId": 14267,
+                        "corpusScore": 881,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 680,
+                        "legacyWordId": 1372238,
+                        "meaning": "hundreds",
+                        "parentId": 680,
+                        "partOfSpeech": "None",
+                        "t2e": "เป็น ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เป็นร้อย"
+                    },
+                    {
+                        "childId": 14267,
+                        "corpusScore": 604,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14174,
+                        "legacyWordId": 1389918,
+                        "meaning": "Roi Et",
+                        "parentId": 14174,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้อย เอ็ด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยเอ็ด"
+                    },
+                    {
+                        "childId": 14267,
+                        "corpusScore": 604,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13618,
+                        "legacyWordId": 1389918,
+                        "meaning": "hundred one ; one hundred and one",
+                        "parentId": 13618,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้อย เอ็ด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยเอ็ด"
+                    },
+                    {
+                        "childId": 14267,
+                        "corpusScore": 329,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45084,
+                        "legacyWordId": 1449234,
+                        "meaning": "five hundred ; 500",
+                        "parentId": 45084,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้า ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้าร้อย"
+                    },
+                    {
+                        "childId": 14267,
+                        "corpusScore": 269,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102696,
+                        "legacyWordId": 1406999,
+                        "meaning": "three hundred ; 300",
+                        "parentId": 102696,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สาม ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สามร้อย"
+                    },
+                    {
+                        "childId": 14267,
+                        "corpusScore": 255,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102695,
+                        "legacyWordId": 1405247,
+                        "meaning": "two hundred ; 200",
+                        "parentId": 102695,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สอง ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองร้อย"
+                    },
+                    {
+                        "childId": 14267,
+                        "corpusScore": 211,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25736,
+                        "legacyWordId": 1389866,
+                        "meaning": "miscellaneous ; various ; plentiful",
+                        "parentId": 25736,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ร้อย แปด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยแปด"
+                    },
+                    {
+                        "childId": 14267,
+                        "corpusScore": 194,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45019,
+                        "legacyWordId": 1413988,
+                        "meaning": "one hundred ; 100",
+                        "parentId": 45019,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนึ่ง ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนึ่งร้อย"
+                    },
+                    {
+                        "childId": 14267,
+                        "corpusScore": 85,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102697,
+                        "legacyWordId": 1408530,
+                        "meaning": "four hundred ; 400",
+                        "parentId": 102697,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สี่ ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สี่ร้อย"
+                    },
+                    {
+                        "childId": 14267,
+                        "corpusScore": 59,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 70,
+                        "legacyWordId": 1453460,
+                        "meaning": "percentage",
+                        "parentId": 70,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อัด-ตฺรา ร้อย ละ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อัตราร้อยละ"
+                    },
+                    {
+                        "childId": 14267,
+                        "corpusScore": 56,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102698,
+                        "legacyWordId": 1410629,
+                        "meaning": "six hundred ; 600",
+                        "parentId": 102698,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "หก ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกร้อย"
+                    },
+                    {
+                        "childId": 14267,
+                        "corpusScore": 43,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102700,
+                        "legacyWordId": 1372741,
+                        "meaning": "eight hundred ; 800",
+                        "parentId": 102700,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "แปด ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปดร้อย"
+                    },
+                    {
+                        "childId": 14267,
+                        "corpusScore": 36,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18129,
+                        "legacyWordId": 1372239,
+                        "meaning": "many ; very much ; in great quantity",
+                        "parentId": 18129,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เป็น ร้อย เป็น พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เป็นร้อยเป็นพัน"
+                    },
+                    {
+                        "childId": 14267,
+                        "corpusScore": 30,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102699,
+                        "legacyWordId": 1290041,
+                        "meaning": "seven hundred ; 700",
+                        "parentId": 102699,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "เจ็ด ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ็ดร้อย"
+                    },
+                    {
+                        "childId": 14267,
+                        "corpusScore": 30,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29414,
+                        "legacyWordId": 1389892,
+                        "meaning": "tricky ; sly ; crafty",
+                        "parentId": 29414,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ร้อย เล่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยเล่ห์"
+                    },
+                    {
+                        "childId": 14267,
+                        "corpusScore": 18,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102738,
+                        "legacyWordId": 1273679,
+                        "meaning": "nine hundred ; 900",
+                        "parentId": 102738,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "เก้า ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เก้าร้อย"
+                    },
+                    {
+                        "childId": 14267,
+                        "corpusScore": 9,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13710,
+                        "legacyWordId": 1389908,
+                        "meaning": "all along ; all the time",
+                        "parentId": 13710,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ร้อย วัน พัน ปี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยวันพันปี"
+                    },
+                    {
+                        "childId": 14267,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 57063,
+                        "legacyWordId": 1392643,
+                        "meaning": "polygon",
+                        "parentId": 57063,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รูบ ร้อย เหฺลี่ยม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รูปร้อยเหลี่ยม"
+                    }
+                ],
+                "explanation": null,
+                "id": 14267,
+                "isUncommon": false,
+                "meaning": "hundred",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ร้อย"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] thread",
+                        "word": "thread"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "string together",
+                        "word": "string together"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 15077,
+                        "corpusScore": 5835,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1263,
+                        "legacyWordId": 1392960,
+                        "meaning": "[to] be ready ; be set ; be normal",
+                        "parentId": 1263,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เรียบ ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรียบร้อย"
+                    },
+                    {
+                        "childId": 15077,
+                        "corpusScore": 5835,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26120,
+                        "legacyWordId": 1392960,
+                        "meaning": "[to] be polite ; be well-mannered",
+                        "parentId": 26120,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เรียบ ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรียบร้อย"
+                    },
+                    {
+                        "childId": 15077,
+                        "corpusScore": 206,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17938,
+                        "legacyWordId": 1389816,
+                        "meaning": "[to] thread ; weave",
+                        "parentId": 17938,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ร้อย กฺรอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยกรอง"
+                    },
+                    {
+                        "childId": 15077,
+                        "corpusScore": 206,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31817,
+                        "legacyWordId": 1389816,
+                        "meaning": "verse ; poem ; poetry",
+                        "parentId": 31817,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้อย กฺรอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยกรอง"
+                    },
+                    {
+                        "childId": 15077,
+                        "corpusScore": 129,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400194,
+                        "legacyWordId": 1389887,
+                        "meaning": "[to] write ; compose ; create",
+                        "parentId": 400194,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ร้อย เรียง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยเรียง"
+                    },
+                    {
+                        "childId": 15077,
+                        "corpusScore": 84,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24911,
+                        "legacyWordId": 1389822,
+                        "meaning": "prose",
+                        "parentId": 24911,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้อย แก้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยแก้ว"
+                    },
+                    {
+                        "childId": 15077,
+                        "corpusScore": 81,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23982,
+                        "legacyWordId": 1392940,
+                        "meaning": "[to] compose",
+                        "parentId": 23982,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เรียง ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรียงร้อย"
+                    },
+                    {
+                        "childId": 15077,
+                        "corpusScore": 65,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14228,
+                        "legacyWordId": 1389880,
+                        "meaning": "[to] bind ; fasten",
+                        "parentId": 14228,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ร้อย รัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยรัด"
+                    },
+                    {
+                        "childId": 15077,
+                        "corpusScore": 23,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14881,
+                        "legacyWordId": 1389834,
+                        "meaning": "eight thousand baht",
+                        "parentId": 14881,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้อย ชั่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยชั่ง"
+                    },
+                    {
+                        "childId": 15077,
+                        "corpusScore": 12,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13527,
+                        "legacyWordId": 1367837,
+                        "meaning": "abscesses around the neck",
+                        "parentId": 13527,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-คำ ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประคำร้อย"
+                    },
+                    {
+                        "childId": 15077,
+                        "corpusScore": 9,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400193,
+                        "legacyWordId": 1389841,
+                        "meaning": "[to] thread",
+                        "parentId": 400193,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ร้อย ด้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยด้าย"
+                    },
+                    {
+                        "childId": 15077,
+                        "corpusScore": 5,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14269,
+                        "legacyWordId": 1389914,
+                        "meaning": "achilles tendon ; hamstring",
+                        "parentId": 14269,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้อย หฺวาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยหวาย"
+                    },
+                    {
+                        "childId": 15077,
+                        "corpusScore": 4,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398191,
+                        "legacyWordId": 1309953,
+                        "meaning": "percent ; percentage",
+                        "parentId": 398191,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ต่อ ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ต่อร้อย"
+                    },
+                    {
+                        "childId": 15077,
+                        "corpusScore": 1,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40605,
+                        "legacyWordId": 1372902,
+                        "meaning": "[to] translate Pali into Thai",
+                        "parentId": 40605,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แปฺล ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปลร้อย"
+                    },
+                    {
+                        "childId": 15077,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25634,
+                        "legacyWordId": 1388568,
+                        "meaning": "embroidery ; needlework ; sewing",
+                        "parentId": 25634,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เย็บ ปัก ถัก ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เย็บปักถักร้อย"
+                    }
+                ],
+                "explanation": null,
+                "id": 15077,
+                "isUncommon": true,
+                "meaning": "[to] thread ; string together",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ร้อย"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "Lieutenant",
+                        "word": "Lieutenant"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "Captain",
+                        "word": "Captain"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 104299,
+                        "corpusScore": 474,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25225,
+                        "legacyWordId": 1328964,
+                        "meaning": "lieutenant",
+                        "parentId": 25225,
+                        "partOfSpeech": "Noun",
+                        "t2e": "นาย ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นายร้อย"
+                    },
+                    {
+                        "childId": 104299,
+                        "corpusScore": 386,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9015,
+                        "legacyWordId": 1266113,
+                        "meaning": "company ; troop",
+                        "parentId": 9015,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กอง ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กองร้อย"
+                    },
+                    {
+                        "childId": 104299,
+                        "corpusScore": 138,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 104301,
+                        "legacyWordId": 1389844,
+                        "meaning": "Sub Lieutenant ; Second Lieutenant",
+                        "parentId": 104301,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้อย ตฺรี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยตรี"
+                    },
+                    {
+                        "childId": 104299,
+                        "corpusScore": 112,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 104296,
+                        "legacyWordId": 1389917,
+                        "meaning": "Captain",
+                        "parentId": 104296,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้อย เอก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยเอก"
+                    },
+                    {
+                        "childId": 104299,
+                        "corpusScore": 38,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 104298,
+                        "legacyWordId": 1389861,
+                        "meaning": "Lieutenant",
+                        "parentId": 104298,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้อย โท",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยโท"
+                    },
+                    {
+                        "childId": 104299,
+                        "corpusScore": 14,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41795,
+                        "legacyWordId": 1389853,
+                        "meaning": "Police Sub-Lieutenant",
+                        "parentId": 41795,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้อย ตำ-หฺรวด ตฺรี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยตำรวจตรี"
+                    },
+                    {
+                        "childId": 104299,
+                        "corpusScore": 5,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41803,
+                        "legacyWordId": 1389854,
+                        "meaning": "Police Lieutenant",
+                        "parentId": 41803,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้อย ตำ-หฺรวด โท",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยตำรวจโท"
+                    },
+                    {
+                        "childId": 104299,
+                        "corpusScore": 1,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5955,
+                        "legacyWordId": 1389855,
+                        "meaning": "Police Captain",
+                        "parentId": 5955,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้อย ตำ-หฺรวด เอก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยตำรวจเอก"
+                    }
+                ],
+                "explanation": "in the army or police",
+                "id": 104299,
+                "isUncommon": true,
+                "meaning": "Lieutenant ; Captain",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ร้อย"
+            }
+        ],
+        "t2e": "ร้อย",
+        "verified": null,
+        "word": "ร้อย"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,757 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "How do you plead ?",
+            "id": 23112,
+            "phonetic": "คุน จะ ไห้ กาน ว่า หฺย่าง ไร",
+            "thaiSentence": "คุณจะให้การว่าอย่างไร",
+            "thaiSentenceSpaced": " คุณ จะ ให้การ ว่า อย่างไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give testimony ; give evidence ; testify"
+                        }
+                    ],
+                    "phonetic": "ไห้ กาน",
+                    "word": "ให้การ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        },
+                        {
+                            "meaning": "[to] say ; tell"
+                        },
+                        {
+                            "meaning": "[to] blame ; criticise"
+                        }
+                    ],
+                    "phonetic": "ว่า",
+                    "word": "ว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "หฺย่าง ไร",
+                    "word": "อย่างไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "How did you find me ?",
+            "id": 32741,
+            "phonetic": "หา ฉัน เจอ ด้าย หฺย่าง ไร",
+            "thaiSentence": "หาฉันเจอได้อย่างไร",
+            "thaiSentenceSpaced": " หา ฉัน เจอ ได้ อย่างไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] search for ; look for"
+                        }
+                    ],
+                    "phonetic": "หา",
+                    "word": "หา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] meet ; find"
+                        }
+                    ],
+                    "phonetic": "เจอ",
+                    "word": "เจอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "หฺย่าง ไร",
+                    "word": "อย่างไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "How did you get this ?",
+            "id": 50847,
+            "phonetic": "คุน ด้าย มา หฺย่าง ไร",
+            "thaiSentence": "คุณได้มาอย่างไร",
+            "thaiSentenceSpaced": " คุณ ได้มา อย่างไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] obtain ; gain ; get"
+                        }
+                    ],
+                    "phonetic": "ด้าย มา",
+                    "word": "ได้มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "หฺย่าง ไร",
+                    "word": "อย่างไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "How could I forget her ?",
+            "id": 51419,
+            "phonetic": "ผม ลืม เขา ด้าย หฺย่าง ไร",
+            "thaiSentence": "ผมลืมเขาได้อย่างไร",
+            "thaiSentenceSpaced": " ผม ลืม เขา ได้ อย่างไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] forget"
+                        }
+                    ],
+                    "phonetic": "ลืม",
+                    "word": "ลืม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "หฺย่าง ไร",
+                    "word": "อย่างไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "How did I get here ?",
+            "id": 52442,
+            "phonetic": "ผม มา ที่ นี่ ด้าย หฺย่าง ไร",
+            "thaiSentence": "ผมมาที่นี่ได้อย่างไร",
+            "thaiSentenceSpaced": " ผม มา ที่นี่ ได้ อย่างไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "here"
+                        }
+                    ],
+                    "phonetic": "ที่ นี่",
+                    "word": "ที่นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "หฺย่าง ไร",
+                    "word": "อย่างไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "I remember how I got here.",
+            "id": 58421,
+            "phonetic": "ฉัน จำ ด้าย แล้ว ว่า ฉัน มา ที่ นี่ ด้าย หฺย่าง ไร",
+            "thaiSentence": "ฉันจำได้แล้วว่าฉันมาที่นี่ได้อย่างไร",
+            "thaiSentenceSpaced": " ฉัน จำได้ แล้ว ว่า ฉัน มา ที่นี่ ได้ อย่างไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] remember ; recollect ; recall"
+                        }
+                    ],
+                    "phonetic": "จำ ด้าย",
+                    "word": "จำได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        },
+                        {
+                            "meaning": "[to] say ; tell"
+                        },
+                        {
+                            "meaning": "[to] blame ; criticise"
+                        }
+                    ],
+                    "phonetic": "ว่า",
+                    "word": "ว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "here"
+                        }
+                    ],
+                    "phonetic": "ที่ นี่",
+                    "word": "ที่นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "หฺย่าง ไร",
+                    "word": "อย่างไร"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 23593,
+        "exampleSentences": [
+            {
+                "engSentence": "How do you plead ?",
+                "id": 23112,
+                "thaiSentence": "คุณจะให้การว่าอย่างไร",
+                "thaiSentenceSpaced": " คุณ จะ ให้การ ว่า อย่างไร "
+            },
+            {
+                "engSentence": "How did you find me ?",
+                "id": 32741,
+                "thaiSentence": "หาฉันเจอได้อย่างไร",
+                "thaiSentenceSpaced": " หา ฉัน เจอ ได้ อย่างไร "
+            },
+            {
+                "engSentence": "How did you get this ?",
+                "id": 50847,
+                "thaiSentence": "คุณได้มาอย่างไร",
+                "thaiSentenceSpaced": " คุณ ได้มา อย่างไร "
+            },
+            {
+                "engSentence": "How could I forget her ?",
+                "id": 51419,
+                "thaiSentence": "ผมลืมเขาได้อย่างไร",
+                "thaiSentenceSpaced": " ผม ลืม เขา ได้ อย่างไร "
+            },
+            {
+                "engSentence": "How did I get here ?",
+                "id": 52442,
+                "thaiSentence": "ผมมาที่นี่ได้อย่างไร",
+                "thaiSentenceSpaced": " ผม มา ที่นี่ ได้ อย่างไร "
+            },
+            {
+                "engSentence": "I remember how I got here.",
+                "id": 58421,
+                "thaiSentence": "ฉันจำได้แล้วว่าฉันมาที่นี่ได้อย่างไร",
+                "thaiSentenceSpaced": " ฉัน จำได้ แล้ว ว่า ฉัน มา ที่นี่ ได้ อย่างไร "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1452153,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 102640,
+                        "corpusScore": 166814,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "อย่าง is a classifier for referring to types, kinds or sorts of objects.",
+                        "hasSoundFile": true,
+                        "id": 102640,
+                        "legacyWordId": 1452026,
+                        "meaning": "way ; sort ; variety",
+                        "parentId": 35532,
+                        "partOfSpeech": "Noun ; Classifier",
+                        "t2e": "หฺย่าง",
+                        "usage": "",
+                        "verified": "หฺย่าง",
+                        "word": "อย่าง"
+                    },
+                    {
+                        "childId": 48138,
+                        "corpusScore": 27643,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 48138,
+                        "legacyWordId": 1394234,
+                        "meaning": "what",
+                        "parentId": 35532,
+                        "partOfSpeech": "Interrogative",
+                        "t2e": "ไร",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไร"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "how",
+                        "word": "how"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "what",
+                        "word": "what"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 35532,
+                        "corpusScore": 491,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 988,
+                        "legacyWordId": 1452158,
+                        "meaning": "what ; how",
+                        "parentId": 988,
+                        "partOfSpeech": "Interrogative",
+                        "t2e": "หฺย่าง ไร บ้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อย่างไรบ้าง"
+                    },
+                    {
+                        "childId": 35532,
+                        "corpusScore": 284,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45130,
+                        "legacyWordId": 1452157,
+                        "meaning": "how ; which way",
+                        "parentId": 45130,
+                        "partOfSpeech": "Interrogative",
+                        "t2e": "หฺย่าง ไร ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อย่างไรดี"
+                    },
+                    {
+                        "childId": 35532,
+                        "corpusScore": 29,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24716,
+                        "legacyWordId": 1452159,
+                        "meaning": "how ; in what way",
+                        "parentId": 24716,
+                        "partOfSpeech": "Interrogative",
+                        "t2e": "หฺย่าง ไร เล่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อย่างไรเล่า"
+                    }
+                ],
+                "explanation": null,
+                "id": 35532,
+                "isUncommon": false,
+                "meaning": "how ; what",
+                "partOfSpeech": "Interrogative",
+                "usage": "",
+                "word": "อย่างไร"
+            },
+            {
+                "components": [
+                    {
+                        "childId": 102640,
+                        "corpusScore": 166814,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "อย่าง is a classifier for referring to types, kinds or sorts of objects.",
+                        "hasSoundFile": true,
+                        "id": 102640,
+                        "legacyWordId": 1452026,
+                        "meaning": "way ; sort ; variety",
+                        "parentId": 48139,
+                        "partOfSpeech": "Noun ; Classifier",
+                        "t2e": "หฺย่าง",
+                        "usage": "",
+                        "verified": "หฺย่าง",
+                        "word": "อย่าง"
+                    },
+                    {
+                        "childId": 48137,
+                        "corpusScore": 27643,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 48137,
+                        "legacyWordId": 1394234,
+                        "meaning": "something ; anything",
+                        "parentId": 48139,
+                        "partOfSpeech": "IndefinitePronoun",
+                        "t2e": "ไร",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไร"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "any way",
+                        "word": "any way"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "whichever way",
+                        "word": "whichever way"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 48139,
+                        "corpusScore": 1768,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401673,
+                        "legacyWordId": 1372325,
+                        "meaning": "[to] matter ; be a problem ; have a problem",
+                        "parentId": 401673,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เป็น หฺย่าง ไร",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เป็นอย่างไร"
+                    },
+                    {
+                        "childId": 48139,
+                        "corpusScore": 1564,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 47509,
+                        "legacyWordId": 1452156,
+                        "meaning": "anyway ; whichever way",
+                        "parentId": 47509,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺย่าง ไร ก้อ ตาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อย่างไรก็ตาม"
+                    },
+                    {
+                        "childId": 48139,
+                        "corpusScore": 213,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23307,
+                        "legacyWordId": 1452155,
+                        "meaning": "however ; any way",
+                        "parentId": 23307,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺย่าง ไร ก้อ ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อย่างไรก็ดี"
+                    },
+                    {
+                        "childId": 48139,
+                        "corpusScore": 129,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17113,
+                        "legacyWordId": 1319713,
+                        "meaning": "even though ; though ; however ; anyhow",
+                        "parentId": 17113,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ถึง หฺย่าง ไร",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถึงอย่างไร"
+                    },
+                    {
+                        "childId": 48139,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25205,
+                        "legacyWordId": 1319684,
+                        "meaning": "however ; anyhow ; nevertheless",
+                        "parentId": 25205,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ถึง จะ หฺย่าง ไร",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถึงจะอย่างไร"
+                    }
+                ],
+                "explanation": null,
+                "id": 48139,
+                "isUncommon": false,
+                "meaning": "any way ; whichever way",
+                "partOfSpeech": "Adverb",
+                "usage": "",
+                "word": "อย่างไร"
+            }
+        ],
+        "t2e": "หฺย่าง ไร",
+        "verified": null,
+        "word": "อย่างไร"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

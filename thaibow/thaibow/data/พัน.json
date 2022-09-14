@@ -1,0 +1,1128 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "No, a thousand laps.",
+            "id": 126827,
+            "phonetic": "ไม่ · พัน รอบ",
+            "thaiSentence": "ไม่ พันรอบ",
+            "thaiSentenceSpaced": " ไม่  ·  พัน รอบ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "thousand"
+                        }
+                    ],
+                    "phonetic": "พัน",
+                    "word": "พัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "around ; round"
+                        },
+                        {
+                            "meaning": "cycle ; turn ; anniversary"
+                        },
+                        {
+                            "meaning": "round ; stage <i>(of a competition)</i>"
+                        }
+                    ],
+                    "phonetic": "รอบ",
+                    "word": "รอบ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Put this around.",
+            "id": 385511,
+            "phonetic": "เอา นี่ พัน คอ",
+            "thaiSentence": "เอานี่พันคอ",
+            "thaiSentenceSpaced": " เอา นี่ พัน คอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; desire"
+                        },
+                        {
+                            "meaning": "[to] take ; bring"
+                        }
+                    ],
+                    "phonetic": "เอา",
+                    "word": "เอา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "thousand"
+                        }
+                    ],
+                    "phonetic": "พัน",
+                    "word": "พัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "neck ; throat ; collar"
+                        }
+                    ],
+                    "phonetic": "คอ",
+                    "word": "คอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I was too rash.",
+            "id": 638243,
+            "phonetic": "ฉัน ชัก จะ หุน-หัน พัน แล่น เกิน ไป แล้ว ซิ",
+            "thaiSentence": "ฉันชักจะหุนหันพันแล่นเกินไปแล้วซิ",
+            "thaiSentenceSpaced": " ฉัน ชักจะ หุนหัน พัน แล่น เกินไป แล้ว ซิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "be getting to ; be beginning to"
+                        }
+                    ],
+                    "phonetic": "ชัก จะ",
+                    "word": "ชักจะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be hasty ; be impetuous ; be quick-tempered"
+                        }
+                    ],
+                    "phonetic": "หุน-หัน",
+                    "word": "หุนหัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "thousand"
+                        }
+                    ],
+                    "phonetic": "พัน",
+                    "word": "พัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] run ; move ; glide <i>(used referring to vehicles)</i>"
+                        }
+                    ],
+                    "phonetic": "แล่น",
+                    "word": "แล่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "too much ; excessively"
+                        }
+                    ],
+                    "phonetic": "เกิน ไป",
+                    "word": "เกินไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "ซิ",
+                    "word": "ซิ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Wrap that around your hand.",
+            "id": 660049,
+            "phonetic": "เอา นี่ พัน มือ คุน เอา ไว้",
+            "thaiSentence": "เอานี่พันมือคุณเอาไว้",
+            "thaiSentenceSpaced": " เอา นี่ พัน มือ คุณ เอาไว้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; desire"
+                        },
+                        {
+                            "meaning": "[to] take ; bring"
+                        }
+                    ],
+                    "phonetic": "เอา",
+                    "word": "เอา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "thousand"
+                        }
+                    ],
+                    "phonetic": "พัน",
+                    "word": "พัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hand"
+                        }
+                    ],
+                    "phonetic": "มือ",
+                    "word": "มือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; desire"
+                        },
+                        {
+                            "meaning": "[to] take ; bring"
+                        }
+                    ],
+                    "phonetic": "เอา",
+                    "word": "เอา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] keep ; save ; store"
+                        }
+                    ],
+                    "phonetic": "ไว้",
+                    "word": "ไว้"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 13055,
+        "exampleSentences": [
+            {
+                "engSentence": "No, a thousand laps.",
+                "id": 126827,
+                "thaiSentence": "ไม่ พันรอบ",
+                "thaiSentenceSpaced": " ไม่  &middot;  พัน รอบ "
+            },
+            {
+                "engSentence": "Put this around.",
+                "id": 385511,
+                "thaiSentence": "เอานี่พันคอ",
+                "thaiSentenceSpaced": " เอา นี่ พัน คอ "
+            },
+            {
+                "engSentence": "I was too rash.",
+                "id": 638243,
+                "thaiSentence": "ฉันชักจะหุนหันพันแล่นเกินไปแล้วซิ",
+                "thaiSentenceSpaced": " ฉัน ชักจะ หุนหัน พัน แล่น เกินไป แล้ว ซิ "
+            },
+            {
+                "engSentence": "Wrap that around your hand.",
+                "id": 660049,
+                "thaiSentence": "เอานี่พันมือคุณเอาไว้",
+                "thaiSentenceSpaced": " เอา นี่ พัน มือ คุณ เอาไว้ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1378003,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "thousand",
+                        "word": "thousand"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 35825,
+                        "corpusScore": 916,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44419,
+                        "legacyWordId": 1378095,
+                        "meaning": "billion",
+                        "parentId": 44419,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พัน ล้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พันล้าน"
+                    },
+                    {
+                        "childId": 35825,
+                        "corpusScore": 350,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102703,
+                        "legacyWordId": 1406958,
+                        "meaning": "three thousand ; 3000",
+                        "parentId": 102703,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สาม พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สามพัน"
+                    },
+                    {
+                        "childId": 35825,
+                        "corpusScore": 336,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102702,
+                        "legacyWordId": 1405241,
+                        "meaning": "two thousand ; 2000",
+                        "parentId": 102702,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สอง พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองพัน"
+                    },
+                    {
+                        "childId": 35825,
+                        "corpusScore": 237,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45020,
+                        "legacyWordId": 1413986,
+                        "meaning": "one thousand ; 1000",
+                        "parentId": 45020,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนึ่ง พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนึ่งพัน"
+                    },
+                    {
+                        "childId": 35825,
+                        "corpusScore": 196,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102704,
+                        "legacyWordId": 1408491,
+                        "meaning": "four thousand ; 4000",
+                        "parentId": 102704,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สี่ พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สี่พัน"
+                    },
+                    {
+                        "childId": 35825,
+                        "corpusScore": 186,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102705,
+                        "legacyWordId": 1449179,
+                        "meaning": "five thousand ; 5000",
+                        "parentId": 102705,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "ห้า พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้าพัน"
+                    },
+                    {
+                        "childId": 35825,
+                        "corpusScore": 71,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102708,
+                        "legacyWordId": 1372738,
+                        "meaning": "eight thousand ; 8000",
+                        "parentId": 102708,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แปด พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปดพัน"
+                    },
+                    {
+                        "childId": 35825,
+                        "corpusScore": 53,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102706,
+                        "legacyWordId": 1410625,
+                        "meaning": "six thousand ; 6000",
+                        "parentId": 102706,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "หก พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกพัน"
+                    },
+                    {
+                        "childId": 35825,
+                        "corpusScore": 36,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18129,
+                        "legacyWordId": 1372239,
+                        "meaning": "many ; very much ; in great quantity",
+                        "parentId": 18129,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เป็น ร้อย เป็น พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เป็นร้อยเป็นพัน"
+                    },
+                    {
+                        "childId": 35825,
+                        "corpusScore": 20,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102709,
+                        "legacyWordId": 1273671,
+                        "meaning": "nine thousand ; 9000",
+                        "parentId": 102709,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "เก้า พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เก้าพัน"
+                    },
+                    {
+                        "childId": 35825,
+                        "corpusScore": 20,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36402,
+                        "legacyWordId": 1378104,
+                        "meaning": "sun",
+                        "parentId": 36402,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พัน แสง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พันแสง"
+                    },
+                    {
+                        "childId": 35825,
+                        "corpusScore": 10,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18294,
+                        "legacyWordId": 1408057,
+                        "meaning": "odds and ends ; omnium-gatherum",
+                        "parentId": 18294,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิ่ง ละ อัน พัน ละ น้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิ่งละอันพันละน้อย"
+                    },
+                    {
+                        "childId": 35825,
+                        "corpusScore": 9,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13710,
+                        "legacyWordId": 1389908,
+                        "meaning": "all along ; all the time",
+                        "parentId": 13710,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ร้อย วัน พัน ปี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้อยวันพันปี"
+                    },
+                    {
+                        "childId": 35825,
+                        "corpusScore": 8,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102707,
+                        "legacyWordId": 1290037,
+                        "meaning": "seven thousand ; 7000",
+                        "parentId": 102707,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "เจ็ด พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ็ดพัน"
+                    },
+                    {
+                        "childId": 35825,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36128,
+                        "legacyWordId": 1378099,
+                        "meaning": "[to be] excellent ; superb",
+                        "parentId": 36128,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "พัน เลิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พันเลิศ"
+                    }
+                ],
+                "explanation": null,
+                "id": 35825,
+                "isUncommon": false,
+                "meaning": "thousand",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "พัน"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "[to] wind around",
+                        "word": "wind around"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "bind",
+                        "word": "bind"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "coil",
+                        "word": "coil"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 47264,
+                        "corpusScore": 1977,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45542,
+                        "legacyWordId": 1374182,
+                        "meaning": "[to] have one's heart",
+                        "parentId": 45542,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ผูก พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผูกพัน"
+                    },
+                    {
+                        "childId": 47264,
+                        "corpusScore": 590,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30188,
+                        "legacyWordId": 1274154,
+                        "meaning": "[to] concern ; deal ; involve",
+                        "parentId": 30188,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เกี่ยว พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกี่ยวพัน"
+                    },
+                    {
+                        "childId": 47264,
+                        "corpusScore": 170,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36664,
+                        "legacyWordId": 1378129,
+                        "meaning": "[to] involve ; implicate ; relate",
+                        "parentId": 36664,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พัว พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พัวพัน"
+                    },
+                    {
+                        "childId": 47264,
+                        "corpusScore": 153,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18894,
+                        "legacyWordId": 1317499,
+                        "meaning": "[to] be infatuated with ; fall in love with",
+                        "parentId": 18894,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ติด พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ติดพัน"
+                    },
+                    {
+                        "childId": 47264,
+                        "corpusScore": 153,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50229,
+                        "legacyWordId": 1317499,
+                        "meaning": "continuously ; continually",
+                        "parentId": 50229,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ติด พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ติดพัน"
+                    },
+                    {
+                        "childId": 47264,
+                        "corpusScore": 88,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44138,
+                        "legacyWordId": 1373951,
+                        "meaning": "scarf",
+                        "parentId": 44138,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พ่า พัน คอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผ้าพันคอ"
+                    },
+                    {
+                        "childId": 47264,
+                        "corpusScore": 86,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15618,
+                        "legacyWordId": 1378034,
+                        "meaning": "hybrid ; mongrel ; cross",
+                        "parentId": 15618,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พัน ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พันทาง"
+                    },
+                    {
+                        "childId": 47264,
+                        "corpusScore": 10,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36711,
+                        "legacyWordId": 1378091,
+                        "meaning": "[to] involve",
+                        "parentId": 36711,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พัน พัว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พันพัว"
+                    },
+                    {
+                        "childId": 47264,
+                        "corpusScore": 4,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38516,
+                        "legacyWordId": 1378007,
+                        "meaning": "[to] snuggle up to one's legs",
+                        "parentId": 38516,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พัน แข้ง พัน ขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พันแข้งพันขา"
+                    },
+                    {
+                        "childId": 47264,
+                        "corpusScore": 4,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38516,
+                        "legacyWordId": 1378007,
+                        "meaning": "[to] snuggle up to one's legs",
+                        "parentId": 38516,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พัน แข้ง พัน ขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พันแข้งพันขา"
+                    },
+                    {
+                        "childId": 47264,
+                        "corpusScore": 1,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": "The name of a village in Phetchaburi province",
+                        "hasSoundFile": false,
+                        "id": 670664,
+                        "legacyWordId": 1346436,
+                        "meaning": "Banna Phan Sam",
+                        "parentId": 670664,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ้าน นา พัน สาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ้านนาพันสาม"
+                    }
+                ],
+                "explanation": null,
+                "id": 47264,
+                "isUncommon": true,
+                "meaning": "[to] wind around ; bind ; coil",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "พัน"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "warrant officer",
+                        "word": "warrant officer"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "officer of rank",
+                        "word": "officer of rank"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 47263,
+                        "corpusScore": 448,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9525,
+                        "legacyWordId": 1266096,
+                        "meaning": "battalion",
+                        "parentId": 9525,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กอง พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กองพัน"
+                    },
+                    {
+                        "childId": 47263,
+                        "corpusScore": 172,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 104290,
+                        "legacyWordId": 1378107,
+                        "meaning": "Colonel",
+                        "parentId": 104290,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พัน เอก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พันเอก"
+                    },
+                    {
+                        "childId": 47263,
+                        "corpusScore": 164,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35932,
+                        "legacyWordId": 1374723,
+                        "meaning": "colonel",
+                        "parentId": 35932,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้พัน"
+                    },
+                    {
+                        "childId": 47263,
+                        "corpusScore": 109,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25041,
+                        "legacyWordId": 1328962,
+                        "meaning": "colonel",
+                        "parentId": 25041,
+                        "partOfSpeech": "Noun",
+                        "t2e": "นาย พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นายพัน"
+                    },
+                    {
+                        "childId": 47263,
+                        "corpusScore": 78,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "in the armed forces",
+                        "hasSoundFile": false,
+                        "id": 104294,
+                        "legacyWordId": 1378022,
+                        "meaning": "Major",
+                        "parentId": 104294,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พัน ตฺรี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พันตรี"
+                    },
+                    {
+                        "childId": 47263,
+                        "corpusScore": 71,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 104292,
+                        "legacyWordId": 1378036,
+                        "meaning": "Lieutenant Colonel",
+                        "parentId": 104292,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พัน โท",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พันโท"
+                    },
+                    {
+                        "childId": 47263,
+                        "corpusScore": 46,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396261,
+                        "legacyWordId": 1270165,
+                        "meaning": "tying ; binding ; fastening",
+                        "parentId": 396261,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การพัน"
+                    },
+                    {
+                        "childId": 47263,
+                        "corpusScore": 34,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41796,
+                        "legacyWordId": 1378027,
+                        "meaning": "Police Lieutenant Colonel",
+                        "parentId": 41796,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พัน ตำ-หฺรวด โท",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พันตำรวจโท"
+                    },
+                    {
+                        "childId": 47263,
+                        "corpusScore": 33,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36506,
+                        "legacyWordId": 1378008,
+                        "meaning": "warrant officer",
+                        "parentId": 36506,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พัน จ่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พันจ่า"
+                    },
+                    {
+                        "childId": 47263,
+                        "corpusScore": 6,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401374,
+                        "legacyWordId": 1285817,
+                        "meaning": "attachment ; bond",
+                        "parentId": 401374,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เคฺรื่อง ผูก พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เครื่องผูกพัน"
+                    },
+                    {
+                        "childId": 47263,
+                        "corpusScore": 5,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41801,
+                        "legacyWordId": 1378026,
+                        "meaning": "Police Major",
+                        "parentId": 41801,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พัน ตำ-หฺรวด ตฺรี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พันตำรวจตรี"
+                    },
+                    {
+                        "childId": 47263,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41800,
+                        "legacyWordId": 1378028,
+                        "meaning": "Police Colonel",
+                        "parentId": 41800,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พัน ตำ-หฺรวด เอก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พันตำรวจเอก"
+                    },
+                    {
+                        "childId": 47263,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": "The name of a village in Si Sa Ket province",
+                        "hasSoundFile": false,
+                        "id": 626498,
+                        "legacyWordId": 1293565,
+                        "meaning": "Chum Chon Phan Tha Yai",
+                        "parentId": 626498,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม ชน พัน ทา ไหฺย่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนพันทาใหญ่"
+                    },
+                    {
+                        "childId": 47263,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": "The name of a village in Si Sa Ket province",
+                        "hasSoundFile": false,
+                        "id": 626497,
+                        "legacyWordId": 1293564,
+                        "meaning": "Chum Chon Phan Tha Noi",
+                        "parentId": 626497,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม ชน พัน ทา น้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนพันทาน้อย"
+                    },
+                    {
+                        "childId": 47263,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399533,
+                        "legacyWordId": 1378098,
+                        "meaning": "[to be] strange ; odd",
+                        "parentId": 399533,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "พัน ลึก พัน ลือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พันลึกพันลือ"
+                    },
+                    {
+                        "childId": 47263,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399368,
+                        "legacyWordId": 1373950,
+                        "meaning": "black arm band ; mourning crape",
+                        "parentId": 399368,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พ่า พัน แขน ทุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผ้าพันแขนทุกข์"
+                    }
+                ],
+                "explanation": "in the police or armed forces",
+                "id": 47263,
+                "isUncommon": true,
+                "meaning": "warrant officer ; officer of rank",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "พัน"
+            }
+        ],
+        "t2e": "พัน",
+        "verified": null,
+        "word": "พัน"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

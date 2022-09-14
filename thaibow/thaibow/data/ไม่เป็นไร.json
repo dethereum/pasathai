@@ -1,0 +1,412 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "OK, I am leaving then.",
+            "id": 4534,
+            "phonetic": "ไม่ เป็น ไร คฺรับ · งั้น ผม ไป นะ",
+            "thaiSentence": "ไม่เป็นไรครับ งั้นผมไปนะ",
+            "thaiSentenceSpaced": " ไม่เป็นไร ครับ  ·  งั้น ผม ไป นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be ok ; be all right ; be nothing"
+                        }
+                    ],
+                    "phonetic": "ไม่ เป็น ไร",
+                    "word": "ไม่เป็นไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "like that"
+                        },
+                        {
+                            "meaning": "if so ; in that case ; then"
+                        }
+                    ],
+                    "phonetic": "งั้น",
+                    "word": "งั้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is OK.",
+            "id": 4920,
+            "phonetic": "ไม่ เป็น ไร ค่ะ",
+            "thaiSentence": "ไม่เป็นไรค่ะ",
+            "thaiSentenceSpaced": " ไม่เป็นไร ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be ok ; be all right ; be nothing"
+                        }
+                    ],
+                    "phonetic": "ไม่ เป็น ไร",
+                    "word": "ไม่เป็นไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is OK.",
+            "id": 4983,
+            "phonetic": "ไม่ เป็น ไร หฺรอก คฺรับ",
+            "thaiSentence": "ไม่เป็นไรหรอกครับ",
+            "thaiSentenceSpaced": " ไม่เป็นไร หรอก ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be ok ; be all right ; be nothing"
+                        }
+                    ],
+                    "phonetic": "ไม่ เป็น ไร",
+                    "word": "ไม่เป็นไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in the negative when making a contradiction)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺรอก",
+                    "word": "หรอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        },
+        {
+            "engSentence": "That's OK, thanks.",
+            "id": 5800,
+            "phonetic": "ไม่ เป็น ไร ค่ะ · ขอบ คุน ค่ะ",
+            "thaiSentence": "ไม่เป็นไรค่ะ ขอบคุณค่ะ",
+            "thaiSentenceSpaced": " ไม่เป็นไร ค่ะ  ·  ขอบคุณ ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be ok ; be all right ; be nothing"
+                        }
+                    ],
+                    "phonetic": "ไม่ เป็น ไร",
+                    "word": "ไม่เป็นไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] thank you ; be thankful (for something)"
+                        }
+                    ],
+                    "phonetic": "ขอบ คุน",
+                    "word": "ขอบคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "No, that's OK.",
+            "id": 5808,
+            "phonetic": "เอ่อ · ไม่ เป็น ไร ค่ะ",
+            "thaiSentence": "เอ่อ ไม่เป็นไรค่ะ",
+            "thaiSentenceSpaced": " เอ่อ  ·  ไม่เป็นไร ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "erm ; err ; yeah"
+                        },
+                        {
+                            "meaning": "[to] well up ; rise up <i>(to the brink of overflowing)</i>"
+                        }
+                    ],
+                    "phonetic": "เอ่อ",
+                    "word": "เอ่อ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be ok ; be all right ; be nothing"
+                        }
+                    ],
+                    "phonetic": "ไม่ เป็น ไร",
+                    "word": "ไม่เป็นไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am ok.",
+            "id": 24950,
+            "phonetic": "ฉัน ไม่ เป็น ไร หฺรอก",
+            "thaiSentence": "ฉันไม่เป็นไรหรอก",
+            "thaiSentenceSpaced": " ฉัน ไม่เป็นไร หรอก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be ok ; be all right ; be nothing"
+                        }
+                    ],
+                    "phonetic": "ไม่ เป็น ไร",
+                    "word": "ไม่เป็นไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in the negative when making a contradiction)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺรอก",
+                    "word": "หรอก"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 850,
+        "exampleSentences": [
+            {
+                "engSentence": "OK, I am leaving then.",
+                "id": 4534,
+                "thaiSentence": "ไม่เป็นไรครับ งั้นผมไปนะ",
+                "thaiSentenceSpaced": " ไม่เป็นไร ครับ  &middot;  งั้น ผม ไป นะ "
+            },
+            {
+                "engSentence": "It is OK.",
+                "id": 4920,
+                "thaiSentence": "ไม่เป็นไรค่ะ",
+                "thaiSentenceSpaced": " ไม่เป็นไร ค่ะ "
+            },
+            {
+                "engSentence": "It is OK.",
+                "id": 4983,
+                "thaiSentence": "ไม่เป็นไรหรอกครับ",
+                "thaiSentenceSpaced": " ไม่เป็นไร หรอก ครับ "
+            },
+            {
+                "engSentence": "That's OK, thanks.",
+                "id": 5800,
+                "thaiSentence": "ไม่เป็นไรค่ะ ขอบคุณค่ะ",
+                "thaiSentenceSpaced": " ไม่เป็นไร ค่ะ  &middot;  ขอบคุณ ค่ะ "
+            },
+            {
+                "engSentence": "No, that's OK.",
+                "id": 5808,
+                "thaiSentence": "เอ่อ ไม่เป็นไรค่ะ",
+                "thaiSentenceSpaced": " เอ่อ  &middot;  ไม่เป็นไร ค่ะ "
+            },
+            {
+                "engSentence": "I am ok.",
+                "id": 24950,
+                "thaiSentence": "ฉันไม่เป็นไรหรอก",
+                "thaiSentenceSpaced": " ฉัน ไม่เป็นไร หรอก "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1386964,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 42109,
+                        "corpusScore": 472057,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42109,
+                        "legacyWordId": 1386654,
+                        "meaning": "no ; not ",
+                        "parentId": 42110,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "ไม่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่"
+                    },
+                    {
+                        "childId": 48140,
+                        "corpusScore": 1388,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48140,
+                        "legacyWordId": 1372254,
+                        "meaning": "[to] matter ; be a problem ; have a problem",
+                        "parentId": 42110,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เป็น ไร",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เป็นไร"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "[to] be ok",
+                        "word": "ok"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "be all right",
+                        "word": "be all right"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "be nothing",
+                        "word": "be nothing"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 42110,
+                "isUncommon": false,
+                "meaning": "[to] be ok ; be all right ; be nothing",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ไม่เป็นไร"
+            }
+        ],
+        "t2e": "ไม่ เป็น ไร",
+        "verified": null,
+        "word": "ไม่เป็นไร"
+    },
+    "greenBarCount": 2,
+    "pageUrl": "",
+    "type": "thai-word"
+}

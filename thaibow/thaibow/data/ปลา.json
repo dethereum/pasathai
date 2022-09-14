@@ -1,0 +1,838 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Do you eat fish ?",
+            "id": 31031,
+            "phonetic": "คุน ทาน ปฺลา ไหฺม คะ",
+            "thaiSentence": "คุณทานปลาไหมคะ",
+            "thaiSentenceSpaced": " คุณ ทาน ปลา ไหม คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] eat"
+                        }
+                    ],
+                    "phonetic": "ทาน",
+                    "word": "ทาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "fish"
+                        }
+                    ],
+                    "phonetic": "ปฺลา",
+                    "word": "ปลา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Want fish instead ?",
+            "id": 31062,
+            "phonetic": "ต้อง กาน ปฺลา แทน เหฺรอ คะ",
+            "thaiSentence": "ต้องการปลาแทนเหรอคะ",
+            "thaiSentenceSpaced": " ต้องการ ปลา แทน เหรอ คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; need ; require"
+                        }
+                    ],
+                    "phonetic": "ต้อง กาน",
+                    "word": "ต้องการ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "fish"
+                        }
+                    ],
+                    "phonetic": "ปฺลา",
+                    "word": "ปลา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "instead of"
+                        }
+                    ],
+                    "phonetic": "แทน",
+                    "word": "แทน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Do you eat fish ?",
+            "id": 44273,
+            "phonetic": "กิน ปฺลา ไหฺม",
+            "thaiSentence": "กินปลาไหม",
+            "thaiSentenceSpaced": " กิน ปลา ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] eat ; consume <i>(As well as food, กิน is also used when referring to drinks and medicines in Thai.)</i>"
+                        }
+                    ],
+                    "phonetic": "กิน",
+                    "word": "กิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "fish"
+                        }
+                    ],
+                    "phonetic": "ปฺลา",
+                    "word": "ปลา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "That's fish food flakes.",
+            "id": 52222,
+            "phonetic": "นั่น คือ · อา-หาน ปฺลา แผ่น",
+            "thaiSentence": "นั่นคือ อาหารปลาแผ่น",
+            "thaiSentenceSpaced": " นั่น คือ  ·  อาหาร ปลา แผ่น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั่น",
+                    "word": "นั่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be"
+                        }
+                    ],
+                    "phonetic": "คือ",
+                    "word": "คือ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "food"
+                        }
+                    ],
+                    "phonetic": "อา-หาน",
+                    "word": "อาหาร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "fish"
+                        }
+                    ],
+                    "phonetic": "ปฺลา",
+                    "word": "ปลา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sheet ; plate <i>(แผ่น is the classifier for flat and thin objects, like CDs, pieces of paper and slices of bread.)</i>"
+                        }
+                    ],
+                    "phonetic": "แผ่น",
+                    "word": "แผ่น"
+                }
+            ]
+        },
+        {
+            "engSentence": "The fish shop too ?",
+            "id": 173179,
+            "phonetic": "ร้าน ขาย ปฺลา ด้วย เหฺรอ",
+            "thaiSentence": "ร้านขายปลาด้วยเหรอ",
+            "thaiSentenceSpaced": " ร้าน ขาย ปลา ด้วย เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "shop ; store ; booth"
+                        }
+                    ],
+                    "phonetic": "ร้าน",
+                    "word": "ร้าน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] sell ; vend"
+                        }
+                    ],
+                    "phonetic": "ขาย",
+                    "word": "ขาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "fish"
+                        }
+                    ],
+                    "phonetic": "ปฺลา",
+                    "word": "ปลา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Fish head again ?",
+            "id": 341307,
+            "phonetic": "หัว ปฺลา อีก ล่ะ",
+            "thaiSentence": "หัวปลาอีกล่ะ",
+            "thaiSentenceSpaced": " หัว ปลา อีก ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "head"
+                        }
+                    ],
+                    "phonetic": "หัว",
+                    "word": "หัว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "fish"
+                        }
+                    ],
+                    "phonetic": "ปฺลา",
+                    "word": "ปลา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "again ; once more ; more"
+                        }
+                    ],
+                    "phonetic": "อีก",
+                    "word": "อีก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 21789,
+        "exampleSentences": [
+            {
+                "engSentence": "Do you eat fish ?",
+                "id": 31031,
+                "thaiSentence": "คุณทานปลาไหมคะ",
+                "thaiSentenceSpaced": " คุณ ทาน ปลา ไหม คะ "
+            },
+            {
+                "engSentence": "Want fish instead ?",
+                "id": 31062,
+                "thaiSentence": "ต้องการปลาแทนเหรอคะ",
+                "thaiSentenceSpaced": " ต้องการ ปลา แทน เหรอ คะ "
+            },
+            {
+                "engSentence": "Do you eat fish ?",
+                "id": 44273,
+                "thaiSentence": "กินปลาไหม",
+                "thaiSentenceSpaced": " กิน ปลา ไหม "
+            },
+            {
+                "engSentence": "That's fish food flakes.",
+                "id": 52222,
+                "thaiSentence": "นั่นคือ อาหารปลาแผ่น",
+                "thaiSentenceSpaced": " นั่น คือ  &middot;  อาหาร ปลา แผ่น "
+            },
+            {
+                "engSentence": "The fish shop too ?",
+                "id": 173179,
+                "thaiSentence": "ร้านขายปลาด้วยเหรอ",
+                "thaiSentenceSpaced": " ร้าน ขาย ปลา ด้วย เหรอ "
+            },
+            {
+                "engSentence": "Fish head again ?",
+                "id": 341307,
+                "thaiSentence": "หัวปลาอีกล่ะ",
+                "thaiSentenceSpaced": " หัว ปลา อีก ล่ะ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1369565,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "fish",
+                        "word": "fish"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 35514,
+                        "corpusScore": 1457,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13605,
+                        "legacyWordId": 1308852,
+                        "meaning": "[to] angle ; fish ; catch fish",
+                        "parentId": 13605,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตก ปฺลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตกปลา"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 530,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43722,
+                        "legacyWordId": 1289140,
+                        "meaning": "[to] fish ; go fishing",
+                        "parentId": 43722,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จับ ปฺลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จับปลา"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 525,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13700,
+                        "legacyWordId": 1369812,
+                        "meaning": "eel",
+                        "parentId": 13700,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลา ไหฺล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลาไหล"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 511,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14819,
+                        "legacyWordId": 1329683,
+                        "meaning": "fish sauce",
+                        "parentId": 14819,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้าม ปฺลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น้ำปลา"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 477,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45096,
+                        "legacyWordId": 1449177,
+                        "meaning": "[to] fish",
+                        "parentId": 45096,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หา ปฺลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาปลา"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 458,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35454,
+                        "legacyWordId": 1369649,
+                        "meaning": "mackerel",
+                        "parentId": 35454,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลา ทู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลาทู"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 413,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35253,
+                        "legacyWordId": 1369621,
+                        "meaning": "striped snake-head fish",
+                        "parentId": 35253,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลา ช่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลาช่อน"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 401,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35582,
+                        "legacyWordId": 1369801,
+                        "meaning": "squid",
+                        "parentId": 35582,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลา หฺมึก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลาหมึก"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 332,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35534,
+                        "legacyWordId": 1369592,
+                        "meaning": "fighting fish",
+                        "parentId": 35534,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลา กัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลากัด"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 325,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35339,
+                        "legacyWordId": 1369771,
+                        "meaning": "pickled fish",
+                        "parentId": 35339,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลา ร้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลาร้า"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 279,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20402,
+                        "legacyWordId": 1369648,
+                        "meaning": "goldfish",
+                        "parentId": 20402,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลา ทอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลาทอง"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 254,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17444,
+                        "legacyWordId": 1317897,
+                        "meaning": "aquarium",
+                        "parentId": 17444,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตู้ ปฺลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตู้ปลา"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 253,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35373,
+                        "legacyWordId": 1369566,
+                        "meaning": "catfish ; sheatfish ; sheathfish",
+                        "parentId": 35373,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลา กด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลากด"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 215,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399390,
+                        "legacyWordId": 1375899,
+                        "meaning": "shoal of fish ; school of fish",
+                        "parentId": 399390,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ฝูง ปฺลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ฝูงปลา"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 210,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 55334,
+                        "legacyWordId": 1369657,
+                        "meaning": "Oreochromis niloticus",
+                        "parentId": 55334,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลา นิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลานิล"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 188,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 99189,
+                        "legacyWordId": 1332498,
+                        "meaning": "fish pond",
+                        "parentId": 99189,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ่อ ปฺลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ่อปลา"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 177,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 681269,
+                        "legacyWordId": 1369650,
+                        "meaning": "tuna",
+                        "parentId": 681269,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลา ทู-น่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลาทูน่า"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 173,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13708,
+                        "legacyWordId": 1369627,
+                        "meaning": "sushi",
+                        "parentId": 13708,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลา ดิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลาดิบ"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 173,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35186,
+                        "legacyWordId": 1369777,
+                        "meaning": "whale",
+                        "parentId": 35186,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลา วาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลาวาฬ"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 170,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 589298,
+                        "legacyWordId": 1369775,
+                        "meaning": "dolphin",
+                        "parentId": 589298,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลา โล-มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลาโลมา"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 131,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22536,
+                        "legacyWordId": 1369655,
+                        "meaning": "fresh-water fish",
+                        "parentId": 22536,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลา น้าม จืด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลาน้ำจืด"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 117,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34988,
+                        "legacyWordId": 1369639,
+                        "meaning": "carp",
+                        "parentId": 34988,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลา ตะ-เพียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลาตะเพียน"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 111,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34662,
+                        "legacyWordId": 1369583,
+                        "meaning": "canned fish ; tinned fish",
+                        "parentId": 34662,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลา กฺระ-ป๋อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลากระป๋อง"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 108,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29062,
+                        "legacyWordId": 1278267,
+                        "meaning": "fish's roe ; spawn",
+                        "parentId": 29062,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไข่ ปฺลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไข่ปลา"
+                    },
+                    {
+                        "childId": 35514,
+                        "corpusScore": 108,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30101,
+                        "legacyWordId": 1278267,
+                        "meaning": "line of dots",
+                        "parentId": 30101,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไข่ ปฺลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไข่ปลา"
+                    }
+                ],
+                "explanation": null,
+                "id": 35514,
+                "isUncommon": false,
+                "meaning": "fish",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ปลา"
+            }
+        ],
+        "t2e": "ปฺลา",
+        "verified": null,
+        "word": "ปลา"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,417 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "You must be kidding.",
+            "id": 5192,
+            "phonetic": "คุน ต้อง ล้อ เล่น แน่ แน่",
+            "thaiSentence": "คุณต้องล้อเล่นแน่ๆ",
+            "thaiSentenceSpaced": " คุณ ต้อง ล้อเล่น แน่ๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] joke ; tease"
+                        }
+                    ],
+                    "phonetic": "ล้อ เล่น",
+                    "word": "ล้อเล่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "certainly ; surely ; definitely"
+                        }
+                    ],
+                    "phonetic": "แน่ แน่",
+                    "word": "แน่ๆ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am not kidding.",
+            "id": 18555,
+            "phonetic": "ผม ไม่ ด้าย ล้อ เล่น นะ",
+            "thaiSentence": "ผมไม่ได้ล้อเล่นนะ",
+            "thaiSentenceSpaced": " ผม ไม่ได้ ล้อเล่น นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "didn't ; did not"
+                        },
+                        {
+                            "meaning": "can't ; cannot"
+                        }
+                    ],
+                    "phonetic": "ไม่ ด้าย",
+                    "word": "ไม่ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] joke ; tease"
+                        }
+                    ],
+                    "phonetic": "ล้อ เล่น",
+                    "word": "ล้อเล่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You are joking, right ?",
+            "id": 24748,
+            "phonetic": "คุน ล้อ เล่น · ไช่ ไหฺม",
+            "thaiSentence": "คุณล้อเล่น ใช่ไหม",
+            "thaiSentenceSpaced": " คุณ ล้อเล่น  ·  ใช่ ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] joke ; tease"
+                        }
+                    ],
+                    "phonetic": "ล้อ เล่น",
+                    "word": "ล้อเล่น"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "right ? ; is that right? ; is that true? <i>(question particle used when seeking confirmation of something thought to be true)</i>"
+                        }
+                    ],
+                    "phonetic": "ไช่ ไหฺม",
+                    "word": "ใช่ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am kidding.",
+            "id": 58744,
+            "phonetic": "ล้อ เล่น นา",
+            "thaiSentence": "ล้อเล่นนา",
+            "thaiSentenceSpaced": " ล้อเล่น นา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] joke ; tease"
+                        }
+                    ],
+                    "phonetic": "ล้อ เล่น",
+                    "word": "ล้อเล่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "field ; farm"
+                        }
+                    ],
+                    "phonetic": "นา",
+                    "word": "นา"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am not kidding.",
+            "id": 59196,
+            "phonetic": "ฉัน ไม่ ด้าย ล้อ เล่น นะ",
+            "thaiSentence": "ฉันไม่ได้ล้อเล่นนะ",
+            "thaiSentenceSpaced": " ฉัน ไม่ได้ ล้อเล่น นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "didn't ; did not"
+                        },
+                        {
+                            "meaning": "can't ; cannot"
+                        }
+                    ],
+                    "phonetic": "ไม่ ด้าย",
+                    "word": "ไม่ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] joke ; tease"
+                        }
+                    ],
+                    "phonetic": "ล้อ เล่น",
+                    "word": "ล้อเล่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You gotta be kidding.",
+            "id": 61612,
+            "phonetic": "ล้อ เล่น หฺรือ เปฺล่า เนี่ย",
+            "thaiSentence": "ล้อเล่นหรือเปล่าเนี่ย",
+            "thaiSentenceSpaced": " ล้อเล่น หรือเปล่า เนี่ย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] joke ; tease"
+                        }
+                    ],
+                    "phonetic": "ล้อ เล่น",
+                    "word": "ล้อเล่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(ending particle, sometimes showing suprise or confusion)</i>"
+                        }
+                    ],
+                    "phonetic": "เนี่ย",
+                    "word": "เนี่ย"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 395,
+        "exampleSentences": [
+            {
+                "engSentence": "You must be kidding.",
+                "id": 5192,
+                "thaiSentence": "คุณต้องล้อเล่นแน่ๆ",
+                "thaiSentenceSpaced": " คุณ ต้อง ล้อเล่น แน่ๆ "
+            },
+            {
+                "engSentence": "I am not kidding.",
+                "id": 18555,
+                "thaiSentence": "ผมไม่ได้ล้อเล่นนะ",
+                "thaiSentenceSpaced": " ผม ไม่ได้ ล้อเล่น นะ "
+            },
+            {
+                "engSentence": "You are joking, right ?",
+                "id": 24748,
+                "thaiSentence": "คุณล้อเล่น ใช่ไหม",
+                "thaiSentenceSpaced": " คุณ ล้อเล่น  &middot;  ใช่ ไหม "
+            },
+            {
+                "engSentence": "I am kidding.",
+                "id": 58744,
+                "thaiSentence": "ล้อเล่นนา",
+                "thaiSentenceSpaced": " ล้อเล่น นา "
+            },
+            {
+                "engSentence": "I am not kidding.",
+                "id": 59196,
+                "thaiSentence": "ฉันไม่ได้ล้อเล่นนะ",
+                "thaiSentenceSpaced": " ฉัน ไม่ได้ ล้อเล่น นะ "
+            },
+            {
+                "engSentence": "You gotta be kidding.",
+                "id": 61612,
+                "thaiSentence": "ล้อเล่นหรือเปล่าเนี่ย",
+                "thaiSentenceSpaced": " ล้อเล่น หรือเปล่า เนี่ย "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1394979,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 45527,
+                        "corpusScore": 3677,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45527,
+                        "legacyWordId": 1394805,
+                        "meaning": "[to] tease ; joke ; make fun of",
+                        "parentId": 390117,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้อ"
+                    },
+                    {
+                        "childId": 39128,
+                        "corpusScore": 35607,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 39128,
+                        "legacyWordId": 1396983,
+                        "meaning": "[to] play",
+                        "parentId": 390117,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เล่น"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] joke",
+                        "word": "joke"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "tease",
+                        "word": "tease"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 390117,
+                        "corpusScore": 6,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 390116,
+                        "legacyWordId": 1394980,
+                        "meaning": "[to] be just joking ; be only joking",
+                        "parentId": 390116,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้อ เล่น น่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้อเล่นน่า"
+                    },
+                    {
+                        "childId": 390117,
+                        "corpusScore": 5,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399620,
+                        "legacyWordId": 1379253,
+                        "meaning": "[to] tease ; josh ; mock",
+                        "parentId": 399620,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พูด ล้อ เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พูดล้อเล่น"
+                    }
+                ],
+                "explanation": null,
+                "id": 390117,
+                "isUncommon": false,
+                "meaning": "[to] joke ; tease",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ล้อเล่น"
+            }
+        ],
+        "t2e": "ล้อ เล่น",
+        "verified": null,
+        "word": "ล้อเล่น"
+    },
+    "greenBarCount": 2,
+    "pageUrl": "",
+    "type": "thai-word"
+}

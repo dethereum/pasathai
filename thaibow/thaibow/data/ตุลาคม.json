@@ -1,0 +1,91 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 1804,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1317869,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 47585,
+                        "corpusScore": 27,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "the symbol of the Zodiac sign Libra",
+                        "hasSoundFile": false,
+                        "id": 47585,
+                        "legacyWordId": 1317860,
+                        "meaning": "scales",
+                        "parentId": 16433,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตุล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตุล"
+                    },
+                    {
+                        "childId": 47563,
+                        "corpusScore": 384,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47563,
+                        "legacyWordId": 1453850,
+                        "meaning": "the arrival of ; the coming of",
+                        "parentId": 16433,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-คม",
+                        "usage": "",
+                        "verified": "อา-คม",
+                        "word": "อาคม"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "October",
+                        "word": "October"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 16433,
+                        "corpusScore": 899,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45300,
+                        "legacyWordId": 1308371,
+                        "meaning": "October",
+                        "parentId": 45300,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน ตุ-ลา คม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนตุลาคม"
+                    }
+                ],
+                "explanation": null,
+                "id": 16433,
+                "isUncommon": false,
+                "meaning": "October",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ตุลาคม"
+            }
+        ],
+        "t2e": "ตุ-ลา คม",
+        "verified": null,
+        "word": "ตุลาคม"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

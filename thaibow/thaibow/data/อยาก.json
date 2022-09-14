@@ -1,0 +1,768 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Wanna go, too ?",
+            "id": 1262,
+            "phonetic": "หฺยาก ไป ด้วย กัน ไหฺม",
+            "thaiSentence": "อยากไปด้วยกันไหม",
+            "thaiSentenceSpaced": " อยาก ไปด้วยกัน ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want to"
+                        }
+                    ],
+                    "phonetic": "หฺยาก",
+                    "word": "อยาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] harmonize ; be in harmony with ; be harmonious"
+                        }
+                    ],
+                    "phonetic": "ไป ด้วย กัน",
+                    "word": "ไปด้วยกัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "I don't want to see.",
+            "id": 1479,
+            "phonetic": "ฉัน ไม่ หฺยาก เห็น",
+            "thaiSentence": "ฉันไม่อยากเห็น",
+            "thaiSentenceSpaced": " ฉัน ไม่ อยาก เห็น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want to"
+                        }
+                    ],
+                    "phonetic": "หฺยาก",
+                    "word": "อยาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] see"
+                        }
+                    ],
+                    "phonetic": "เห็น",
+                    "word": "เห็น"
+                }
+            ]
+        },
+        {
+            "engSentence": "Want me to tell you why ?",
+            "id": 3781,
+            "phonetic": "หฺยาก ไห้ ฉัน บอก ว่า · ทำ-ไม เหฺรอ",
+            "thaiSentence": "อยากให้ฉันบอกว่า ทำไมเหรอ",
+            "thaiSentenceSpaced": " อยาก ให้ ฉัน บอก ว่า  ·  ทำไม เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want to"
+                        }
+                    ],
+                    "phonetic": "หฺยาก",
+                    "word": "อยาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] tell ; say ; describe"
+                        }
+                    ],
+                    "phonetic": "บอก",
+                    "word": "บอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        },
+                        {
+                            "meaning": "[to] say ; tell"
+                        },
+                        {
+                            "meaning": "[to] blame ; criticise"
+                        }
+                    ],
+                    "phonetic": "ว่า",
+                    "word": "ว่า"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "why"
+                        }
+                    ],
+                    "phonetic": "ทำ-ไม",
+                    "word": "ทำไม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You want a drink ?",
+            "id": 13172,
+            "phonetic": "คุน หฺยาก ดื่ม หฺน่อย ไหฺม",
+            "thaiSentence": "คุณอยากดื่มหน่อยไหม",
+            "thaiSentenceSpaced": " คุณ อยาก ดื่ม หน่อย ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want to"
+                        }
+                    ],
+                    "phonetic": "หฺยาก",
+                    "word": "อยาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] drink"
+                        }
+                    ],
+                    "phonetic": "ดื่ม",
+                    "word": "ดื่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle added to soften a request or command)</i>"
+                        },
+                        {
+                            "meaning": "a little ; a little bit"
+                        }
+                    ],
+                    "phonetic": "หฺน่อย",
+                    "word": "หน่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Do you want a chocolate ?",
+            "id": 14960,
+            "phonetic": "หฺยาก กิน ช็อก-โก-แล็ด ไหฺม",
+            "thaiSentence": "อยากกินช็อกโกแลตไหม",
+            "thaiSentenceSpaced": " อยาก กิน ช็อกโกแลต ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want to"
+                        }
+                    ],
+                    "phonetic": "หฺยาก",
+                    "word": "อยาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] eat ; consume <i>(As well as food, กิน is also used when referring to drinks and medicines in Thai.)</i>"
+                        }
+                    ],
+                    "phonetic": "กิน",
+                    "word": "กิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "chocolate"
+                        }
+                    ],
+                    "phonetic": "ช็อก-โก-แล็ด",
+                    "word": "ช็อกโกแลต"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "I wanna die.",
+            "id": 15390,
+            "phonetic": "ผม ล่ะ หฺยาก ตาย",
+            "thaiSentence": "ผมล่ะอยากตาย",
+            "thaiSentenceSpaced": " ผม ล่ะ อยาก ตาย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want to"
+                        }
+                    ],
+                    "phonetic": "หฺยาก",
+                    "word": "อยาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] die ; pass away"
+                        },
+                        {
+                            "meaning": "[to be] dead"
+                        }
+                    ],
+                    "phonetic": "ตาย",
+                    "word": "ตาย"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 56653,
+        "exampleSentences": [
+            {
+                "engSentence": "Wanna go, too ?",
+                "id": 1262,
+                "thaiSentence": "อยากไปด้วยกันไหม",
+                "thaiSentenceSpaced": " อยาก ไปด้วยกัน ไหม "
+            },
+            {
+                "engSentence": "I don't want to see.",
+                "id": 1479,
+                "thaiSentence": "ฉันไม่อยากเห็น",
+                "thaiSentenceSpaced": " ฉัน ไม่ อยาก เห็น "
+            },
+            {
+                "engSentence": "Want me to tell you why ?",
+                "id": 3781,
+                "thaiSentence": "อยากให้ฉันบอกว่า ทำไมเหรอ",
+                "thaiSentenceSpaced": " อยาก ให้ ฉัน บอก ว่า  &middot;  ทำไม เหรอ "
+            },
+            {
+                "engSentence": "You want a drink ?",
+                "id": 13172,
+                "thaiSentence": "คุณอยากดื่มหน่อยไหม",
+                "thaiSentenceSpaced": " คุณ อยาก ดื่ม หน่อย ไหม "
+            },
+            {
+                "engSentence": "Do you want a chocolate ?",
+                "id": 14960,
+                "thaiSentence": "อยากกินช็อกโกแลตไหม",
+                "thaiSentenceSpaced": " อยาก กิน ช็อกโกแลต ไหม "
+            },
+            {
+                "engSentence": "I wanna die.",
+                "id": 15390,
+                "thaiSentence": "ผมล่ะอยากตาย",
+                "thaiSentenceSpaced": " ผม ล่ะ อยาก ตาย "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1452016,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "[to] want to",
+                        "word": "want to"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 38846,
+                        "corpusScore": 9123,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 104004,
+                        "legacyWordId": 1452017,
+                        "meaning": "[to] want to ; would like to",
+                        "parentId": 104004,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยาก จะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยากจะ"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 4581,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 262,
+                        "legacyWordId": 1452019,
+                        "meaning": "[to] want to get ; want to have ; want to obtain",
+                        "parentId": 262,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยาก ด้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยากได้"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 3039,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 27695,
+                        "legacyWordId": 1452023,
+                        "meaning": "[to] want to know ; eager to know ; be curious",
+                        "parentId": 27695,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยาก รู้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยากรู้"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 1253,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401091,
+                        "legacyWordId": 1452020,
+                        "meaning": "[to] want to know ; eager to know ; be curious",
+                        "parentId": 401091,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยาก ซาบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยากทราบ"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 768,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30621,
+                        "legacyWordId": 1283040,
+                        "meaning": "desire ; wish ; want",
+                        "parentId": 30621,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม หฺยาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความอยาก"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 768,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31186,
+                        "legacyWordId": 1283040,
+                        "meaning": "hungriness ; starvation ; craving",
+                        "parentId": 31186,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม หฺยาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความอยาก"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 212,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31380,
+                        "legacyWordId": 1451619,
+                        "meaning": "[to] starve",
+                        "parentId": 31380,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อด หฺยาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อดอยาก"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 112,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401092,
+                        "legacyWordId": 1452021,
+                        "meaning": "[to] want to sleep",
+                        "parentId": 401092,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยาก นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยากนอน"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 64,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42981,
+                        "legacyWordId": 1452024,
+                        "meaning": "[to be] curious ; inquisitive",
+                        "parentId": 42981,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "หฺยาก รู้ หฺยาก เห็น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยากรู้อยากเห็น"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 64,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42981,
+                        "legacyWordId": 1452024,
+                        "meaning": "[to be] curious ; inquisitive",
+                        "parentId": 42981,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "หฺยาก รู้ หฺยาก เห็น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยากรู้อยากเห็น"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 40,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15479,
+                        "legacyWordId": 1321131,
+                        "meaning": "[to] be grasping ; be greedy",
+                        "parentId": 15479,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทะ-ยาน หฺยาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทะยานอยาก"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 34,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37796,
+                        "legacyWordId": 1403136,
+                        "meaning": "[to] satisfy ; have one's wish gratified",
+                        "parentId": 37796,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สม ไจ หฺยาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สมใจอยาก"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 32,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401090,
+                        "legacyWordId": 1452018,
+                        "meaning": "[to be] horny",
+                        "parentId": 401090,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "หฺยาก จัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยากจัด"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 15,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401093,
+                        "legacyWordId": 1452022,
+                        "meaning": "[to] be thirsty",
+                        "parentId": 401093,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยาก น้าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยากน้ำ"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 597900,
+                        "legacyWordId": 1452025,
+                        "meaning": "in my dreams",
+                        "parentId": 597900,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺยาก หฺลับ ตา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยากหลับตา"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 1,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 424114,
+                        "legacyWordId": 1393560,
+                        "meaning": "peter pan syndrome",
+                        "parentId": 424114,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรก ที่ ไม่ หฺยาก โต เป็น พู่ ไหฺย่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรคที่ไม่อยากโตเป็นผู้ใหญ่"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26839,
+                        "legacyWordId": 1451642,
+                        "meaning": "[to] starve ; wither ; waste away",
+                        "parentId": 26839,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อด อด หฺยาก หฺยาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อดๆ อยากๆ"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27696,
+                        "legacyWordId": 1414117,
+                        "meaning": "[to] be hopeless ; have no hope",
+                        "parentId": 27696,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺมด อา-ไล ตาย หฺยาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หมดอาลัยตายอยาก"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400710,
+                        "legacyWordId": 1408312,
+                        "meaning": "[to] stop being concerned for",
+                        "parentId": 400710,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สิ้น อา-ไล ตาย หฺยาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิ้นอาลัยตายอยาก"
+                    },
+                    {
+                        "childId": 38846,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18032,
+                        "legacyWordId": 1311412,
+                        "meaning": "[to] die of starvation ; exhaust ; famish",
+                        "parentId": 18032,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตาย อด ตาย หฺยาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตายอดตายอยาก"
+                    }
+                ],
+                "explanation": null,
+                "id": 38846,
+                "isUncommon": false,
+                "meaning": "[to] want to",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "อยาก"
+            }
+        ],
+        "t2e": "หฺยาก",
+        "verified": "หฺยาก",
+        "word": "อยาก"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

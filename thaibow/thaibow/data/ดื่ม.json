@@ -1,0 +1,604 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "You want a drink ?",
+            "id": 13172,
+            "phonetic": "คุน หฺยาก ดื่ม หฺน่อย ไหฺม",
+            "thaiSentence": "คุณอยากดื่มหน่อยไหม",
+            "thaiSentenceSpaced": " คุณ อยาก ดื่ม หน่อย ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want to"
+                        }
+                    ],
+                    "phonetic": "หฺยาก",
+                    "word": "อยาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] drink"
+                        }
+                    ],
+                    "phonetic": "ดื่ม",
+                    "word": "ดื่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle added to soften a request or command)</i>"
+                        },
+                        {
+                            "meaning": "a little ; a little bit"
+                        }
+                    ],
+                    "phonetic": "หฺน่อย",
+                    "word": "หน่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "You drank too much.",
+            "id": 11633,
+            "phonetic": "คุน ดื่ม มาก เกิน ไป",
+            "thaiSentence": "คุณดื่มมากเกินไป",
+            "thaiSentenceSpaced": " คุณ ดื่ม มากเกินไป ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] drink"
+                        }
+                    ],
+                    "phonetic": "ดื่ม",
+                    "word": "ดื่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "too much ; excessively"
+                        }
+                    ],
+                    "phonetic": "มาก เกิน ไป",
+                    "word": "มากเกินไป"
+                }
+            ]
+        },
+        {
+            "engSentence": "Got anything to drink ?",
+            "id": 27556,
+            "phonetic": "ดื่ม อะ-ไร กัน หฺน่อย ไหฺม",
+            "thaiSentence": "ดื่มอะไรกันหน่อยไหม",
+            "thaiSentenceSpaced": " ดื่ม อะไร กัน หน่อย ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] drink"
+                        }
+                    ],
+                    "phonetic": "ดื่ม",
+                    "word": "ดื่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one another ; each other"
+                        },
+                        {
+                            "meaning": "together ; jointly"
+                        }
+                    ],
+                    "phonetic": "กัน",
+                    "word": "กัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle added to soften a request or command)</i>"
+                        },
+                        {
+                            "meaning": "a little ; a little bit"
+                        }
+                    ],
+                    "phonetic": "หฺน่อย",
+                    "word": "หน่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Did you wanna have a drink ?",
+            "id": 39971,
+            "phonetic": "ดื่ม อะ-ไร หฺน่อย ไหฺม",
+            "thaiSentence": "ดื่มอะไรหน่อยไหม",
+            "thaiSentenceSpaced": " ดื่ม อะไร หน่อย ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] drink"
+                        }
+                    ],
+                    "phonetic": "ดื่ม",
+                    "word": "ดื่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle added to soften a request or command)</i>"
+                        },
+                        {
+                            "meaning": "a little ; a little bit"
+                        }
+                    ],
+                    "phonetic": "หฺน่อย",
+                    "word": "หน่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Yes, I drank a little.",
+            "id": 46921,
+            "phonetic": "ไช่ · ฉัน ดื่ม มา นิด หฺน่อย",
+            "thaiSentence": "ใช่ ฉันดื่มมานิดหน่อย",
+            "thaiSentenceSpaced": " ใช่  ·  ฉัน ดื่ม มา นิดหน่อย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yes"
+                        }
+                    ],
+                    "phonetic": "ไช่",
+                    "word": "ใช่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] drink"
+                        }
+                    ],
+                    "phonetic": "ดื่ม",
+                    "word": "ดื่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "a little bit ; just a little ; a tiny bit"
+                        }
+                    ],
+                    "phonetic": "นิด หฺน่อย",
+                    "word": "นิดหน่อย"
+                }
+            ]
+        },
+        {
+            "engSentence": "You drink wine from a pack ?",
+            "id": 70528,
+            "phonetic": "คุน ดื่ม ไว จาก ถุง เหฺรอ คะ",
+            "thaiSentence": "คุณดื่มไวน์จากถุงเหรอคะ",
+            "thaiSentenceSpaced": " คุณ ดื่ม ไวน์ จาก ถุง เหรอ คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] drink"
+                        }
+                    ],
+                    "phonetic": "ดื่ม",
+                    "word": "ดื่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "wine"
+                        }
+                    ],
+                    "phonetic": "ไว",
+                    "word": "ไวน์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "from ; depart ; leave ; go away from"
+                        }
+                    ],
+                    "phonetic": "จาก",
+                    "word": "จาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bag <i>(ถุง is the classifier for bags.)</i>"
+                        }
+                    ],
+                    "phonetic": "ถุง",
+                    "word": "ถุง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 9037,
+        "exampleSentences": [
+            {
+                "engSentence": "You want a drink ?",
+                "id": 13172,
+                "thaiSentence": "คุณอยากดื่มหน่อยไหม",
+                "thaiSentenceSpaced": " คุณ อยาก ดื่ม หน่อย ไหม "
+            },
+            {
+                "engSentence": "You drank too much.",
+                "id": 11633,
+                "thaiSentence": "คุณดื่มมากเกินไป",
+                "thaiSentenceSpaced": " คุณ ดื่ม มากเกินไป "
+            },
+            {
+                "engSentence": "Got anything to drink ?",
+                "id": 27556,
+                "thaiSentence": "ดื่มอะไรกันหน่อยไหม",
+                "thaiSentenceSpaced": " ดื่ม อะไร กัน หน่อย ไหม "
+            },
+            {
+                "engSentence": "Did you wanna have a drink ?",
+                "id": 39971,
+                "thaiSentence": "ดื่มอะไรหน่อยไหม",
+                "thaiSentenceSpaced": " ดื่ม อะไร หน่อย ไหม "
+            },
+            {
+                "engSentence": "Yes, I drank a little.",
+                "id": 46921,
+                "thaiSentence": "ใช่ ฉันดื่มมานิดหน่อย",
+                "thaiSentenceSpaced": " ใช่  &middot;  ฉัน ดื่ม มา นิดหน่อย "
+            },
+            {
+                "engSentence": "You drink wine from a pack ?",
+                "id": 70528,
+                "thaiSentence": "คุณดื่มไวน์จากถุงเหรอคะ",
+                "thaiSentenceSpaced": " คุณ ดื่ม ไวน์ จาก ถุง เหรอ คะ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1307811,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] drink",
+                        "word": "drink"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 47868,
+                        "corpusScore": 2171,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47869,
+                        "legacyWordId": 1285664,
+                        "meaning": "drink ; beverage",
+                        "parentId": 47869,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เคฺรื่อง ดื่ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เครื่องดื่ม"
+                    },
+                    {
+                        "childId": 47868,
+                        "corpusScore": 1147,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28364,
+                        "legacyWordId": 1329578,
+                        "meaning": "drinking water",
+                        "parentId": 28364,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้าม ดื่ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น้ำดื่ม"
+                    },
+                    {
+                        "childId": 47868,
+                        "corpusScore": 333,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28389,
+                        "legacyWordId": 1307818,
+                        "meaning": "[to] drink alcohol",
+                        "parentId": 28389,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดื่ม เหฺล้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดื่มเหล้า"
+                    },
+                    {
+                        "childId": 47868,
+                        "corpusScore": 228,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8700,
+                        "legacyWordId": 1307814,
+                        "meaning": "drinkable",
+                        "parentId": 8700,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ดื่ม ด้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดื่มได้"
+                    },
+                    {
+                        "childId": 47868,
+                        "corpusScore": 85,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22778,
+                        "legacyWordId": 1327805,
+                        "meaning": "heavy drinker",
+                        "parentId": 22778,
+                        "partOfSpeech": "Noun",
+                        "t2e": "นัก ดื่ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นักดื่ม"
+                    },
+                    {
+                        "childId": 47868,
+                        "corpusScore": 83,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41238,
+                        "legacyWordId": 1307925,
+                        "meaning": "[to] impressively ; deeply affected",
+                        "parentId": 41238,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดูด ดื่ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดูดดื่ม"
+                    },
+                    {
+                        "childId": 47868,
+                        "corpusScore": 64,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397920,
+                        "legacyWordId": 1307816,
+                        "meaning": "[to] drink heavily ; drink a lot",
+                        "parentId": 397920,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดื่ม มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดื่มมาก"
+                    },
+                    {
+                        "childId": 47868,
+                        "corpusScore": 7,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33619,
+                        "legacyWordId": 1307812,
+                        "meaning": "[to] drink heavily ; drink a lot",
+                        "parentId": 33619,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดื่ม จัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดื่มจัด"
+                    },
+                    {
+                        "childId": 47868,
+                        "corpusScore": 5,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11709,
+                        "legacyWordId": 1307815,
+                        "meaning": "[to] honeymoon",
+                        "parentId": 11709,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดื่ม น้าม พึ่ง พฺระ จัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดื่มน้ำผึ้งพระจันทร์"
+                    }
+                ],
+                "explanation": null,
+                "id": 47868,
+                "isUncommon": false,
+                "meaning": "[to] drink",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ดื่ม"
+            }
+        ],
+        "t2e": "ดื่ม",
+        "verified": null,
+        "word": "ดื่ม"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

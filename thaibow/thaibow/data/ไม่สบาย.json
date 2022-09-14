@@ -1,0 +1,414 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "Is she sick ?",
+            "id": 6594,
+            "phonetic": "เขา ไม่ สะ-บาย หฺยู่ เหฺรอ",
+            "thaiSentence": "เขาไม่สบายอยู่เหรอ",
+            "thaiSentenceSpaced": " เขา ไม่สบาย อยู่ เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be ill ; be unwell"
+                        }
+                    ],
+                    "phonetic": "ไม่ สะ-บาย",
+                    "word": "ไม่สบาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am a bit sick.",
+            "id": 31029,
+            "phonetic": "ฉัน ไม่ สะ-บาย นิด หฺน่อย",
+            "thaiSentence": "ฉันไม่สบายนิดหน่อย",
+            "thaiSentenceSpaced": " ฉัน ไม่สบาย นิดหน่อย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be ill ; be unwell"
+                        }
+                    ],
+                    "phonetic": "ไม่ สะ-บาย",
+                    "word": "ไม่สบาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "a little bit ; just a little ; a tiny bit"
+                        }
+                    ],
+                    "phonetic": "นิด หฺน่อย",
+                    "word": "นิดหน่อย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Are you sick ?",
+            "id": 59005,
+            "phonetic": "ไม่ สะ-บาย หฺรือ เปฺล่า",
+            "thaiSentence": "ไม่สบายหรือเปล่า",
+            "thaiSentenceSpaced": " ไม่สบาย หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be ill ; be unwell"
+                        }
+                    ],
+                    "phonetic": "ไม่ สะ-บาย",
+                    "word": "ไม่สบาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am really sick, truly.",
+            "id": 69854,
+            "phonetic": "ฉัน ไม่ สะ-บาย จิง จิง · นะ",
+            "thaiSentence": "ฉันไม่สบายจริงๆ นะ",
+            "thaiSentenceSpaced": " ฉัน ไม่สบาย จริงๆ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be ill ; be unwell"
+                        }
+                    ],
+                    "phonetic": "ไม่ สะ-บาย",
+                    "word": "ไม่สบาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "really ; honestly ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง จิง",
+                    "word": "จริงๆ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You've been sick ?",
+            "id": 80051,
+            "phonetic": "คุน ไม่ สะ-บาย เหฺรอ คะ",
+            "thaiSentence": "คุณไม่สบายเหรอคะ",
+            "thaiSentenceSpaced": " คุณ ไม่สบาย เหรอ คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be ill ; be unwell"
+                        }
+                    ],
+                    "phonetic": "ไม่ สะ-บาย",
+                    "word": "ไม่สบาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Are you unwell ?",
+            "id": 114704,
+            "phonetic": "คุน ไม่ สะ-บาย เหฺรอ",
+            "thaiSentence": "คุณไม่สบายเหรอ",
+            "thaiSentenceSpaced": " คุณ ไม่สบาย เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be ill ; be unwell"
+                        }
+                    ],
+                    "phonetic": "ไม่ สะ-บาย",
+                    "word": "ไม่สบาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 1197,
+        "exampleSentences": [
+            {
+                "engSentence": "Is she sick ?",
+                "id": 6594,
+                "thaiSentence": "เขาไม่สบายอยู่เหรอ",
+                "thaiSentenceSpaced": " เขา ไม่สบาย อยู่ เหรอ "
+            },
+            {
+                "engSentence": "I am a bit sick.",
+                "id": 31029,
+                "thaiSentence": "ฉันไม่สบายนิดหน่อย",
+                "thaiSentenceSpaced": " ฉัน ไม่สบาย นิดหน่อย "
+            },
+            {
+                "engSentence": "Are you sick ?",
+                "id": 59005,
+                "thaiSentence": "ไม่สบายหรือเปล่า",
+                "thaiSentenceSpaced": " ไม่สบาย หรือเปล่า "
+            },
+            {
+                "engSentence": "I am really sick, truly.",
+                "id": 69854,
+                "thaiSentence": "ฉันไม่สบายจริงๆ นะ",
+                "thaiSentenceSpaced": " ฉัน ไม่สบาย จริงๆ นะ "
+            },
+            {
+                "engSentence": "You've been sick ?",
+                "id": 80051,
+                "thaiSentence": "คุณไม่สบายเหรอคะ",
+                "thaiSentenceSpaced": " คุณ ไม่สบาย เหรอ คะ "
+            },
+            {
+                "engSentence": "Are you unwell ?",
+                "id": 114704,
+                "thaiSentence": "คุณไม่สบายเหรอ",
+                "thaiSentenceSpaced": " คุณ ไม่สบาย เหรอ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1387174,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 42109,
+                        "corpusScore": 472057,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42109,
+                        "legacyWordId": 1386654,
+                        "meaning": "no ; not ",
+                        "parentId": 32357,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "ไม่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่"
+                    },
+                    {
+                        "childId": 35400,
+                        "corpusScore": 9674,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35400,
+                        "legacyWordId": 1402923,
+                        "meaning": "[to] be fine ; be well ; be happy",
+                        "parentId": 32357,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สะ-บาย",
+                        "usage": "",
+                        "verified": "สะ-บาย",
+                        "word": "สบาย"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] be ill",
+                        "word": "ill"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "be unwell",
+                        "word": "be unwell"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 32357,
+                        "corpusScore": 212,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1935,
+                        "legacyWordId": 1387175,
+                        "meaning": "[to] be uneasy ; be worried ; feel ill at ease",
+                        "parentId": 1935,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไม่ สะ-บาย ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่สบายใจ"
+                    },
+                    {
+                        "childId": 32357,
+                        "corpusScore": 12,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49611,
+                        "legacyWordId": 1282331,
+                        "meaning": "illness",
+                        "parentId": 49611,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม ไม่ สะ-บาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความไม่สบาย"
+                    }
+                ],
+                "explanation": null,
+                "id": 32357,
+                "isUncommon": false,
+                "meaning": "[to] be ill ; be unwell",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ไม่สบาย"
+            }
+        ],
+        "t2e": "ไม่ สะ-บาย",
+        "verified": null,
+        "word": "ไม่สบาย"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

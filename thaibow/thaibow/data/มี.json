@@ -1,0 +1,929 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Is something bothering you ?",
+            "id": 830,
+            "phonetic": "มี อะ-ไร รบ กวน คุน หฺยู่ หฺรือ เปฺล่า",
+            "thaiSentence": "มีอะไรรบกวนคุณอยู่หรือเปล่า",
+            "thaiSentenceSpaced": " มี อะไร รบกวน คุณ อยู่ หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] annoy ; bother"
+                        }
+                    ],
+                    "phonetic": "รบ กวน",
+                    "word": "รบกวน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "You had this ?",
+            "id": 1422,
+            "phonetic": "คุน มี · นี่ ด้วย เหฺรอ",
+            "thaiSentence": "คุณมี นี่ด้วยเหรอ",
+            "thaiSentenceSpaced": " คุณ มี  ·  นี่ ด้วย เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Something bothering you ?",
+            "id": 1432,
+            "phonetic": "มี อะ-ไร กวน ไจ คุน เหฺรอ",
+            "thaiSentence": "มีอะไรกวนใจคุณเหรอ",
+            "thaiSentenceSpaced": " มี อะไร กวนใจ คุณ เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] disturb ; bother ; annoy"
+                        }
+                    ],
+                    "phonetic": "กวน ไจ",
+                    "word": "กวนใจ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Can I help you ?",
+            "id": 2005,
+            "phonetic": "มี อะ-ไร ไห้ ฉัน ช่วย ไหฺม คะ",
+            "thaiSentence": "มีอะไรให้ฉันช่วยไหมคะ",
+            "thaiSentenceSpaced": " มี อะไร ให้ ฉัน ช่วย ไหม คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] help ; aid ; assist"
+                        },
+                        {
+                            "meaning": "please"
+                        }
+                    ],
+                    "phonetic": "ช่วย",
+                    "word": "ช่วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "There is a building.",
+            "id": 2766,
+            "phonetic": "มี ตึก หฺยู่ ตึก หฺนึ่ง",
+            "thaiSentence": "มีตึกอยู่ตึกหนึ่ง",
+            "thaiSentenceSpaced": " มี ตึก อยู่ ตึก หนึ่ง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "building ; brickwork ; edifice"
+                        }
+                    ],
+                    "phonetic": "ตึก",
+                    "word": "ตึก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "building ; brickwork ; edifice"
+                        }
+                    ],
+                    "phonetic": "ตึก",
+                    "word": "ตึก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "หฺนึ่ง",
+                    "word": "หนึ่ง"
+                }
+            ]
+        },
+        {
+            "engSentence": "There are two doors.",
+            "id": 2940,
+            "phonetic": "มี ปฺระ-ตู สอง บาน",
+            "thaiSentence": "มีประตูสองบาน",
+            "thaiSentenceSpaced": " มี ประตู สอง บาน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "door ; gate ; entrance"
+                        }
+                    ],
+                    "phonetic": "ปฺระ-ตู",
+                    "word": "ประตู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "two"
+                        }
+                    ],
+                    "phonetic": "สอง",
+                    "word": "สอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "panel ; frame <i>(of doors, windows, mirrors etc)</i>"
+                        },
+                        {
+                            "meaning": "[to] bloom ; blossom ; open out"
+                        }
+                    ],
+                    "phonetic": "บาน",
+                    "word": "บาน"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 694466,
+        "exampleSentences": [
+            {
+                "engSentence": "Is something bothering you ?",
+                "id": 830,
+                "thaiSentence": "มีอะไรรบกวนคุณอยู่หรือเปล่า",
+                "thaiSentenceSpaced": " มี อะไร รบกวน คุณ อยู่ หรือเปล่า "
+            },
+            {
+                "engSentence": "You had this ?",
+                "id": 1422,
+                "thaiSentence": "คุณมี นี่ด้วยเหรอ",
+                "thaiSentenceSpaced": " คุณ มี  &middot;  นี่ ด้วย เหรอ "
+            },
+            {
+                "engSentence": "Something bothering you ?",
+                "id": 1432,
+                "thaiSentence": "มีอะไรกวนใจคุณเหรอ",
+                "thaiSentenceSpaced": " มี อะไร กวนใจ คุณ เหรอ "
+            },
+            {
+                "engSentence": "Can I help you ?",
+                "id": 2005,
+                "thaiSentence": "มีอะไรให้ฉันช่วยไหมคะ",
+                "thaiSentenceSpaced": " มี อะไร ให้ ฉัน ช่วย ไหม คะ "
+            },
+            {
+                "engSentence": "There is a building.",
+                "id": 2766,
+                "thaiSentence": "มีตึกอยู่ตึกหนึ่ง",
+                "thaiSentenceSpaced": " มี ตึก อยู่ ตึก หนึ่ง "
+            },
+            {
+                "engSentence": "There are two doors.",
+                "id": 2940,
+                "thaiSentence": "มีประตูสองบาน",
+                "thaiSentenceSpaced": " มี ประตู สอง บาน "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1384444,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] have",
+                        "word": "have"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "there is",
+                        "word": "there is"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 384114,
+                        "corpusScore": 64558,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 44570,
+                        "legacyWordId": 1387004,
+                        "meaning": "[to] don't have ; there isn't",
+                        "parentId": 44570,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไม่ มี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่มี"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 12151,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42039,
+                        "legacyWordId": 1384640,
+                        "meaning": "[to] exist ; occur ; be",
+                        "parentId": 42039,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีอยู่"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 10639,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 193524,
+                        "legacyWordId": 1384654,
+                        "meaning": "[to] have a chance ; have an opportunity",
+                        "parentId": 193524,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี โอ-กาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีโอกาส"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 9517,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399809,
+                        "legacyWordId": 1384551,
+                        "meaning": "[to] have a problem",
+                        "parentId": 399809,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี ปัน-หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีปัญหา"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 7754,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25219,
+                        "legacyWordId": 1384554,
+                        "meaning": "[to] affect ; influence ; impact",
+                        "parentId": 25219,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี ผน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีผล"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 7124,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 44503,
+                        "legacyWordId": 1384526,
+                        "meaning": "[to] have only",
+                        "parentId": 44503,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี แต่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีแต่"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 6160,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28218,
+                        "legacyWordId": 1384503,
+                        "meaning": "[to] live ; be alive ; breathe",
+                        "parentId": 28218,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี ชี-วิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีชีวิต"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 5857,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24926,
+                        "legacyWordId": 1384604,
+                        "meaning": "[to] participate ; involved ; take part",
+                        "parentId": 24926,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี ส่วน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีส่วน"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 5192,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42810,
+                        "legacyWordId": 1384481,
+                        "meaning": "[to be] valuable ; precious",
+                        "parentId": 42810,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "มี ค่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีค่า"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 4479,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 44509,
+                        "legacyWordId": 1384506,
+                        "meaning": "[to be] well-known",
+                        "parentId": 44509,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "มี ชื่อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีชื่อ"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 4068,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49935,
+                        "legacyWordId": 1270316,
+                        "meaning": "having ; owning",
+                        "parentId": 49935,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน มี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การมี"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 4017,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42021,
+                        "legacyWordId": 1384650,
+                        "meaning": "[to] have power ; have authority ; have influence",
+                        "parentId": 42021,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี อำ-นาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีอำนาจ"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 3593,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39979,
+                        "legacyWordId": 1384547,
+                        "meaning": "[to] be valuable ; be precious",
+                        "parentId": 39979,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี ปฺระ-โหฺยด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีประโยชน์"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 3555,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 681260,
+                        "legacyWordId": 1384476,
+                        "meaning": "[to] be happy",
+                        "parentId": 681260,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี คฺวาม สุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีความสุข"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 3474,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 8706,
+                        "legacyWordId": 1384588,
+                        "meaning": "[to] get into trouble ; quarrel with somebody",
+                        "parentId": 8706,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี เรื่อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีเรื่อง"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 3448,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25747,
+                        "legacyWordId": 1384647,
+                        "meaning": "[to be] old ; elderly ; aged",
+                        "parentId": 25747,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "มี อา-ยุ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีอายุ"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 2686,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399819,
+                        "legacyWordId": 1384613,
+                        "meaning": "[to] have possession",
+                        "parentId": 399819,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี สิด-ทิ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีสิทธิ"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 2664,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26722,
+                        "legacyWordId": 1384487,
+                        "meaning": "[to] have money ; be wealthy ; be rich",
+                        "parentId": 26722,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีเงิน"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 2637,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399812,
+                        "legacyWordId": 1384573,
+                        "meaning": "[to] abound ; be found everywhere",
+                        "parentId": 399812,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีมาก"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 2486,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 384119,
+                        "legacyWordId": 1384594,
+                        "meaning": "[to] have children",
+                        "parentId": 384119,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี ลูก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีลูก"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 2350,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24089,
+                        "legacyWordId": 1384550,
+                        "meaning": "[to] be efficient ; be effective",
+                        "parentId": 24089,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี ปฺระ-สิด-ทิ-พาบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีประสิทธิภาพ"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 2103,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40204,
+                        "legacyWordId": 1384629,
+                        "meaning": "[to] dare to ; be unashamed ; be shameless",
+                        "parentId": 40204,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี น่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีหน้า"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 2052,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394460,
+                        "legacyWordId": 1384483,
+                        "meaning": "[to] be of good quality ; be of high quality",
+                        "parentId": 394460,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี คุน-นะ-พาบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีคุณภาพ"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 2006,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39483,
+                        "legacyWordId": 1384628,
+                        "meaning": "[to] have a voice ; be entitled to vote",
+                        "parentId": 39483,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี เสียง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีเสียง"
+                    },
+                    {
+                        "childId": 384114,
+                        "corpusScore": 1981,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102530,
+                        "legacyWordId": 1384585,
+                        "meaning": "[to] be valuable ; be expensive",
+                        "parentId": 102530,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีราคา"
+                    }
+                ],
+                "explanation": null,
+                "id": 384114,
+                "isUncommon": false,
+                "meaning": "[to] have ; there is",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "มี"
+            }
+        ],
+        "t2e": "มี",
+        "verified": "มี",
+        "word": "มี"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

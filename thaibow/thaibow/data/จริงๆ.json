@@ -1,0 +1,472 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "He's really a nice guy.",
+            "id": 2039,
+            "phonetic": "เขา เป็น คน ดี จิง จิง",
+            "thaiSentence": "เขาเป็นคนดีจริงๆ",
+            "thaiSentenceSpaced": " เขา เป็น คนดี จริงๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "good person ; good guy"
+                        },
+                        {
+                            "meaning": "darling ; dear ; honey"
+                        }
+                    ],
+                    "phonetic": "คน ดี",
+                    "word": "คนดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "really ; honestly ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง จิง",
+                    "word": "จริงๆ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Do I really have to do this ?",
+            "id": 3743,
+            "phonetic": "ฉัน ต้อง ทำ จิง จิง · เหฺรอ",
+            "thaiSentence": "ฉันต้องทำจริงๆ เหรอ",
+            "thaiSentenceSpaced": " ฉัน ต้อง ทำ จริงๆ เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "really ; honestly ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง จิง",
+                    "word": "จริงๆ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "A real student's apartment.",
+            "id": 5732,
+            "phonetic": "เป็น ห้อง ของ นัก เรียน จิง จิง",
+            "thaiSentence": "เป็นห้องของนักเรียนจริงๆ",
+            "thaiSentenceSpaced": " เป็น ห้อง ของ นักเรียน จริงๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "room <i>(ห้อง is also the classifier for rooms.)</i>"
+                        }
+                    ],
+                    "phonetic": "ห้อง",
+                    "word": "ห้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "student ; learner <i>(usually referring to junior or high school students)</i>"
+                        }
+                    ],
+                    "phonetic": "นัก เรียน",
+                    "word": "นักเรียน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "really ; honestly ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง จิง",
+                    "word": "จริงๆ"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is such a pity.",
+            "id": 7282,
+            "phonetic": "น่า เสีย ดาย จิง จิง",
+            "thaiSentence": "น่าเสียดายจริงๆ",
+            "thaiSentenceSpaced": " น่าเสียดาย จริงๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] unfortunate ; unlucky ; unfavorable"
+                        }
+                    ],
+                    "phonetic": "น่า เสีย ดาย",
+                    "word": "น่าเสียดาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "really ; honestly ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง จิง",
+                    "word": "จริงๆ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am such a selfish girl.",
+            "id": 7593,
+            "phonetic": "ฉัน ช่าง เป็น พู่ หฺยิง ที่ เห็น แก่ ตัว จิง จิง",
+            "thaiSentence": "ฉันช่างเป็นผู้หญิงที่เห็นแก่ตัวจริงๆ",
+            "thaiSentenceSpaced": " ฉัน ช่าง เป็นผู้หญิง ที่ เห็นแก่ตัว จริงๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "indeed ; really ; truly ; very ; so ; terribly"
+                        },
+                        {
+                            "meaning": "technician ; mechanic ; engineer"
+                        },
+                        {
+                            "meaning": " <i>(a prefix meaning \"given to...\", \"fond of...\")</i>"
+                        },
+                        {
+                            "meaning": "[to] let it go ; let someone do what they like"
+                        }
+                    ],
+                    "phonetic": "ช่าง",
+                    "word": "ช่าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be a woman ; be a lady ; be female"
+                        }
+                    ],
+                    "phonetic": "เป็น พู่ หฺยิง",
+                    "word": "เป็นผู้หญิง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] selfish ; greedy"
+                        }
+                    ],
+                    "phonetic": "เห็น แก่ ตัว",
+                    "word": "เห็นแก่ตัว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "really ; honestly ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง จิง",
+                    "word": "จริงๆ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I loved him deeply.",
+            "id": 12988,
+            "phonetic": "ฉัน รัก เขา หฺย่าง ลึก ซึ้ง จิง จิง",
+            "thaiSentence": "ฉันรักเขาอย่างลึกซึ้งจริงๆ",
+            "thaiSentenceSpaced": " ฉัน รัก เขา อย่างลึกซึ้ง จริงๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] love"
+                        }
+                    ],
+                    "phonetic": "รัก",
+                    "word": "รัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "deeply ; profoundly"
+                        }
+                    ],
+                    "phonetic": "หฺย่าง ลึก ซึ้ง",
+                    "word": "อย่างลึกซึ้ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "really ; honestly ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง จิง",
+                    "word": "จริงๆ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 27214,
+        "exampleSentences": [
+            {
+                "engSentence": "He's really a nice guy.",
+                "id": 2039,
+                "thaiSentence": "เขาเป็นคนดีจริงๆ",
+                "thaiSentenceSpaced": " เขา เป็น คนดี จริงๆ "
+            },
+            {
+                "engSentence": "Do I really have to do this ?",
+                "id": 3743,
+                "thaiSentence": "ฉันต้องทำจริงๆ เหรอ",
+                "thaiSentenceSpaced": " ฉัน ต้อง ทำ จริงๆ เหรอ "
+            },
+            {
+                "engSentence": "A real student's apartment.",
+                "id": 5732,
+                "thaiSentence": "เป็นห้องของนักเรียนจริงๆ",
+                "thaiSentenceSpaced": " เป็น ห้อง ของ นักเรียน จริงๆ "
+            },
+            {
+                "engSentence": "It is such a pity.",
+                "id": 7282,
+                "thaiSentence": "น่าเสียดายจริงๆ",
+                "thaiSentenceSpaced": " น่าเสียดาย จริงๆ "
+            },
+            {
+                "engSentence": "I am such a selfish girl.",
+                "id": 7593,
+                "thaiSentence": "ฉันช่างเป็นผู้หญิงที่เห็นแก่ตัวจริงๆ",
+                "thaiSentenceSpaced": " ฉัน ช่าง เป็นผู้หญิง ที่ เห็นแก่ตัว จริงๆ "
+            },
+            {
+                "engSentence": "I loved him deeply.",
+                "id": 12988,
+                "thaiSentence": "ฉันรักเขาอย่างลึกซึ้งจริงๆ",
+                "thaiSentenceSpaced": " ฉัน รัก เขา อย่างลึกซึ้ง จริงๆ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1288325,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 2799,
+                        "corpusScore": 51874,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 2799,
+                        "legacyWordId": 1288315,
+                        "meaning": "[to be] real ; true ; actual",
+                        "parentId": 48310,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "จิง",
+                        "usage": "",
+                        "verified": "จิง",
+                        "word": "จริง"
+                    },
+                    {
+                        "childId": 47847,
+                        "corpusScore": 285357,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "It's a character used to indicate the previous word is repeated",
+                        "hasSoundFile": false,
+                        "id": 47847,
+                        "legacyWordId": 1458572,
+                        "meaning": "",
+                        "parentId": 48310,
+                        "partOfSpeech": "Repeater",
+                        "t2e": "ๆ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ๆ"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "really",
+                        "word": "really"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "honestly",
+                        "word": "honestly"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "truly",
+                        "word": "truly"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 48310,
+                "isUncommon": false,
+                "meaning": "really ; honestly ; truly",
+                "partOfSpeech": "Adverb",
+                "usage": "",
+                "word": "จริงๆ"
+            }
+        ],
+        "t2e": "จิง จิง",
+        "verified": null,
+        "word": "จริงๆ"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

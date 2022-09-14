@@ -1,0 +1,809 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Take good care of them.",
+            "id": 61927,
+            "phonetic": "ดู แล เขา ดี ดี · ด้วย ล่ะ",
+            "thaiSentence": "ดูแลเขาดีๆ ด้วยล่ะ",
+            "thaiSentenceSpaced": " ดูแล เขา ดีๆ ด้วย ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] look after ; take care ; tend"
+                        }
+                    ],
+                    "phonetic": "ดู แล",
+                    "word": "ดูแล"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice ; happy"
+                        }
+                    ],
+                    "phonetic": "ดี ดี",
+                    "word": "ดีๆ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "To take care of her always.",
+            "id": 78716,
+            "phonetic": "จะ ดู แล เขา ตะ-หฺลอด ไป",
+            "thaiSentence": "จะดูแลเขาตลอดไป",
+            "thaiSentenceSpaced": " จะ ดูแล เขา ตลอดไป ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] look after ; take care ; tend"
+                        }
+                    ],
+                    "phonetic": "ดู แล",
+                    "word": "ดูแล"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "forever ; always ; ever"
+                        }
+                    ],
+                    "phonetic": "ตะ-หฺลอด ไป",
+                    "word": "ตลอดไป"
+                }
+            ]
+        },
+        {
+            "engSentence": "I'll take care of you.",
+            "id": 84170,
+            "phonetic": "ฉัน จะ ดู แล คุน เอง",
+            "thaiSentence": "ฉันจะดูแลคุณเอง",
+            "thaiSentenceSpaced": " ฉัน จะ ดูแล คุณ เอง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] look after ; take care ; tend"
+                        }
+                    ],
+                    "phonetic": "ดู แล",
+                    "word": "ดูแล"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "only ; alone ; just"
+                        }
+                    ],
+                    "phonetic": "เอง",
+                    "word": "เอง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Can he take care of you ?",
+            "id": 84878,
+            "phonetic": "เขา จะ ดู แล คุน ด้าย งั้น เหฺรอ",
+            "thaiSentence": "เขาจะดูแลคุณได้งั้นเหรอ",
+            "thaiSentenceSpaced": " เขา จะ ดูแล คุณ ได้ งั้น เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] look after ; take care ; tend"
+                        }
+                    ],
+                    "phonetic": "ดู แล",
+                    "word": "ดูแล"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "like that"
+                        },
+                        {
+                            "meaning": "if so ; in that case ; then"
+                        }
+                    ],
+                    "phonetic": "งั้น",
+                    "word": "งั้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I would take care of it.",
+            "id": 94251,
+            "phonetic": "ฉัน จะ ดู แล มัน",
+            "thaiSentence": "ฉันจะดูแลมัน",
+            "thaiSentenceSpaced": " ฉัน จะ ดูแล มัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] look after ; take care ; tend"
+                        }
+                    ],
+                    "phonetic": "ดู แล",
+                    "word": "ดูแล"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                }
+            ]
+        },
+        {
+            "engSentence": "I'll take care of them.",
+            "id": 140570,
+            "phonetic": "ผม จะ ดู แล พวก เขา เอง",
+            "thaiSentence": "ผมจะดูแลพวกเขาเอง",
+            "thaiSentenceSpaced": " ผม จะ ดูแล พวกเขา เอง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] look after ; take care ; tend"
+                        }
+                    ],
+                    "phonetic": "ดู แล",
+                    "word": "ดูแล"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "they ; them"
+                        }
+                    ],
+                    "phonetic": "พวก เขา",
+                    "word": "พวกเขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "only ; alone ; just"
+                        }
+                    ],
+                    "phonetic": "เอง",
+                    "word": "เอง"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 10930,
+        "exampleSentences": [
+            {
+                "engSentence": "Take good care of them.",
+                "id": 61927,
+                "thaiSentence": "ดูแลเขาดีๆ ด้วยล่ะ",
+                "thaiSentenceSpaced": " ดูแล เขา ดีๆ ด้วย ล่ะ "
+            },
+            {
+                "engSentence": "To take care of her always.",
+                "id": 78716,
+                "thaiSentence": "จะดูแลเขาตลอดไป",
+                "thaiSentenceSpaced": " จะ ดูแล เขา ตลอดไป "
+            },
+            {
+                "engSentence": "I'll take care of you.",
+                "id": 84170,
+                "thaiSentence": "ฉันจะดูแลคุณเอง",
+                "thaiSentenceSpaced": " ฉัน จะ ดูแล คุณ เอง "
+            },
+            {
+                "engSentence": "Can he take care of you ?",
+                "id": 84878,
+                "thaiSentence": "เขาจะดูแลคุณได้งั้นเหรอ",
+                "thaiSentenceSpaced": " เขา จะ ดูแล คุณ ได้ งั้น เหรอ "
+            },
+            {
+                "engSentence": "I would take care of it.",
+                "id": 94251,
+                "thaiSentence": "ฉันจะดูแลมัน",
+                "thaiSentenceSpaced": " ฉัน จะ ดูแล มัน "
+            },
+            {
+                "engSentence": "I'll take care of them.",
+                "id": 140570,
+                "thaiSentence": "ผมจะดูแลพวกเขาเอง",
+                "thaiSentenceSpaced": " ผม จะ ดูแล พวกเขา เอง "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1307989,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 7128,
+                        "corpusScore": 108668,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 7128,
+                        "legacyWordId": 1307902,
+                        "meaning": "[to] watch ; look ; see",
+                        "parentId": 1081,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดู"
+                    },
+                    {
+                        "childId": 37154,
+                        "corpusScore": 10849,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 37154,
+                        "legacyWordId": 1397358,
+                        "meaning": "[to] see ; look ; glance",
+                        "parentId": 1081,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แล"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] look after",
+                        "word": "look after"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "take care",
+                        "word": "take care"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "tend",
+                        "word": "tend"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 1081,
+                        "corpusScore": 1675,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49953,
+                        "legacyWordId": 1268369,
+                        "meaning": "taking care ; caring for",
+                        "parentId": 49953,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ดู แล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การดูแล"
+                    },
+                    {
+                        "childId": 1081,
+                        "corpusScore": 694,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44173,
+                        "legacyWordId": 1374458,
+                        "meaning": "overseer ; guard",
+                        "parentId": 44173,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ ดู แล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้ดูแล"
+                    },
+                    {
+                        "childId": 1081,
+                        "corpusScore": 417,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394611,
+                        "legacyWordId": 1307991,
+                        "meaning": "[to] be alert ; be vigilant ; be on the lookout",
+                        "parentId": 394611,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดู แล ตัว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดูแลตัว"
+                    },
+                    {
+                        "childId": 1081,
+                        "corpusScore": 395,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10701,
+                        "legacyWordId": 1307993,
+                        "meaning": "[to] look after ; take care ; tend",
+                        "parentId": 10701,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดู แล รัก-สา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดูแลรักษา"
+                    },
+                    {
+                        "childId": 1081,
+                        "corpusScore": 198,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33256,
+                        "legacyWordId": 1281644,
+                        "meaning": "care ; control ; solicitude",
+                        "parentId": 33256,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม ดู แล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความดูแล"
+                    },
+                    {
+                        "childId": 1081,
+                        "corpusScore": 194,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10482,
+                        "legacyWordId": 1291735,
+                        "meaning": "[to] take care of ; look after",
+                        "parentId": 10482,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ช่วย ดู แล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ช่วยดูแล"
+                    },
+                    {
+                        "childId": 1081,
+                        "corpusScore": 124,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 214,
+                        "legacyWordId": 1307994,
+                        "meaning": "[to] take care of ; look after ; nurture",
+                        "parentId": 214,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดู แล เอา ไจ ไส่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดูแลเอาใจใส่"
+                    },
+                    {
+                        "childId": 1081,
+                        "corpusScore": 99,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42007,
+                        "legacyWordId": 1281058,
+                        "meaning": "[to] supervise ; watch over ; control",
+                        "parentId": 42007,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ควบ คุม ดู แล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ควบคุมดูแล"
+                    },
+                    {
+                        "childId": 1081,
+                        "corpusScore": 91,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397949,
+                        "legacyWordId": 1307990,
+                        "meaning": "[to] administrate ; manage ; administer",
+                        "parentId": 397949,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดู แล งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดูแลงาน"
+                    },
+                    {
+                        "childId": 1081,
+                        "corpusScore": 48,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394451,
+                        "legacyWordId": 1457320,
+                        "meaning": "[to] take care of ; look after ; nurture",
+                        "parentId": 394451,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา ไจ ไส่ ดู แล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาใจใส่ดูแล"
+                    },
+                    {
+                        "childId": 1081,
+                        "corpusScore": 41,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5122,
+                        "legacyWordId": 1405276,
+                        "meaning": "[to] inspect ; examine ; scrutinize",
+                        "parentId": 5122,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สอด ส่อง ดู แล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สอดส่องดูแล"
+                    },
+                    {
+                        "childId": 1081,
+                        "corpusScore": 38,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33571,
+                        "legacyWordId": 1267622,
+                        "meaning": "supervision",
+                        "parentId": 33571,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ควบ คุม ดู แล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การควบคุมดูแล"
+                    },
+                    {
+                        "childId": 1081,
+                        "corpusScore": 7,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397950,
+                        "legacyWordId": 1307992,
+                        "meaning": "[to] govern ; manage the government",
+                        "parentId": 397950,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดู แล บ้าน เมือง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดูแลบ้านเมือง"
+                    },
+                    {
+                        "childId": 1081,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397250,
+                        "legacyWordId": 1278815,
+                        "meaning": "nanny ; babysitter",
+                        "parentId": 397250,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน ดู แล เด็ก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนดูแลเด็ก"
+                    },
+                    {
+                        "childId": 1081,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 508648,
+                        "legacyWordId": 1270152,
+                        "meaning": "care team",
+                        "parentId": 508648,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน พัด-ทะ-นา ทีม ดู แล พู่ ป่วย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การพัฒนาทีมดูแลผู้ป่วย"
+                    },
+                    {
+                        "childId": 1081,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395754,
+                        "legacyWordId": 1281164,
+                        "meaning": "supervision ; superintendent",
+                        "parentId": 395754,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม กำ-กับ ดู แล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความกำกับดูแล"
+                    },
+                    {
+                        "childId": 1081,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 88684,
+                        "legacyWordId": 1310651,
+                        "meaning": "supervisor",
+                        "parentId": 88684,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตัว กำ-กับ ดู แล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตัวกำกับดูแล"
+                    },
+                    {
+                        "childId": 1081,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 87109,
+                        "legacyWordId": 1278381,
+                        "meaning": "Federal Communications Commission",
+                        "parentId": 87109,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คะ-นะ กำ-มะ-กาน กฺลาง กำ-กับ ดู แล กิด-จะ-กาน สื่อ สาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คณะกรรมการกลางกำกับดูแลกิจการสื่อสาร"
+                    }
+                ],
+                "explanation": null,
+                "id": 1081,
+                "isUncommon": false,
+                "meaning": "[to] look after ; take care ; tend",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ดูแล"
+            }
+        ],
+        "t2e": "ดู แล",
+        "verified": null,
+        "word": "ดูแล"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

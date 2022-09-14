@@ -1,0 +1,832 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Here . Read it.",
+            "id": 4809,
+            "phonetic": "นี่ ๆ · อ่าน นี่ สิ",
+            "thaiSentence": "นี่ๆ อ่านนี่สิ",
+            "thaiSentenceSpaced": " นี่ ๆ  ·  อ่าน นี่ สิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(character used to indicate the previous word is repeated)</i>"
+                        }
+                    ],
+                    "phonetic": "ๆ",
+                    "word": "ๆ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] read"
+                        }
+                    ],
+                    "phonetic": "อ่าน",
+                    "word": "อ่าน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What are you reading ?",
+            "id": 13269,
+            "phonetic": "อ่าน อะ-ไร หฺยู่",
+            "thaiSentence": "อ่านอะไรอยู่",
+            "thaiSentenceSpaced": " อ่าน อะไร อยู่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] read"
+                        }
+                    ],
+                    "phonetic": "อ่าน",
+                    "word": "อ่าน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                }
+            ]
+        },
+        {
+            "engSentence": "How can I read it ?",
+            "id": 32825,
+            "phonetic": "ฉัน จะ อ่าน มัน ยัง ไง",
+            "thaiSentence": "ฉันจะอ่านมันยังไง",
+            "thaiSentenceSpaced": " ฉัน จะ อ่าน มัน ยังไง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] read"
+                        }
+                    ],
+                    "phonetic": "อ่าน",
+                    "word": "อ่าน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "ยัง ไง",
+                    "word": "ยังไง"
+                }
+            ]
+        },
+        {
+            "engSentence": "I gotta read that one.",
+            "id": 39968,
+            "phonetic": "ผม ต้อง หา มา อ่าน แล้ว ล่ะ",
+            "thaiSentence": "ผมต้องหามาอ่านแล้วล่ะ",
+            "thaiSentenceSpaced": " ผม ต้องหา มา อ่าน แล้ว ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have to find ; have to search for"
+                        },
+                        {
+                            "meaning": "[to be] accused ; charged"
+                        }
+                    ],
+                    "phonetic": "ต้อง หา",
+                    "word": "ต้องหา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] read"
+                        }
+                    ],
+                    "phonetic": "อ่าน",
+                    "word": "อ่าน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Read it out loud.",
+            "id": 46145,
+            "phonetic": "อ่าน ดัง ดัง",
+            "thaiSentence": "อ่านดังๆ",
+            "thaiSentenceSpaced": " อ่าน ดังๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] read"
+                        }
+                    ],
+                    "phonetic": "อ่าน",
+                    "word": "อ่าน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] noisy ; loud"
+                        },
+                        {
+                            "meaning": "[to be] famous ; well-known"
+                        }
+                    ],
+                    "phonetic": "ดัง ดัง",
+                    "word": "ดังๆ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Look . Read it.",
+            "id": 46275,
+            "phonetic": "ดู ซิ · อ่าน ดู",
+            "thaiSentence": "ดูซิ อ่านดู",
+            "thaiSentenceSpaced": " ดู ซิ  ·  อ่าน ดู ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] appear ; seem"
+                        },
+                        {
+                            "meaning": "[to] watch ; look ; see"
+                        }
+                    ],
+                    "phonetic": "ดู",
+                    "word": "ดู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "ซิ",
+                    "word": "ซิ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] read"
+                        }
+                    ],
+                    "phonetic": "อ่าน",
+                    "word": "อ่าน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] appear ; seem"
+                        },
+                        {
+                            "meaning": "[to] watch ; look ; see"
+                        }
+                    ],
+                    "phonetic": "ดู",
+                    "word": "ดู"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 37593,
+        "exampleSentences": [
+            {
+                "engSentence": "Here . Read it.",
+                "id": 4809,
+                "thaiSentence": "นี่ๆ อ่านนี่สิ",
+                "thaiSentenceSpaced": " นี่ ๆ  &middot;  อ่าน นี่ สิ "
+            },
+            {
+                "engSentence": "What are you reading ?",
+                "id": 13269,
+                "thaiSentence": "อ่านอะไรอยู่",
+                "thaiSentenceSpaced": " อ่าน อะไร อยู่ "
+            },
+            {
+                "engSentence": "How can I read it ?",
+                "id": 32825,
+                "thaiSentence": "ฉันจะอ่านมันยังไง",
+                "thaiSentenceSpaced": " ฉัน จะ อ่าน มัน ยังไง "
+            },
+            {
+                "engSentence": "I gotta read that one.",
+                "id": 39968,
+                "thaiSentence": "ผมต้องหามาอ่านแล้วล่ะ",
+                "thaiSentenceSpaced": " ผม ต้องหา มา อ่าน แล้ว ล่ะ "
+            },
+            {
+                "engSentence": "Read it out loud.",
+                "id": 46145,
+                "thaiSentence": "อ่านดังๆ",
+                "thaiSentenceSpaced": " อ่าน ดังๆ "
+            },
+            {
+                "engSentence": "Look . Read it.",
+                "id": 46275,
+                "thaiSentence": "ดูซิ อ่านดู",
+                "thaiSentenceSpaced": " ดู ซิ  &middot;  อ่าน ดู "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1454106,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] read",
+                        "word": "read"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 26265,
+                        "corpusScore": 2445,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50103,
+                        "legacyWordId": 1271947,
+                        "meaning": "reading",
+                        "parentId": 50103,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน อ่าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การอ่าน"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 2369,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 35540,
+                        "legacyWordId": 1375084,
+                        "meaning": "reader",
+                        "parentId": 35540,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ อ่าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้อ่าน"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 1028,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 93393,
+                        "legacyWordId": 1454110,
+                        "meaning": "readable",
+                        "parentId": 93393,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อ่าน ด้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อ่านได้"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 1005,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1105,
+                        "legacyWordId": 1454125,
+                        "meaning": "[to] read ; study",
+                        "parentId": 1105,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อ่าน หฺนัง-สือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อ่านหนังสือ"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 761,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20563,
+                        "legacyWordId": 1279096,
+                        "meaning": "reader",
+                        "parentId": 20563,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน อ่าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนอ่าน"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 392,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1395,
+                        "legacyWordId": 1329362,
+                        "meaning": "[to be] enjoyable to read ; good to read ; fun to read",
+                        "parentId": 1395,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "น่า อ่าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น่าอ่าน"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 250,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45209,
+                        "legacyWordId": 1454127,
+                        "meaning": "[to] be able to read ; be literate",
+                        "parentId": 45209,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อ่าน ออก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อ่านออก"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 223,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6257,
+                        "legacyWordId": 1327988,
+                        "meaning": "reader",
+                        "parentId": 6257,
+                        "partOfSpeech": "Noun",
+                        "t2e": "นัก อ่าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นักอ่าน"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 152,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45211,
+                        "legacyWordId": 1454108,
+                        "meaning": "[to] read data",
+                        "parentId": 45211,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อ่าน ข้อ มูน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อ่านข้อมูล"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 126,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30081,
+                        "legacyWordId": 1284836,
+                        "meaning": "[to] ponder ; think deeply ; meditate",
+                        "parentId": 30081,
+                        "partOfSpeech": "Verb",
+                        "t2e": "คิด อ่าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คิดอ่าน"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 102,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42495,
+                        "legacyWordId": 1454121,
+                        "meaning": "[to] be unable to read ; be illiterate",
+                        "parentId": 42495,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อ่าน ไม่ ออก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อ่านไม่ออก"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 91,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "for pleasure",
+                        "hasSoundFile": false,
+                        "id": 19128,
+                        "legacyWordId": 1454124,
+                        "meaning": "[to] read",
+                        "parentId": 19128,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อ่าน เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อ่านเล่น"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 74,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1801,
+                        "legacyWordId": 1454129,
+                        "meaning": "[to] read aloud",
+                        "parentId": 1801,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อ่าน ออก เสียง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อ่านออกเสียง"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 71,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 88342,
+                        "legacyWordId": 1286018,
+                        "meaning": "reader",
+                        "parentId": 88342,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เคฺรื่อง อ่าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เครื่องอ่าน"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 63,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19104,
+                        "legacyWordId": 1409956,
+                        "meaning": "pronunciation",
+                        "parentId": 19104,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เสียง อ่าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เสียงอ่าน"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 55,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20839,
+                        "legacyWordId": 1454109,
+                        "meaning": "[to] read one's mind",
+                        "parentId": 20839,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อ่าน ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อ่านใจ"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 48,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45210,
+                        "legacyWordId": 1454128,
+                        "meaning": "[to] be able to read and write ; be literate",
+                        "parentId": 45210,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อ่าน ออก เขียน ด้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อ่านออกเขียนได้"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 45,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45110,
+                        "legacyWordId": 1448946,
+                        "meaning": "reader",
+                        "parentId": 45110,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หัว อ่าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หัวอ่าน"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 32,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395758,
+                        "legacyWordId": 1281326,
+                        "meaning": "thinking ; contemplation ; consideration",
+                        "parentId": 395758,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม คิด คฺวาม อ่าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความคิดความอ่าน"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 24,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21694,
+                        "legacyWordId": 1454119,
+                        "meaning": "[to] skim-read",
+                        "parentId": 21694,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อ่าน ผ่าน ผ่าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อ่านผ่านๆ"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 14,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 92065,
+                        "legacyWordId": 1454123,
+                        "meaning": "decode",
+                        "parentId": 92065,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อ่าน ระ-หัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อ่านรหัส"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31775,
+                        "legacyWordId": 1286019,
+                        "meaning": "card reader ; card punch ; key punch",
+                        "parentId": 31775,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เคฺรื่อง อ่าน บัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เครื่องอ่านบัตร"
+                    },
+                    {
+                        "childId": 26265,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14146,
+                        "legacyWordId": 1392505,
+                        "meaning": "[to] know how to think wisely",
+                        "parentId": 14146,
+                        "partOfSpeech": "Verb",
+                        "t2e": "รู้ คิด รู้ อ่าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รู้คิดรู้อ่าน"
+                    }
+                ],
+                "explanation": null,
+                "id": 26265,
+                "isUncommon": false,
+                "meaning": "[to] read",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "อ่าน"
+            }
+        ],
+        "t2e": "อ่าน",
+        "verified": null,
+        "word": "อ่าน"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

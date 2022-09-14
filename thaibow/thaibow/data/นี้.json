@@ -1,0 +1,813 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Of this pile of rubble.",
+            "id": 9804,
+            "phonetic": "บน เสด ก้อน หิน พวก นี้",
+            "thaiSentence": "บนเศษก้อนหินพวกนี้",
+            "thaiSentenceSpaced": " บน เศษ ก้อนหิน พวก นี้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "on ; upon ; above"
+                        }
+                    ],
+                    "phonetic": "บน",
+                    "word": "บน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "fraction"
+                        },
+                        {
+                            "meaning": "scraps ; remains ; fragments"
+                        }
+                    ],
+                    "phonetic": "เสด",
+                    "word": "เศษ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "stone ; rock"
+                        }
+                    ],
+                    "phonetic": "ก้อน หิน",
+                    "word": "ก้อนหิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "group ; community ; party <i>(พวก is the classifier for a group of something.)</i>"
+                        }
+                    ],
+                    "phonetic": "พวก",
+                    "word": "พวก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "this"
+                        }
+                    ],
+                    "phonetic": "นี้",
+                    "word": "นี้"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is me.",
+            "id": 13519,
+            "phonetic": "นี้ ฉัน ไง",
+            "thaiSentence": "นี้ฉันไง",
+            "thaiSentenceSpaced": " นี้ ฉัน ไง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "this"
+                        }
+                    ],
+                    "phonetic": "นี้",
+                    "word": "นี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle showing the preceding statement is self-evident)</i>"
+                        },
+                        {
+                            "meaning": "how"
+                        }
+                    ],
+                    "phonetic": "ไง",
+                    "word": "ไง"
+                }
+            ]
+        },
+        {
+            "engSentence": "This seat's taken.",
+            "id": 15053,
+            "phonetic": "ที่ นี้ จอง แล้ว",
+            "thaiSentence": "ที่นี้จองแล้ว",
+            "thaiSentenceSpaced": " ที่ นี้ จอง แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "this"
+                        }
+                    ],
+                    "phonetic": "นี้",
+                    "word": "นี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] reserve ; book ; hold"
+                        }
+                    ],
+                    "phonetic": "จอง",
+                    "word": "จอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am going to die soon.",
+            "id": 16689,
+            "phonetic": "ฉัน กำ-ลัง จะ ตาย เร็วๆ นี้",
+            "thaiSentence": "ฉันกำลังจะตายเร็วๆ นี้",
+            "thaiSentenceSpaced": " ฉัน กำลังจะ ตาย เร็วๆ นี้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "power ; energy ; strength"
+                        },
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense)</i>"
+                        }
+                    ],
+                    "phonetic": "กำ-ลัง",
+                    "word": "กำลัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "so much ; to death"
+                        },
+                        {
+                            "meaning": "will die ; will suffer"
+                        }
+                    ],
+                    "phonetic": "จะ ตาย",
+                    "word": "จะตาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "recently"
+                        }
+                    ],
+                    "phonetic": "เร็วๆ นี้",
+                    "word": "เร็วๆ นี้"
+                }
+            ]
+        },
+        {
+            "engSentence": "This is the place.",
+            "id": 24325,
+            "phonetic": "ที่ ตฺรง นี้",
+            "thaiSentence": "ที่ตรงนี้",
+            "thaiSentenceSpaced": " ที่ตรง นี้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "here ; this place"
+                        }
+                    ],
+                    "phonetic": "ตฺรง นี้",
+                    "word": "ตรงนี้"
+                }
+            ]
+        },
+        {
+            "engSentence": "I'll be a father soon.",
+            "id": 24345,
+            "phonetic": "ฉัน จะ เป็น พ่อ คน เร็วๆ นี้",
+            "thaiSentence": "ฉันจะเป็นพ่อคนเร็วๆ นี้",
+            "thaiSentenceSpaced": " ฉัน จะเป็น พ่อ คน เร็วๆ นี้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will be"
+                        }
+                    ],
+                    "phonetic": "จะ เป็น",
+                    "word": "จะเป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I <i>(used by a father when talking to his children)</i>"
+                        },
+                        {
+                            "meaning": "you <i>(used by children when addressing their father)</i>"
+                        },
+                        {
+                            "meaning": "father ; dad ; daddy"
+                        }
+                    ],
+                    "phonetic": "พ่อ",
+                    "word": "พ่อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "recently"
+                        }
+                    ],
+                    "phonetic": "เร็วๆ นี้",
+                    "word": "เร็วๆ นี้"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 314016,
+        "exampleSentences": [
+            {
+                "engSentence": "Of this pile of rubble.",
+                "id": 9804,
+                "thaiSentence": "บนเศษก้อนหินพวกนี้",
+                "thaiSentenceSpaced": " บน เศษ ก้อนหิน พวก นี้ "
+            },
+            {
+                "engSentence": "It is me.",
+                "id": 13519,
+                "thaiSentence": "นี้ฉันไง",
+                "thaiSentenceSpaced": " นี้ ฉัน ไง "
+            },
+            {
+                "engSentence": "This seat's taken.",
+                "id": 15053,
+                "thaiSentence": "ที่นี้จองแล้ว",
+                "thaiSentenceSpaced": " ที่ นี้ จอง แล้ว "
+            },
+            {
+                "engSentence": "I am going to die soon.",
+                "id": 16689,
+                "thaiSentence": "ฉันกำลังจะตายเร็วๆ นี้",
+                "thaiSentenceSpaced": " ฉัน กำลังจะ ตาย เร็วๆ นี้ "
+            },
+            {
+                "engSentence": "This is the place.",
+                "id": 24325,
+                "thaiSentence": "ที่ตรงนี้",
+                "thaiSentenceSpaced": " ที่ตรง นี้ "
+            },
+            {
+                "engSentence": "I'll be a father soon.",
+                "id": 24345,
+                "thaiSentence": "ฉันจะเป็นพ่อคนเร็วๆ นี้",
+                "thaiSentenceSpaced": " ฉัน จะเป็น พ่อ คน เร็วๆ นี้ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1330353,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "this",
+                        "word": "this"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 42145,
+                        "corpusScore": 20990,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 4740,
+                        "legacyWordId": 1399131,
+                        "meaning": "today",
+                        "parentId": 4740,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 16957,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 45790,
+                        "legacyWordId": 1309855,
+                        "meaning": "now ; right now ; at this moment",
+                        "parentId": 45790,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ตอน-นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตอนนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 16482,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 41425,
+                        "legacyWordId": 1367078,
+                        "meaning": "like this ; this way",
+                        "parentId": 41425,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แบบ นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แบบนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 16221,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 28397,
+                        "legacyWordId": 1450211,
+                        "meaning": "these",
+                        "parentId": 28397,
+                        "partOfSpeech": "DemonstrativeAdjective",
+                        "t2e": "เหฺล่า นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เหล่านี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 10246,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 26758,
+                        "legacyWordId": 1452091,
+                        "meaning": "like this ; in this way",
+                        "parentId": 26758,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺย่าง นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อย่างนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 9209,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 10103,
+                        "legacyWordId": 1279249,
+                        "meaning": "this time ; now",
+                        "parentId": 10103,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "คฺรั้ง นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครั้งนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 7764,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 10654,
+                        "legacyWordId": 1307084,
+                        "meaning": "as follows",
+                        "parentId": 10654,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ดัง นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดังนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 7742,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402282,
+                        "legacyWordId": 1450511,
+                        "meaning": "here ; in this place ; at this place",
+                        "parentId": 402282,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แห่ง นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แห่งนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 6119,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11931,
+                        "legacyWordId": 1293961,
+                        "meaning": "like this ; in this way",
+                        "parentId": 11931,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เช่น นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เช่นนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 5780,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399148,
+                        "legacyWordId": 1371677,
+                        "meaning": "this year",
+                        "parentId": 399148,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปี นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 5729,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 557,
+                        "legacyWordId": 1289184,
+                        "meaning": "from this moment ; since ; till now",
+                        "parentId": 557,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "จาก นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จากนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 5545,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 45806,
+                        "legacyWordId": 1274825,
+                        "meaning": "at this time ; at this moment",
+                        "parentId": 45806,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ขะ-หฺนะ นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขณะนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 5067,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3462,
+                        "legacyWordId": 1453574,
+                        "meaning": "this ; this",
+                        "parentId": 3462,
+                        "partOfSpeech": "DemonstrativeAdjective",
+                        "t2e": "อัน นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อันนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 4671,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 5806,
+                        "legacyWordId": 1309248,
+                        "meaning": "here ; this place",
+                        "parentId": 5806,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ตฺรง นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตรงนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 4308,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 9688,
+                        "legacyWordId": 1291666,
+                        "meaning": "at this period ; at this time",
+                        "parentId": 9688,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ช่วง นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ช่วงนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 3536,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 16500,
+                        "legacyWordId": 1321294,
+                        "meaning": "in order that ; so that ; so as to",
+                        "parentId": 16500,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ทั้ง นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทั้งนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 3093,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396997,
+                        "legacyWordId": 1274943,
+                        "meaning": "to this extent ; this much",
+                        "parentId": 396997,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ขะ-หฺนาด นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขนาดนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 2863,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32805,
+                        "legacyWordId": 1279326,
+                        "meaning": "this occasion ; this time ; now",
+                        "parentId": 32805,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺราว นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คราวนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 2536,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 31680,
+                        "legacyWordId": 1286249,
+                        "meaning": "only ; just ; solely",
+                        "parentId": 31680,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แค่ นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แค่นี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 2536,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 347,
+                        "legacyWordId": 1286249,
+                        "meaning": "just this much ; only this much",
+                        "parentId": 347,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แค่ นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แค่นี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 2455,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45807,
+                        "legacyWordId": 1377057,
+                        "meaning": "tomorrow ; the next day",
+                        "parentId": 45807,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พฺรุ่ง-นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พรุ่งนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 2219,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396806,
+                        "legacyWordId": 1265598,
+                        "meaning": "these",
+                        "parentId": 396806,
+                        "partOfSpeech": "DemonstrativeAdjective",
+                        "t2e": "กฺลุ่ม นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กลุ่มนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 2105,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13649,
+                        "legacyWordId": 1330368,
+                        "meaning": "this",
+                        "parentId": 13649,
+                        "partOfSpeech": "Particle",
+                        "t2e": "นี้ แหฺละ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นี้แหละ"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 1964,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32284,
+                        "legacyWordId": 1308340,
+                        "meaning": "at this moment ; now ; instantly",
+                        "parentId": 32284,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เดี๋ยว นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดี๋ยวนี้"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 1766,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45385,
+                        "legacyWordId": 1325109,
+                        "meaning": "as much as this ; just this",
+                        "parentId": 45385,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เท่า นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เท่านี้"
+                    }
+                ],
+                "explanation": null,
+                "id": 42145,
+                "isUncommon": false,
+                "meaning": "this",
+                "partOfSpeech": "DemonstrativeAdjective",
+                "usage": "",
+                "word": "นี้"
+            }
+        ],
+        "t2e": "นี้",
+        "verified": null,
+        "word": "นี้"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

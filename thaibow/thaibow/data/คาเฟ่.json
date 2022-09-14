@@ -1,0 +1,43 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 299,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1283958,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "caf",
+                        "word": "caf"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "supper club",
+                        "word": "supper club"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 6890,
+                "isUncommon": false,
+                "meaning": "caf ; supper club",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "คาเฟ่"
+            }
+        ],
+        "t2e": "คา-เฟ่",
+        "verified": null,
+        "word": "คาเฟ่"
+    },
+    "greenBarCount": 2,
+    "pageUrl": "",
+    "type": "thai-word"
+}

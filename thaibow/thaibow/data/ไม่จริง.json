@@ -1,0 +1,35 @@
+{
+    "thaiTranslationLines": [
+        {
+            "isWordBreakdownShown": true,
+            "phonetic": "ไม่ จิง",
+            "unspacedText": "ไม่จริง",
+            "wordObjects": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] real ; true ; actual"
+                        },
+                        {
+                            "meaning": "really ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง",
+                    "word": "จริง"
+                }
+            ]
+        }
+    ],
+    "type": "translation"
+}

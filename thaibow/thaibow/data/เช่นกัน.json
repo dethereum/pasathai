@@ -1,0 +1,484 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "You probably have no choice.",
+            "id": 6334,
+            "phonetic": "คุน ก้อ ไม่ มี ทาง เลือก เช่น กัน",
+            "thaiSentence": "คุณก็ไม่มีทางเลือกเช่นกัน",
+            "thaiSentenceSpaced": " คุณ ก็ ไม่มี ทางเลือก เช่นกัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have no way ; have no chance"
+                        }
+                    ],
+                    "phonetic": "ไม่ มี ทาง",
+                    "word": "ไม่มีทาง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] choose ; select ; pick"
+                        }
+                    ],
+                    "phonetic": "เลือก",
+                    "word": "เลือก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; as well ; too"
+                        }
+                    ],
+                    "phonetic": "เช่น กัน",
+                    "word": "เช่นกัน"
+                }
+            ]
+        },
+        {
+            "engSentence": "Pleased to meet you too.",
+            "id": 190217,
+            "phonetic": "ยิน ดี ที่ ด้าย รู้ จัก เช่น กัน คฺรับ",
+            "thaiSentence": "ยินดีที่ได้รู้จักเช่นกันครับ",
+            "thaiSentenceSpaced": " ยินดี ที่ ได้รู้ จัก เช่นกัน ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] happy ; glad"
+                        }
+                    ],
+                    "phonetic": "ยิน ดี",
+                    "word": "ยินดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get to know ; find out ; discover"
+                        }
+                    ],
+                    "phonetic": "ด้าย รู้",
+                    "word": "ได้รู้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จัก",
+                    "word": "จัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; as well ; too"
+                        }
+                    ],
+                    "phonetic": "เช่น กัน",
+                    "word": "เช่นกัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Yes, I got it.",
+            "id": 261939,
+            "phonetic": "คฺรับ · ผม ก้อ เช่น กัน",
+            "thaiSentence": "ครับ ผมก็เช่นกัน",
+            "thaiSentenceSpaced": " ครับ  ·  ผม ก็ เช่นกัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; as well ; too"
+                        }
+                    ],
+                    "phonetic": "เช่น กัน",
+                    "word": "เช่นกัน"
+                }
+            ]
+        },
+        {
+            "engSentence": "So am I.",
+            "id": 317365,
+            "phonetic": "เช่น กัน ค่ะ",
+            "thaiSentence": "เช่นกันค่ะ",
+            "thaiSentenceSpaced": " เช่นกัน ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; as well ; too"
+                        }
+                    ],
+                    "phonetic": "เช่น กัน",
+                    "word": "เช่นกัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I also think this way.",
+            "id": 381156,
+            "phonetic": "ฉัน ก้อ คิด หฺย่าง นี้ เช่น กัน",
+            "thaiSentence": "ฉันก็คิดอย่างนี้เช่นกัน",
+            "thaiSentenceSpaced": " ฉัน ก็ คิด อย่างนี้ เช่นกัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] think ; consider ; calculate"
+                        }
+                    ],
+                    "phonetic": "คิด",
+                    "word": "คิด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "like this ; in this way"
+                        }
+                    ],
+                    "phonetic": "หฺย่าง นี้",
+                    "word": "อย่างนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; as well ; too"
+                        }
+                    ],
+                    "phonetic": "เช่น กัน",
+                    "word": "เช่นกัน"
+                }
+            ]
+        },
+        {
+            "engSentence": "I grew up there too.",
+            "id": 521795,
+            "phonetic": "ฉัน เติบ โต จาก ที่ นั้น เช่น กัน",
+            "thaiSentence": "ฉันเติบโตจากที่นั้นเช่นกัน",
+            "thaiSentenceSpaced": " ฉัน เติบโต จากที่ นั้น เช่นกัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] grow ; grow up ; develop"
+                        }
+                    ],
+                    "phonetic": "เติบ โต",
+                    "word": "เติบโต"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "as"
+                        }
+                    ],
+                    "phonetic": "จาก ที่",
+                    "word": "จากที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence, or to show the end of a relative clause)</i>"
+                        },
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั้น",
+                    "word": "นั้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; as well ; too"
+                        }
+                    ],
+                    "phonetic": "เช่น กัน",
+                    "word": "เช่นกัน"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 9915,
+        "exampleSentences": [
+            {
+                "engSentence": "You probably have no choice.",
+                "id": 6334,
+                "thaiSentence": "คุณก็ไม่มีทางเลือกเช่นกัน",
+                "thaiSentenceSpaced": " คุณ ก็ ไม่มี ทางเลือก เช่นกัน "
+            },
+            {
+                "engSentence": "Pleased to meet you too.",
+                "id": 190217,
+                "thaiSentence": "ยินดีที่ได้รู้จักเช่นกันครับ",
+                "thaiSentenceSpaced": " ยินดี ที่ ได้รู้ จัก เช่นกัน ครับ "
+            },
+            {
+                "engSentence": "Yes, I got it.",
+                "id": 261939,
+                "thaiSentence": "ครับ ผมก็เช่นกัน",
+                "thaiSentenceSpaced": " ครับ  &middot;  ผม ก็ เช่นกัน "
+            },
+            {
+                "engSentence": "So am I.",
+                "id": 317365,
+                "thaiSentence": "เช่นกันค่ะ",
+                "thaiSentenceSpaced": " เช่นกัน ค่ะ "
+            },
+            {
+                "engSentence": "I also think this way.",
+                "id": 381156,
+                "thaiSentence": "ฉันก็คิดอย่างนี้เช่นกัน",
+                "thaiSentenceSpaced": " ฉัน ก็ คิด อย่างนี้ เช่นกัน "
+            },
+            {
+                "engSentence": "I grew up there too.",
+                "id": 521795,
+                "thaiSentence": "ฉันเติบโตจากที่นั้นเช่นกัน",
+                "thaiSentenceSpaced": " ฉัน เติบโต จากที่ นั้น เช่นกัน "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1293952,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 46109,
+                        "corpusScore": 29261,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 46109,
+                        "legacyWordId": 1293948,
+                        "meaning": "for example ; for instance",
+                        "parentId": 42678,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "เช่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เช่น"
+                    },
+                    {
+                        "childId": 7962,
+                        "corpusScore": 266569,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 7962,
+                        "legacyWordId": 1266604,
+                        "meaning": "together ; jointly",
+                        "parentId": 42678,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "กัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กัน"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "also",
+                        "word": "also"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "as well",
+                        "word": "as well"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "too",
+                        "word": "too"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 42678,
+                "isUncommon": false,
+                "meaning": "also ; as well ; too",
+                "partOfSpeech": "Adverb",
+                "usage": "",
+                "word": "เช่นกัน"
+            }
+        ],
+        "t2e": "เช่น กัน",
+        "verified": null,
+        "word": "เช่นกัน"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

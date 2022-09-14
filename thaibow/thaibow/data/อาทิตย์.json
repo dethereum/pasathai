@@ -1,0 +1,645 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "See you next week.",
+            "id": 19638,
+            "phonetic": "เจอ กัน อา-ทิด น่า",
+            "thaiSentence": "เจอกันอาทิตย์หน้า",
+            "thaiSentenceSpaced": " เจอกัน อาทิตย์ หน้า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] meet ; encounter ; see"
+                        }
+                    ],
+                    "phonetic": "เจอ กัน",
+                    "word": "เจอกัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "week"
+                        }
+                    ],
+                    "phonetic": "อา-ทิด",
+                    "word": "อาทิตย์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in front of ; front"
+                        },
+                        {
+                            "meaning": "face ; front ; top"
+                        },
+                        {
+                            "meaning": "next ; following ; upcoming"
+                        }
+                    ],
+                    "phonetic": "น่า",
+                    "word": "หน้า"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am going home next week.",
+            "id": 24999,
+            "phonetic": "อา-ทิด น่า ฉัน จะ กฺลับ ไป เยี่ยม บ้าน",
+            "thaiSentence": "อาทิตย์หน้าฉันจะกลับไปเยี่ยมบ้าน",
+            "thaiSentenceSpaced": " อาทิตย์ หน้า ฉัน จะ กลับ ไป เยี่ยม บ้าน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "week"
+                        }
+                    ],
+                    "phonetic": "อา-ทิด",
+                    "word": "อาทิตย์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in front of ; front"
+                        },
+                        {
+                            "meaning": "face ; front ; top"
+                        },
+                        {
+                            "meaning": "next ; following ; upcoming"
+                        }
+                    ],
+                    "phonetic": "น่า",
+                    "word": "หน้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] return ; go back ; reverse"
+                        }
+                    ],
+                    "phonetic": "กฺลับ",
+                    "word": "กลับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] visit ; go to see ; call on"
+                        },
+                        {
+                            "meaning": "[to be] excellent ; superb ; outstanding"
+                        }
+                    ],
+                    "phonetic": "เยี่ยม",
+                    "word": "เยี่ยม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "home ; house"
+                        }
+                    ],
+                    "phonetic": "บ้าน",
+                    "word": "บ้าน"
+                }
+            ]
+        },
+        {
+            "engSentence": "An hour, day , week.",
+            "id": 43264,
+            "phonetic": "เป็น ชั่ว โมง · วัน · หฺรือ เป็น อา-ทิด",
+            "thaiSentence": "เป็นชั่วโมง วัน หรือเป็นอาทิตย์",
+            "thaiSentenceSpaced": " เป็น ชั่วโมง  ·  วัน  ·  หรือ เป็น อาทิตย์ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hour"
+                        }
+                    ],
+                    "phonetic": "ชั่ว โมง",
+                    "word": "ชั่วโมง"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "day"
+                        }
+                    ],
+                    "phonetic": "วัน",
+                    "word": "วัน"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        },
+                        {
+                            "meaning": "or"
+                        }
+                    ],
+                    "phonetic": "หฺรือ",
+                    "word": "หรือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "week"
+                        }
+                    ],
+                    "phonetic": "อา-ทิด",
+                    "word": "อาทิตย์"
+                }
+            ]
+        },
+        {
+            "engSentence": "About a week.",
+            "id": 68316,
+            "phonetic": "ปฺระ-มาน หฺนึ่ง อา-ทิด",
+            "thaiSentence": "ประมาณหนึ่งอาทิตย์",
+            "thaiSentenceSpaced": " ประมาณ หนึ่ง อาทิตย์ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "about ; around ; approximately"
+                        }
+                    ],
+                    "phonetic": "ปฺระ-มาน",
+                    "word": "ประมาณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "หฺนึ่ง",
+                    "word": "หนึ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "week"
+                        }
+                    ],
+                    "phonetic": "อา-ทิด",
+                    "word": "อาทิตย์"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is next week.",
+            "id": 80313,
+            "phonetic": "อา-ทิด น่า",
+            "thaiSentence": "อาทิตย์หน้า",
+            "thaiSentenceSpaced": " อาทิตย์ หน้า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "week"
+                        }
+                    ],
+                    "phonetic": "อา-ทิด",
+                    "word": "อาทิตย์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in front of ; front"
+                        },
+                        {
+                            "meaning": "face ; front ; top"
+                        },
+                        {
+                            "meaning": "next ; following ; upcoming"
+                        }
+                    ],
+                    "phonetic": "น่า",
+                    "word": "หน้า"
+                }
+            ]
+        },
+        {
+            "engSentence": "We have an exam next week.",
+            "id": 126972,
+            "phonetic": "เรา มี สอบ อา-ทิด น่า",
+            "thaiSentence": "เรามีสอบอาทิตย์หน้า",
+            "thaiSentenceSpaced": " เรา มี สอบ อาทิตย์ หน้า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] examine ; test ; verify"
+                        },
+                        {
+                            "meaning": "exam ; examination"
+                        }
+                    ],
+                    "phonetic": "สอบ",
+                    "word": "สอบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "week"
+                        }
+                    ],
+                    "phonetic": "อา-ทิด",
+                    "word": "อาทิตย์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in front of ; front"
+                        },
+                        {
+                            "meaning": "face ; front ; top"
+                        },
+                        {
+                            "meaning": "next ; following ; upcoming"
+                        }
+                    ],
+                    "phonetic": "น่า",
+                    "word": "หน้า"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 10221,
+        "exampleSentences": [
+            {
+                "engSentence": "See you next week.",
+                "id": 19638,
+                "thaiSentence": "เจอกันอาทิตย์หน้า",
+                "thaiSentenceSpaced": " เจอกัน อาทิตย์ หน้า "
+            },
+            {
+                "engSentence": "I am going home next week.",
+                "id": 24999,
+                "thaiSentence": "อาทิตย์หน้าฉันจะกลับไปเยี่ยมบ้าน",
+                "thaiSentenceSpaced": " อาทิตย์ หน้า ฉัน จะ กลับ ไป เยี่ยม บ้าน "
+            },
+            {
+                "engSentence": "An hour, day , week.",
+                "id": 43264,
+                "thaiSentence": "เป็นชั่วโมง วัน หรือเป็นอาทิตย์",
+                "thaiSentenceSpaced": " เป็น ชั่วโมง  &middot;  วัน  &middot;  หรือ เป็น อาทิตย์ "
+            },
+            {
+                "engSentence": "About a week.",
+                "id": 68316,
+                "thaiSentence": "ประมาณหนึ่งอาทิตย์",
+                "thaiSentenceSpaced": " ประมาณ หนึ่ง อาทิตย์ "
+            },
+            {
+                "engSentence": "It is next week.",
+                "id": 80313,
+                "thaiSentence": "อาทิตย์หน้า",
+                "thaiSentenceSpaced": " อาทิตย์ หน้า "
+            },
+            {
+                "engSentence": "We have an exam next week.",
+                "id": 126972,
+                "thaiSentence": "เรามีสอบอาทิตย์หน้า",
+                "thaiSentenceSpaced": " เรา มี สอบ อาทิตย์ หน้า "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1454085,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "week",
+                        "word": "week"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [],
+                "explanation": null,
+                "id": 20011,
+                "isUncommon": false,
+                "meaning": "week",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "อาทิตย์"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "sun",
+                        "word": "sun"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [
+                    {
+                        "childId": 41054,
+                        "corpusScore": 4901,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11204,
+                        "legacyWordId": 1306118,
+                        "meaning": "sun",
+                        "parentId": 11204,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ดวง อา-ทิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดวงอาทิตย์"
+                    },
+                    {
+                        "childId": 41054,
+                        "corpusScore": 2247,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44835,
+                        "legacyWordId": 1399210,
+                        "meaning": "Sunday",
+                        "parentId": 44835,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน อา-ทิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันอาทิตย์"
+                    },
+                    {
+                        "childId": 41054,
+                        "corpusScore": 2051,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35948,
+                        "legacyWordId": 1376920,
+                        "meaning": "sun",
+                        "parentId": 35948,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พฺระ อา-ทิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พระอาทิตย์"
+                    },
+                    {
+                        "childId": 41054,
+                        "corpusScore": 1182,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23875,
+                        "legacyWordId": 1410236,
+                        "meaning": "sun light",
+                        "parentId": 23875,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แสง อา-ทิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แสงอาทิตย์"
+                    },
+                    {
+                        "childId": 41054,
+                        "corpusScore": 44,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40804,
+                        "legacyWordId": 1399194,
+                        "meaning": "Saturday and Sunday",
+                        "parentId": 40804,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน เสา อา-ทิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันเสาร์อาทิตย์"
+                    },
+                    {
+                        "childId": 41054,
+                        "corpusScore": 7,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397727,
+                        "legacyWordId": 1292823,
+                        "meaning": "Japanese",
+                        "parentId": 397727,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชาว-อา-ทิด-อุ-ไท",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชาวอาทิตย์อุทัย"
+                    },
+                    {
+                        "childId": 41054,
+                        "corpusScore": 3,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395045,
+                        "legacyWordId": 1367897,
+                        "meaning": "weekly",
+                        "parentId": 395045,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ปฺระ-จำ อา-ทิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประจำอาทิตย์"
+                    },
+                    {
+                        "childId": 41054,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5333,
+                        "legacyWordId": 1325856,
+                        "meaning": "sun of justice ; Buddha",
+                        "parentId": 5333,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทำ-มา-ทิด",
+                        "usage": "",
+                        "verified": "ทำ-มา-ทิด",
+                        "word": "ธรรมาทิตย์"
+                    },
+                    {
+                        "childId": 41054,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 67322,
+                        "legacyWordId": 1404272,
+                        "meaning": "solar pond",
+                        "parentId": 67322,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ รัง-สี อา-ทิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สระรังสีอาทิตย์"
+                    },
+                    {
+                        "childId": 41054,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 67320,
+                        "legacyWordId": 1384838,
+                        "meaning": "solar incidence angle",
+                        "parentId": 67320,
+                        "partOfSpeech": "Noun",
+                        "t2e": "มุม ตก กฺระ-ทบ ของ รัง-สี อา-ทิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มุมตกกระทบของรังสีอาทิตย์"
+                    }
+                ],
+                "explanation": null,
+                "id": 41054,
+                "isUncommon": true,
+                "meaning": "sun",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "อาทิตย์"
+            }
+        ],
+        "t2e": "อา-ทิด",
+        "verified": null,
+        "word": "อาทิตย์"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

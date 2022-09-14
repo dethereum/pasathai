@@ -1,0 +1,539 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "When did it open ?",
+            "id": 5418,
+            "phonetic": "มัน เปิด ไห้ บอ-ริ-กาน เมื่อ ไหฺร่ เหฺรอ",
+            "thaiSentence": "มันเปิดให้บริการเมื่อไหร่เหรอ",
+            "thaiSentenceSpaced": " มัน เปิด ให้บริการ เมื่อไหร่ เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] open ; turn on ; switch on"
+                        }
+                    ],
+                    "phonetic": "เปิด",
+                    "word": "เปิด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] service ; provide service ; serve"
+                        }
+                    ],
+                    "phonetic": "ไห้ บอ-ริ-กาน",
+                    "word": "ให้บริการ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whenever"
+                        },
+                        {
+                            "meaning": "when"
+                        }
+                    ],
+                    "phonetic": "เมื่อ ไหฺร่",
+                    "word": "เมื่อไหร่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "When do you come back ?",
+            "id": 6551,
+            "phonetic": "คุน จะ กฺลับ มา เมื่อ ไหฺร่ ล่ะ",
+            "thaiSentence": "คุณจะกลับมาเมื่อไหร่ล่ะ",
+            "thaiSentenceSpaced": " คุณ จะ กลับมา เมื่อไหร่ ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] return ; come back ; go back"
+                        }
+                    ],
+                    "phonetic": "กฺลับ มา",
+                    "word": "กลับมา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whenever"
+                        },
+                        {
+                            "meaning": "when"
+                        }
+                    ],
+                    "phonetic": "เมื่อ ไหฺร่",
+                    "word": "เมื่อไหร่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "When did you meet him ?",
+            "id": 11766,
+            "phonetic": "หฺนู ด้าย เจอ เขา มา เมื่อ ไหฺร่",
+            "thaiSentence": "หนูได้เจอเขามาเมื่อไหร่",
+            "thaiSentenceSpaced": " หนู ได้ เจอ เขา มา เมื่อไหร่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "rat ; mouse"
+                        },
+                        {
+                            "meaning": "she ; her"
+                        },
+                        {
+                            "meaning": "you"
+                        },
+                        {
+                            "meaning": "I ; me <i>(used by young children, and by women when speaking to their elders)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺนู",
+                    "word": "หนู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] meet ; find"
+                        }
+                    ],
+                    "phonetic": "เจอ",
+                    "word": "เจอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "when ; at the time ; at"
+                        }
+                    ],
+                    "phonetic": "เมื่อ",
+                    "word": "เมื่อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what ; which"
+                        },
+                        {
+                            "meaning": "something ; anything"
+                        }
+                    ],
+                    "phonetic": "ไหฺร่",
+                    "word": "ไหร่"
+                }
+            ]
+        },
+        {
+            "engSentence": "When can you start ?",
+            "id": 13328,
+            "phonetic": "แล้ว คุน จะ เริ่ม มัน ด้าย เมื่อ ไหฺร่ ล่ะ",
+            "thaiSentence": "แล้วคุณจะเริ่มมันได้เมื่อไหร่ล่ะ",
+            "thaiSentenceSpaced": " แล้ว คุณ จะ เริ่ม มัน ได้ เมื่อไหร่ ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] start ; begin"
+                        }
+                    ],
+                    "phonetic": "เริ่ม",
+                    "word": "เริ่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whenever"
+                        },
+                        {
+                            "meaning": "when"
+                        }
+                    ],
+                    "phonetic": "เมื่อ ไหฺร่",
+                    "word": "เมื่อไหร่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "When do we get them ?",
+            "id": 29920,
+            "phonetic": "แล้ว เรา จะ ด้าย มา เมื่อ ไหฺร่",
+            "thaiSentence": "แล้วเราจะได้มาเมื่อไหร่",
+            "thaiSentenceSpaced": " แล้ว เรา จะ ได้มา เมื่อไหร่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] obtain ; gain ; get"
+                        }
+                    ],
+                    "phonetic": "ด้าย มา",
+                    "word": "ได้มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whenever"
+                        },
+                        {
+                            "meaning": "when"
+                        }
+                    ],
+                    "phonetic": "เมื่อ ไหฺร่",
+                    "word": "เมื่อไหร่"
+                }
+            ]
+        },
+        {
+            "engSentence": "When did you arrive ?",
+            "id": 39092,
+            "phonetic": "มา เมื่อ ไหฺร่",
+            "thaiSentence": "มาเมื่อไหร่",
+            "thaiSentenceSpaced": " มา เมื่อไหร่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whenever"
+                        },
+                        {
+                            "meaning": "when"
+                        }
+                    ],
+                    "phonetic": "เมื่อ ไหฺร่",
+                    "word": "เมื่อไหร่"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 2564,
+        "exampleSentences": [
+            {
+                "engSentence": "When did it open ?",
+                "id": 5418,
+                "thaiSentence": "มันเปิดให้บริการเมื่อไหร่เหรอ",
+                "thaiSentenceSpaced": " มัน เปิด ให้บริการ เมื่อไหร่ เหรอ "
+            },
+            {
+                "engSentence": "When do you come back ?",
+                "id": 6551,
+                "thaiSentence": "คุณจะกลับมาเมื่อไหร่ล่ะ",
+                "thaiSentenceSpaced": " คุณ จะ กลับมา เมื่อไหร่ ล่ะ "
+            },
+            {
+                "engSentence": "When did you meet him ?",
+                "id": 11766,
+                "thaiSentence": "หนูได้เจอเขามาเมื่อไหร่",
+                "thaiSentenceSpaced": " หนู ได้ เจอ เขา มา เมื่อไหร่ "
+            },
+            {
+                "engSentence": "When can you start ?",
+                "id": 13328,
+                "thaiSentence": "แล้วคุณจะเริ่มมันได้เมื่อไหร่ล่ะ",
+                "thaiSentenceSpaced": " แล้ว คุณ จะ เริ่ม มัน ได้ เมื่อไหร่ ล่ะ "
+            },
+            {
+                "engSentence": "When do we get them ?",
+                "id": 29920,
+                "thaiSentence": "แล้วเราจะได้มาเมื่อไหร่",
+                "thaiSentenceSpaced": " แล้ว เรา จะ ได้มา เมื่อไหร่ "
+            },
+            {
+                "engSentence": "When did you arrive ?",
+                "id": 39092,
+                "thaiSentence": "มาเมื่อไหร่",
+                "thaiSentenceSpaced": " มา เมื่อไหร่ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1385567,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "whenever",
+                        "word": "whenever"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 103331,
+                "isUncommon": false,
+                "meaning": "whenever",
+                "partOfSpeech": "IndefinitePronoun",
+                "usage": "",
+                "word": "เมื่อไหร่"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "when",
+                        "word": "when"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 45491,
+                "isUncommon": false,
+                "meaning": "when",
+                "partOfSpeech": "Interrogative",
+                "usage": "",
+                "word": "เมื่อไหร่"
+            }
+        ],
+        "t2e": "เมื่อ ไหฺร่",
+        "verified": null,
+        "word": "เมื่อไหร่"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

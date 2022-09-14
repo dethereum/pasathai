@@ -1,0 +1,32 @@
+{
+    "thaiTranslationLines": [
+        {
+            "isWordBreakdownShown": true,
+            "phonetic": "ไม่ มี ปัน-หา",
+            "unspacedText": "ไม่มีปัญหา",
+            "wordObjects": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have a problem"
+                        }
+                    ],
+                    "phonetic": "มี ปัน-หา",
+                    "word": "มีปัญหา"
+                }
+            ]
+        }
+    ],
+    "type": "translation"
+}

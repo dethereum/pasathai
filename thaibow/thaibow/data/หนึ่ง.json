@@ -1,0 +1,804 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "There is a building.",
+            "id": 2766,
+            "phonetic": "มี ตึก หฺยู่ ตึก หฺนึ่ง",
+            "thaiSentence": "มีตึกอยู่ตึกหนึ่ง",
+            "thaiSentenceSpaced": " มี ตึก อยู่ ตึก หนึ่ง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "building ; brickwork ; edifice"
+                        }
+                    ],
+                    "phonetic": "ตึก",
+                    "word": "ตึก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "building ; brickwork ; edifice"
+                        }
+                    ],
+                    "phonetic": "ตึก",
+                    "word": "ตึก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "หฺนึ่ง",
+                    "word": "หนึ่ง"
+                }
+            ]
+        },
+        {
+            "engSentence": "One more thing.",
+            "id": 4636,
+            "phonetic": "เดี๋ยว · อีก หฺย่าง หฺนึ่ง",
+            "thaiSentence": "เดี๋ยว อีกอย่างหนึ่ง",
+            "thaiSentenceSpaced": " เดี๋ยว  ·  อีกอย่าง หนึ่ง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "moment"
+                        },
+                        {
+                            "meaning": "in just a minute ; in just a moment"
+                        }
+                    ],
+                    "phonetic": "เดี๋ยว",
+                    "word": "เดี๋ยว"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one more thing"
+                        }
+                    ],
+                    "phonetic": "อีก หฺย่าง หฺนึ่ง",
+                    "word": "อีกอย่างหนึ่ง"
+                }
+            ]
+        },
+        {
+            "engSentence": "In about an hour.",
+            "id": 5501,
+            "phonetic": "ปฺระ-มาน หฺนึ่ง ชั่ว โมง",
+            "thaiSentence": "ประมาณหนึ่งชั่วโมง",
+            "thaiSentenceSpaced": " ประมาณ หนึ่ง ชั่วโมง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "about ; around ; approximately"
+                        }
+                    ],
+                    "phonetic": "ปฺระ-มาน",
+                    "word": "ประมาณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "หฺนึ่ง",
+                    "word": "หนึ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hour"
+                        }
+                    ],
+                    "phonetic": "ชั่ว โมง",
+                    "word": "ชั่วโมง"
+                }
+            ]
+        },
+        {
+            "engSentence": "One hour, right ?",
+            "id": 5503,
+            "phonetic": "ชั่ว โมง หฺนึ่ง · ไช่ ไหฺม",
+            "thaiSentence": "ชั่วโมงหนึ่ง ใช่ไหม",
+            "thaiSentenceSpaced": " ชั่วโมง หนึ่ง  ·  ใช่ ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hour"
+                        }
+                    ],
+                    "phonetic": "ชั่ว โมง",
+                    "word": "ชั่วโมง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "หฺนึ่ง",
+                    "word": "หนึ่ง"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "right ? ; is that right? ; is that true? <i>(question particle used when seeking confirmation of something thought to be true)</i>"
+                        }
+                    ],
+                    "phonetic": "ไช่ ไหฺม",
+                    "word": "ใช่ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "A master and an apprentice.",
+            "id": 11365,
+            "phonetic": "หฺนึ่ง อา-จาน และ หฺนึ่ง สิด",
+            "thaiSentence": "หนึ่งอาจารย์ และหนึ่งศิษย์",
+            "thaiSentenceSpaced": " หนึ่ง อาจารย์ และ หนึ่ง ศิษย์ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "หฺนึ่ง",
+                    "word": "หนึ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "teacher ; instructor ; schoolteacher"
+                        }
+                    ],
+                    "phonetic": "อา-จาน",
+                    "word": "อาจารย์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and"
+                        }
+                    ],
+                    "phonetic": "และ",
+                    "word": "และ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "หฺนึ่ง",
+                    "word": "หนึ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "student ; pupil ; disciple"
+                        }
+                    ],
+                    "phonetic": "สิด",
+                    "word": "ศิษย์"
+                }
+            ]
+        },
+        {
+            "engSentence": "A master and an apprentice.",
+            "id": 11365,
+            "phonetic": "หฺนึ่ง อา-จาน และ หฺนึ่ง สิด",
+            "thaiSentence": "หนึ่งอาจารย์ และหนึ่งศิษย์",
+            "thaiSentenceSpaced": " หนึ่ง อาจารย์ และ หนึ่ง ศิษย์ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "หฺนึ่ง",
+                    "word": "หนึ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "teacher ; instructor ; schoolteacher"
+                        }
+                    ],
+                    "phonetic": "อา-จาน",
+                    "word": "อาจารย์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and"
+                        }
+                    ],
+                    "phonetic": "และ",
+                    "word": "และ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "หฺนึ่ง",
+                    "word": "หนึ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "student ; pupil ; disciple"
+                        }
+                    ],
+                    "phonetic": "สิด",
+                    "word": "ศิษย์"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 86741,
+        "exampleSentences": [
+            {
+                "engSentence": "There is a building.",
+                "id": 2766,
+                "thaiSentence": "มีตึกอยู่ตึกหนึ่ง",
+                "thaiSentenceSpaced": " มี ตึก อยู่ ตึก หนึ่ง "
+            },
+            {
+                "engSentence": "One more thing.",
+                "id": 4636,
+                "thaiSentence": "เดี๋ยว อีกอย่างหนึ่ง",
+                "thaiSentenceSpaced": " เดี๋ยว  &middot;  อีกอย่าง หนึ่ง "
+            },
+            {
+                "engSentence": "In about an hour.",
+                "id": 5501,
+                "thaiSentence": "ประมาณหนึ่งชั่วโมง",
+                "thaiSentenceSpaced": " ประมาณ หนึ่ง ชั่วโมง "
+            },
+            {
+                "engSentence": "One hour, right ?",
+                "id": 5503,
+                "thaiSentence": "ชั่วโมงหนึ่ง ใช่ไหม",
+                "thaiSentenceSpaced": " ชั่วโมง หนึ่ง  &middot;  ใช่ ไหม "
+            },
+            {
+                "engSentence": "A master and an apprentice.",
+                "id": 11365,
+                "thaiSentence": "หนึ่งอาจารย์ และหนึ่งศิษย์",
+                "thaiSentenceSpaced": " หนึ่ง อาจารย์ และ หนึ่ง ศิษย์ "
+            },
+            {
+                "engSentence": "A master and an apprentice.",
+                "id": 11365,
+                "thaiSentence": "หนึ่งอาจารย์ และหนึ่งศิษย์",
+                "thaiSentenceSpaced": " หนึ่ง อาจารย์ และ หนึ่ง ศิษย์ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1413977,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "one",
+                        "word": "one"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 400,
+                        "corpusScore": 6372,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 1454,
+                        "legacyWordId": 1404912,
+                        "meaning": "one part ; part",
+                        "parentId": 1454,
+                        "partOfSpeech": "Pronoun",
+                        "t2e": "ส่วน หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ส่วนหนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 4040,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45143,
+                        "legacyWordId": 1452193,
+                        "meaning": "for one thing",
+                        "parentId": 45143,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺย่าง หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อย่างหนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 2785,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 944,
+                        "legacyWordId": 1372299,
+                        "meaning": "[to] be number one ; be at the top of ; top",
+                        "parentId": 944,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เป็น หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เป็นหนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 2701,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9201,
+                        "legacyWordId": 1279257,
+                        "meaning": "once ; at one time ; once upon a time",
+                        "parentId": 9201,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "คฺรั้ง หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครั้งหนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 2461,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22436,
+                        "legacyWordId": 1399197,
+                        "meaning": "someday ; one of these days",
+                        "parentId": 22436,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันหนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 1841,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7015,
+                        "legacyWordId": 1323595,
+                        "meaning": "first",
+                        "parentId": 7015,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ที่ หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่หนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 927,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8816,
+                        "legacyWordId": 1279420,
+                        "meaning": "half",
+                        "parentId": 8816,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺรึ่ง หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครึ่งหนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 853,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46388,
+                        "legacyWordId": 1413992,
+                        "meaning": "a ; any",
+                        "parentId": 46388,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "หฺนึ่ง หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนึ่งๆ"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 826,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2105,
+                        "legacyWordId": 1367797,
+                        "meaning": "some ; a feature",
+                        "parentId": 2105,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-กาน หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประการหนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 786,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27649,
+                        "legacyWordId": 1413979,
+                        "meaning": "single ; sole ; only",
+                        "parentId": 27649,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "หฺนึ่ง เดียว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนึ่งเดียว"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 468,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34161,
+                        "legacyWordId": 1292239,
+                        "meaning": "first class ; first grade ; top-flight",
+                        "parentId": 34161,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ชั้น หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชั้นหนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 445,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45263,
+                        "legacyWordId": 1453533,
+                        "meaning": "[to be] first",
+                        "parentId": 45263,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "อัน-ดับ หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อันดับหนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 377,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28656,
+                        "legacyWordId": 1384738,
+                        "meaning": "crackerjack ; dab hand ; excellent person",
+                        "parentId": 28656,
+                        "partOfSpeech": "Noun",
+                        "t2e": "มือ หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มือหนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 377,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29492,
+                        "legacyWordId": 1384738,
+                        "meaning": "firsthand ; excellent ; expert",
+                        "parentId": 29492,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "มือ หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มือหนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 350,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3280,
+                        "legacyWordId": 1452067,
+                        "meaning": "either...or... ; one or the other",
+                        "parentId": 3280,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "หฺย่าง ได หฺย่าง หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อย่างใดอย่างหนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 317,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14171,
+                        "legacyWordId": 1330139,
+                        "meaning": "for a while ; for a few minutes",
+                        "parentId": 14171,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "นิด หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นิดหนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 292,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31212,
+                        "legacyWordId": 1284978,
+                        "meaning": "one night",
+                        "parentId": 31212,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "คืน หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คืนหนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 274,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400845,
+                        "legacyWordId": 1413978,
+                        "meaning": "once",
+                        "parentId": 400845,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺนึ่ง คฺรั้ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนึ่งครั้ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 239,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21724,
+                        "legacyWordId": 1413911,
+                        "meaning": "front page",
+                        "parentId": 21724,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น่า หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หน้าหนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 237,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45020,
+                        "legacyWordId": 1413986,
+                        "meaning": "one thousand ; 1000",
+                        "parentId": 45020,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนึ่ง พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนึ่งพัน"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 194,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45019,
+                        "legacyWordId": 1413988,
+                        "meaning": "one hundred ; 100",
+                        "parentId": 45019,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนึ่ง ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนึ่งร้อย"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 186,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8888,
+                        "legacyWordId": 1279487,
+                        "meaning": "a moment ; a few moments ; a while",
+                        "parentId": 8888,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺรู่ หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครู่หนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 166,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44522,
+                        "legacyWordId": 1383862,
+                        "meaning": "several ; plural",
+                        "parentId": 44522,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มาก กฺว่า หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มากกว่าหนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 164,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8921,
+                        "legacyWordId": 1278827,
+                        "meaning": "whoever ; whomever",
+                        "parentId": 8921,
+                        "partOfSpeech": "IndefinitePronoun",
+                        "t2e": "คน ได คน หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนใดคนหนึ่ง"
+                    },
+                    {
+                        "childId": 400,
+                        "corpusScore": 159,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30511,
+                        "legacyWordId": 1272808,
+                        "meaning": "half ; equal part",
+                        "parentId": 30511,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กึ่ง หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กึ่งหนึ่ง"
+                    }
+                ],
+                "explanation": null,
+                "id": 400,
+                "isUncommon": false,
+                "meaning": "one",
+                "partOfSpeech": "Quantifier",
+                "usage": "",
+                "word": "หนึ่ง"
+            }
+        ],
+        "t2e": "หฺนึ่ง",
+        "verified": "หฺนึ่ง",
+        "word": "หนึ่ง"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

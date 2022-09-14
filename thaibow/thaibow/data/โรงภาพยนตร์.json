@@ -1,0 +1,78 @@
+{
+    "commonessText": "Rarely",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 213,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1394064,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 23493,
+                        "corpusScore": 36481,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 23493,
+                        "legacyWordId": 1393979,
+                        "meaning": "building ; house",
+                        "parentId": 43186,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรง"
+                    },
+                    {
+                        "childId": 41927,
+                        "corpusScore": 5710,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 41927,
+                        "legacyWordId": 1381476,
+                        "meaning": "film ; movie",
+                        "parentId": 43186,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พาบ-พะ-ยน",
+                        "usage": "",
+                        "verified": "พาบ-พะ-ยน",
+                        "word": "ภาพยนตร์"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "cinema",
+                        "word": "cinema"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "movie theatre",
+                        "word": "movie theatre"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 43186,
+                "isUncommon": false,
+                "meaning": "cinema ; movie theatre",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "โรงภาพยนตร์"
+            }
+        ],
+        "t2e": "โรง พาบ-พะ-ยน",
+        "verified": null,
+        "word": "โรงภาพยนตร์"
+    },
+    "greenBarCount": 1,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,709 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "He went on a business trip.",
+            "id": 468309,
+            "phonetic": "เขา เดิน ทาง ไป ทำ ทุ-ระ กิด จ๊ะ",
+            "thaiSentence": "เขาเดินทางไปทำธุรกิจจ๊ะ",
+            "thaiSentenceSpaced": " เขา เดินทาง ไป ทำ ธุรกิจ จ๊ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] travel ; tour ; take a trip"
+                        },
+                        {
+                            "meaning": "travel ; journey"
+                        }
+                    ],
+                    "phonetic": "เดิน ทาง",
+                    "word": "เดินทาง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "business ; trade ; commerce"
+                        }
+                    ],
+                    "phonetic": "ทุ-ระ กิด",
+                    "word": "ธุรกิจ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used at the end of sentences to make them sound more friendly or polite)</i>"
+                        }
+                    ],
+                    "phonetic": "จ๊ะ",
+                    "word": "จ๊ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Have a safe trip.",
+            "id": 490391,
+            "phonetic": "ขอ ไห้ เดิน ทาง โดย ปฺลอด ไพ",
+            "thaiSentence": "ขอให้เดินทางโดยปลอดภัย",
+            "thaiSentenceSpaced": " ขอให้ เดินทาง โดย ปลอดภัย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] request ; beg ; ask"
+                        }
+                    ],
+                    "phonetic": "ขอ ไห้",
+                    "word": "ขอให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] travel ; tour ; take a trip"
+                        },
+                        {
+                            "meaning": "travel ; journey"
+                        }
+                    ],
+                    "phonetic": "เดิน ทาง",
+                    "word": "เดินทาง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; by means of"
+                        }
+                    ],
+                    "phonetic": "โดย",
+                    "word": "โดย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be safe ; be out of danger ; be free from harm"
+                        }
+                    ],
+                    "phonetic": "ปฺลอด ไพ",
+                    "word": "ปลอดภัย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Enjoy your trip.",
+            "id": 498224,
+            "phonetic": "เดิน ทาง ไห้ สะ-หฺนุก นะ",
+            "thaiSentence": "เดินทางให้สนุกนะ",
+            "thaiSentenceSpaced": " เดินทาง ให้ สนุก นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] travel ; tour ; take a trip"
+                        },
+                        {
+                            "meaning": "travel ; journey"
+                        }
+                    ],
+                    "phonetic": "เดิน ทาง",
+                    "word": "เดินทาง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] fun ; enjoyable"
+                        }
+                    ],
+                    "phonetic": "สะ-หฺนุก",
+                    "word": "สนุก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You went on a trip alone.",
+            "id": 533282,
+            "phonetic": "คุน เดิน ทาง คน เดียว ซิ นะ",
+            "thaiSentence": "คุณเดินทางคนเดียวซินะ",
+            "thaiSentenceSpaced": " คุณ เดินทาง คนเดียว ซิ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] travel ; tour ; take a trip"
+                        },
+                        {
+                            "meaning": "travel ; journey"
+                        }
+                    ],
+                    "phonetic": "เดิน ทาง",
+                    "word": "เดินทาง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one person ; only person"
+                        },
+                        {
+                            "meaning": "alone ; by oneself"
+                        }
+                    ],
+                    "phonetic": "คน เดียว",
+                    "word": "คนเดียว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "ซิ",
+                    "word": "ซิ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Have a safe trip.",
+            "id": 572098,
+            "phonetic": "เดิน ทาง โดย ปฺลอด ไพ",
+            "thaiSentence": "เดินทางโดยปลอดภัย",
+            "thaiSentenceSpaced": " เดินทาง โดย ปลอดภัย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] travel ; tour ; take a trip"
+                        },
+                        {
+                            "meaning": "travel ; journey"
+                        }
+                    ],
+                    "phonetic": "เดิน ทาง",
+                    "word": "เดินทาง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; by means of"
+                        }
+                    ],
+                    "phonetic": "โดย",
+                    "word": "โดย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be safe ; be out of danger ; be free from harm"
+                        }
+                    ],
+                    "phonetic": "ปฺลอด ไพ",
+                    "word": "ปลอดภัย"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 28766,
+        "exampleSentences": [
+            {
+                "engSentence": "He went on a business trip.",
+                "id": 468309,
+                "thaiSentence": "เขาเดินทางไปทำธุรกิจจ๊ะ",
+                "thaiSentenceSpaced": " เขา เดินทาง ไป ทำ ธุรกิจ จ๊ะ "
+            },
+            {
+                "engSentence": "Have a safe trip.",
+                "id": 490391,
+                "thaiSentence": "ขอให้เดินทางโดยปลอดภัย",
+                "thaiSentenceSpaced": " ขอให้ เดินทาง โดย ปลอดภัย "
+            },
+            {
+                "engSentence": "Enjoy your trip.",
+                "id": 498224,
+                "thaiSentence": "เดินทางให้สนุกนะ",
+                "thaiSentenceSpaced": " เดินทาง ให้ สนุก นะ "
+            },
+            {
+                "engSentence": "You went on a trip alone.",
+                "id": 533282,
+                "thaiSentence": "คุณเดินทางคนเดียวซินะ",
+                "thaiSentenceSpaced": " คุณ เดินทาง คนเดียว ซิ นะ "
+            },
+            {
+                "engSentence": "Have a safe trip.",
+                "id": 572098,
+                "thaiSentence": "เดินทางโดยปลอดภัย",
+                "thaiSentenceSpaced": " เดินทาง โดย ปลอดภัย "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1308257,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] travel",
+                        "word": "travel"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "tour",
+                        "word": "tour"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "take a trip",
+                        "word": "take a trip"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 19953,
+                        "corpusScore": 357,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19462,
+                        "legacyWordId": 1413622,
+                        "meaning": "passport",
+                        "parentId": 19462,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง-สือ เดิน ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังสือเดินทาง"
+                    },
+                    {
+                        "childId": 19953,
+                        "corpusScore": 303,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34363,
+                        "legacyWordId": 1327806,
+                        "meaning": "tourist ; traveller ; backpacker",
+                        "parentId": 34363,
+                        "partOfSpeech": "Noun",
+                        "t2e": "นัก เดิน ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นักเดินทาง"
+                    },
+                    {
+                        "childId": 19953,
+                        "corpusScore": 95,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30956,
+                        "legacyWordId": 1283805,
+                        "meaning": "travel cost ; travel expense ; fare",
+                        "parentId": 30956,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ค่า เดิน ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ค่าเดินทาง"
+                    },
+                    {
+                        "childId": 19953,
+                        "corpusScore": 56,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10139,
+                        "legacyWordId": 1264444,
+                        "meaning": "luggage ; baggage ; suitcase",
+                        "parentId": 10139,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺระ-เป๋า เดิน ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋าเดินทาง"
+                    },
+                    {
+                        "childId": 19953,
+                        "corpusScore": 18,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39255,
+                        "legacyWordId": 1379832,
+                        "meaning": "traveling companion",
+                        "parentId": 39255,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพื่อน เดิน ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อนเดินทาง"
+                    }
+                ],
+                "explanation": null,
+                "id": 19953,
+                "isUncommon": false,
+                "meaning": "[to] travel ; tour ; take a trip",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "เดินทาง"
+            },
+            {
+                "components": [
+                    {
+                        "childId": 19216,
+                        "corpusScore": 58159,
+                        "displayOrder": 0,
+                        "etymology": "Khmer",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 19216,
+                        "legacyWordId": 1308233,
+                        "meaning": "[to] walk",
+                        "parentId": 47634,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เดิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดิน"
+                    },
+                    {
+                        "childId": 47977,
+                        "corpusScore": 180972,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 47977,
+                        "legacyWordId": 1321783,
+                        "meaning": "way ; path ; route",
+                        "parentId": 47634,
+                        "partOfSpeech": "Noun ; Classifier",
+                        "t2e": "ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทาง"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "travel",
+                        "word": "travel"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "journey",
+                        "word": "journey"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 47634,
+                        "corpusScore": 5170,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49931,
+                        "legacyWordId": 1268382,
+                        "meaning": "travelling",
+                        "parentId": 49931,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน เดิน ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การเดินทาง"
+                    },
+                    {
+                        "childId": 47634,
+                        "corpusScore": 1081,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22521,
+                        "legacyWordId": 1452606,
+                        "meaning": "[to] depart ; start the journey ; leave",
+                        "parentId": 22521,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ออก เดิน ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ออกเดินทาง"
+                    },
+                    {
+                        "childId": 47634,
+                        "corpusScore": 234,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45367,
+                        "legacyWordId": 1308261,
+                        "meaning": "[to] exit ; depart",
+                        "parentId": 45367,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เดิน ทาง ออก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดินทางออก"
+                    },
+                    {
+                        "childId": 47634,
+                        "corpusScore": 179,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 997,
+                        "legacyWordId": 1374466,
+                        "meaning": "traveler ; passenger",
+                        "parentId": 997,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ เดิน ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้เดินทาง"
+                    },
+                    {
+                        "childId": 47634,
+                        "corpusScore": 167,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397321,
+                        "legacyWordId": 1278819,
+                        "meaning": "excursionist ; traveler",
+                        "parentId": 397321,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน เดิน ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนเดินทาง"
+                    },
+                    {
+                        "childId": 47634,
+                        "corpusScore": 155,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24867,
+                        "legacyWordId": 1308260,
+                        "meaning": "[to] take a trip ; travel ; journey",
+                        "parentId": 24867,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เดิน ทาง ไกฺล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดินทางไกล"
+                    },
+                    {
+                        "childId": 47634,
+                        "corpusScore": 54,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395039,
+                        "legacyWordId": 1392878,
+                        "meaning": "[to] depart ; start the journey ; leave",
+                        "parentId": 395039,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เริ่ม เดิน ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เริ่มเดินทาง"
+                    },
+                    {
+                        "childId": 47634,
+                        "corpusScore": 7,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 75161,
+                        "legacyWordId": 1283954,
+                        "meaning": "travelling expense",
+                        "parentId": 75161,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ค่า พา-หะ-นะ เดิน ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ค่าพาหนะเดินทาง"
+                    },
+                    {
+                        "childId": 47634,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1576,
+                        "legacyWordId": 1456488,
+                        "meaning": "luggage ; baggage",
+                        "parentId": 1576,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อุ-ปะ-กอน กาน เดิน ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อุปกรณ์การเดินทาง"
+                    },
+                    {
+                        "childId": 47634,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394890,
+                        "legacyWordId": 1285855,
+                        "meaning": "luggage ; baggage",
+                        "parentId": 394890,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เคฺรื่อง มือ เดิน ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เครื่องมือเดินทาง"
+                    },
+                    {
+                        "childId": 47634,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102263,
+                        "legacyWordId": 1399100,
+                        "meaning": "arrival date",
+                        "parentId": 102263,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน เดิน ทาง ถึง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันเดินทางถึง"
+                    }
+                ],
+                "explanation": null,
+                "id": 47634,
+                "isUncommon": false,
+                "meaning": "travel ; journey",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "เดินทาง"
+            }
+        ],
+        "t2e": "เดิน ทาง",
+        "verified": null,
+        "word": "เดินทาง"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

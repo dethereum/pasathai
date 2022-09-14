@@ -1,0 +1,1676 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "It must be destroyed.",
+            "id": 2782,
+            "phonetic": "มัน ต้อง ถูก ทำ ลาย",
+            "thaiSentence": "มันต้องถูกทำลาย",
+            "thaiSentenceSpaced": " มัน ต้อง ถูก ทำลาย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] cheap ; inexpensive"
+                        },
+                        {
+                            "meaning": "[to be] correct ; right"
+                        }
+                    ],
+                    "phonetic": "ถูก",
+                    "word": "ถูก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] destroy ; demolish ; damage"
+                        }
+                    ],
+                    "phonetic": "ทำ ลาย",
+                    "word": "ทำลาย"
+                }
+            ]
+        },
+        {
+            "engSentence": "I thought they were made up.",
+            "id": 4872,
+            "phonetic": "ฉัน ว่า มัน ถูก กุ ขึ้น มา ทั้ง นั้น",
+            "thaiSentence": "ฉันว่ามันถูกกุขึ้นมาทั้งนั้น",
+            "thaiSentenceSpaced": " ฉัน ว่า มัน ถูก กุ ขึ้นมา ทั้งนั้น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        },
+                        {
+                            "meaning": "[to] say ; tell"
+                        },
+                        {
+                            "meaning": "[to] blame ; criticise"
+                        }
+                    ],
+                    "phonetic": "ว่า",
+                    "word": "ว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] cheap ; inexpensive"
+                        },
+                        {
+                            "meaning": "[to be] correct ; right"
+                        }
+                    ],
+                    "phonetic": "ถูก",
+                    "word": "ถูก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] lie ; equivocate ; fib"
+                        }
+                    ],
+                    "phonetic": "กุ",
+                    "word": "กุ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] enter ; get on ; get in"
+                        },
+                        {
+                            "meaning": "[to] develop ; progress"
+                        },
+                        {
+                            "meaning": "[to] go up ; rise ; increase"
+                        },
+                        {
+                            "meaning": "up ; upward"
+                        }
+                    ],
+                    "phonetic": "ขึ้น",
+                    "word": "ขึ้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "all ; every"
+                        }
+                    ],
+                    "phonetic": "ทั้ง นั้น",
+                    "word": "ทั้งนั้น"
+                }
+            ]
+        },
+        {
+            "engSentence": "Maybe you are right.",
+            "id": 5465,
+            "phonetic": "อาด จะ ถูก ของ คุน",
+            "thaiSentence": "อาจจะถูกของคุณ",
+            "thaiSentenceSpaced": " อาจจะ ถูก ของคุณ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "might ; maybe ; may"
+                        }
+                    ],
+                    "phonetic": "อาด จะ",
+                    "word": "อาจจะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] cheap ; inexpensive"
+                        },
+                        {
+                            "meaning": "[to be] correct ; right"
+                        }
+                    ],
+                    "phonetic": "ถูก",
+                    "word": "ถูก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "your ; of you"
+                        }
+                    ],
+                    "phonetic": "ของ คุน",
+                    "word": "ของคุณ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You are a great guy.",
+            "id": 7559,
+            "phonetic": "คุน ทำ ถูก แล้ว",
+            "thaiSentence": "คุณทำถูกแล้ว",
+            "thaiSentenceSpaced": " คุณ ทำ ถูก แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] cheap ; inexpensive"
+                        },
+                        {
+                            "meaning": "[to be] correct ; right"
+                        }
+                    ],
+                    "phonetic": "ถูก",
+                    "word": "ถูก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "It wants to be found.",
+            "id": 8830,
+            "phonetic": "มัน หฺยาก จะ ถูก ค้น พบ",
+            "thaiSentence": "มันอยากจะถูกค้นพบ",
+            "thaiSentenceSpaced": " มัน อยากจะ ถูก ค้นพบ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want to ; would like to"
+                        }
+                    ],
+                    "phonetic": "หฺยาก จะ",
+                    "word": "อยากจะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] cheap ; inexpensive"
+                        },
+                        {
+                            "meaning": "[to be] correct ; right"
+                        }
+                    ],
+                    "phonetic": "ถูก",
+                    "word": "ถูก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] discover ; see about ; find out"
+                        }
+                    ],
+                    "phonetic": "ค้น พบ",
+                    "word": "ค้นพบ"
+                }
+            ]
+        },
+        {
+            "engSentence": "He is the chosen one.",
+            "id": 11346,
+            "phonetic": "เขา คือ พู่ ถูก เลือก",
+            "thaiSentence": "เขาคือผู้ถูกเลือก",
+            "thaiSentenceSpaced": " เขา คือ ผู้ ถูก เลือก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be"
+                        }
+                    ],
+                    "phonetic": "คือ",
+                    "word": "คือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people"
+                        }
+                    ],
+                    "phonetic": "พู่",
+                    "word": "ผู้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] cheap ; inexpensive"
+                        },
+                        {
+                            "meaning": "[to be] correct ; right"
+                        }
+                    ],
+                    "phonetic": "ถูก",
+                    "word": "ถูก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] choose ; select ; pick"
+                        }
+                    ],
+                    "phonetic": "เลือก",
+                    "word": "เลือก"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 80092,
+        "exampleSentences": [
+            {
+                "engSentence": "It must be destroyed.",
+                "id": 2782,
+                "thaiSentence": "มันต้องถูกทำลาย",
+                "thaiSentenceSpaced": " มัน ต้อง ถูก ทำลาย "
+            },
+            {
+                "engSentence": "I thought they were made up.",
+                "id": 4872,
+                "thaiSentence": "ฉันว่ามันถูกกุขึ้นมาทั้งนั้น",
+                "thaiSentenceSpaced": " ฉัน ว่า มัน ถูก กุ ขึ้นมา ทั้งนั้น "
+            },
+            {
+                "engSentence": "Maybe you are right.",
+                "id": 5465,
+                "thaiSentence": "อาจจะถูกของคุณ",
+                "thaiSentenceSpaced": " อาจจะ ถูก ของคุณ "
+            },
+            {
+                "engSentence": "You are a great guy.",
+                "id": 7559,
+                "thaiSentence": "คุณทำถูกแล้ว",
+                "thaiSentenceSpaced": " คุณ ทำ ถูก แล้ว "
+            },
+            {
+                "engSentence": "It wants to be found.",
+                "id": 8830,
+                "thaiSentence": "มันอยากจะถูกค้นพบ",
+                "thaiSentenceSpaced": " มัน อยากจะ ถูก ค้นพบ "
+            },
+            {
+                "engSentence": "He is the chosen one.",
+                "id": 11346,
+                "thaiSentence": "เขาคือผู้ถูกเลือก",
+                "thaiSentenceSpaced": " เขา คือ ผู้ ถูก เลือก "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1319814,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 1,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] correct",
+                        "word": "correct"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "right",
+                        "word": "right"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 47989,
+                        "corpusScore": 9183,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42659,
+                        "legacyWordId": 1319847,
+                        "meaning": "[to be] correct ; right ; accurate",
+                        "parentId": 42659,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ถูก ต้อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกต้อง"
+                    },
+                    {
+                        "childId": 47989,
+                        "corpusScore": 209,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44015,
+                        "legacyWordId": 1332309,
+                        "meaning": "[to] unable to explain ; have difficulty saying",
+                        "parentId": 44015,
+                        "partOfSpeech": "Verb",
+                        "t2e": "บอก ไม่ ถูก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บอกไม่ถูก"
+                    },
+                    {
+                        "childId": 47989,
+                        "corpusScore": 11,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 101112,
+                        "legacyWordId": 1394859,
+                        "meaning": "[to] use trial and error",
+                        "parentId": 101112,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ลอง ผิด ลอง ถูก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลองผิดลองถูก"
+                    },
+                    {
+                        "childId": 47989,
+                        "corpusScore": 10,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39095,
+                        "legacyWordId": 1379241,
+                        "meaning": "[to] be speechless",
+                        "parentId": 39095,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พูด ไม่ ถูก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พูดไม่ถูก"
+                    },
+                    {
+                        "childId": 47989,
+                        "corpusScore": 7,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20647,
+                        "legacyWordId": 1289127,
+                        "meaning": "[to] cannot make head or tail",
+                        "parentId": 20647,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จับ ต้น ชน ปฺลาย ไม่ ถูก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จับต้นชนปลายไม่ถูก"
+                    },
+                    {
+                        "childId": 47989,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41444,
+                        "legacyWordId": 1319860,
+                        "meaning": "correct",
+                        "parentId": 41444,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ถูก เป๋ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกเป๋ง"
+                    },
+                    {
+                        "childId": 47989,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41445,
+                        "legacyWordId": 1319861,
+                        "meaning": "correct",
+                        "parentId": 41445,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ถูก เป๊ะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกเป๊ะ"
+                    }
+                ],
+                "explanation": null,
+                "id": 47989,
+                "isUncommon": false,
+                "meaning": "[to be] correct ; right",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "ถูก"
+            },
+            {
+                "components": [],
+                "displayOrder": 2,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] cheap",
+                        "word": "cheap"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "inexpensive",
+                        "word": "inexpensive"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 42743,
+                        "corpusScore": 3428,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402827,
+                        "legacyWordId": 1391203,
+                        "meaning": "cheap price ; low price",
+                        "parentId": 402827,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รา-คา ถูก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ราคาถูก"
+                    },
+                    {
+                        "childId": 42743,
+                        "corpusScore": 747,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1997,
+                        "legacyWordId": 1281778,
+                        "meaning": "cheapness ; inexpensiveness ; low-cost",
+                        "parentId": 1997,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม ถูก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความถูก"
+                    },
+                    {
+                        "childId": 42743,
+                        "corpusScore": 457,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15823,
+                        "legacyWordId": 1319881,
+                        "meaning": "cheap ; inexpensive ; low-price",
+                        "parentId": 15823,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ถูก ถูก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกๆ"
+                    },
+                    {
+                        "childId": 42743,
+                        "corpusScore": 364,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398295,
+                        "legacyWordId": 1319863,
+                        "meaning": "[to be] cheap ; inexpensive ; low-price",
+                        "parentId": 398295,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ถูก มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกมาก"
+                    },
+                    {
+                        "childId": 42743,
+                        "corpusScore": 234,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395438,
+                        "legacyWordId": 1276233,
+                        "meaning": "[to] auction ; be up for auction",
+                        "parentId": 395438,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขาย ถูก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขายถูก"
+                    }
+                ],
+                "explanation": null,
+                "id": 42743,
+                "isUncommon": false,
+                "meaning": "[to be] cheap ; inexpensive",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "ถูก"
+            },
+            {
+                "components": [],
+                "displayOrder": 3,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "",
+                        "word": ""
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 115370,
+                        "corpusScore": 385,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44459,
+                        "legacyWordId": 1319874,
+                        "meaning": "[to be] deceived",
+                        "parentId": 44459,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ถูก หฺลอก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกหลอก"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 339,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16727,
+                        "legacyWordId": 1319857,
+                        "meaning": "[to] be fined",
+                        "parentId": 16727,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก ปฺรับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกปรับ"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 325,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 93479,
+                        "legacyWordId": 1319836,
+                        "meaning": "restricted",
+                        "parentId": 93479,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ถูก จำ-กัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกจำกัด"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 249,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34187,
+                        "legacyWordId": 1319823,
+                        "meaning": "[to] hex ; curse",
+                        "parentId": 34187,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก กฺระ-ทำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกกระทำ"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 218,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398294,
+                        "legacyWordId": 1319862,
+                        "meaning": "[to] accuse ; charge ; sue",
+                        "parentId": 398294,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก ฟ้อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกฟ้อง"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 153,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398296,
+                        "legacyWordId": 1319867,
+                        "meaning": "[to] punish ; penalize ; chasten",
+                        "parentId": 398296,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก ลง โทด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกลงโทษ"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 145,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43885,
+                        "legacyWordId": 1319830,
+                        "meaning": "[to be] sold",
+                        "parentId": 43885,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ถูก ขาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกขาย"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 101,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 92878,
+                        "legacyWordId": 1323378,
+                        "meaning": "lost",
+                        "parentId": 92878,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ที่ ถูก ทำ ลาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่ถูกทำลาย"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 91,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398289,
+                        "legacyWordId": 1319827,
+                        "meaning": "[to] imprison ; be confined ; be jailed",
+                        "parentId": 398289,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก ขัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกขัง"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 82,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 93774,
+                        "legacyWordId": 1319864,
+                        "meaning": "suppressed",
+                        "parentId": 93774,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ถูก ระ-งับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกระงับ"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 33,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40648,
+                        "legacyWordId": 1319835,
+                        "meaning": "[to] imprison ; be confined ; be jailed",
+                        "parentId": 40648,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก จำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกจำ"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 28,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398288,
+                        "legacyWordId": 1319824,
+                        "meaning": "[to] imprison ; be confined ; be jailed",
+                        "parentId": 398288,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก กัก ขัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกกักขัง"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 25,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398290,
+                        "legacyWordId": 1319834,
+                        "meaning": "[to] imprison ; be confined ; be jailed",
+                        "parentId": 398290,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก จอง จำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกจองจำ"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 24,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22669,
+                        "legacyWordId": 1319846,
+                        "meaning": "[to] blame ; criticize",
+                        "parentId": 22669,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก ตฺรา น่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกตราหน้า"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 22,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 74757,
+                        "legacyWordId": 1319828,
+                        "meaning": "prevent",
+                        "parentId": 74757,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ถูก ขัด ขฺวาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกขัดขวาง"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 22,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21398,
+                        "legacyWordId": 1319849,
+                        "meaning": "[to] be cornered ; be driven ; be herded",
+                        "parentId": 21398,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก ต้อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกต้อน"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 15,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398300,
+                        "legacyWordId": 1319851,
+                        "meaning": "[to] get appointed",
+                        "parentId": 398300,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก แต่ง ตั้ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกแต่งตั้ง"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 12,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398293,
+                        "legacyWordId": 1319853,
+                        "meaning": "[to] punish ; penalize ; chasten",
+                        "parentId": 398293,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก ทำ โทด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกทำโทษ"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 4,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43861,
+                        "legacyWordId": 1310779,
+                        "meaning": "operand",
+                        "parentId": 43861,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตัว ถูก ดำ-เนิน กาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตัวถูกดำเนินการ"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 1,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394976,
+                        "legacyWordId": 1319869,
+                        "meaning": "[to] blame ; criticize",
+                        "parentId": 394976,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก สบ ปฺระ-หฺมาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกสบประมาท"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 1,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 59779,
+                        "legacyWordId": 1374524,
+                        "meaning": "expellee",
+                        "parentId": 59779,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ ถูก ขับ ออก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้ถูกขับออก"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 1,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 68898,
+                        "legacyWordId": 1374525,
+                        "meaning": "deportee",
+                        "parentId": 68898,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ ถูก เน-ระ-เทด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้ถูกเนรเทศ"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 98704,
+                        "legacyWordId": 1307603,
+                        "meaning": "buried soil",
+                        "parentId": 98704,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ดิน ถูก ทับ ถม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดินถูกทับถม"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 73874,
+                        "legacyWordId": 1319859,
+                        "meaning": "covered up",
+                        "parentId": 73874,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ถูก ปิด ผิว งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกปิดผิวงาน"
+                    },
+                    {
+                        "childId": 115370,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 189577,
+                        "legacyWordId": 1391238,
+                        "meaning": "hold-up bill",
+                        "parentId": 189577,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร่าง กด หฺมาย ที่ ถูก หฺน่วง เหฺนี่ยว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร่างกฎหมายที่ถูกหน่วงเหนี่ยว"
+                    }
+                ],
+                "explanation": "It's a marker for putting the following verb in the passive voice",
+                "id": 115370,
+                "isUncommon": false,
+                "meaning": "",
+                "partOfSpeech": "AdverbAuxiliary",
+                "usage": "",
+                "word": "ถูก"
+            },
+            {
+                "components": [],
+                "displayOrder": 4,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] conform to",
+                        "word": "conform to"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "be according to",
+                        "word": "be according to"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 47990,
+                        "corpusScore": 753,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16279,
+                        "legacyWordId": 1319854,
+                        "meaning": "appropriate ; correct ; suitable",
+                        "parentId": 16279,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ถูก ที่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกที่"
+                    },
+                    {
+                        "childId": 47990,
+                        "corpusScore": 725,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6698,
+                        "legacyWordId": 1319868,
+                        "meaning": "in a correct way ; methodically",
+                        "parentId": 6698,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ถูก วิ-ที",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกวิธี"
+                    },
+                    {
+                        "childId": 47990,
+                        "corpusScore": 189,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398287,
+                        "legacyWordId": 1319821,
+                        "meaning": "[to] comply with the rules",
+                        "parentId": 398287,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก กด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกกฎ"
+                    },
+                    {
+                        "childId": 47990,
+                        "corpusScore": 174,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21538,
+                        "legacyWordId": 1319822,
+                        "meaning": "[to] be lawful ; be legal ; be licit",
+                        "parentId": 21538,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก กด หฺมาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกกฎหมาย"
+                    },
+                    {
+                        "childId": 47990,
+                        "corpusScore": 98,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15456,
+                        "legacyWordId": 1319843,
+                        "meaning": "[to] hit it off ; click ; get along well with",
+                        "parentId": 15456,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก ชะ-ตา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกชะตา"
+                    },
+                    {
+                        "childId": 47990,
+                        "corpusScore": 66,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6045,
+                        "legacyWordId": 1319870,
+                        "meaning": "suitable ; right ; accurate",
+                        "parentId": 6045,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ถูก ส่วน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกส่วน"
+                    },
+                    {
+                        "childId": 47990,
+                        "corpusScore": 38,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24947,
+                        "legacyWordId": 1319866,
+                        "meaning": "[to] get along well (with)",
+                        "parentId": 24947,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก โรก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกโรค"
+                    },
+                    {
+                        "childId": 47990,
+                        "corpusScore": 36,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4212,
+                        "legacyWordId": 1319865,
+                        "meaning": "[to] comply with the rules",
+                        "parentId": 4212,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก ระ-เบียบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกระเบียบ"
+                    },
+                    {
+                        "childId": 47990,
+                        "corpusScore": 5,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22372,
+                        "legacyWordId": 1319841,
+                        "meaning": "through the right pull",
+                        "parentId": 22372,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ถูก ช่อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกช่อง"
+                    }
+                ],
+                "explanation": null,
+                "id": 47990,
+                "isUncommon": true,
+                "meaning": "[to] conform to ; be according to",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ถูก"
+            },
+            {
+                "components": [],
+                "displayOrder": 5,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "[to] be pleasing to",
+                        "word": "pleasing to"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "be compatible with",
+                        "word": "be compatible with"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 47992,
+                        "corpusScore": 2104,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17950,
+                        "legacyWordId": 1319839,
+                        "meaning": "[to] like ; be to one's liking ; be pleased",
+                        "parentId": 17950,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกใจ"
+                    },
+                    {
+                        "childId": 47992,
+                        "corpusScore": 230,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17172,
+                        "legacyWordId": 1319840,
+                        "meaning": "[to] get along well with ; be congenial to",
+                        "parentId": 17172,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก ฉะ-โหฺลก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกโฉลก"
+                    },
+                    {
+                        "childId": 47992,
+                        "corpusScore": 204,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16770,
+                        "legacyWordId": 1319825,
+                        "meaning": "[to] get along well (with)",
+                        "parentId": 16770,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก กัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกกัน"
+                    },
+                    {
+                        "childId": 47992,
+                        "corpusScore": 193,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16537,
+                        "legacyWordId": 1319858,
+                        "meaning": "[to] be tasty ; be delicious ; taste great/good",
+                        "parentId": 16537,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก ปาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกปาก"
+                    },
+                    {
+                        "childId": 47992,
+                        "corpusScore": 99,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40501,
+                        "legacyWordId": 1319831,
+                        "meaning": "[to] get along well (with)",
+                        "parentId": 40501,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก คอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกคอ"
+                    },
+                    {
+                        "childId": 47992,
+                        "corpusScore": 41,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16550,
+                        "legacyWordId": 1319833,
+                        "meaning": "[to] be partners of something",
+                        "parentId": 16550,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก คู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกคู่"
+                    },
+                    {
+                        "childId": 47992,
+                        "corpusScore": 34,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16650,
+                        "legacyWordId": 1319876,
+                        "meaning": "[to] content ; please ; satisfy",
+                        "parentId": 16650,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก อก ถูก ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกอกถูกใจ"
+                    },
+                    {
+                        "childId": 47992,
+                        "corpusScore": 34,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16650,
+                        "legacyWordId": 1319876,
+                        "meaning": "[to] content ; please ; satisfy",
+                        "parentId": 16650,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก อก ถูก ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกอกถูกใจ"
+                    },
+                    {
+                        "childId": 47992,
+                        "corpusScore": 31,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7598,
+                        "legacyWordId": 1319850,
+                        "meaning": "[to] be good-looking",
+                        "parentId": 7598,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก ตา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกตา"
+                    },
+                    {
+                        "childId": 47992,
+                        "corpusScore": 21,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398297,
+                        "legacyWordId": 1319879,
+                        "meaning": "[to] get along well (with)",
+                        "parentId": 398297,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก อัด-ทะ-ยา-ไส",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกอัธยาศัย"
+                    },
+                    {
+                        "childId": 47992,
+                        "corpusScore": 10,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16399,
+                        "legacyWordId": 1319871,
+                        "meaning": "[to] get along well (with someone)",
+                        "parentId": 16399,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก เส้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกเส้น"
+                    },
+                    {
+                        "childId": 47992,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16538,
+                        "legacyWordId": 1319829,
+                        "meaning": "[to] match well ; accompany well",
+                        "parentId": 16538,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก ขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกขา"
+                    }
+                ],
+                "explanation": null,
+                "id": 47992,
+                "isUncommon": true,
+                "meaning": "[to] be pleasing to ; be compatible with",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ถูก"
+            },
+            {
+                "components": [],
+                "displayOrder": 6,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] hit",
+                        "word": "hit"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "strike",
+                        "word": "strike"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 47993,
+                        "corpusScore": 773,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43772,
+                        "legacyWordId": 1307938,
+                        "meaning": "[to] look down on ; insult",
+                        "parentId": 43772,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดู ถูก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดูถูก"
+                    },
+                    {
+                        "childId": 47993,
+                        "corpusScore": 153,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 311,
+                        "legacyWordId": 1319838,
+                        "meaning": "[to] be pertinent ; be relevant",
+                        "parentId": 311,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก จุด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกจุด"
+                    },
+                    {
+                        "childId": 47993,
+                        "corpusScore": 129,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16964,
+                        "legacyWordId": 1319875,
+                        "meaning": "[to] win the lottery",
+                        "parentId": 16964,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก หวย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกหวย"
+                    }
+                ],
+                "explanation": "a target or goal",
+                "id": 47993,
+                "isUncommon": true,
+                "meaning": "[to] hit ; strike",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ถูก"
+            },
+            {
+                "components": [],
+                "displayOrder": 7,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] touch",
+                        "word": "touch"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 47994,
+                        "corpusScore": 12,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1342,
+                        "legacyWordId": 1319855,
+                        "meaning": "[to] touch someone",
+                        "parentId": 1342,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก เนื้อ ต้อง ตัว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกเนื้อต้องตัว"
+                    }
+                ],
+                "explanation": null,
+                "id": 47994,
+                "isUncommon": true,
+                "meaning": "[to] touch",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ถูก"
+            }
+        ],
+        "t2e": "ถูก",
+        "verified": null,
+        "word": "ถูก"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

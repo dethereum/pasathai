@@ -1,0 +1,944 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Thanks . So do you.",
+            "id": 42736,
+            "phonetic": "ขอบ ไจ · คุน ก้อ ด้วย",
+            "thaiSentence": "ขอบใจ คุณก็ด้วย",
+            "thaiSentenceSpaced": " ขอบ ใจ  ·  คุณ ก็ ด้วย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] thank you ; be thankful (for something)"
+                        }
+                    ],
+                    "phonetic": "ขอบ ไจ",
+                    "word": "ขอบใจ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                }
+            ]
+        },
+        {
+            "engSentence": "My heart has changed.",
+            "id": 43834,
+            "phonetic": "ไจ ของ ฉัน มัน เปฺลี่ยน ไป แล้ว",
+            "thaiSentence": "ใจของฉันมันเปลี่ยนไปแล้ว",
+            "thaiSentenceSpaced": " ใจ ของ ฉัน มัน เปลี่ยนไป แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "heart ; mind ; spirit"
+                        }
+                    ],
+                    "phonetic": "ไจ",
+                    "word": "ใจ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] change to ; turn into ; transform into"
+                        }
+                    ],
+                    "phonetic": "เปฺลี่ยน ไป",
+                    "word": "เปลี่ยนไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "My duty is to my heart.",
+            "id": 54894,
+            "phonetic": "ทำ น่า ที่ · ที่ มา จาก ไจ",
+            "thaiSentence": "ทำหน้าที่ ที่มาจากใจ",
+            "thaiSentenceSpaced": " ทำหน้าที่ ที่มาจาก ใจ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] perform ; do duty"
+                        }
+                    ],
+                    "phonetic": "ทำ น่า ที่",
+                    "word": "ทำหน้าที่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that comes from"
+                        }
+                    ],
+                    "phonetic": "ที่ มา จาก",
+                    "word": "ที่มาจาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "heart ; mind ; spirit"
+                        }
+                    ],
+                    "phonetic": "ไจ",
+                    "word": "ใจ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Do you guys hear my heart ?",
+            "id": 64431,
+            "phonetic": "พวก คุน ด้าย ยิน เสียง ที่ มา ไจ ฉัน ไหฺม",
+            "thaiSentence": "พวกคุณได้ยินเสียงที่มาใจฉันไหม",
+            "thaiSentenceSpaced": " พวกคุณ ได้ยิน เสียง ที่มา ใจ ฉัน ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you ; you all"
+                        }
+                    ],
+                    "phonetic": "พวก คุน",
+                    "word": "พวกคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] hear"
+                        }
+                    ],
+                    "phonetic": "ด้าย ยิน",
+                    "word": "ได้ยิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sound ; voice ; opinion"
+                        }
+                    ],
+                    "phonetic": "เสียง",
+                    "word": "เสียง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "origin ; source ; cause"
+                        }
+                    ],
+                    "phonetic": "ที่ มา",
+                    "word": "ที่มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "heart ; mind ; spirit"
+                        }
+                    ],
+                    "phonetic": "ไจ",
+                    "word": "ใจ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am getting so worried.",
+            "id": 69483,
+            "phonetic": "ฉัน กฺลุ่ม ไจ จะ ตาย หฺยู่ แล้ว นะ",
+            "thaiSentence": "ฉันกลุ่มใจจะตายอยู่แล้วนะ",
+            "thaiSentenceSpaced": " ฉัน กลุ่ม ใจ จะตาย อยู่ แล้ว นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "group ; community ; crowd"
+                        }
+                    ],
+                    "phonetic": "กฺลุ่ม",
+                    "word": "กลุ่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "heart ; mind ; spirit"
+                        }
+                    ],
+                    "phonetic": "ไจ",
+                    "word": "ใจ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "so much ; to death"
+                        },
+                        {
+                            "meaning": "will die ; will suffer"
+                        }
+                    ],
+                    "phonetic": "จะ ตาย",
+                    "word": "จะตาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Didn't you see my heart ?",
+            "id": 171040,
+            "phonetic": "คุน ไม่ เห็น ไจ ฉัน บ้าง หฺรือ",
+            "thaiSentence": "คุณไม่เห็นใจฉันบ้างหรือ",
+            "thaiSentenceSpaced": " คุณ ไม่เห็น ใจ ฉัน บ้าง หรือ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] not see ; not sight ; not catch sight of"
+                        }
+                    ],
+                    "phonetic": "ไม่ เห็น",
+                    "word": "ไม่เห็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "heart ; mind ; spirit"
+                        }
+                    ],
+                    "phonetic": "ไจ",
+                    "word": "ใจ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "some ; any"
+                        }
+                    ],
+                    "phonetic": "บ้าง",
+                    "word": "บ้าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        },
+                        {
+                            "meaning": "or"
+                        }
+                    ],
+                    "phonetic": "หฺรือ",
+                    "word": "หรือ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 147269,
+        "exampleSentences": [
+            {
+                "engSentence": "Thanks . So do you.",
+                "id": 42736,
+                "thaiSentence": "ขอบใจ คุณก็ด้วย",
+                "thaiSentenceSpaced": " ขอบ ใจ  &middot;  คุณ ก็ ด้วย "
+            },
+            {
+                "engSentence": "My heart has changed.",
+                "id": 43834,
+                "thaiSentence": "ใจของฉันมันเปลี่ยนไปแล้ว",
+                "thaiSentenceSpaced": " ใจ ของ ฉัน มัน เปลี่ยนไป แล้ว "
+            },
+            {
+                "engSentence": "My duty is to my heart.",
+                "id": 54894,
+                "thaiSentence": "ทำหน้าที่ ที่มาจากใจ",
+                "thaiSentenceSpaced": " ทำหน้าที่ ที่มาจาก ใจ "
+            },
+            {
+                "engSentence": "Do you guys hear my heart ?",
+                "id": 64431,
+                "thaiSentence": "พวกคุณได้ยินเสียงที่มาใจฉันไหม",
+                "thaiSentenceSpaced": " พวกคุณ ได้ยิน เสียง ที่มา ใจ ฉัน ไหม "
+            },
+            {
+                "engSentence": "I am getting so worried.",
+                "id": 69483,
+                "thaiSentence": "ฉันกลุ่มใจจะตายอยู่แล้วนะ",
+                "thaiSentenceSpaced": " ฉัน กลุ่ม ใจ จะตาย อยู่ แล้ว นะ "
+            },
+            {
+                "engSentence": "Didn't you see my heart ?",
+                "id": 171040,
+                "thaiSentence": "คุณไม่เห็นใจฉันบ้างหรือ",
+                "thaiSentenceSpaced": " คุณ ไม่เห็น ใจ ฉัน บ้าง หรือ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1290956,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "heart",
+                        "word": "heart"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "mind",
+                        "word": "mind"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "spirit",
+                        "word": "spirit"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 40696,
+                        "corpusScore": 21225,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 416281,
+                        "legacyWordId": 1277355,
+                        "meaning": "[to] understand",
+                        "parentId": 416281,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 21151,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 721,
+                        "legacyWordId": 1402696,
+                        "meaning": "[to] be interested (in)",
+                        "parentId": 721,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สน ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สนใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 13184,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39086,
+                        "legacyWordId": 1448573,
+                        "meaning": "heart",
+                        "parentId": 39086,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หัว ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หัวใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 6847,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35176,
+                        "legacyWordId": 1289565,
+                        "meaning": "mind ; mind ; heart",
+                        "parentId": 35176,
+                        "partOfSpeech": "Noun",
+                        "t2e": "จิด ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จิตใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 6058,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 17912,
+                        "legacyWordId": 1310422,
+                        "meaning": "[to] intend (to) ; aim (to) ; mean (to)",
+                        "parentId": 17912,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตั้ง ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตั้งใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 4749,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 46832,
+                        "legacyWordId": 1331687,
+                        "meaning": "in one's heart ; in one's mind",
+                        "parentId": 46832,
+                        "partOfSpeech": "Adjective ; Adverb",
+                        "t2e": "ไน ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 4333,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10441,
+                        "legacyWordId": 1272297,
+                        "meaning": "spirit ; moral support ; will",
+                        "parentId": 10441,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กำ-ลัง ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กำลังใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 4319,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42113,
+                        "legacyWordId": 1377592,
+                        "meaning": "[to] be satisfied ; be pleased ; be content",
+                        "parentId": 42113,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พอ ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พอใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 4207,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42164,
+                        "legacyWordId": 1383767,
+                        "meaning": "[to be] confident ; full of confidence ; be certain",
+                        "parentId": 42164,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "มั่น ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มั่นใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 3602,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38401,
+                        "legacyWordId": 1368480,
+                        "meaning": "[to] impress ; be impressive",
+                        "parentId": 38401,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ปฺระ-ทับ ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประทับใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 3449,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42168,
+                        "legacyWordId": 1307709,
+                        "meaning": "[to be] happy ; glad ; pleased",
+                        "parentId": 42168,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ดี ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดีใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 3074,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42758,
+                        "legacyWordId": 1310567,
+                        "meaning": "[to] decide ; determine",
+                        "parentId": 42758,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตัด สิน ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตัดสินใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 3001,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42186,
+                        "legacyWordId": 1409970,
+                        "meaning": "[to be] sorry ; upset ; apologetic",
+                        "parentId": 42186,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "เสีย ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เสียใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 2866,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14782,
+                        "legacyWordId": 1330808,
+                        "meaning": "[to] be sure ; be confident ; be certain",
+                        "parentId": 14782,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แน่ ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แน่ใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 2755,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42553,
+                        "legacyWordId": 1290985,
+                        "meaning": "[to be] kind-hearted ; kind ; generous",
+                        "parentId": 42553,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ไจ ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใจดี"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 2665,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45953,
+                        "legacyWordId": 1308826,
+                        "meaning": "[to be] shocked ; startled",
+                        "parentId": 45953,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ตก ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตกใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 2647,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396696,
+                        "legacyWordId": 1382176,
+                        "meaning": "[to] be proud (of)",
+                        "parentId": 396696,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พูม ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ภูมิใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 2104,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17950,
+                        "legacyWordId": 1319839,
+                        "meaning": "[to] like ; be to one's liking ; be pleased",
+                        "parentId": 17950,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถูก ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถูกใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 1906,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21764,
+                        "legacyWordId": 1402928,
+                        "meaning": "[to] be happy ; be pleasure ; be joyous",
+                        "parentId": 21764,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สะ-บาย ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สบายใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 1716,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27139,
+                        "legacyWordId": 1457315,
+                        "meaning": "[to] try to please ; behave well ; please",
+                        "parentId": 27139,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เอา ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เอาใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 1682,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15351,
+                        "legacyWordId": 1329538,
+                        "meaning": "kindness ; spirit ; heart",
+                        "parentId": 15351,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้าม ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น้ำใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 1681,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6764,
+                        "legacyWordId": 1410532,
+                        "meaning": "[to] pay attention to ; attend",
+                        "parentId": 6764,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไส่ ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใส่ใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 1404,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 59337,
+                        "legacyWordId": 1372851,
+                        "meaning": "[to be] surprised",
+                        "parentId": 59337,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "แปฺลก ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปลกใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 1369,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10345,
+                        "legacyWordId": 1306091,
+                        "meaning": "heart",
+                        "parentId": 10345,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ดวง ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดวงใจ"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 1369,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7557,
+                        "legacyWordId": 1306091,
+                        "meaning": "dearest ; sweetheart ; beloved one",
+                        "parentId": 7557,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ดวง ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดวงใจ"
+                    }
+                ],
+                "explanation": null,
+                "id": 40696,
+                "isUncommon": false,
+                "meaning": "heart ; mind ; spirit",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ใจ"
+            }
+        ],
+        "t2e": "ไจ",
+        "verified": "ไจ",
+        "word": "ใจ"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

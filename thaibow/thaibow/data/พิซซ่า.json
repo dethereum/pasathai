@@ -1,0 +1,270 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "Do you want to eat pizza ?",
+            "id": 412234,
+            "phonetic": "คุน หฺยาก ทาน พิด-ซ่า ไหฺม จ๊ะ",
+            "thaiSentence": "คุณอยากทานพิซซ่าไหมจ๊ะ",
+            "thaiSentenceSpaced": " คุณ อยาก ทาน พิซซ่า ไหม จ๊ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want to"
+                        }
+                    ],
+                    "phonetic": "หฺยาก",
+                    "word": "อยาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] eat"
+                        }
+                    ],
+                    "phonetic": "ทาน",
+                    "word": "ทาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "pizza"
+                        }
+                    ],
+                    "phonetic": "พิด-ซ่า",
+                    "word": "พิซซ่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used at the end of sentences to make them sound more friendly or polite)</i>"
+                        }
+                    ],
+                    "phonetic": "จ๊ะ",
+                    "word": "จ๊ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I really like pizza.",
+            "id": 599414,
+            "phonetic": "ฉัน ชอบ พิด-ซ่า มาก เลย",
+            "thaiSentence": "ฉันชอบพิซซ่ามากเลย",
+            "thaiSentenceSpaced": " ฉัน ชอบ พิซซ่า มากเลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] like"
+                        }
+                    ],
+                    "phonetic": "ชอบ",
+                    "word": "ชอบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "pizza"
+                        }
+                    ],
+                    "phonetic": "พิด-ซ่า",
+                    "word": "พิซซ่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much"
+                        }
+                    ],
+                    "phonetic": "มาก เลย",
+                    "word": "มากเลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "I'd like pizza.",
+            "id": 612869,
+            "phonetic": "ผม ชอบ พิด-ซ่า",
+            "thaiSentence": "ผมชอบพิซซ่า",
+            "thaiSentenceSpaced": " ผม ชอบ พิซซ่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] like"
+                        }
+                    ],
+                    "phonetic": "ชอบ",
+                    "word": "ชอบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "pizza"
+                        }
+                    ],
+                    "phonetic": "พิด-ซ่า",
+                    "word": "พิซซ่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "I really like pizza.",
+            "id": 622977,
+            "phonetic": "ฉัน ชอบ พิด-ซ่า จิง จิง",
+            "thaiSentence": "ฉันชอบพิซซ่าจริงๆ",
+            "thaiSentenceSpaced": " ฉัน ชอบ พิซซ่า จริงๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] like"
+                        }
+                    ],
+                    "phonetic": "ชอบ",
+                    "word": "ชอบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "pizza"
+                        }
+                    ],
+                    "phonetic": "พิด-ซ่า",
+                    "word": "พิซซ่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "really ; honestly ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง จิง",
+                    "word": "จริงๆ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 252,
+        "exampleSentences": [
+            {
+                "engSentence": "Do you want to eat pizza ?",
+                "id": 412234,
+                "thaiSentence": "คุณอยากทานพิซซ่าไหมจ๊ะ",
+                "thaiSentenceSpaced": " คุณ อยาก ทาน พิซซ่า ไหม จ๊ะ "
+            },
+            {
+                "engSentence": "I really like pizza.",
+                "id": 599414,
+                "thaiSentence": "ฉันชอบพิซซ่ามากเลย",
+                "thaiSentenceSpaced": " ฉัน ชอบ พิซซ่า มากเลย "
+            },
+            {
+                "engSentence": "I'd like pizza.",
+                "id": 612869,
+                "thaiSentence": "ผมชอบพิซซ่า",
+                "thaiSentenceSpaced": " ผม ชอบ พิซซ่า "
+            },
+            {
+                "engSentence": "I really like pizza.",
+                "id": 622977,
+                "thaiSentence": "ฉันชอบพิซซ่าจริงๆ",
+                "thaiSentenceSpaced": " ฉัน ชอบ พิซซ่า จริงๆ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1378360,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "pizza",
+                        "word": "pizza"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 40941,
+                "isUncommon": false,
+                "meaning": "pizza",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "พิซซ่า"
+            }
+        ],
+        "t2e": "พิด-ซ่า",
+        "verified": null,
+        "word": "พิซซ่า"
+    },
+    "greenBarCount": 2,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,609 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Use a family program.",
+            "id": 346475,
+            "phonetic": "ไช้ โปฺร-แกฺรม คฺรอบ คฺรัว สิ",
+            "thaiSentence": "ใช้โปรแกรมครอบครัวสิ",
+            "thaiSentenceSpaced": " ใช้ โปรแกรม ครอบครัว สิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] use"
+                        }
+                    ],
+                    "phonetic": "ไช้",
+                    "word": "ใช้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "program"
+                        }
+                    ],
+                    "phonetic": "โปฺร-แกฺรม",
+                    "word": "โปรแกรม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "family"
+                        }
+                    ],
+                    "phonetic": "คฺรอบ คฺรัว",
+                    "word": "ครอบครัว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What are you doing today ?",
+            "id": 488293,
+            "phonetic": "วัน นี้ คุน มี โปฺร-แกฺรม อะ-ไร หฺรือ เปฺล่า คะ",
+            "thaiSentence": "วันนี้คุณมีโปรแกรมอะไรหรือเปล่าคะ",
+            "thaiSentenceSpaced": " วันนี้ คุณ มี โปรแกรม อะไร หรือเปล่า คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "today"
+                        }
+                    ],
+                    "phonetic": "วัน นี้",
+                    "word": "วันนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "program"
+                        }
+                    ],
+                    "phonetic": "โปฺร-แกฺรม",
+                    "word": "โปรแกรม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 13292,
+        "exampleSentences": [
+            {
+                "engSentence": "Use a family program.",
+                "id": 346475,
+                "thaiSentence": "ใช้โปรแกรมครอบครัวสิ",
+                "thaiSentenceSpaced": " ใช้ โปรแกรม ครอบครัว สิ "
+            },
+            {
+                "engSentence": "What are you doing today ?",
+                "id": 488293,
+                "thaiSentence": "วันนี้คุณมีโปรแกรมอะไรหรือเปล่าคะ",
+                "thaiSentenceSpaced": " วันนี้ คุณ มี โปรแกรม อะไร หรือเปล่า คะ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1373096,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "program",
+                        "word": "program"
+                    }
+                ],
+                "etymology": "English",
+                "examples": [
+                    {
+                        "childId": 102606,
+                        "corpusScore": 301,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40498,
+                        "legacyWordId": 1373107,
+                        "meaning": "computer program",
+                        "parentId": 40498,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรมคอมพิวเตอร์"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 189,
+                        "displayOrder": 0,
+                        "etymology": "English",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38268,
+                        "legacyWordId": 1373136,
+                        "meaning": "programmer",
+                        "parentId": 38268,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม-เมอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรมเมอร์"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 159,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 390078,
+                        "legacyWordId": 1267511,
+                        "meaning": "programming",
+                        "parentId": 390078,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน เขียน โปฺร-แกฺรม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การเขียนโปรแกรม"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 133,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 88112,
+                        "legacyWordId": 1373145,
+                        "meaning": "package",
+                        "parentId": 88112,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม สำ-เหฺร็ด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรมสำเร็จ"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 83,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 589355,
+                        "legacyWordId": 1373128,
+                        "meaning": "application program",
+                        "parentId": 589355,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม ปฺระ-ยุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรมประยุกต์"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 30,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40739,
+                        "legacyWordId": 1373104,
+                        "meaning": "control program",
+                        "parentId": 40739,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม ควบ คุม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรมควบคุม"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 23,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38063,
+                        "legacyWordId": 1373147,
+                        "meaning": "main program",
+                        "parentId": 38063,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม หฺลัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรมหลัก"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 22,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 86481,
+                        "legacyWordId": 1372898,
+                        "meaning": "compile",
+                        "parentId": 86481,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แปฺล โปฺร-แกฺรม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปลโปรแกรม"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 20,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44156,
+                        "legacyWordId": 1374261,
+                        "meaning": "programmer",
+                        "parentId": 44156,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ เขียน โปฺร-แกฺรม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้เขียนโปรแกรม"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 14,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 86490,
+                        "legacyWordId": 1404731,
+                        "meaning": "component",
+                        "parentId": 86490,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ส่วน โปฺร-แกฺรม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ส่วนโปรแกรม"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 13,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 86400,
+                        "legacyWordId": 1373115,
+                        "meaning": "checking program",
+                        "parentId": 86400,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม ตฺรวด สอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรมตรวจสอบ"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 13,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17878,
+                        "legacyWordId": 1373137,
+                        "meaning": "subprogram",
+                        "parentId": 17878,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม ย่อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรมย่อย"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 10,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 88495,
+                        "legacyWordId": 1373103,
+                        "meaning": "search engine",
+                        "parentId": 88495,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม ค้น หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรมค้นหา"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 9,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 92312,
+                        "legacyWordId": 1452579,
+                        "meaning": "exit",
+                        "parentId": 92312,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ออก จาก โปฺร-แกฺรม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ออกจากโปรแกรม"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 6,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 91399,
+                        "legacyWordId": 1373132,
+                        "meaning": "add-in program",
+                        "parentId": 91399,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม เพิ่ม เติม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรมเพิ่มเติม"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 5,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398665,
+                        "legacyWordId": 1327772,
+                        "meaning": "programmer",
+                        "parentId": 398665,
+                        "partOfSpeech": "Noun",
+                        "t2e": "นัก เขียน โปฺร-แกฺรม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นักเขียนโปรแกรม"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 5,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17946,
+                        "legacyWordId": 1373112,
+                        "meaning": "application program",
+                        "parentId": 17946,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม ไช้ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรมใช้งาน"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 4,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 58323,
+                        "legacyWordId": 1373113,
+                        "meaning": "database management system",
+                        "parentId": 58323,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม ถาน ข้อ มูน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรมฐานข้อมูล"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 93555,
+                        "legacyWordId": 1373138,
+                        "meaning": "screen saver",
+                        "parentId": 93555,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม รัก-สา น่า จอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรมรักษาหน้าจอ"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 88970,
+                        "legacyWordId": 1373148,
+                        "meaning": "utilityutility program",
+                        "parentId": 88970,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม อัด-ถะ-ปฺระ-โหฺยด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรมอรรถประโยชน์"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 70057,
+                        "legacyWordId": 1373125,
+                        "meaning": "processing programme",
+                        "parentId": 70057,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม ปฺระ-มวน ผน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรมประมวลผล"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 422951,
+                        "legacyWordId": 1269929,
+                        "meaning": "linear programming",
+                        "parentId": 422951,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน โปฺร-แกฺรม เชิง เส้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การโปรแกรมเชิงเส้น"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 54821,
+                        "legacyWordId": 1373144,
+                        "meaning": "office suite",
+                        "parentId": 54821,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม สำ-นัก งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรมสำนักงาน"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6713,
+                        "legacyWordId": 1327863,
+                        "meaning": "programmer",
+                        "parentId": 6713,
+                        "partOfSpeech": "Noun",
+                        "t2e": "นัก โปฺร-แกฺรม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นักโปรแกรม"
+                    },
+                    {
+                        "childId": 102606,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 88606,
+                        "legacyWordId": 1373114,
+                        "meaning": "source program",
+                        "parentId": 88606,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม ต้น ฉะ-บับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรมต้นฉบับ"
+                    }
+                ],
+                "explanation": null,
+                "id": 102606,
+                "isUncommon": false,
+                "meaning": "program",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "โปรแกรม"
+            }
+        ],
+        "t2e": "โปฺร-แกฺรม",
+        "verified": null,
+        "word": "โปรแกรม"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

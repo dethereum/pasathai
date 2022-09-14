@@ -1,0 +1,511 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "I am more thankful.",
+            "id": 1113,
+            "phonetic": "ผม มาก กฺว่า ที่ ควน ขอบ คุน",
+            "thaiSentence": "ผมมากกว่าที่ควรขอบคุณ",
+            "thaiSentenceSpaced": " ผม มากกว่า ที่ ควร ขอบคุณ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "more than"
+                        }
+                    ],
+                    "phonetic": "มาก กฺว่า",
+                    "word": "มากกว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "should ; ought to"
+                        }
+                    ],
+                    "phonetic": "ควน",
+                    "word": "ควร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] thank you ; be thankful (for something)"
+                        }
+                    ],
+                    "phonetic": "ขอบ คุน",
+                    "word": "ขอบคุณ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Thanks for the flowers.",
+            "id": 1303,
+            "phonetic": "ขอบ คุน สำ-หฺรับ ดอก ไม้ นะ",
+            "thaiSentence": "ขอบคุณสำหรับดอกไม้นะ",
+            "thaiSentenceSpaced": " ขอบคุณ สำหรับ ดอกไม้ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] thank you ; be thankful (for something)"
+                        }
+                    ],
+                    "phonetic": "ขอบ คุน",
+                    "word": "ขอบคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "for ; to ; on behalf of"
+                        }
+                    ],
+                    "phonetic": "สำ-หฺรับ",
+                    "word": "สำหรับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "flower"
+                        }
+                    ],
+                    "phonetic": "ดอก ไม้",
+                    "word": "ดอกไม้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You should thank me.",
+            "id": 4790,
+            "phonetic": "คุน น่า จะ ขอบ คุน ฉัน ด้วย ซ้ำ นะ",
+            "thaiSentence": "คุณน่าจะขอบคุณฉันด้วยซ้ำนะ",
+            "thaiSentenceSpaced": " คุณ น่าจะ ขอบคุณ ฉัน ด้วยซ้ำ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "should ; had better"
+                        }
+                    ],
+                    "phonetic": "น่า จะ",
+                    "word": "น่าจะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] thank you ; be thankful (for something)"
+                        }
+                    ],
+                    "phonetic": "ขอบ คุน",
+                    "word": "ขอบคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "as well ; too ; also"
+                        }
+                    ],
+                    "phonetic": "ด้วย ซ้ำ",
+                    "word": "ด้วยซ้ำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "That's OK, thanks.",
+            "id": 5800,
+            "phonetic": "ไม่ เป็น ไร ค่ะ · ขอบ คุน ค่ะ",
+            "thaiSentence": "ไม่เป็นไรค่ะ ขอบคุณค่ะ",
+            "thaiSentenceSpaced": " ไม่เป็นไร ค่ะ  ·  ขอบคุณ ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be ok ; be all right ; be nothing"
+                        }
+                    ],
+                    "phonetic": "ไม่ เป็น ไร",
+                    "word": "ไม่เป็นไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] thank you ; be thankful (for something)"
+                        }
+                    ],
+                    "phonetic": "ขอบ คุน",
+                    "word": "ขอบคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Thanks for responding.",
+            "id": 6013,
+            "phonetic": "ขอบ คุน ที่ ตอบ รับ สัน-ยาน",
+            "thaiSentence": "ขอบคุณที่ตอบรับสัญญาณ",
+            "thaiSentenceSpaced": " ขอบคุณ ที่ ตอบรับ สัญญาณ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] thank you ; be thankful (for something)"
+                        }
+                    ],
+                    "phonetic": "ขอบ คุน",
+                    "word": "ขอบคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] accept ; acknowledge ; admit"
+                        }
+                    ],
+                    "phonetic": "ตอบ รับ",
+                    "word": "ตอบรับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "signal ; alarm"
+                        }
+                    ],
+                    "phonetic": "สัน-ยาน",
+                    "word": "สัญญาณ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Don't thank me.",
+            "id": 1112,
+            "phonetic": "ไม่ ต้อง ขอบ คุน หฺรอก",
+            "thaiSentence": "ไม่ต้องขอบคุณหรอก",
+            "thaiSentenceSpaced": " ไม่ต้อง ขอบคุณ หรอก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do not have to ; no need to ; not necessary to"
+                        }
+                    ],
+                    "phonetic": "ไม่ ต้อง",
+                    "word": "ไม่ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] thank you ; be thankful (for something)"
+                        }
+                    ],
+                    "phonetic": "ขอบ คุน",
+                    "word": "ขอบคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in the negative when making a contradiction)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺรอก",
+                    "word": "หรอก"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 15196,
+        "exampleSentences": [
+            {
+                "engSentence": "I am more thankful.",
+                "id": 1113,
+                "thaiSentence": "ผมมากกว่าที่ควรขอบคุณ",
+                "thaiSentenceSpaced": " ผม มากกว่า ที่ ควร ขอบคุณ "
+            },
+            {
+                "engSentence": "Thanks for the flowers.",
+                "id": 1303,
+                "thaiSentence": "ขอบคุณสำหรับดอกไม้นะ",
+                "thaiSentenceSpaced": " ขอบคุณ สำหรับ ดอกไม้ นะ "
+            },
+            {
+                "engSentence": "You should thank me.",
+                "id": 4790,
+                "thaiSentence": "คุณน่าจะขอบคุณฉันด้วยซ้ำนะ",
+                "thaiSentenceSpaced": " คุณ น่าจะ ขอบคุณ ฉัน ด้วยซ้ำ นะ "
+            },
+            {
+                "engSentence": "That's OK, thanks.",
+                "id": 5800,
+                "thaiSentence": "ไม่เป็นไรค่ะ ขอบคุณค่ะ",
+                "thaiSentenceSpaced": " ไม่เป็นไร ค่ะ  &middot;  ขอบคุณ ค่ะ "
+            },
+            {
+                "engSentence": "Thanks for responding.",
+                "id": 6013,
+                "thaiSentence": "ขอบคุณที่ตอบรับสัญญาณ",
+                "thaiSentenceSpaced": " ขอบคุณ ที่ ตอบรับ สัญญาณ "
+            },
+            {
+                "engSentence": "Don't thank me.",
+                "id": 1112,
+                "thaiSentence": "ไม่ต้องขอบคุณหรอก",
+                "thaiSentenceSpaced": " ไม่ต้อง ขอบคุณ หรอก "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1275630,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 7811,
+                        "corpusScore": 21446,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 7811,
+                        "legacyWordId": 1275620,
+                        "meaning": "side ; border ; edge",
+                        "parentId": 7994,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ขอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอบ"
+                    },
+                    {
+                        "childId": 42374,
+                        "corpusScore": 124559,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42374,
+                        "legacyWordId": 1285033,
+                        "meaning": "kindness ; virtude ; benefit",
+                        "parentId": 7994,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คุน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คุณ"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "[to] thank you",
+                        "word": "thank you"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "be thankful (for something)",
+                        "word": "be thankful (for something)"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 7994,
+                        "corpusScore": 212,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3852,
+                        "legacyWordId": 1284216,
+                        "meaning": "thank you",
+                        "parentId": 3852,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ ขอบ คุน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำขอบคุณ"
+                    },
+                    {
+                        "childId": 7994,
+                        "corpusScore": 67,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49713,
+                        "legacyWordId": 1281218,
+                        "meaning": "thanks ; gratitude",
+                        "parentId": 49713,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม ขอบ คุน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความขอบคุณ"
+                    },
+                    {
+                        "childId": 7994,
+                        "corpusScore": 25,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400167,
+                        "legacyWordId": 1392733,
+                        "meaning": "[to be] grateful ; obliged ; appreciative",
+                        "parentId": 400167,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "รู้ สึก ขอบ คุน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รู้สึกขอบคุณ"
+                    },
+                    {
+                        "childId": 7994,
+                        "corpusScore": 4,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 53921,
+                        "legacyWordId": 1399072,
+                        "meaning": "thanksgiving",
+                        "parentId": 53921,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน ขอบ คุน พฺระ เจ้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันขอบคุณพระเจ้า"
+                    }
+                ],
+                "explanation": null,
+                "id": 7994,
+                "isUncommon": false,
+                "meaning": "[to] thank you ; be thankful (for something)",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ขอบคุณ"
+            }
+        ],
+        "t2e": "ขอบ คุน",
+        "verified": null,
+        "word": "ขอบคุณ"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

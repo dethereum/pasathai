@@ -1,0 +1,56 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 470,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1293144,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 39128,
+                        "corpusScore": 35607,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 39128,
+                        "legacyWordId": 1396983,
+                        "meaning": "[to] play",
+                        "parentId": 11891,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เล่น"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "nickname",
+                        "word": "nickname"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 11891,
+                "isUncommon": false,
+                "meaning": "nickname",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ชื่อเล่น"
+            }
+        ],
+        "t2e": "ชื่อ เล่น",
+        "verified": null,
+        "word": "ชื่อเล่น"
+    },
+    "greenBarCount": 2,
+    "pageUrl": "",
+    "type": "thai-word"
+}

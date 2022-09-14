@@ -1,0 +1,673 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "That one is me, right ?",
+            "id": 637,
+            "phonetic": "ซึ่ง ก้อ คือ ฉัน · ไช่ ไหฺม",
+            "thaiSentence": "ซึ่งก็คือฉัน ใช่ไหม",
+            "thaiSentenceSpaced": " ซึ่ง ก็ คือ ฉัน  ·  ใช่ ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "which ; that ; where ; what"
+                        }
+                    ],
+                    "phonetic": "ซึ่ง",
+                    "word": "ซึ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be"
+                        }
+                    ],
+                    "phonetic": "คือ",
+                    "word": "คือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "right ? ; is that right? ; is that true? <i>(question particle used when seeking confirmation of something thought to be true)</i>"
+                        }
+                    ],
+                    "phonetic": "ไช่ ไหฺม",
+                    "word": "ใช่ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Why trust a shark, right ?",
+            "id": 2013,
+            "phonetic": "ทำ-ไม ต้อง ไว้ ไจ ฉะ-หฺลาม · ไช่ ไหฺม",
+            "thaiSentence": "ทำไมต้องไว้ใจฉลาม ใช่ไหม",
+            "thaiSentenceSpaced": " ทำไม ต้อง ไว้ใจ ฉลาม  ·  ใช่ ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "why"
+                        }
+                    ],
+                    "phonetic": "ทำ-ไม",
+                    "word": "ทำไม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] believe in ; have faith in ; rely"
+                        }
+                    ],
+                    "phonetic": "ไว้ ไจ",
+                    "word": "ไว้ใจ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "shark"
+                        }
+                    ],
+                    "phonetic": "ฉะ-หฺลาม",
+                    "word": "ฉลาม"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "right ? ; is that right? ; is that true? <i>(question particle used when seeking confirmation of something thought to be true)</i>"
+                        }
+                    ],
+                    "phonetic": "ไช่ ไหฺม",
+                    "word": "ใช่ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am a bit late, huh ?",
+            "id": 1045,
+            "phonetic": "ช้า ไป หฺน่อย · ไช่ ไหฺม",
+            "thaiSentence": "ช้าไปหน่อย ใช่ไหม",
+            "thaiSentenceSpaced": " ช้า ไป หน่อย  ·  ใช่ ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be slow ; be sluggish"
+                        },
+                        {
+                            "meaning": "slowly ; late"
+                        },
+                        {
+                            "meaning": "evil ; wicked"
+                        }
+                    ],
+                    "phonetic": "ช้า",
+                    "word": "ช้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle added to soften a request or command)</i>"
+                        },
+                        {
+                            "meaning": "a little ; a little bit"
+                        }
+                    ],
+                    "phonetic": "หฺน่อย",
+                    "word": "หน่อย"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "right ? ; is that right? ; is that true? <i>(question particle used when seeking confirmation of something thought to be true)</i>"
+                        }
+                    ],
+                    "phonetic": "ไช่ ไหฺม",
+                    "word": "ใช่ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "We' re friends, right ?",
+            "id": 4023,
+            "phonetic": "เรา เป็น เพื่อน กัน นะ · ไช่ ไหฺม",
+            "thaiSentence": "เราเป็นเพื่อนกันนะ ใช่ไหม",
+            "thaiSentenceSpaced": " เรา เป็นเพื่อนกัน นะ  ·  ใช่ ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be friends"
+                        }
+                    ],
+                    "phonetic": "เป็น เพื่อน กัน",
+                    "word": "เป็นเพื่อนกัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "right ? ; is that right? ; is that true? <i>(question particle used when seeking confirmation of something thought to be true)</i>"
+                        }
+                    ],
+                    "phonetic": "ไช่ ไหฺม",
+                    "word": "ใช่ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "It doesn't seem to be that.",
+            "id": 5125,
+            "phonetic": "มัน ก้อ ไม่ น่า ไช่ นะ",
+            "thaiSentence": "มันก็ไม่น่าใช่นะ",
+            "thaiSentenceSpaced": " มัน ก็ ไม่ น่า ใช่ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence sound sound more persuasive or gentler)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a prefix added to a verb or adjective, meaning  \"worthy of.... -ing\" or \"....-able\")</i>"
+                        }
+                    ],
+                    "phonetic": "น่า",
+                    "word": "น่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yes"
+                        }
+                    ],
+                    "phonetic": "ไช่",
+                    "word": "ใช่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Yes, that's for sure.",
+            "id": 5390,
+            "phonetic": "ไช่ · แน่ นอน หฺยู่ แล้ว",
+            "thaiSentence": "ใช่ แน่นอนอยู่แล้ว",
+            "thaiSentenceSpaced": " ใช่  ·  แน่นอน อยู่ แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yes"
+                        }
+                    ],
+                    "phonetic": "ไช่",
+                    "word": "ใช่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "certainly ; surely ; definitely"
+                        }
+                    ],
+                    "phonetic": "แน่ นอน",
+                    "word": "แน่นอน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 25166,
+        "exampleSentences": [
+            {
+                "engSentence": "That one is me, right ?",
+                "id": 637,
+                "thaiSentence": "ซึ่งก็คือฉัน ใช่ไหม",
+                "thaiSentenceSpaced": " ซึ่ง ก็ คือ ฉัน  &middot;  ใช่ ไหม "
+            },
+            {
+                "engSentence": "Why trust a shark, right ?",
+                "id": 2013,
+                "thaiSentence": "ทำไมต้องไว้ใจฉลาม ใช่ไหม",
+                "thaiSentenceSpaced": " ทำไม ต้อง ไว้ใจ ฉลาม  &middot;  ใช่ ไหม "
+            },
+            {
+                "engSentence": "I am a bit late, huh ?",
+                "id": 1045,
+                "thaiSentence": "ช้าไปหน่อย ใช่ไหม",
+                "thaiSentenceSpaced": " ช้า ไป หน่อย  &middot;  ใช่ ไหม "
+            },
+            {
+                "engSentence": "We' re friends, right ?",
+                "id": 4023,
+                "thaiSentence": "เราเป็นเพื่อนกันนะ ใช่ไหม",
+                "thaiSentenceSpaced": " เรา เป็นเพื่อนกัน นะ  &middot;  ใช่ ไหม "
+            },
+            {
+                "engSentence": "It doesn't seem to be that.",
+                "id": 5125,
+                "thaiSentence": "มันก็ไม่น่าใช่นะ",
+                "thaiSentenceSpaced": " มัน ก็ ไม่ น่า ใช่ นะ "
+            },
+            {
+                "engSentence": "Yes, that's for sure.",
+                "id": 5390,
+                "thaiSentence": "ใช่ แน่นอนอยู่แล้ว",
+                "thaiSentenceSpaced": " ใช่  &middot;  แน่นอน อยู่ แล้ว "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1294399,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "yes",
+                        "word": "yes"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 390067,
+                        "corpusScore": 24675,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27306,
+                        "legacyWordId": 1386823,
+                        "meaning": "[to] be not ; no",
+                        "parentId": 27306,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไม่ ไช่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ใช่"
+                    },
+                    {
+                        "childId": 390067,
+                        "corpusScore": 2698,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7682,
+                        "legacyWordId": 1384304,
+                        "meaning": "not ; no",
+                        "parentId": 7682,
+                        "partOfSpeech": "NEG",
+                        "t2e": "มิ ไช่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มิใช่"
+                    },
+                    {
+                        "childId": 390067,
+                        "corpusScore": 2396,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "question particle used when seeking confirmation of something thought to be true",
+                        "hasSoundFile": false,
+                        "id": 103321,
+                        "legacyWordId": 1294441,
+                        "meaning": "right ? ; is that right? ; is that true?",
+                        "parentId": 103321,
+                        "partOfSpeech": "Particle",
+                        "t2e": "ไช่ ไหฺม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใช่ไหม"
+                    },
+                    {
+                        "childId": 390067,
+                        "corpusScore": 930,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "question particle used when seeking confirmation of something thought to be true",
+                        "hasSoundFile": false,
+                        "id": 104008,
+                        "legacyWordId": 1294427,
+                        "meaning": "right ? ; is that right? ; is that true?",
+                        "parentId": 104008,
+                        "partOfSpeech": "Particle",
+                        "t2e": "ไช่ ไม้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใช่มั้ย"
+                    },
+                    {
+                        "childId": 390067,
+                        "corpusScore": 861,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "question particle",
+                        "hasSoundFile": false,
+                        "id": 46799,
+                        "legacyWordId": 1294439,
+                        "meaning": "is that right ? ; is that so ?",
+                        "parentId": 46799,
+                        "partOfSpeech": "Particle",
+                        "t2e": "ไช่ หฺรือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใช่หรือ"
+                    },
+                    {
+                        "childId": 390067,
+                        "corpusScore": 236,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45092,
+                        "legacyWordId": 1449052,
+                        "meaning": "no ; not",
+                        "parentId": 45092,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "หา ไช่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาใช่"
+                    },
+                    {
+                        "childId": 390067,
+                        "corpusScore": 233,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "that's right, that's the case , exactly that",
+                        "hasSoundFile": false,
+                        "id": 390068,
+                        "legacyWordId": 1294430,
+                        "meaning": "yes",
+                        "parentId": 390068,
+                        "partOfSpeech": "Interjection",
+                        "t2e": "ไช่ แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใช่แล้ว"
+                    },
+                    {
+                        "childId": 390067,
+                        "corpusScore": 183,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103314,
+                        "legacyWordId": 1294426,
+                        "meaning": "is that right? ; is that true?",
+                        "parentId": 103314,
+                        "partOfSpeech": "Particle",
+                        "t2e": "ไช่ มะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใช่มะ"
+                    },
+                    {
+                        "childId": 390067,
+                        "corpusScore": 116,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402457,
+                        "legacyWordId": 1294429,
+                        "meaning": "quite ; not a little ; really",
+                        "parentId": 402457,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไช่ เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใช่เล่น"
+                    },
+                    {
+                        "childId": 390067,
+                        "corpusScore": 29,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32413,
+                        "legacyWordId": 1308542,
+                        "meaning": "unreasonably ; unnecessarily",
+                        "parentId": 32413,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "โดย ไช่ เหด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โดยใช่เหตุ"
+                    },
+                    {
+                        "childId": 390067,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103493,
+                        "legacyWordId": 1294432,
+                        "meaning": "it is not the case that (something)",
+                        "parentId": 103493,
+                        "partOfSpeech": "Phrase",
+                        "t2e": "ไช่ ว่า (...) ก้อ หา ไม่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใช่ว่า (...) ก็หาไม่"
+                    }
+                ],
+                "explanation": null,
+                "id": 390067,
+                "isUncommon": false,
+                "meaning": "yes",
+                "partOfSpeech": "Interjection",
+                "usage": "",
+                "word": "ใช่"
+            }
+        ],
+        "t2e": "ไช่",
+        "verified": null,
+        "word": "ใช่"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

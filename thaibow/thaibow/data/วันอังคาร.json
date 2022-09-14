@@ -1,0 +1,91 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 926,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1399209,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 362198,
+                        "corpusScore": 106774,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 362198,
+                        "legacyWordId": 1399065,
+                        "meaning": "day",
+                        "parentId": 44836,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วัน"
+                    },
+                    {
+                        "childId": 20290,
+                        "corpusScore": 1322,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20290,
+                        "legacyWordId": 1453280,
+                        "meaning": "Mars",
+                        "parentId": 44836,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อัง-คาน",
+                        "usage": "",
+                        "verified": "อัง-คาน",
+                        "word": "อังคาร"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "Tuesday",
+                        "word": "Tuesday"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 44836,
+                        "corpusScore": 16,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103132,
+                        "legacyWordId": 1284974,
+                        "meaning": "Tuesday night",
+                        "parentId": 103132,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คืน วัน อัง-คาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คืนวันอังคาร"
+                    }
+                ],
+                "explanation": null,
+                "id": 44836,
+                "isUncommon": false,
+                "meaning": "Tuesday",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "วันอังคาร"
+            }
+        ],
+        "t2e": "วัน อัง-คาน",
+        "verified": null,
+        "word": "วันอังคาร"
+    },
+    "greenBarCount": 2,
+    "pageUrl": "",
+    "type": "thai-word"
+}

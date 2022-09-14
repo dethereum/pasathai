@@ -1,0 +1,658 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "I am not gonna lose you.",
+            "id": 21685,
+            "phonetic": "ผม ไม่ มี วัน ที่ จะ สูน เสีย คุน",
+            "thaiSentence": "ผมไม่มีวันที่จะสูญเสียคุณ",
+            "thaiSentenceSpaced": " ผม ไม่มี วันที่ จะ สูญเสีย คุณ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have no chance <i>(of something happening)</i>"
+                        }
+                    ],
+                    "phonetic": "ไม่ มี วัน",
+                    "word": "ไม่มีวัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that will ; who will ; which will"
+                        }
+                    ],
+                    "phonetic": "ที่ จะ",
+                    "word": "ที่จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] lose ; waste"
+                        }
+                    ],
+                    "phonetic": "สูน เสีย",
+                    "word": "สูญเสีย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                }
+            ]
+        },
+        {
+            "engSentence": "On the seventh day.",
+            "id": 30411,
+            "phonetic": "มา  ไน วัน ที่ เจ็ด",
+            "thaiSentence": "มาในวันที่เจ็ด",
+            "thaiSentenceSpaced": " มา ใน วันที่ เจ็ด ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "on the 7th"
+                        }
+                    ],
+                    "phonetic": " ไน วัน ที่ เจ็ด",
+                    "word": "ในวันที่เจ็ด"
+                }
+            ]
+        },
+        {
+            "engSentence": "Oh, what a happy day.",
+            "id": 54618,
+            "phonetic": "โอ้ · มัน ช่าง เป็น วัน ที่ แสน สด ไส จิง เชียว",
+            "thaiSentence": "โอ้ มันช่างเป็นวันที่แสนสดใสจริงเชียว",
+            "thaiSentenceSpaced": " โอ้  ·  มัน ช่าง เป็น วันที่ แสน สดใส จริง เชียว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "oh"
+                        }
+                    ],
+                    "phonetic": "โอ้",
+                    "word": "โอ้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "indeed ; really ; truly ; very ; so ; terribly"
+                        },
+                        {
+                            "meaning": "technician ; mechanic ; engineer"
+                        },
+                        {
+                            "meaning": " <i>(a prefix meaning \"given to...\", \"fond of...\")</i>"
+                        },
+                        {
+                            "meaning": "[to] let it go ; let someone do what they like"
+                        }
+                    ],
+                    "phonetic": "ช่าง",
+                    "word": "ช่าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "date"
+                        },
+                        {
+                            "meaning": "the day that"
+                        }
+                    ],
+                    "phonetic": "วัน ที่",
+                    "word": "วันที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hundred thousand"
+                        },
+                        {
+                            "meaning": "very ; extremely"
+                        }
+                    ],
+                    "phonetic": "แสน",
+                    "word": "แสน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] bright ; clear ; fresh"
+                        },
+                        {
+                            "meaning": "[to be] cheerful ; happy ; delighted"
+                        }
+                    ],
+                    "phonetic": "สด ไส",
+                    "word": "สดใส"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] real ; true ; actual"
+                        },
+                        {
+                            "meaning": "really ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง",
+                    "word": "จริง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "indeed ; really ; truly"
+                        }
+                    ],
+                    "phonetic": "เชียว",
+                    "word": "เชียว"
+                }
+            ]
+        },
+        {
+            "engSentence": "Wait for your lucky day ?",
+            "id": 132272,
+            "phonetic": "รอ วัน ที่ คุน โชก ดี หฺรือ",
+            "thaiSentence": "รอวันที่คุณโชคดีหรือ",
+            "thaiSentenceSpaced": " รอ วันที่ คุณ โชคดี หรือ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wait (for)"
+                        }
+                    ],
+                    "phonetic": "รอ",
+                    "word": "รอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "date"
+                        },
+                        {
+                            "meaning": "the day that"
+                        }
+                    ],
+                    "phonetic": "วัน ที่",
+                    "word": "วันที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "good luck! ; take care!"
+                        },
+                        {
+                            "meaning": "[to be] lucky ; fortunate"
+                        }
+                    ],
+                    "phonetic": "โชก ดี",
+                    "word": "โชคดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        },
+                        {
+                            "meaning": "or"
+                        }
+                    ],
+                    "phonetic": "หฺรือ",
+                    "word": "หรือ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I was happy yesterday.",
+            "id": 195313,
+            "phonetic": "เมื่อ วาน เป็น วัน ที่ ฉัน มี คฺวาม สุก",
+            "thaiSentence": "เมื่อวานเป็นวันที่ฉันมีความสุข",
+            "thaiSentenceSpaced": " เมื่อวาน เป็น วันที่ ฉัน มีความสุข ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yesterday"
+                        }
+                    ],
+                    "phonetic": "เมื่อ วาน",
+                    "word": "เมื่อวาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "date"
+                        },
+                        {
+                            "meaning": "the day that"
+                        }
+                    ],
+                    "phonetic": "วัน ที่",
+                    "word": "วันที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be happy"
+                        }
+                    ],
+                    "phonetic": "มี คฺวาม สุก",
+                    "word": "มีความสุข"
+                }
+            ]
+        },
+        {
+            "engSentence": "Till the day he returns.",
+            "id": 414446,
+            "phonetic": "จน กฺว่า จะ ถึง วัน ที่ เขา กฺลับ มา",
+            "thaiSentence": "จนกว่าจะถึงวันที่เขากลับมา",
+            "thaiSentenceSpaced": " จนกว่า จะ ถึง วันที่ เขา กลับมา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "until ; till ; as long as ; as far as"
+                        }
+                    ],
+                    "phonetic": "จน กฺว่า",
+                    "word": "จนกว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] reach ; arrive ; get to"
+                        },
+                        {
+                            "meaning": "even though ; even if"
+                        },
+                        {
+                            "meaning": "about ; of"
+                        }
+                    ],
+                    "phonetic": "ถึง",
+                    "word": "ถึง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "date"
+                        },
+                        {
+                            "meaning": "the day that"
+                        }
+                    ],
+                    "phonetic": "วัน ที่",
+                    "word": "วันที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] return ; come back ; go back"
+                        }
+                    ],
+                    "phonetic": "กฺลับ มา",
+                    "word": "กลับมา"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 26993,
+        "exampleSentences": [
+            {
+                "engSentence": "I am not gonna lose you.",
+                "id": 21685,
+                "thaiSentence": "ผมไม่มีวันที่จะสูญเสียคุณ",
+                "thaiSentenceSpaced": " ผม ไม่มี วันที่ จะ สูญเสีย คุณ "
+            },
+            {
+                "engSentence": "On the seventh day.",
+                "id": 30411,
+                "thaiSentence": "มาในวันที่เจ็ด",
+                "thaiSentenceSpaced": " มา ใน วันที่ เจ็ด "
+            },
+            {
+                "engSentence": "Oh, what a happy day.",
+                "id": 54618,
+                "thaiSentence": "โอ้ มันช่างเป็นวันที่แสนสดใสจริงเชียว",
+                "thaiSentenceSpaced": " โอ้  &middot;  มัน ช่าง เป็น วันที่ แสน สดใส จริง เชียว "
+            },
+            {
+                "engSentence": "Wait for your lucky day ?",
+                "id": 132272,
+                "thaiSentence": "รอวันที่คุณโชคดีหรือ",
+                "thaiSentenceSpaced": " รอ วันที่ คุณ โชคดี หรือ "
+            },
+            {
+                "engSentence": "I was happy yesterday.",
+                "id": 195313,
+                "thaiSentence": "เมื่อวานเป็นวันที่ฉันมีความสุข",
+                "thaiSentenceSpaced": " เมื่อวาน เป็น วันที่ ฉัน มีความสุข "
+            },
+            {
+                "engSentence": "Till the day he returns.",
+                "id": 414446,
+                "thaiSentence": "จนกว่าจะถึงวันที่เขากลับมา",
+                "thaiSentenceSpaced": " จนกว่า จะ ถึง วันที่ เขา กลับมา "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1399118,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 362198,
+                        "corpusScore": 106774,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 362198,
+                        "legacyWordId": 1399065,
+                        "meaning": "day",
+                        "parentId": 40576,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วัน"
+                    },
+                    {
+                        "childId": 416301,
+                        "corpusScore": 1264179,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 416301,
+                        "legacyWordId": 1323286,
+                        "meaning": "that ; which ; who",
+                        "parentId": 40576,
+                        "partOfSpeech": "RelativePronoun",
+                        "t2e": "ที่",
+                        "usage": "",
+                        "verified": "ที่",
+                        "word": "ที่"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "date",
+                        "word": "date"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 40576,
+                        "corpusScore": 162,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31829,
+                        "legacyWordId": 1394551,
+                        "meaning": "[to] date ; put a date on ; assign a date to",
+                        "parentId": 31829,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ลง วัน ที่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลงวันที่"
+                    },
+                    {
+                        "childId": 40576,
+                        "corpusScore": 20,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400051,
+                        "legacyWordId": 1390356,
+                        "meaning": "[to] date ; put a date on ; assign a date to",
+                        "parentId": 400051,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ระ-บุ วัน ที่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ระบุวันที่"
+                    }
+                ],
+                "explanation": null,
+                "id": 40576,
+                "isUncommon": false,
+                "meaning": "date",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "วันที่"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "the day that",
+                        "word": "the day that"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 49468,
+                        "corpusScore": 29,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 599095,
+                        "legacyWordId": 1399126,
+                        "meaning": "world habitat day",
+                        "parentId": 599095,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน ที่ หฺยู่ อา-ไส โลก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันที่อยู่อาศัยโลก"
+                    },
+                    {
+                        "childId": 49468,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 73797,
+                        "legacyWordId": 1399121,
+                        "meaning": "completion date",
+                        "parentId": 73797,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน ที่ งาน แล้ว เส็ด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันที่งานแล้วเสร็จ"
+                    },
+                    {
+                        "childId": 49468,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 73920,
+                        "legacyWordId": 1399123,
+                        "meaning": "date of termination",
+                        "parentId": 73920,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน ที่ บอก เลิก สัน-ยา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันที่บอกเลิกสัญญา"
+                    }
+                ],
+                "explanation": null,
+                "id": 49468,
+                "isUncommon": false,
+                "meaning": "the day that",
+                "partOfSpeech": "Conjunction",
+                "usage": "",
+                "word": "วันที่"
+            }
+        ],
+        "t2e": "วัน ที่",
+        "verified": null,
+        "word": "วันที่"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

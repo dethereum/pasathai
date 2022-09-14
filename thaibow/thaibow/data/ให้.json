@@ -1,0 +1,2173 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Why did you give me this ?",
+            "id": 1517,
+            "phonetic": "ทำ-ไม คุน ถึง ไห้ · นี่ กับ ฉัน",
+            "thaiSentence": "ทำไมคุณถึงให้ นี่กับฉัน",
+            "thaiSentenceSpaced": " ทำไม คุณ ถึง ให้  ·  นี่ กับ ฉัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "why"
+                        }
+                    ],
+                    "phonetic": "ทำ-ไม",
+                    "word": "ทำไม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] reach ; arrive ; get to"
+                        },
+                        {
+                            "meaning": "even though ; even if"
+                        },
+                        {
+                            "meaning": "about ; of"
+                        }
+                    ],
+                    "phonetic": "ถึง",
+                    "word": "ถึง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "with ; together with"
+                        }
+                    ],
+                    "phonetic": "กับ",
+                    "word": "กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                }
+            ]
+        },
+        {
+            "engSentence": "Can I help you ?",
+            "id": 2005,
+            "phonetic": "มี อะ-ไร ไห้ ฉัน ช่วย ไหฺม คะ",
+            "thaiSentence": "มีอะไรให้ฉันช่วยไหมคะ",
+            "thaiSentenceSpaced": " มี อะไร ให้ ฉัน ช่วย ไหม คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] help ; aid ; assist"
+                        },
+                        {
+                            "meaning": "please"
+                        }
+                    ],
+                    "phonetic": "ช่วย",
+                    "word": "ช่วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Let me take you home.",
+            "id": 3325,
+            "phonetic": "ไห้ ผม พา คุน กฺลับ บ้า น เถอะ",
+            "thaiSentence": "ให้ผมพาคุณกลับบ้านเถอะ",
+            "thaiSentenceSpaced": " ให้ ผม พา คุณ กลับ บ้าน เถอะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] bring ; lead ; guide"
+                        }
+                    ],
+                    "phonetic": "พา",
+                    "word": "พา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] return ; go back ; reverse"
+                        }
+                    ],
+                    "phonetic": "กฺลับ",
+                    "word": "กลับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] mad ; crazy ; insane"
+                        }
+                    ],
+                    "phonetic": "บ้า",
+                    "word": "บ้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "nor noo <i>(น - the twenty fifth letter in the Thai alphabet)</i>"
+                        }
+                    ],
+                    "phonetic": "น",
+                    "word": "น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(a particle adding a sense of mild urging or emphasis to the sentence, sometimes equivalent to \"let's...\" in English)</i>"
+                        }
+                    ],
+                    "phonetic": "เถอะ",
+                    "word": "เถอะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Want me to tell you why ?",
+            "id": 3781,
+            "phonetic": "หฺยาก ไห้ ฉัน บอก ว่า · ทำ-ไม เหฺรอ",
+            "thaiSentence": "อยากให้ฉันบอกว่า ทำไมเหรอ",
+            "thaiSentenceSpaced": " อยาก ให้ ฉัน บอก ว่า  ·  ทำไม เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want to"
+                        }
+                    ],
+                    "phonetic": "หฺยาก",
+                    "word": "อยาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] tell ; say ; describe"
+                        }
+                    ],
+                    "phonetic": "บอก",
+                    "word": "บอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        },
+                        {
+                            "meaning": "[to] say ; tell"
+                        },
+                        {
+                            "meaning": "[to] blame ; criticise"
+                        }
+                    ],
+                    "phonetic": "ว่า",
+                    "word": "ว่า"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "why"
+                        }
+                    ],
+                    "phonetic": "ทำ-ไม",
+                    "word": "ทำไม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Hey, leave me the umbrella.",
+            "id": 4656,
+            "phonetic": "เฮ้ · นี่ · เอา ร่ม ทิ้ง ไว้ ไห้ ผม ด้วย สิ",
+            "thaiSentence": "เฮ้ นี่ เอาร่มทิ้งไว้ให้ผมด้วยสิ",
+            "thaiSentenceSpaced": " เฮ้  ·  นี่  ·  เอา ร่ม ทิ้ง ไว้ ให้ ผม ด้วย สิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hey!"
+                        }
+                    ],
+                    "phonetic": "เฮ้",
+                    "word": "เฮ้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; desire"
+                        },
+                        {
+                            "meaning": "[to] take ; bring"
+                        }
+                    ],
+                    "phonetic": "เอา",
+                    "word": "เอา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "umbrella"
+                        },
+                        {
+                            "meaning": "[to] shade ; protect"
+                        },
+                        {
+                            "meaning": "[to] be shady ; be shadowy"
+                        }
+                    ],
+                    "phonetic": "ร่ม",
+                    "word": "ร่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] leave ; throw away ; discard"
+                        }
+                    ],
+                    "phonetic": "ทิ้ง",
+                    "word": "ทิ้ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] keep ; save ; store"
+                        }
+                    ],
+                    "phonetic": "ไว้",
+                    "word": "ไว้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I had to prepare for today.",
+            "id": 5071,
+            "phonetic": "ฉัน ต้อง จัด พวก มัน ไห้ เส็ด เพื่อ วัน นี้",
+            "thaiSentence": "ฉันต้องจัดพวกมันให้เสร็จเพื่อวันนี้",
+            "thaiSentenceSpaced": " ฉัน ต้อง จัด พวกมัน ให้ เสร็จ เพื่อ วันนี้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] intense ; strong ; concentrated"
+                        },
+                        {
+                            "meaning": "intensely ; extremely"
+                        },
+                        {
+                            "meaning": "[to] arrange ; prepare ; adjust"
+                        }
+                    ],
+                    "phonetic": "จัด",
+                    "word": "จัด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "they ; them"
+                        }
+                    ],
+                    "phonetic": "พวก มัน",
+                    "word": "พวกมัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] finish ; complete ; succeed"
+                        }
+                    ],
+                    "phonetic": "เส็ด",
+                    "word": "เสร็จ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "for ; in order to"
+                        }
+                    ],
+                    "phonetic": "เพื่อ",
+                    "word": "เพื่อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "today"
+                        }
+                    ],
+                    "phonetic": "วัน นี้",
+                    "word": "วันนี้"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 518149,
+        "exampleSentences": [
+            {
+                "engSentence": "Why did you give me this ?",
+                "id": 1517,
+                "thaiSentence": "ทำไมคุณถึงให้ นี่กับฉัน",
+                "thaiSentenceSpaced": " ทำไม คุณ ถึง ให้  &middot;  นี่ กับ ฉัน "
+            },
+            {
+                "engSentence": "Can I help you ?",
+                "id": 2005,
+                "thaiSentence": "มีอะไรให้ฉันช่วยไหมคะ",
+                "thaiSentenceSpaced": " มี อะไร ให้ ฉัน ช่วย ไหม คะ "
+            },
+            {
+                "engSentence": "Let me take you home.",
+                "id": 3325,
+                "thaiSentence": "ให้ผมพาคุณกลับบ้านเถอะ",
+                "thaiSentenceSpaced": " ให้ ผม พา คุณ กลับ บ้าน เถอะ "
+            },
+            {
+                "engSentence": "Want me to tell you why ?",
+                "id": 3781,
+                "thaiSentence": "อยากให้ฉันบอกว่า ทำไมเหรอ",
+                "thaiSentenceSpaced": " อยาก ให้ ฉัน บอก ว่า  &middot;  ทำไม เหรอ "
+            },
+            {
+                "engSentence": "Hey, leave me the umbrella.",
+                "id": 4656,
+                "thaiSentence": "เฮ้ นี่ เอาร่มทิ้งไว้ให้ผมด้วยสิ",
+                "thaiSentenceSpaced": " เฮ้  &middot;  นี่  &middot;  เอา ร่ม ทิ้ง ไว้ ให้ ผม ด้วย สิ "
+            },
+            {
+                "engSentence": "I had to prepare for today.",
+                "id": 5071,
+                "thaiSentence": "ฉันต้องจัดพวกมันให้เสร็จเพื่อวันนี้",
+                "thaiSentenceSpaced": " ฉัน ต้อง จัด พวกมัน ให้ เสร็จ เพื่อ วันนี้ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1450863,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 1,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] give",
+                        "word": "give"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "offer",
+                        "word": "offer"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 27492,
+                        "corpusScore": 10720,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 49924,
+                        "legacyWordId": 1271786,
+                        "meaning": "giving",
+                        "parentId": 49924,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การให้"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 7405,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46857,
+                        "legacyWordId": 1450873,
+                        "meaning": "to ; for",
+                        "parentId": 46857,
+                        "partOfSpeech": "Preposition",
+                        "t2e": "ไห้ แก่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้แก่"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 5867,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11108,
+                        "legacyWordId": 1450935,
+                        "meaning": "[to] service ; provide service ; serve",
+                        "parentId": 11108,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ บอ-ริ-กาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้บริการ"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 5747,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25550,
+                        "legacyWordId": 1450868,
+                        "meaning": "[to] give testimony ; give evidence ; testify",
+                        "parentId": 25550,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ กาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้การ"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 2006,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395218,
+                        "legacyWordId": 1402309,
+                        "meaning": "[to] send to ; transfer",
+                        "parentId": 395218,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ส่ง ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ส่งให้"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 1799,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35196,
+                        "legacyWordId": 1375050,
+                        "meaning": "giver ; donor ; supplier",
+                        "parentId": 35196,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้ให้"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 1703,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27758,
+                        "legacyWordId": 1450941,
+                        "meaning": "[to] give a result ; give an outcome",
+                        "parentId": 27758,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ ผน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้ผล"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 1360,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1871,
+                        "legacyWordId": 1450887,
+                        "meaning": "[to] place importance (on) ; give priority (to)",
+                        "parentId": 1871,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ คฺวาม สำ-คัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้ความสำคัญ"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 1254,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394712,
+                        "legacyWordId": 1451309,
+                        "meaning": "[to] sort out ; separate ; weed out",
+                        "parentId": 394712,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ ออก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้ออก"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 1025,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2338,
+                        "legacyWordId": 1451310,
+                        "meaning": "[to] feed ; give food (to) ; provide food (for)",
+                        "parentId": 2338,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้อาหาร"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 1010,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402517,
+                        "legacyWordId": 1450927,
+                        "meaning": "[to] make way for ; make room for",
+                        "parentId": 402517,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้ทาง"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 883,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27674,
+                        "legacyWordId": 1451286,
+                        "meaning": "[to] give a prescription",
+                        "parentId": 27674,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ ยา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้ยา"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 866,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402518,
+                        "legacyWordId": 1450928,
+                        "meaning": "[to] donate ; give alms",
+                        "parentId": 402518,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ ทาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้ทาน"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 842,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402506,
+                        "legacyWordId": 1450871,
+                        "meaning": "[to] encourage ; inspire ; hearten",
+                        "parentId": 402506,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ กำ-ลัง ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้กำลังใจ"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 737,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26277,
+                        "legacyWordId": 1451308,
+                        "meaning": "[to] forgive ; excuse ; condone",
+                        "parentId": 26277,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ อะ-ไพ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้อภัย"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 736,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402524,
+                        "legacyWordId": 1450872,
+                        "meaning": "[to] respect ; esteem ; regard",
+                        "parentId": 402524,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ เกียด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้เกียรติ"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 725,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27271,
+                        "legacyWordId": 1450885,
+                        "meaning": "[to] take an interest (in) ; pay attention (to)",
+                        "parentId": 27271,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ คฺวาม สน ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้ความสนใจ"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 710,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394985,
+                        "legacyWordId": 1451312,
+                        "meaning": "[to] give (someone) a chance",
+                        "parentId": 394985,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ โอ-กาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้โอกาส"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 661,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27197,
+                        "legacyWordId": 1450895,
+                        "meaning": "[to] give someone money",
+                        "parentId": 27197,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้เงิน"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 650,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5740,
+                        "legacyWordId": 1450890,
+                        "meaning": "[to] give a score ; give a mark",
+                        "parentId": 5740,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ คะ-แนน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้คะแนน"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 641,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4789,
+                        "legacyWordId": 1450933,
+                        "meaning": "[to] breast-feed ; nurse ; suckle",
+                        "parentId": 4789,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ นม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้นม"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 608,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402526,
+                        "legacyWordId": 1450938,
+                        "meaning": "[to] inspire ; cause ; bring forth",
+                        "parentId": 402526,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ เป็น ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้เป็นไป"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 585,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22036,
+                        "legacyWordId": 1451311,
+                        "meaning": "[to] authorize ; give authority to somebody",
+                        "parentId": 22036,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ อำ-นาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้อำนาจ"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 539,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46862,
+                        "legacyWordId": 1450878,
+                        "meaning": "[to] assist ; provide help",
+                        "parentId": 46862,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ คฺวาม ช่วย เหฺลือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้ความช่วยเหลือ"
+                    },
+                    {
+                        "childId": 27492,
+                        "corpusScore": 481,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23538,
+                        "legacyWordId": 1451288,
+                        "meaning": "[to] set the price ; offer the price",
+                        "parentId": 23538,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้ราคา"
+                    }
+                ],
+                "explanation": null,
+                "id": 27492,
+                "isUncommon": false,
+                "meaning": "[to] give ; offer",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ให้"
+            },
+            {
+                "components": [],
+                "displayOrder": 2,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] let",
+                        "word": "let"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "have",
+                        "word": "have"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 416309,
+                        "corpusScore": 85206,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 16436,
+                        "legacyWordId": 1323096,
+                        "meaning": "[to] cause ; make",
+                        "parentId": 16436,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำให้"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 15240,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 22443,
+                        "legacyWordId": 1379856,
+                        "meaning": "in order that ; in order to",
+                        "parentId": 22443,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "เพื่อ ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพื่อให้"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 11910,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 29557,
+                        "legacyWordId": 1275786,
+                        "meaning": "[to] request ; beg ; ask",
+                        "parentId": 29557,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอให้"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 3063,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 40846,
+                        "legacyWordId": 1451292,
+                        "meaning": "[to] let someone know (something)",
+                        "parentId": 40846,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ รู้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้รู้"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 1996,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 101117,
+                        "legacyWordId": 1450900,
+                        "meaning": "for rent ; for hire",
+                        "parentId": 101117,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ไห้ เช่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้เช่า"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 1722,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21137,
+                        "legacyWordId": 1387536,
+                        "meaning": "[to] yield ; agree to let ; agree to allow",
+                        "parentId": 21137,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ยอม ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยอมให้"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 1393,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17755,
+                        "legacyWordId": 1309982,
+                        "meaning": "even ; even though ; even if",
+                        "parentId": 17755,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ต่อ ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ต่อให้"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 1347,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4117,
+                        "legacyWordId": 1410277,
+                        "meaning": "[to] indicate ; show ; signify",
+                        "parentId": 4117,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สะ-แดง ไห้ เห็น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แสดงให้เห็น"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 717,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 390084,
+                        "legacyWordId": 1450922,
+                        "meaning": "damn it!",
+                        "parentId": 390084,
+                        "partOfSpeech": "Interjection",
+                        "t2e": "ไห้ ตาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้ตาย"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 469,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41016,
+                        "legacyWordId": 1387067,
+                        "meaning": "won\\'t let",
+                        "parentId": 41016,
+                        "partOfSpeech": "None",
+                        "t2e": "ไม่ ยอม ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ยอมให้"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 448,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46858,
+                        "legacyWordId": 1451306,
+                        "meaning": "[to] call for",
+                        "parentId": 46858,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้หา"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 405,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11683,
+                        "legacyWordId": 1293109,
+                        "meaning": "[to] indicate ; point out ; show",
+                        "parentId": 11683,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชี้ ไห้ เห็น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชี้ให้เห็น"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 230,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22551,
+                        "legacyWordId": 1290827,
+                        "meaning": "[to] inform ; announce",
+                        "parentId": 22551,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แจ้ง ไห้ ซาบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แจ้งให้ทราบ"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 227,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3814,
+                        "legacyWordId": 1451287,
+                        "meaning": "[to] lend",
+                        "parentId": 3814,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ ยืม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้ยืม"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 216,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23419,
+                        "legacyWordId": 1402277,
+                        "meaning": "[to] cause ; initiate ; be the cause of",
+                        "parentId": 23419,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ส่ง ผน ไห้ เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ส่งผลให้เกิด"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 48,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394965,
+                        "legacyWordId": 1332335,
+                        "meaning": "[to] inform ; announce",
+                        "parentId": 394965,
+                        "partOfSpeech": "Verb",
+                        "t2e": "บอก ไห้ ซาบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บอกให้ทราบ"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 17,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 165148,
+                        "legacyWordId": 1450923,
+                        "meaning": "damn it!",
+                        "parentId": 165148,
+                        "partOfSpeech": "Interjection",
+                        "t2e": "ไห้ ตาย สิ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้ตายสิ"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 3,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396227,
+                        "legacyWordId": 1269712,
+                        "meaning": "phenomenon ; occurrence",
+                        "parentId": 396227,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ปฺรา-กด ไห้ เห็น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การปรากฏให้เห็น"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 1,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41031,
+                        "legacyWordId": 1450898,
+                        "meaning": "[to] be not important",
+                        "parentId": 41031,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ ช่าง มัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้ช่างมัน"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103454,
+                        "legacyWordId": 1392899,
+                        "meaning": "[to] get (someone) to come over ; call (someone) to come over",
+                        "parentId": 103454,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เรียก (...) ไห้ มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรียก (...) ให้มา"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103457,
+                        "legacyWordId": 1387228,
+                        "meaning": "[to] be not permitted to bring (something) in",
+                        "parentId": 103457,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไม่ ไห้ นำ (...) เข้า มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ให้นำ (...) เข้ามา"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 190419,
+                        "legacyWordId": 1271850,
+                        "meaning": "recognition",
+                        "parentId": 190419,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน อะ-นุ-ยาด ไห้ อะ-พิ ปฺราย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การอนุญาตให้อภิปราย"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 69056,
+                        "legacyWordId": 1367369,
+                        "meaning": "exit permit",
+                        "parentId": 69056,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไบ อะ-นุ-ยาด ไห้ ออก จาก ปฺระ-เทด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใบอนุญาตให้ออกจากประเทศ"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 189978,
+                        "legacyWordId": 1270301,
+                        "meaning": "land grant",
+                        "parentId": 189978,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน มอบ ที่ สา-ทา-ระ-นะ ไห้ ไช้ เพื่อ สา-ทา-ระ-นะ ปฺระ-โหฺยด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การมอบที่สาธารณะให้ใช้เพื่อสาธารณประโยชน์"
+                    },
+                    {
+                        "childId": 416309,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 190303,
+                        "legacyWordId": 1267390,
+                        "meaning": "picketing",
+                        "parentId": 190303,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ขัด ขฺวาง ไม่ ไห้ เข้า ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การขัดขวางไม่ให้เข้าทำงาน"
+                    }
+                ],
+                "explanation": "someone to do something",
+                "id": 416309,
+                "isUncommon": false,
+                "meaning": "[to] let ; have",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ให้"
+            },
+            {
+                "components": [],
+                "displayOrder": 3,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "to",
+                        "word": "to"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "for",
+                        "word": "for"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "so that",
+                        "word": "so that"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 48267,
+                        "corpusScore": 2589,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 45124,
+                        "legacyWordId": 1451805,
+                        "meaning": "[to] permit ; give permission",
+                        "parentId": 45124,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อะ-นุ-ยาด ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อนุญาตให้"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 2285,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28183,
+                        "legacyWordId": 1266308,
+                        "meaning": "[to] cause ; produce ; lead to",
+                        "parentId": 28183,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ก่อ ไห้ เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ก่อให้เกิด"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 1866,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28707,
+                        "legacyWordId": 1383248,
+                        "meaning": "[to] give ; bestow ; grant",
+                        "parentId": 28707,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มอบ ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มอบให้"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 1526,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394981,
+                        "legacyWordId": 1402276,
+                        "meaning": "[to] cause ; result in",
+                        "parentId": 394981,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ส่ง ผน ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ส่งผลให้"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 952,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46331,
+                        "legacyWordId": 1387329,
+                        "meaning": "[to] grant ; give",
+                        "parentId": 46331,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ยก ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยกให้"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 706,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22387,
+                        "legacyWordId": 1372317,
+                        "meaning": "[to] cause ; result in",
+                        "parentId": 22387,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เป็น เหด ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เป็นเหตุให้"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 501,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36221,
+                        "legacyWordId": 1377684,
+                        "meaning": "in order to",
+                        "parentId": 36221,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "พอ ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พอให้"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 217,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395013,
+                        "legacyWordId": 1372193,
+                        "meaning": "[to] cause ; initiate ; be the cause of",
+                        "parentId": 395013,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เป็น ผน ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เป็นผลให้"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 71,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41173,
+                        "legacyWordId": 1404389,
+                        "meaning": "make problems for",
+                        "parentId": 41173,
+                        "partOfSpeech": "None",
+                        "t2e": "ส้าง ปัน-หา ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สร้างปัญหาให้"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 60,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25694,
+                        "legacyWordId": 1387290,
+                        "meaning": "[to] forgive ; pardon ; excuse",
+                        "parentId": 25694,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ยก โทด ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยกโทษให้"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 54,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 74233,
+                        "legacyWordId": 1387627,
+                        "meaning": "give effect",
+                        "parentId": 74233,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ยัง ผน ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยังผลให้"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 41,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 93336,
+                        "legacyWordId": 1288975,
+                        "meaning": "provide",
+                        "parentId": 93336,
+                        "partOfSpeech": "Noun",
+                        "t2e": "จัด หา ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จัดหาให้"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 38,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48187,
+                        "legacyWordId": 1373313,
+                        "meaning": "go away! ; leave me alone!",
+                        "parentId": 48187,
+                        "partOfSpeech": "Interjection",
+                        "t2e": "ไป ไห้ พ้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปให้พ้น"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 12,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 59455,
+                        "legacyWordId": 1268683,
+                        "meaning": "designation",
+                        "parentId": 59455,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน แต่ง ตั้ง ไห้ ดำ-รง ตำ-แหฺน่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การแต่งตั้งให้ดำรงตำแหน่ง"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 3,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 73314,
+                        "legacyWordId": 1390635,
+                        "meaning": "spare the rod and spoil the child",
+                        "parentId": 73314,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รัก วัว ไห้ ผูก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รักวัวให้ผูก"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 3,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 73302,
+                        "legacyWordId": 1329453,
+                        "meaning": "make hay while the sun shines",
+                        "parentId": 73302,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้าม ขึ้น ไห้ รีบ ตัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น้ำขึ้นให้รีบตัก"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 1,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 73291,
+                        "legacyWordId": 1388312,
+                        "meaning": "cast pearls before swine",
+                        "parentId": 73291,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ยื่น แก้ว ไห้ วา-นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยื่นแก้วให้วานร"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 1,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 93609,
+                        "legacyWordId": 1450902,
+                        "meaning": "shared",
+                        "parentId": 93609,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไห้ ไช้ ร่วม กัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้ใช้ร่วมกัน"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 1,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 72176,
+                        "legacyWordId": 1369409,
+                        "meaning": "liberate",
+                        "parentId": 72176,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลด ปฺล่อย ไห้ เป็น อิด-สะ-หฺระ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลดปล่อยให้เป็นอิสระ"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103823,
+                        "legacyWordId": 1402162,
+                        "meaning": "[to] send (something) to (someone)",
+                        "parentId": 103823,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ส่ง (...) ไห้ (...)",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ส่ง (...) ให้ (...)"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103434,
+                        "legacyWordId": 1452015,
+                        "meaning": "don't (something) too much",
+                        "parentId": 103434,
+                        "partOfSpeech": "Phrase",
+                        "t2e": "หฺย่า (...) ไห้ มาก ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อย่า (...) ให้มากไป"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 99906,
+                        "legacyWordId": 1282801,
+                        "meaning": "permeability",
+                        "parentId": 99906,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม สา-มาด ไห้ น้าม ซึม ผ่าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความสามารถให้น้ำซึมผ่าน"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 190410,
+                        "legacyWordId": 1268682,
+                        "meaning": "reappointment",
+                        "parentId": 190410,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน แต่ง ตั้ง ไห้ กฺลับ เข้า ดำ-รง ตำ-แหฺน่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การแต่งตั้งให้กลับเข้าดำรงตำแหน่ง"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 63211,
+                        "legacyWordId": 1382055,
+                        "meaning": "shared tax",
+                        "parentId": 63211,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พา-สี ที่ ปัน ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ภาษีที่ปันให้"
+                    },
+                    {
+                        "childId": 48267,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 74516,
+                        "legacyWordId": 1294603,
+                        "meaning": "make good",
+                        "parentId": 74516,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ซ่อม คืน ไห้ หฺยู่ ไน สะ-พาบ ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซ่อมคืนให้อยู่ในสภาพดี"
+                    }
+                ],
+                "explanation": null,
+                "id": 48267,
+                "isUncommon": false,
+                "meaning": "to ; for ; so that",
+                "partOfSpeech": "SecondaryVerb",
+                "usage": "",
+                "word": "ให้"
+            },
+            {
+                "components": [],
+                "displayOrder": 4,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "",
+                        "word": ""
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 48198,
+                        "corpusScore": 4657,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 191358,
+                        "legacyWordId": 1450921,
+                        "meaning": "well ; carefully ; properly",
+                        "parentId": 191358,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไห้ ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้ดี"
+                    },
+                    {
+                        "childId": 48198,
+                        "corpusScore": 596,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41384,
+                        "legacyWordId": 1450925,
+                        "meaning": "correctly",
+                        "parentId": 41384,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไห้ ถูก ต้อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้ถูกต้อง"
+                    },
+                    {
+                        "childId": 48198,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 189409,
+                        "legacyWordId": 1374686,
+                        "meaning": "alarmist",
+                        "parentId": 189409,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ ปฺลุก ปั่น ไห้ ตื่น ตฺระ-หฺนก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้ปลุกปั่นให้ตื่นตระหนก"
+                    },
+                    {
+                        "childId": 48198,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 190384,
+                        "legacyWordId": 1267208,
+                        "meaning": "quartering",
+                        "parentId": 190384,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน กำ-หฺนด ย่าน ไห้ พัก อา-ไส",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การกำหนดย่านให้พักอาศัย"
+                    },
+                    {
+                        "childId": 48198,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24357,
+                        "legacyWordId": 1289156,
+                        "meaning": "[to] prove guilty",
+                        "parentId": 24357,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จับ ไห้ มั่น คั้น ไห้ ตาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จับให้มั่นคั้นให้ตาย"
+                    }
+                ],
+                "explanation": "It's a marker that makes the following adjective into an adverb",
+                "id": 48198,
+                "isUncommon": false,
+                "meaning": "",
+                "partOfSpeech": "Prefix",
+                "usage": "",
+                "word": "ให้"
+            }
+        ],
+        "t2e": "ไห้",
+        "verified": "ไห้",
+        "word": "ให้"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,784 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "You two, take the horses.",
+            "id": 60280,
+            "phonetic": "คุน สอง คน · ไป เอา ม้า มา",
+            "thaiSentence": "คุณสองคน ไปเอาม้ามา",
+            "thaiSentenceSpaced": " คุณ สอง คน  ·  ไป เอา ม้า มา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "two"
+                        }
+                    ],
+                    "phonetic": "สอง",
+                    "word": "สอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; desire"
+                        },
+                        {
+                            "meaning": "[to] take ; bring"
+                        }
+                    ],
+                    "phonetic": "เอา",
+                    "word": "เอา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bench ; stool"
+                        },
+                        {
+                            "meaning": "horse ; pony"
+                        }
+                    ],
+                    "phonetic": "ม้า",
+                    "word": "ม้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                }
+            ]
+        },
+        {
+            "engSentence": "Very good horse.",
+            "id": 188283,
+            "phonetic": "เป็น ม้า ที่ ดี มาก",
+            "thaiSentence": "เป็นม้าที่ดีมาก",
+            "thaiSentenceSpaced": " เป็น ม้า ที่ดี มาก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bench ; stool"
+                        },
+                        {
+                            "meaning": "horse ; pony"
+                        }
+                    ],
+                    "phonetic": "ม้า",
+                    "word": "ม้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "best"
+                        }
+                    ],
+                    "phonetic": "ที่ ดี",
+                    "word": "ที่ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much ; a lot ; very"
+                        }
+                    ],
+                    "phonetic": "มาก",
+                    "word": "มาก"
+                }
+            ]
+        },
+        {
+            "engSentence": "Take the horse.",
+            "id": 188284,
+            "phonetic": "เอา ม้า ไป สิ",
+            "thaiSentence": "เอาม้าไปสิ",
+            "thaiSentenceSpaced": " เอา ม้า ไป สิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; desire"
+                        },
+                        {
+                            "meaning": "[to] take ; bring"
+                        }
+                    ],
+                    "phonetic": "เอา",
+                    "word": "เอา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bench ; stool"
+                        },
+                        {
+                            "meaning": "horse ; pony"
+                        }
+                    ],
+                    "phonetic": "ม้า",
+                    "word": "ม้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Daddy, I want another pony.",
+            "id": 202561,
+            "phonetic": "พ่อ ค่ะ · หฺนู ต้อง กาน ลูก ม้า อีก ตัว ค่ะ",
+            "thaiSentence": "พ่อค่ะ หนูต้องการลูกม้าอีกตัวค่ะ",
+            "thaiSentenceSpaced": " พ่อ ค่ะ  ·  หนู ต้องการ ลูก ม้า อีก ตัว ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I <i>(used by a father when talking to his children)</i>"
+                        },
+                        {
+                            "meaning": "you <i>(used by children when addressing their father)</i>"
+                        },
+                        {
+                            "meaning": "father ; dad ; daddy"
+                        }
+                    ],
+                    "phonetic": "พ่อ",
+                    "word": "พ่อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "rat ; mouse"
+                        },
+                        {
+                            "meaning": "she ; her"
+                        },
+                        {
+                            "meaning": "you"
+                        },
+                        {
+                            "meaning": "I ; me <i>(used by young children, and by women when speaking to their elders)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺนู",
+                    "word": "หนู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; need ; require"
+                        }
+                    ],
+                    "phonetic": "ต้อง กาน",
+                    "word": "ต้องการ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you <i>(used by a parent when talking to their children)</i>"
+                        },
+                        {
+                            "meaning": " <i>(ลูก is the classifier for anything small and round shaped - mostly fruit and types of balls. It is also the classifier for hills, mountains, storms, hurricanes and waves too.)</i>"
+                        },
+                        {
+                            "meaning": " <i>(prefix used before small objects, usually round or spherical)</i>"
+                        },
+                        {
+                            "meaning": "child ; offspring <i>(used for both humans and animals)</i>"
+                        },
+                        {
+                            "meaning": " <i>(prefix used before a subordinate, purchaser, employee or junior partner)</i>"
+                        }
+                    ],
+                    "phonetic": "ลูก",
+                    "word": "ลูก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bench ; stool"
+                        },
+                        {
+                            "meaning": "horse ; pony"
+                        }
+                    ],
+                    "phonetic": "ม้า",
+                    "word": "ม้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "again ; once more ; more"
+                        }
+                    ],
+                    "phonetic": "อีก",
+                    "word": "อีก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "body ; physique <i>(ตัว is a classifier every type of animal, all pieces of clothing (except ones that come in pairs, but including trousers), chairs, tables and other pieces of furniture, letters and numbers of the alphabet, and also functions as a general purpose classifier for things and objects.)</i>"
+                        },
+                        {
+                            "meaning": "self ; oneself"
+                        },
+                        {
+                            "meaning": " <i>(prefix for an actor or character)</i>"
+                        },
+                        {
+                            "meaning": "character ; letter ; entity"
+                        },
+                        {
+                            "meaning": " <i>(prefix meaning \"someone or something that does/is...\")</i>"
+                        }
+                    ],
+                    "phonetic": "ตัว",
+                    "word": "ตัว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I saw a horse.",
+            "id": 235564,
+            "phonetic": "ฉัน เห็น ม้า นะ",
+            "thaiSentence": "ฉันเห็นม้านะ",
+            "thaiSentenceSpaced": " ฉัน เห็น ม้า นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] see"
+                        }
+                    ],
+                    "phonetic": "เห็น",
+                    "word": "เห็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bench ; stool"
+                        },
+                        {
+                            "meaning": "horse ; pony"
+                        }
+                    ],
+                    "phonetic": "ม้า",
+                    "word": "ม้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I have a beautiful grey.",
+            "id": 317414,
+            "phonetic": "ฉัน มี ม้า สี เทา สวย ตัว หฺนึ่ง",
+            "thaiSentence": "ฉันมีม้าสีเทาสวยตัวหนึ่ง",
+            "thaiSentenceSpaced": " ฉัน มี ม้า สีเทา สวย ตัว หนึ่ง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bench ; stool"
+                        },
+                        {
+                            "meaning": "horse ; pony"
+                        }
+                    ],
+                    "phonetic": "ม้า",
+                    "word": "ม้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] gray"
+                        }
+                    ],
+                    "phonetic": "สี เทา",
+                    "word": "สีเทา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] beautiful ; attractive ; pretty"
+                        }
+                    ],
+                    "phonetic": "สวย",
+                    "word": "สวย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "body ; physique <i>(ตัว is a classifier every type of animal, all pieces of clothing (except ones that come in pairs, but including trousers), chairs, tables and other pieces of furniture, letters and numbers of the alphabet, and also functions as a general purpose classifier for things and objects.)</i>"
+                        },
+                        {
+                            "meaning": "self ; oneself"
+                        },
+                        {
+                            "meaning": " <i>(prefix for an actor or character)</i>"
+                        },
+                        {
+                            "meaning": "character ; letter ; entity"
+                        },
+                        {
+                            "meaning": " <i>(prefix meaning \"someone or something that does/is...\")</i>"
+                        }
+                    ],
+                    "phonetic": "ตัว",
+                    "word": "ตัว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "หฺนึ่ง",
+                    "word": "หนึ่ง"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 4877,
+        "exampleSentences": [
+            {
+                "engSentence": "You two, take the horses.",
+                "id": 60280,
+                "thaiSentence": "คุณสองคน ไปเอาม้ามา",
+                "thaiSentenceSpaced": " คุณ สอง คน  &middot;  ไป เอา ม้า มา "
+            },
+            {
+                "engSentence": "Very good horse.",
+                "id": 188283,
+                "thaiSentence": "เป็นม้าที่ดีมาก",
+                "thaiSentenceSpaced": " เป็น ม้า ที่ดี มาก "
+            },
+            {
+                "engSentence": "Take the horse.",
+                "id": 188284,
+                "thaiSentence": "เอาม้าไปสิ",
+                "thaiSentenceSpaced": " เอา ม้า ไป สิ "
+            },
+            {
+                "engSentence": "Daddy, I want another pony.",
+                "id": 202561,
+                "thaiSentence": "พ่อค่ะ หนูต้องการลูกม้าอีกตัวค่ะ",
+                "thaiSentenceSpaced": " พ่อ ค่ะ  &middot;  หนู ต้องการ ลูก ม้า อีก ตัว ค่ะ "
+            },
+            {
+                "engSentence": "I saw a horse.",
+                "id": 235564,
+                "thaiSentence": "ฉันเห็นม้านะ",
+                "thaiSentenceSpaced": " ฉัน เห็น ม้า นะ "
+            },
+            {
+                "engSentence": "I have a beautiful grey.",
+                "id": 317414,
+                "thaiSentence": "ฉันมีม้าสีเทาสวยตัวหนึ่ง",
+                "thaiSentenceSpaced": " ฉัน มี ม้า สีเทา สวย ตัว หนึ่ง "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1383858,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "bench",
+                        "word": "bench"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "stool",
+                        "word": "stool"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 23851,
+                        "corpusScore": 144,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18949,
+                        "legacyWordId": 1384039,
+                        "meaning": "bench ; stool",
+                        "parentId": 18949,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ม้า นั่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ม้านั่ง"
+                    },
+                    {
+                        "childId": 23851,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399862,
+                        "legacyWordId": 1384140,
+                        "meaning": "bench",
+                        "parentId": 399862,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ม้า ยาว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ม้ายาว"
+                    },
+                    {
+                        "childId": 23851,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": "The name of a village in Pattani province",
+                        "hasSoundFile": false,
+                        "id": 679262,
+                        "legacyWordId": 1293708,
+                        "meaning": "Chum Chon Saphan Ma",
+                        "parentId": 679262,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม ชน สะ-พาน ม้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนสะพานม้า"
+                    },
+                    {
+                        "childId": 23851,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2654,
+                        "legacyWordId": 1273718,
+                        "meaning": "bench",
+                        "parentId": 2654,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เก้า-อี้ ม้า ยาว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เก้าอี้ม้ายาว"
+                    },
+                    {
+                        "childId": 23851,
+                        "corpusScore": 0,
+                        "displayOrder": 4,
+                        "etymology": "",
+                        "explanation": "The name of a village in Chon Buri province",
+                        "hasSoundFile": false,
+                        "id": 610375,
+                        "legacyWordId": 1293556,
+                        "meaning": "Chum Chon Pun Thao Ma",
+                        "parentId": 610375,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม ชน ปูน เถ้า ม้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนปูนเถ้าม้า"
+                    }
+                ],
+                "explanation": null,
+                "id": 23851,
+                "isUncommon": false,
+                "meaning": "bench ; stool",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ม้า"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "horse",
+                        "word": "horse"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "pony",
+                        "word": "pony"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 42294,
+                        "corpusScore": 130,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19341,
+                        "legacyWordId": 1413843,
+                        "meaning": "claque ; shill",
+                        "parentId": 19341,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น่า ม้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หน้าม้า"
+                    },
+                    {
+                        "childId": 42294,
+                        "corpusScore": 91,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23119,
+                        "legacyWordId": 1384227,
+                        "meaning": "zebra",
+                        "parentId": 23119,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ม้า ลาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ม้าลาย"
+                    },
+                    {
+                        "childId": 42294,
+                        "corpusScore": 48,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18212,
+                        "legacyWordId": 1283173,
+                        "meaning": "stable",
+                        "parentId": 18212,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คอก ม้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คอกม้า"
+                    },
+                    {
+                        "childId": 42294,
+                        "corpusScore": 41,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36633,
+                        "legacyWordId": 1402827,
+                        "meaning": "racecourse ; race track ; turf",
+                        "parentId": 36633,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ-หฺนาม ม้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สนามม้า"
+                    },
+                    {
+                        "childId": 42294,
+                        "corpusScore": 14,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394824,
+                        "legacyWordId": 1388083,
+                        "meaning": "amphetamines ; yaba",
+                        "parentId": 394824,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ยา ม้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยาม้า"
+                    }
+                ],
+                "explanation": null,
+                "id": 42294,
+                "isUncommon": false,
+                "meaning": "horse ; pony",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ม้า"
+            }
+        ],
+        "t2e": "ม้า",
+        "verified": null,
+        "word": "ม้า"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

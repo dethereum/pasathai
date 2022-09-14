@@ -1,0 +1,883 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "She should have killed ten.",
+            "id": 32608,
+            "phonetic": "เขา ควน จะ ค่า สิบ คน",
+            "thaiSentence": "เขาควรจะฆ่าสิบคน",
+            "thaiSentenceSpaced": " เขา ควรจะ ฆ่า สิบ คน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "should ; ought to"
+                        }
+                    ],
+                    "phonetic": "ควน จะ",
+                    "word": "ควรจะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] assassinate ; kill ; murder"
+                        }
+                    ],
+                    "phonetic": "ค่า",
+                    "word": "ฆ่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "ten"
+                        }
+                    ],
+                    "phonetic": "สิบ",
+                    "word": "สิบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                }
+            ]
+        },
+        {
+            "engSentence": "Nine or ten hours.",
+            "id": 56520,
+            "phonetic": "ปฺระ-มาน เก้า ถึง สิบ ชั่ว โมง",
+            "thaiSentence": "ประมาณเก้าถึงสิบชั่วโมง",
+            "thaiSentenceSpaced": " ประมาณ เก้า ถึง สิบ ชั่วโมง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "about ; around ; approximately"
+                        }
+                    ],
+                    "phonetic": "ปฺระ-มาน",
+                    "word": "ประมาณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "nine"
+                        }
+                    ],
+                    "phonetic": "เก้า",
+                    "word": "เก้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] reach ; arrive ; get to"
+                        },
+                        {
+                            "meaning": "even though ; even if"
+                        },
+                        {
+                            "meaning": "about ; of"
+                        }
+                    ],
+                    "phonetic": "ถึง",
+                    "word": "ถึง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "ten"
+                        }
+                    ],
+                    "phonetic": "สิบ",
+                    "word": "สิบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hour"
+                        }
+                    ],
+                    "phonetic": "ชั่ว โมง",
+                    "word": "ชั่วโมง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Did I say tens ?",
+            "id": 67199,
+            "phonetic": "ฉัน พูด ว่า สิบ เหฺรอ",
+            "thaiSentence": "ฉันพูดว่าสิบเหรอ",
+            "thaiSentenceSpaced": " ฉัน พูดว่า สิบ เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] say that"
+                        }
+                    ],
+                    "phonetic": "พูด ว่า",
+                    "word": "พูดว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "ten"
+                        }
+                    ],
+                    "phonetic": "สิบ",
+                    "word": "สิบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "About ten people.",
+            "id": 79281,
+            "phonetic": "ปฺระ-มาน สิบ คน ค่ะ",
+            "thaiSentence": "ประมาณสิบคนค่ะ",
+            "thaiSentenceSpaced": " ประมาณ สิบ คน ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "about ; around ; approximately"
+                        }
+                    ],
+                    "phonetic": "ปฺระ-มาน",
+                    "word": "ประมาณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "ten"
+                        }
+                    ],
+                    "phonetic": "สิบ",
+                    "word": "สิบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I ran ten laps.",
+            "id": 126786,
+            "phonetic": "ผม วิ่ง คฺรบ สิบ รอบ แล้ว",
+            "thaiSentence": "ผมวิ่งครบสิบรอบแล้ว",
+            "thaiSentenceSpaced": " ผม วิ่ง ครบ สิบ รอบ แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] run"
+                        }
+                    ],
+                    "phonetic": "วิ่ง",
+                    "word": "วิ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "altogether ; completely ; wholly"
+                        }
+                    ],
+                    "phonetic": "คฺรบ",
+                    "word": "ครบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "ten"
+                        }
+                    ],
+                    "phonetic": "สิบ",
+                    "word": "สิบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "around ; round"
+                        },
+                        {
+                            "meaning": "cycle ; turn ; anniversary"
+                        },
+                        {
+                            "meaning": "round ; stage <i>(of a competition)</i>"
+                        }
+                    ],
+                    "phonetic": "รอบ",
+                    "word": "รอบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "I said ten more laps.",
+            "id": 126792,
+            "phonetic": "ฉัน บอก ว่า อีก สิบ รอบ",
+            "thaiSentence": "ฉันบอกว่าอีกสิบรอบ",
+            "thaiSentenceSpaced": " ฉัน บอก ว่า อีก สิบ รอบ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] tell ; say ; describe"
+                        }
+                    ],
+                    "phonetic": "บอก",
+                    "word": "บอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        },
+                        {
+                            "meaning": "[to] say ; tell"
+                        },
+                        {
+                            "meaning": "[to] blame ; criticise"
+                        }
+                    ],
+                    "phonetic": "ว่า",
+                    "word": "ว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "again ; once more ; more"
+                        }
+                    ],
+                    "phonetic": "อีก",
+                    "word": "อีก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "ten"
+                        }
+                    ],
+                    "phonetic": "สิบ",
+                    "word": "สิบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "around ; round"
+                        },
+                        {
+                            "meaning": "cycle ; turn ; anniversary"
+                        },
+                        {
+                            "meaning": "round ; stage <i>(of a competition)</i>"
+                        }
+                    ],
+                    "phonetic": "รอบ",
+                    "word": "รอบ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 8278,
+        "exampleSentences": [
+            {
+                "engSentence": "She should have killed ten.",
+                "id": 32608,
+                "thaiSentence": "เขาควรจะฆ่าสิบคน",
+                "thaiSentenceSpaced": " เขา ควรจะ ฆ่า สิบ คน "
+            },
+            {
+                "engSentence": "Nine or ten hours.",
+                "id": 56520,
+                "thaiSentence": "ประมาณเก้าถึงสิบชั่วโมง",
+                "thaiSentenceSpaced": " ประมาณ เก้า ถึง สิบ ชั่วโมง "
+            },
+            {
+                "engSentence": "Did I say tens ?",
+                "id": 67199,
+                "thaiSentence": "ฉันพูดว่าสิบเหรอ",
+                "thaiSentenceSpaced": " ฉัน พูดว่า สิบ เหรอ "
+            },
+            {
+                "engSentence": "About ten people.",
+                "id": 79281,
+                "thaiSentence": "ประมาณสิบคนค่ะ",
+                "thaiSentenceSpaced": " ประมาณ สิบ คน ค่ะ "
+            },
+            {
+                "engSentence": "I ran ten laps.",
+                "id": 126786,
+                "thaiSentence": "ผมวิ่งครบสิบรอบแล้ว",
+                "thaiSentenceSpaced": " ผม วิ่ง ครบ สิบ รอบ แล้ว "
+            },
+            {
+                "engSentence": "I said ten more laps.",
+                "id": 126792,
+                "thaiSentence": "ฉันบอกว่าอีกสิบรอบ",
+                "thaiSentenceSpaced": " ฉัน บอก ว่า อีก สิบ รอบ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1408315,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "ten",
+                        "word": "ten"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 19673,
+                        "corpusScore": 1081,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44563,
+                        "legacyWordId": 1388273,
+                        "meaning": "twenty ; 20",
+                        "parentId": 44563,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "ยี่ สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยี่สิบ"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 554,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44947,
+                        "legacyWordId": 1408331,
+                        "meaning": "twelve ; 12",
+                        "parentId": 44947,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สิบ สอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบสอง"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 549,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102689,
+                        "legacyWordId": 1407022,
+                        "meaning": "thirty ; 30",
+                        "parentId": 102689,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สาม สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สามสิบ"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 474,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102684,
+                        "legacyWordId": 1408340,
+                        "meaning": "fifteen",
+                        "parentId": 102684,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สิบ ห้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบห้า"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 349,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102692,
+                        "legacyWordId": 1449253,
+                        "meaning": "fifty ; 50",
+                        "parentId": 102692,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "ห้า สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้าสิบ"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 326,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102691,
+                        "legacyWordId": 1408618,
+                        "meaning": "fourty ; 40",
+                        "parentId": 102691,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สี่ สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สี่สิบ"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 240,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19225,
+                        "legacyWordId": 1408343,
+                        "meaning": "eleven",
+                        "parentId": 19225,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สิบ เอ็ด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบเอ็ด"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 226,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102693,
+                        "legacyWordId": 1410633,
+                        "meaning": "sixty ; 60",
+                        "parentId": 102693,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "หก สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หกสิบ"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 172,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102685,
+                        "legacyWordId": 1408339,
+                        "meaning": "sixteen",
+                        "parentId": 102685,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สิบ หก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบหก"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 160,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102683,
+                        "legacyWordId": 1408338,
+                        "meaning": "fourteen",
+                        "parentId": 102683,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สิบ สี่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบสี่"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 152,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102687,
+                        "legacyWordId": 1408326,
+                        "meaning": "eighteen",
+                        "parentId": 102687,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สิบ แปด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบแปด"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 150,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44946,
+                        "legacyWordId": 1408349,
+                        "meaning": "many ; several",
+                        "parentId": 44946,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "สิบ สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบๆ"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 139,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22423,
+                        "legacyWordId": 1372746,
+                        "meaning": "eighty",
+                        "parentId": 22423,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แปด สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แปดสิบ"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 114,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102682,
+                        "legacyWordId": 1408337,
+                        "meaning": "thirteen",
+                        "parentId": 102682,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สิบ สาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบสาม"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 94,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102694,
+                        "legacyWordId": 1273690,
+                        "meaning": "ninety ; 90",
+                        "parentId": 102694,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "เก้า สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เก้าสิบ"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 91,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102688,
+                        "legacyWordId": 1408316,
+                        "meaning": "nineteen",
+                        "parentId": 102688,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิบ เก้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบเก้า"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 79,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102759,
+                        "legacyWordId": 1408329,
+                        "meaning": "10am",
+                        "parentId": 102759,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิบ โมง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบโมง"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 76,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18421,
+                        "legacyWordId": 1372285,
+                        "meaning": "many ; very ; several",
+                        "parentId": 18421,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เป็น สิบ สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เป็นสิบๆ"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 72,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102686,
+                        "legacyWordId": 1408318,
+                        "meaning": "seventeen",
+                        "parentId": 102686,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สิบ เจ็ด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบเจ็ด"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 70,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40766,
+                        "legacyWordId": 1290045,
+                        "meaning": "seventy ; 70",
+                        "parentId": 40766,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เจ็ด สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ็ดสิบ"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 50,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400688,
+                        "legacyWordId": 1408319,
+                        "meaning": "the ten longest birth stories of Buddha",
+                        "parentId": 400688,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิบ ชาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบชาติ"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 49,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 86743,
+                        "legacyWordId": 1305639,
+                        "meaning": "decimal",
+                        "parentId": 86743,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ถาน สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ฐานสิบ"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 44,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 104305,
+                        "legacyWordId": 1408342,
+                        "meaning": "Sergeant",
+                        "parentId": 104305,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิบ เอก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบเอก"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 40,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14040,
+                        "legacyWordId": 1389035,
+                        "meaning": "ten-wheeled truck ; ten wheeler ; truck",
+                        "parentId": 14040,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รด สิบ ล้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รถสิบล้อ"
+                    },
+                    {
+                        "childId": 19673,
+                        "corpusScore": 26,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37960,
+                        "legacyWordId": 1396900,
+                        "meaning": "digit",
+                        "parentId": 37960,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เลก ถาน สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เลขฐานสิบ"
+                    }
+                ],
+                "explanation": null,
+                "id": 19673,
+                "isUncommon": false,
+                "meaning": "ten",
+                "partOfSpeech": "Quantifier",
+                "usage": "",
+                "word": "สิบ"
+            }
+        ],
+        "t2e": "สิบ",
+        "verified": null,
+        "word": "สิบ"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

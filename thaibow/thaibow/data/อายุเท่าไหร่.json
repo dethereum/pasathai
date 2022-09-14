@@ -1,0 +1,35 @@
+{
+    "thaiTranslationLines": [
+        {
+            "isWordBreakdownShown": true,
+            "phonetic": "อา-ยุ เท่า ไหฺร่",
+            "unspacedText": "อายุเท่าไหร่",
+            "wordObjects": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "age"
+                        }
+                    ],
+                    "phonetic": "อา-ยุ",
+                    "word": "อายุ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how much ; how many"
+                        },
+                        {
+                            "meaning": "however much"
+                        }
+                    ],
+                    "phonetic": "เท่า ไหฺร่",
+                    "word": "เท่าไหร่"
+                }
+            ]
+        }
+    ],
+    "type": "translation"
+}

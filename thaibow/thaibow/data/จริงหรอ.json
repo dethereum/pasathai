@@ -1,0 +1,35 @@
+{
+    "thaiTranslationLines": [
+        {
+            "isWordBreakdownShown": true,
+            "phonetic": "จิง หฺรอ",
+            "unspacedText": "จริงหรอ",
+            "wordObjects": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] real ; true ; actual"
+                        },
+                        {
+                            "meaning": "really ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง",
+                    "word": "จริง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺรอ",
+                    "word": "หรอ"
+                }
+            ]
+        }
+    ],
+    "type": "translation"
+}

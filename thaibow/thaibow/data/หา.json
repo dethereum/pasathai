@@ -1,0 +1,1418 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Call him when he gets back.",
+            "id": 938,
+            "phonetic": "โท หา เขา ด้วย · ตอน เขา กฺลับ มา",
+            "thaiSentence": "โทรหาเขาด้วย ตอนเขากลับมา",
+            "thaiSentenceSpaced": " โทร หา เขา ด้วย  ·  ตอน เขา กลับมา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] call ; telephone ; phone"
+                        }
+                    ],
+                    "phonetic": "โท",
+                    "word": "โทร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] search for ; look for"
+                        }
+                    ],
+                    "phonetic": "หา",
+                    "word": "หา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "when ; during ; at"
+                        },
+                        {
+                            "meaning": "section ; piece ; bit ; part ; episode"
+                        }
+                    ],
+                    "phonetic": "ตอน",
+                    "word": "ตอน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] return ; come back ; go back"
+                        }
+                    ],
+                    "phonetic": "กฺลับ มา",
+                    "word": "กลับมา"
+                }
+            ]
+        },
+        {
+            "engSentence": "Visiting us won't hurt.",
+            "id": 5068,
+            "phonetic": "กาน มา หา เรา มัน ไม่ ทำ ไห้ เจ็บ ปวด หฺรอก",
+            "thaiSentence": "การมาหาเรามันไม่ทำให้เจ็บปวดหรอก",
+            "thaiSentenceSpaced": " การมา หา เรา มัน ไม่ ทำให้เจ็บ ปวด หรอก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "coming ; arrival"
+                        }
+                    ],
+                    "phonetic": "กาน มา",
+                    "word": "การมา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] search for ; look for"
+                        }
+                    ],
+                    "phonetic": "หา",
+                    "word": "หา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] hurt ; harm"
+                        }
+                    ],
+                    "phonetic": "ทำ ไห้ เจ็บ",
+                    "word": "ทำให้เจ็บ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ache ; pain"
+                        }
+                    ],
+                    "phonetic": "ปวด",
+                    "word": "ปวด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in the negative when making a contradiction)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺรอก",
+                    "word": "หรอก"
+                }
+            ]
+        },
+        {
+            "engSentence": "Did you find out ?",
+            "id": 6590,
+            "phonetic": "คุน หา เจอ หฺรือ เปฺล่า",
+            "thaiSentence": "คุณหาเจอหรือเปล่า",
+            "thaiSentenceSpaced": " คุณ หา เจอ หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] search for ; look for"
+                        }
+                    ],
+                    "phonetic": "หา",
+                    "word": "หา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] meet ; find"
+                        }
+                    ],
+                    "phonetic": "เจอ",
+                    "word": "เจอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "He found a new flat for us.",
+            "id": 7017,
+            "phonetic": "เขา หา แฟฺล็ด ไหฺม่ ไห้ เรา ด้าย แล้ว",
+            "thaiSentence": "เขาหาแฟลตใหม่ให้เราได้แล้ว",
+            "thaiSentenceSpaced": " เขา หา แฟลต ใหม่ ให้ เรา ได้ แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] search for ; look for"
+                        }
+                    ],
+                    "phonetic": "หา",
+                    "word": "หา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "flat"
+                        }
+                    ],
+                    "phonetic": "แฟฺล็ด",
+                    "word": "แฟลต"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "again ; once more"
+                        },
+                        {
+                            "meaning": "[to be] new ; recent ; the latest"
+                        }
+                    ],
+                    "phonetic": "ไหฺม่",
+                    "word": "ใหม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "What are you looking for ?",
+            "id": 7357,
+            "phonetic": "คุน หา อะ-ไร หฺยู่ หฺรือ",
+            "thaiSentence": "คุณหาอะไรอยู่หรือ",
+            "thaiSentenceSpaced": " คุณ หา อะไร อยู่ หรือ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] search for ; look for"
+                        }
+                    ],
+                    "phonetic": "หา",
+                    "word": "หา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        },
+                        {
+                            "meaning": "or"
+                        }
+                    ],
+                    "phonetic": "หฺรือ",
+                    "word": "หรือ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Are you looking for someone ?",
+            "id": 11589,
+            "phonetic": "หา ไคฺร หฺยู่ เหฺรอ",
+            "thaiSentence": "หาใครอยู่เหรอ",
+            "thaiSentenceSpaced": " หา ใคร อยู่ เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] search for ; look for"
+                        }
+                    ],
+                    "phonetic": "หา",
+                    "word": "หา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "who"
+                        },
+                        {
+                            "meaning": "someone ; anyone"
+                        }
+                    ],
+                    "phonetic": "ไคฺร",
+                    "word": "ใคร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 73903,
+        "exampleSentences": [
+            {
+                "engSentence": "Call him when he gets back.",
+                "id": 938,
+                "thaiSentence": "โทรหาเขาด้วย ตอนเขากลับมา",
+                "thaiSentenceSpaced": " โทร หา เขา ด้วย  &middot;  ตอน เขา กลับมา "
+            },
+            {
+                "engSentence": "Visiting us won't hurt.",
+                "id": 5068,
+                "thaiSentence": "การมาหาเรามันไม่ทำให้เจ็บปวดหรอก",
+                "thaiSentenceSpaced": " การมา หา เรา มัน ไม่ ทำให้เจ็บ ปวด หรอก "
+            },
+            {
+                "engSentence": "Did you find out ?",
+                "id": 6590,
+                "thaiSentence": "คุณหาเจอหรือเปล่า",
+                "thaiSentenceSpaced": " คุณ หา เจอ หรือเปล่า "
+            },
+            {
+                "engSentence": "He found a new flat for us.",
+                "id": 7017,
+                "thaiSentence": "เขาหาแฟลตใหม่ให้เราได้แล้ว",
+                "thaiSentenceSpaced": " เขา หา แฟลต ใหม่ ให้ เรา ได้ แล้ว "
+            },
+            {
+                "engSentence": "What are you looking for ?",
+                "id": 7357,
+                "thaiSentence": "คุณหาอะไรอยู่หรือ",
+                "thaiSentenceSpaced": " คุณ หา อะไร อยู่ หรือ "
+            },
+            {
+                "engSentence": "Are you looking for someone ?",
+                "id": 11589,
+                "thaiSentence": "หาใครอยู่เหรอ",
+                "thaiSentenceSpaced": " หา ใคร อยู่ เหรอ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1448957,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] search for",
+                        "word": "search for"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "look for",
+                        "word": "look for"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 44587,
+                        "corpusScore": 8450,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "for something/someone",
+                        "hasSoundFile": true,
+                        "id": 189314,
+                        "legacyWordId": 1279075,
+                        "meaning": "[to] search ; look",
+                        "parentId": 189314,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ค้น หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ค้นหา"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 5952,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 45403,
+                        "legacyWordId": 1330796,
+                        "meaning": "gist ; main idea ; point",
+                        "parentId": 45403,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เนื้อ หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เนื้อหา"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 2902,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26218,
+                        "legacyWordId": 1448973,
+                        "meaning": "[to] make a living ; earn a living",
+                        "parentId": 26218,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หา กิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หากิน"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 2728,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43818,
+                        "legacyWordId": 1309811,
+                        "meaning": "[to] have to find ; have to search for",
+                        "parentId": 43818,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ต้อง หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ต้องหา"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 2576,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49990,
+                        "legacyWordId": 1271739,
+                        "meaning": "searching for ; looking for",
+                        "parentId": 49990,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การหา"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 2118,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9255,
+                        "legacyWordId": 1288974,
+                        "meaning": "[to] provide ; procure ; obtain",
+                        "parentId": 9255,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จัด หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จัดหา"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 2060,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23349,
+                        "legacyWordId": 1449163,
+                        "meaning": "[to] seek ; search for ; look for",
+                        "parentId": 23349,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หา ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาทาง"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 1935,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23686,
+                        "legacyWordId": 1410394,
+                        "meaning": "[to] seek for ; search for",
+                        "parentId": 23686,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สะ-แหฺวง หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แสวงหา"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 1779,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28471,
+                        "legacyWordId": 1311353,
+                        "meaning": "[to] look for someone",
+                        "parentId": 28471,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตาม หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตามหา"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 1419,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29405,
+                        "legacyWordId": 1383158,
+                        "meaning": "[to] look for ; search for",
+                        "parentId": 29405,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มอง หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มองหา"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 1065,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22174,
+                        "legacyWordId": 1449050,
+                        "meaning": "[to] earn money ; make money",
+                        "parentId": 22174,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หา เงิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาเงิน"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 953,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "for an election",
+                        "hasSoundFile": false,
+                        "id": 21951,
+                        "legacyWordId": 1449255,
+                        "meaning": "[to] campaign ; run",
+                        "parentId": 21951,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หา เสียง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาเสียง"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 665,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45082,
+                        "legacyWordId": 1449239,
+                        "meaning": "[to] look for trouble ; create problems",
+                        "parentId": 45082,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หา เรื่อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาเรื่อง"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 508,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21512,
+                        "legacyWordId": 1449261,
+                        "meaning": "[to] look for food",
+                        "parentId": 21512,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หา อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาอาหาร"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 480,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43877,
+                        "legacyWordId": 1309308,
+                        "meaning": "[to] search ; look for",
+                        "parentId": 43877,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตฺรวด หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตรวจหา"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 477,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45096,
+                        "legacyWordId": 1449177,
+                        "meaning": "[to] fish",
+                        "parentId": 45096,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หา ปฺลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาปลา"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 448,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46858,
+                        "legacyWordId": 1451306,
+                        "meaning": "[to] call for",
+                        "parentId": 46858,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้หา"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 437,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16978,
+                        "legacyWordId": 1319478,
+                        "meaning": "[to] ask ; inquire ; question",
+                        "parentId": 16978,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถาม หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถามหา"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 433,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11480,
+                        "legacyWordId": 1305040,
+                        "meaning": "[to] buy ; purchase",
+                        "parentId": 11480,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ซื้อ หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซื้อหา"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 394,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36756,
+                        "legacyWordId": 1448978,
+                        "meaning": "[to] seek a mate",
+                        "parentId": 36756,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หา คู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาคู่"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 264,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5729,
+                        "legacyWordId": 1409787,
+                        "meaning": "[to] search for ; seek for ; be after",
+                        "parentId": 5729,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เสาะ หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เสาะหา"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 251,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28847,
+                        "legacyWordId": 1450812,
+                        "meaning": "[to] yearn for ; long ; hunger",
+                        "parentId": 28847,
+                        "partOfSpeech": "Verb",
+                        "t2e": "โหย หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โหยหา"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 235,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27942,
+                        "legacyWordId": 1449236,
+                        "meaning": "[to] make money ; earn money",
+                        "parentId": 27942,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หา ราย ได้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หารายได้"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 219,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 488,
+                        "legacyWordId": 1392922,
+                        "meaning": "[to] ask for",
+                        "parentId": 488,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เรียก หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรียกหา"
+                    },
+                    {
+                        "childId": 44587,
+                        "corpusScore": 207,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27263,
+                        "legacyWordId": 1449175,
+                        "meaning": "[to] exploit ; take advantage of ; milk",
+                        "parentId": 27263,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หา ปฺระ-โหฺยด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาประโยชน์"
+                    }
+                ],
+                "explanation": null,
+                "id": 44587,
+                "isUncommon": false,
+                "meaning": "[to] search for ; look for",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "หา"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "otherwise",
+                        "word": "otherwise"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "no",
+                        "word": "no"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "not",
+                        "word": "not"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 48181,
+                        "corpusScore": 1223,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45091,
+                        "legacyWordId": 1449198,
+                        "meaning": "otherwise ; if not",
+                        "parentId": 45091,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "หา ไม่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาไม่"
+                    },
+                    {
+                        "childId": 48181,
+                        "corpusScore": 236,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45092,
+                        "legacyWordId": 1449052,
+                        "meaning": "no ; not",
+                        "parentId": 45092,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "หา ไช่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาใช่"
+                    },
+                    {
+                        "childId": 48181,
+                        "corpusScore": 108,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21554,
+                        "legacyWordId": 1449238,
+                        "meaning": "unawarely ; heedlessly ; unconsciously",
+                        "parentId": 21554,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "หา รู้ ไม่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หารู้ไม่"
+                    },
+                    {
+                        "childId": 48181,
+                        "corpusScore": 51,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35033,
+                        "legacyWordId": 1449195,
+                        "meaning": "no ; not",
+                        "parentId": 35033,
+                        "partOfSpeech": "NEG",
+                        "t2e": "หา มิ ด้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หามิได้"
+                    },
+                    {
+                        "childId": 48181,
+                        "corpusScore": 13,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5505,
+                        "legacyWordId": 1449173,
+                        "meaning": "no ; not",
+                        "parentId": 5505,
+                        "partOfSpeech": "NEG",
+                        "t2e": "หา บ่อ มิ ด้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาบ่มิได้"
+                    },
+                    {
+                        "childId": 48181,
+                        "corpusScore": 3,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6314,
+                        "legacyWordId": 1448977,
+                        "meaning": "invaluable ; priceless",
+                        "parentId": 6314,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "หา ค่า มิ ด้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาค่ามิได้"
+                    },
+                    {
+                        "childId": 48181,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103499,
+                        "legacyWordId": 1448966,
+                        "meaning": "no ; not",
+                        "parentId": 103499,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "หา (...) ไม่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หา (...) ไม่"
+                    },
+                    {
+                        "childId": 48181,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103501,
+                        "legacyWordId": 1449160,
+                        "meaning": "did not ; has not ; have not",
+                        "parentId": 103501,
+                        "partOfSpeech": "AdverbAuxiliary",
+                        "t2e": "หา ด้าย (...) ไม่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาได้ (...) ไม่"
+                    }
+                ],
+                "explanation": null,
+                "id": 48181,
+                "isUncommon": true,
+                "meaning": "otherwise ; no ; not",
+                "partOfSpeech": "AdverbAuxiliary",
+                "usage": "",
+                "word": "หา"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] meet",
+                        "word": "meet"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "visit",
+                        "word": "visit"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 48180,
+                        "corpusScore": 7531,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40147,
+                        "legacyWordId": 1373312,
+                        "meaning": "[to] visit ; go to see ; meet",
+                        "parentId": 40147,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปหา"
+                    },
+                    {
+                        "childId": 48180,
+                        "corpusScore": 4754,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30610,
+                        "legacyWordId": 1384257,
+                        "meaning": "[to] come to meet ; call on ; drop in on",
+                        "parentId": 30610,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มา หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มาหา"
+                    },
+                    {
+                        "childId": 48180,
+                        "corpusScore": 1652,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30768,
+                        "legacyWordId": 1277819,
+                        "meaning": "[to] meet ; call on ; see",
+                        "parentId": 30768,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าหา"
+                    },
+                    {
+                        "childId": 48180,
+                        "corpusScore": 445,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9708,
+                        "legacyWordId": 1279116,
+                        "meaning": "[to] be friends with ; associate with",
+                        "parentId": 9708,
+                        "partOfSpeech": "Verb",
+                        "t2e": "คบ หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คบหา"
+                    },
+                    {
+                        "childId": 48180,
+                        "corpusScore": 125,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5917,
+                        "legacyWordId": 1449254,
+                        "meaning": "[to] visit ; call on ; drop in",
+                        "parentId": 5917,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หา สู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาสู่"
+                    },
+                    {
+                        "childId": 48180,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18863,
+                        "legacyWordId": 1409381,
+                        "meaning": "[to] visit ; come by ; come over",
+                        "parentId": 18863,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สู่ หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สู่หา"
+                    }
+                ],
+                "explanation": null,
+                "id": 48180,
+                "isUncommon": true,
+                "meaning": "[to] meet ; visit",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "หา"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] accuse",
+                        "word": "accuse"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "blame",
+                        "word": "blame"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 6311,
+                        "corpusScore": 2728,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43819,
+                        "legacyWordId": 1309811,
+                        "meaning": "[to be] accused ; charged",
+                        "parentId": 43819,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ต้อง หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ต้องหา"
+                    },
+                    {
+                        "childId": 6311,
+                        "corpusScore": 1568,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2089,
+                        "legacyWordId": 1265441,
+                        "meaning": "[to] accuse ; charge",
+                        "parentId": 2089,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กฺล่าว หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กล่าวหา"
+                    },
+                    {
+                        "childId": 6311,
+                        "corpusScore": 1531,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24169,
+                        "legacyWordId": 1449251,
+                        "meaning": "[to] accuse of ; charge ; claim",
+                        "parentId": 24169,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หา ว่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาว่า"
+                    },
+                    {
+                        "childId": 6311,
+                        "corpusScore": 1478,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2546,
+                        "legacyWordId": 1448975,
+                        "meaning": "[to] accuse ; charge ; blame",
+                        "parentId": 2546,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หา คฺวาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หาความ"
+                    },
+                    {
+                        "childId": 6311,
+                        "corpusScore": 1046,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29880,
+                        "legacyWordId": 1275782,
+                        "meaning": "allegation ; accusation ; charge",
+                        "parentId": 29880,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้อ หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้อหา"
+                    },
+                    {
+                        "childId": 6311,
+                        "corpusScore": 1,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": "The name of a village in Phatthalung province",
+                        "hasSoundFile": false,
+                        "id": 678153,
+                        "legacyWordId": 1352711,
+                        "meaning": "Banphraek Ha",
+                        "parentId": 678153,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ้าน แพฺรก หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ้านแพรกหา"
+                    },
+                    {
+                        "childId": 6311,
+                        "corpusScore": 0,
+                        "displayOrder": 4,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 190015,
+                        "legacyWordId": 1283956,
+                        "meaning": "unearned increment",
+                        "parentId": 190015,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ค่า เพิ่ม ขึ้น โดย มิ ด้าย หา มา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ค่าเพิ่มขึ้นโดยมิได้หามา"
+                    }
+                ],
+                "explanation": null,
+                "id": 6311,
+                "isUncommon": true,
+                "meaning": "[to] accuse ; blame",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "หา"
+            }
+        ],
+        "t2e": "หา",
+        "verified": null,
+        "word": "หา"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

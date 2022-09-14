@@ -1,0 +1,519 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "How much you make in there ?",
+            "id": 13323,
+            "phonetic": "ทำ ไว้ มาก เท่า ไหฺร่",
+            "thaiSentence": "ทำไว้มากเท่าไหร่",
+            "thaiSentenceSpaced": " ทำ ไว้ มาก เท่าไหร่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] keep ; save ; store"
+                        }
+                    ],
+                    "phonetic": "ไว้",
+                    "word": "ไว้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much ; a lot ; very"
+                        }
+                    ],
+                    "phonetic": "มาก",
+                    "word": "มาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how much ; how many"
+                        },
+                        {
+                            "meaning": "however much"
+                        }
+                    ],
+                    "phonetic": "เท่า ไหฺร่",
+                    "word": "เท่าไหร่"
+                }
+            ]
+        },
+        {
+            "engSentence": "How much miss ?",
+            "id": 16476,
+            "phonetic": "เท่า ไหฺร่ ดี คฺรับ คุน นาย",
+            "thaiSentence": "เท่าไหร่ดีครับคุณนาย",
+            "thaiSentenceSpaced": " เท่าไหร่ ดี ครับ คุณนาย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how much ; how many"
+                        },
+                        {
+                            "meaning": "however much"
+                        }
+                    ],
+                    "phonetic": "เท่า ไหฺร่",
+                    "word": "เท่าไหร่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "madam ; madame ; Mrs."
+                        }
+                    ],
+                    "phonetic": "คุน นาย",
+                    "word": "คุณนาย"
+                }
+            ]
+        },
+        {
+            "engSentence": "How much was it, honey ?",
+            "id": 16774,
+            "phonetic": "เท่า ไหฺร่ คะ · ที่ รัก",
+            "thaiSentence": "เท่าไหร่คะ ที่รัก",
+            "thaiSentenceSpaced": " เท่าไหร่ คะ ที่รัก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how much ; how many"
+                        },
+                        {
+                            "meaning": "however much"
+                        }
+                    ],
+                    "phonetic": "เท่า ไหฺร่",
+                    "word": "เท่าไหร่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "darling ; honey ; dear"
+                        }
+                    ],
+                    "phonetic": "ที่ รัก",
+                    "word": "ที่รัก"
+                }
+            ]
+        },
+        {
+            "engSentence": "How much you want ?",
+            "id": 34189,
+            "phonetic": "คุน ต้อง กาน เท่า ไหฺร่",
+            "thaiSentence": "คุณต้องการเท่าไหร่",
+            "thaiSentenceSpaced": " คุณ ต้องการ เท่าไหร่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; need ; require"
+                        }
+                    ],
+                    "phonetic": "ต้อง กาน",
+                    "word": "ต้องการ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how much ; how many"
+                        },
+                        {
+                            "meaning": "however much"
+                        }
+                    ],
+                    "phonetic": "เท่า ไหฺร่",
+                    "word": "เท่าไหร่"
+                }
+            ]
+        },
+        {
+            "engSentence": "How much you want ?",
+            "id": 34351,
+            "phonetic": "ต้อง กาน เท่า ไหฺร่",
+            "thaiSentence": "ต้องการเท่าไหร่",
+            "thaiSentenceSpaced": " ต้องการ เท่าไหร่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; need ; require"
+                        }
+                    ],
+                    "phonetic": "ต้อง กาน",
+                    "word": "ต้องการ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how much ; how many"
+                        },
+                        {
+                            "meaning": "however much"
+                        }
+                    ],
+                    "phonetic": "เท่า ไหฺร่",
+                    "word": "เท่าไหร่"
+                }
+            ]
+        },
+        {
+            "engSentence": "How much time do I have ?",
+            "id": 39236,
+            "phonetic": "ฉัน มี เว-ลา เท่า ไหฺร่",
+            "thaiSentence": "ฉันมีเวลาเท่าไหร่",
+            "thaiSentenceSpaced": " ฉัน มี เวลา เท่าไหร่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "time"
+                        }
+                    ],
+                    "phonetic": "เว-ลา",
+                    "word": "เวลา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how much ; how many"
+                        },
+                        {
+                            "meaning": "however much"
+                        }
+                    ],
+                    "phonetic": "เท่า ไหฺร่",
+                    "word": "เท่าไหร่"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 5585,
+        "exampleSentences": [
+            {
+                "engSentence": "How much you make in there ?",
+                "id": 13323,
+                "thaiSentence": "ทำไว้มากเท่าไหร่",
+                "thaiSentenceSpaced": " ทำ ไว้ มาก เท่าไหร่ "
+            },
+            {
+                "engSentence": "How much miss ?",
+                "id": 16476,
+                "thaiSentence": "เท่าไหร่ดีครับคุณนาย",
+                "thaiSentenceSpaced": " เท่าไหร่ ดี ครับ คุณนาย "
+            },
+            {
+                "engSentence": "How much was it, honey ?",
+                "id": 16774,
+                "thaiSentence": "เท่าไหร่คะ ที่รัก",
+                "thaiSentenceSpaced": " เท่าไหร่ คะ ที่รัก "
+            },
+            {
+                "engSentence": "How much you want ?",
+                "id": 34189,
+                "thaiSentence": "คุณต้องการเท่าไหร่",
+                "thaiSentenceSpaced": " คุณ ต้องการ เท่าไหร่ "
+            },
+            {
+                "engSentence": "How much you want ?",
+                "id": 34351,
+                "thaiSentence": "ต้องการเท่าไหร่",
+                "thaiSentenceSpaced": " ต้องการ เท่าไหร่ "
+            },
+            {
+                "engSentence": "How much time do I have ?",
+                "id": 39236,
+                "thaiSentence": "ฉันมีเวลาเท่าไหร่",
+                "thaiSentenceSpaced": " ฉัน มี เวลา เท่าไหร่ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1325123,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 718,
+                        "corpusScore": 35771,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 718,
+                        "legacyWordId": 1325075,
+                        "meaning": "as much as ; equal to",
+                        "parentId": 6338,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "เท่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เท่า"
+                    },
+                    {
+                        "childId": 48148,
+                        "corpusScore": 2844,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48148,
+                        "legacyWordId": 1451337,
+                        "meaning": "what ; which",
+                        "parentId": 6338,
+                        "partOfSpeech": "Interrogative",
+                        "t2e": "ไหฺร่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไหร่"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "how much",
+                        "word": "how much"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "how many",
+                        "word": "how many"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 6338,
+                        "corpusScore": 405,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44979,
+                        "legacyWordId": 1405709,
+                        "meaning": "how much ; how many",
+                        "parentId": 44979,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "สัก เท่า ไหฺร่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สักเท่าไหร่"
+                    }
+                ],
+                "explanation": null,
+                "id": 6338,
+                "isUncommon": false,
+                "meaning": "how much ; how many",
+                "partOfSpeech": "Interrogative",
+                "usage": "",
+                "word": "เท่าไหร่"
+            },
+            {
+                "components": [
+                    {
+                        "childId": 718,
+                        "corpusScore": 35771,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 718,
+                        "legacyWordId": 1325075,
+                        "meaning": "as much as ; equal to",
+                        "parentId": 6941,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "เท่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เท่า"
+                    },
+                    {
+                        "childId": 48149,
+                        "corpusScore": 2844,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48149,
+                        "legacyWordId": 1451337,
+                        "meaning": "something ; anything",
+                        "parentId": 6941,
+                        "partOfSpeech": "IndefinitePronoun",
+                        "t2e": "ไหฺร่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไหร่"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "however much",
+                        "word": "however much"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 6941,
+                        "corpusScore": 173,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24362,
+                        "legacyWordId": 1386916,
+                        "meaning": "little ; not much ; not many",
+                        "parentId": 24362,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไม่ เท่า ไหฺร่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่เท่าไหร่"
+                    },
+                    {
+                        "childId": 6941,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21370,
+                        "legacyWordId": 1325125,
+                        "meaning": "limitless ; unlimitedly",
+                        "parentId": 21370,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เท่า ไหฺร่ เท่า กัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เท่าไหร่เท่ากัน"
+                    },
+                    {
+                        "childId": 6941,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103418,
+                        "legacyWordId": 1386740,
+                        "meaning": "not really ; not especially",
+                        "parentId": 103418,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไม่ ค่อย (...) เท่า ไหฺร่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ค่อย (...) เท่าไหร่"
+                    }
+                ],
+                "explanation": null,
+                "id": 6941,
+                "isUncommon": false,
+                "meaning": "however much",
+                "partOfSpeech": "Adverb",
+                "usage": "",
+                "word": "เท่าไหร่"
+            }
+        ],
+        "t2e": "เท่า ไหฺร่",
+        "verified": null,
+        "word": "เท่าไหร่"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

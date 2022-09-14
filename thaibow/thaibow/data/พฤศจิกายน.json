@@ -1,0 +1,91 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 1105,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1377129,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 47586,
+                        "corpusScore": 5,
+                        "displayOrder": 0,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": "the symbol of the Zodiac sign Scorpio",
+                        "hasSoundFile": false,
+                        "id": 47586,
+                        "legacyWordId": 1377127,
+                        "meaning": "scorpion",
+                        "parentId": 32487,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พฺรึด-สะ-จิก",
+                        "usage": "",
+                        "verified": "พฺรึด-สะ-จิก",
+                        "word": "พฤศจิก"
+                    },
+                    {
+                        "childId": 47576,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47576,
+                        "legacyWordId": 1454200,
+                        "meaning": "the arrival of ; the coming of",
+                        "parentId": 32487,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-ยน",
+                        "usage": "",
+                        "verified": "อา-ยน",
+                        "word": "อายน"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "November",
+                        "word": "November"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [
+                    {
+                        "childId": 32487,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45298,
+                        "legacyWordId": 1308376,
+                        "meaning": "November",
+                        "parentId": 45298,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน พฺรึด-สะ-จิ-กา-ยน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนพฤศจิกายน"
+                    }
+                ],
+                "explanation": null,
+                "id": 32487,
+                "isUncommon": false,
+                "meaning": "November",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "พฤศจิกายน"
+            }
+        ],
+        "t2e": "พฺรึด-สะ-จิ-กา-ยน",
+        "verified": "พฺรึด-สะ-จิ-กา-ยน",
+        "word": "พฤศจิกายน"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

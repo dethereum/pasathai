@@ -1,0 +1,567 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "No, I am not hurt anywhere.",
+            "id": 834,
+            "phonetic": "เปฺล่า · ฉัน ไม่ ด้าย เจ็บ ตฺรง ไหฺน เลย",
+            "thaiSentence": "เปล่า ฉันไม่ได้เจ็บตรงไหนเลย",
+            "thaiSentenceSpaced": " เปล่า  ·  ฉัน ไม่ได้ เจ็บ ตรงไหน เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "เปฺล่า",
+                    "word": "เปล่า"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "didn't ; did not"
+                        },
+                        {
+                            "meaning": "can't ; cannot"
+                        }
+                    ],
+                    "phonetic": "ไม่ ด้าย",
+                    "word": "ไม่ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] hurt ; injured ; in pain"
+                        }
+                    ],
+                    "phonetic": "เจ็บ",
+                    "word": "เจ็บ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "where"
+                        }
+                    ],
+                    "phonetic": "ตฺรง ไหฺน",
+                    "word": "ตรงไหน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Where to begin ?",
+            "id": 19665,
+            "phonetic": "จะ เริ่ม ตฺรง ไหฺน ก่อน ล่ะ",
+            "thaiSentence": "จะเริ่มตรงไหนก่อนล่ะ",
+            "thaiSentenceSpaced": " จะ เริ่ม ตรงไหน ก่อน ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] start ; begin"
+                        }
+                    ],
+                    "phonetic": "เริ่ม",
+                    "word": "เริ่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "where"
+                        }
+                    ],
+                    "phonetic": "ตฺรง ไหฺน",
+                    "word": "ตรงไหน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "before ; first ; former"
+                        }
+                    ],
+                    "phonetic": "ก่อน",
+                    "word": "ก่อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What's the difference ?",
+            "id": 31487,
+            "phonetic": "แล้ว มัน ต่าง กัน ตฺรง ไหฺน",
+            "thaiSentence": "แล้วมันต่างกันตรงไหน",
+            "thaiSentenceSpaced": " แล้ว มัน ต่างกัน ตรงไหน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] differ ; be different ; be dissimilar"
+                        }
+                    ],
+                    "phonetic": "ต่าง กัน",
+                    "word": "ต่างกัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "where"
+                        }
+                    ],
+                    "phonetic": "ตฺรง ไหฺน",
+                    "word": "ตรงไหน"
+                }
+            ]
+        },
+        {
+            "engSentence": "What's the difference ?",
+            "id": 31488,
+            "phonetic": "แล้ว มัน ต่าง กัน ตฺรง ไหฺน เหฺรอ",
+            "thaiSentence": "แล้วมันต่างกันตรงไหนเหรอ",
+            "thaiSentenceSpaced": " แล้ว มัน ต่างกัน ตรงไหน เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] differ ; be different ; be dissimilar"
+                        }
+                    ],
+                    "phonetic": "ต่าง กัน",
+                    "word": "ต่างกัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "where"
+                        }
+                    ],
+                    "phonetic": "ตฺรง ไหฺน",
+                    "word": "ตรงไหน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What am I good at ?",
+            "id": 77522,
+            "phonetic": "ฉัน มี ดี ตฺรง ไหฺน บ้าง",
+            "thaiSentence": "ฉันมีดีตรงไหนบ้าง",
+            "thaiSentenceSpaced": " ฉัน มี ดี ตรงไหน บ้าง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "where"
+                        }
+                    ],
+                    "phonetic": "ตฺรง ไหฺน",
+                    "word": "ตรงไหน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "some ; any"
+                        }
+                    ],
+                    "phonetic": "บ้าง",
+                    "word": "บ้าง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Where do you want it ?",
+            "id": 90646,
+            "phonetic": "คุน หฺยาก ไห้ มัน หฺยู่ ตฺรง ไหฺน ล่ะ",
+            "thaiSentence": "คุณอยากให้มันอยู่ตรงไหนล่ะ",
+            "thaiSentenceSpaced": " คุณ อยาก ให้ มัน อยู่ ตรงไหน ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want to"
+                        }
+                    ],
+                    "phonetic": "หฺยาก",
+                    "word": "อยาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be in accordance (with) ; be consistent (with)"
+                        },
+                        {
+                            "meaning": "[to be] straight ; direct"
+                        },
+                        {
+                            "meaning": "directly ; straightforwardly"
+                        },
+                        {
+                            "meaning": "at"
+                        },
+                        {
+                            "meaning": "[to] be precise at ; be exact ; be accurate"
+                        }
+                    ],
+                    "phonetic": "ตฺรง",
+                    "word": "ตรง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whichever one"
+                        },
+                        {
+                            "meaning": "which"
+                        },
+                        {
+                            "meaning": "where ; which place <i>(a shortened form of ที่ไหน)</i>"
+                        },
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        }
+                    ],
+                    "phonetic": "ไหฺน",
+                    "word": "ไหน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 2455,
+        "exampleSentences": [
+            {
+                "engSentence": "No, I am not hurt anywhere.",
+                "id": 834,
+                "thaiSentence": "เปล่า ฉันไม่ได้เจ็บตรงไหนเลย",
+                "thaiSentenceSpaced": " เปล่า  &middot;  ฉัน ไม่ได้ เจ็บ ตรงไหน เลย "
+            },
+            {
+                "engSentence": "Where to begin ?",
+                "id": 19665,
+                "thaiSentence": "จะเริ่มตรงไหนก่อนล่ะ",
+                "thaiSentenceSpaced": " จะ เริ่ม ตรงไหน ก่อน ล่ะ "
+            },
+            {
+                "engSentence": "What's the difference ?",
+                "id": 31487,
+                "thaiSentence": "แล้วมันต่างกันตรงไหน",
+                "thaiSentenceSpaced": " แล้ว มัน ต่างกัน ตรงไหน "
+            },
+            {
+                "engSentence": "What's the difference ?",
+                "id": 31488,
+                "thaiSentence": "แล้วมันต่างกันตรงไหนเหรอ",
+                "thaiSentenceSpaced": " แล้ว มัน ต่างกัน ตรงไหน เหรอ "
+            },
+            {
+                "engSentence": "What am I good at ?",
+                "id": 77522,
+                "thaiSentence": "ฉันมีดีตรงไหนบ้าง",
+                "thaiSentenceSpaced": " ฉัน มี ดี ตรงไหน บ้าง "
+            },
+            {
+                "engSentence": "Where do you want it ?",
+                "id": 90646,
+                "thaiSentence": "คุณอยากให้มันอยู่ตรงไหนล่ะ",
+                "thaiSentenceSpaced": " คุณ อยาก ให้ มัน อยู่ ตรงไหน ล่ะ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1309262,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 7377,
+                        "corpusScore": 33725,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 7377,
+                        "legacyWordId": 1309224,
+                        "meaning": "at",
+                        "parentId": 6632,
+                        "partOfSpeech": "Preposition",
+                        "t2e": "ตฺรง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตรง"
+                    },
+                    {
+                        "childId": 46926,
+                        "corpusScore": 35215,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "a shortened form of ที่ไหน",
+                        "hasSoundFile": true,
+                        "id": 46926,
+                        "legacyWordId": 1451315,
+                        "meaning": "where ; which place",
+                        "parentId": 6632,
+                        "partOfSpeech": "Interrogative",
+                        "t2e": "ไหฺน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไหน"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "where",
+                        "word": "where"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 6632,
+                "isUncommon": false,
+                "meaning": "where",
+                "partOfSpeech": "Interrogative",
+                "usage": "",
+                "word": "ตรงไหน"
+            }
+        ],
+        "t2e": "ตฺรง ไหฺน",
+        "verified": null,
+        "word": "ตรงไหน"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

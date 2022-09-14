@@ -1,0 +1,91 @@
+{
+    "commonessText": "Rarely",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 128,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1384539,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 47579,
+                        "corpusScore": 253,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "the symbol of the Zodiac sign Pisces",
+                        "hasSoundFile": false,
+                        "id": 47579,
+                        "legacyWordId": 1384535,
+                        "meaning": "fish",
+                        "parentId": 39164,
+                        "partOfSpeech": "Noun",
+                        "t2e": "มีน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีน"
+                    },
+                    {
+                        "childId": 47563,
+                        "corpusScore": 384,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47563,
+                        "legacyWordId": 1453850,
+                        "meaning": "the arrival of ; the coming of",
+                        "parentId": 39164,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-คม",
+                        "usage": "",
+                        "verified": "อา-คม",
+                        "word": "อาคม"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "March",
+                        "word": "March"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [
+                    {
+                        "childId": 39164,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45294,
+                        "legacyWordId": 1308380,
+                        "meaning": "March",
+                        "parentId": 45294,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน มี-นา คม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนมีนาคม"
+                    }
+                ],
+                "explanation": null,
+                "id": 39164,
+                "isUncommon": false,
+                "meaning": "March",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "มีนาคม"
+            }
+        ],
+        "t2e": "มี-นา คม",
+        "verified": null,
+        "word": "มีนาคม"
+    },
+    "greenBarCount": 1,
+    "pageUrl": "",
+    "type": "thai-word"
+}

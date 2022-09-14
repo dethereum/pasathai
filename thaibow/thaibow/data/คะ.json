@@ -1,0 +1,512 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Can I help you ?",
+            "id": 2005,
+            "phonetic": "มี อะ-ไร ไห้ ฉัน ช่วย ไหฺม คะ",
+            "thaiSentence": "มีอะไรให้ฉันช่วยไหมคะ",
+            "thaiSentenceSpaced": " มี อะไร ให้ ฉัน ช่วย ไหม คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] help ; aid ; assist"
+                        },
+                        {
+                            "meaning": "please"
+                        }
+                    ],
+                    "phonetic": "ช่วย",
+                    "word": "ช่วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Have a seat here.",
+            "id": 4766,
+            "phonetic": "นั่ง นี่ สิ คะ",
+            "thaiSentence": "นั่งนี่สิคะ",
+            "thaiSentenceSpaced": " นั่ง นี่ สิ คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] sit"
+                        }
+                    ],
+                    "phonetic": "นั่ง",
+                    "word": "นั่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Sorry to make you wait.",
+            "id": 4836,
+            "phonetic": "ขอ โทด ที่ ทำ ไห้ ต้อง รอ นะ คะ",
+            "thaiSentence": "ขอโทษที่ทำให้ต้องรอนะคะ",
+            "thaiSentenceSpaced": " ขอโทษ ที่ ทำให้ ต้อง รอ นะ คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sorry ! ; excuse me !"
+                        },
+                        {
+                            "meaning": "[to] apologize ; say sorry <i>(ขอโทษ is \"sorry\" in the sense of making an apology; for \"sorry\" in the sense of offering sympathy เสียใจ is used instead.)</i>"
+                        }
+                    ],
+                    "phonetic": "ขอ โทด",
+                    "word": "ขอโทษ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] cause ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ ไห้",
+                    "word": "ทำให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wait (for)"
+                        }
+                    ],
+                    "phonetic": "รอ",
+                    "word": "รอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "How's the future world ?",
+            "id": 4960,
+            "phonetic": "โลก ไน อะ-นา-คด เป็น ยัง ไง บ้าง คะ",
+            "thaiSentence": "โลกในอนาคตเป็นยังไงบ้างคะ",
+            "thaiSentenceSpaced": " โลก ในอนาคต เป็น ยังไง บ้าง คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "world ; earth"
+                        }
+                    ],
+                    "phonetic": "โลก",
+                    "word": "โลก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in the future"
+                        }
+                    ],
+                    "phonetic": "ไน อะ-นา-คด",
+                    "word": "ในอนาคต"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "ยัง ไง",
+                    "word": "ยังไง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "some ; any"
+                        }
+                    ],
+                    "phonetic": "บ้าง",
+                    "word": "บ้าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is a nice room.",
+            "id": 5731,
+            "phonetic": "ห้อง สวย ดี นะ คะ",
+            "thaiSentence": "ห้องสวยดีนะคะ",
+            "thaiSentenceSpaced": " ห้อง สวย ดี นะ คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "room <i>(ห้อง is also the classifier for rooms.)</i>"
+                        }
+                    ],
+                    "phonetic": "ห้อง",
+                    "word": "ห้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] beautiful ; attractive ; pretty"
+                        }
+                    ],
+                    "phonetic": "สวย",
+                    "word": "สวย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You were famous.",
+            "id": 5831,
+            "phonetic": "คุน ดัง มาก เลย นะ คะ",
+            "thaiSentence": "คุณดังมากเลยนะคะ",
+            "thaiSentenceSpaced": " คุณ ดัง มากเลย นะ คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "as ; according to ; like ; as"
+                        },
+                        {
+                            "meaning": "[to be] famous ; celebrated ; well-known"
+                        },
+                        {
+                            "meaning": "[to be] loud ; noisy"
+                        },
+                        {
+                            "meaning": "out loud ; loudly"
+                        }
+                    ],
+                    "phonetic": "ดัง",
+                    "word": "ดัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much"
+                        }
+                    ],
+                    "phonetic": "มาก เลย",
+                    "word": "มากเลย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 40431,
+        "exampleSentences": [
+            {
+                "engSentence": "Can I help you ?",
+                "id": 2005,
+                "thaiSentence": "มีอะไรให้ฉันช่วยไหมคะ",
+                "thaiSentenceSpaced": " มี อะไร ให้ ฉัน ช่วย ไหม คะ "
+            },
+            {
+                "engSentence": "Have a seat here.",
+                "id": 4766,
+                "thaiSentence": "นั่งนี่สิคะ",
+                "thaiSentenceSpaced": " นั่ง นี่ สิ คะ "
+            },
+            {
+                "engSentence": "Sorry to make you wait.",
+                "id": 4836,
+                "thaiSentence": "ขอโทษที่ทำให้ต้องรอนะคะ",
+                "thaiSentenceSpaced": " ขอโทษ ที่ ทำให้ ต้อง รอ นะ คะ "
+            },
+            {
+                "engSentence": "How's the future world ?",
+                "id": 4960,
+                "thaiSentence": "โลกในอนาคตเป็นยังไงบ้างคะ",
+                "thaiSentenceSpaced": " โลก ในอนาคต เป็น ยังไง บ้าง คะ "
+            },
+            {
+                "engSentence": "It is a nice room.",
+                "id": 5731,
+                "thaiSentence": "ห้องสวยดีนะคะ",
+                "thaiSentenceSpaced": " ห้อง สวย ดี นะ คะ "
+            },
+            {
+                "engSentence": "You were famous.",
+                "id": 5831,
+                "thaiSentence": "คุณดังมากเลยนะคะ",
+                "thaiSentenceSpaced": " คุณ ดัง มากเลย นะ คะ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1283464,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "",
+                        "word": ""
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": "It's a particle used by female speakers at the end of questions to make them more polite",
+                "id": 103419,
+                "isUncommon": false,
+                "meaning": "",
+                "partOfSpeech": "Particle",
+                "usage": "",
+                "word": "คะ"
+            }
+        ],
+        "t2e": "คะ",
+        "verified": null,
+        "word": "คะ"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

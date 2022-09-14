@@ -1,0 +1,1277 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Why is this so heavy ?",
+            "id": 72376,
+            "phonetic": "ทำ-ไม มัน หฺนัก จัง เลย",
+            "thaiSentence": "ทำไมมันหนักจังเลย",
+            "thaiSentenceSpaced": " ทำไม มัน หนัก จังเลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "why"
+                        }
+                    ],
+                    "phonetic": "ทำ-ไม",
+                    "word": "ทำไม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "severely ; harshly"
+                        },
+                        {
+                            "meaning": "[to be] heavy ; hard"
+                        },
+                        {
+                            "meaning": "[to be] serious ; severe <i>(of a problem, illness or condition)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺนัก",
+                    "word": "หนัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "so much ; extremely ; greatly <i>(จังเลย is more commonly used by female speakers than males.)</i>"
+                        }
+                    ],
+                    "phonetic": "จัง เลย",
+                    "word": "จังเลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Did you work too hard there ?",
+            "id": 93349,
+            "phonetic": "คุน ทำ งาน ที่ นั่น หฺนัก ไป หฺรือ เปฺล่า",
+            "thaiSentence": "คุณทำงานที่นั่นหนักไปหรือเปล่า",
+            "thaiSentenceSpaced": " คุณ ทำงาน ที่นั่น หนัก ไป หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] work"
+                        }
+                    ],
+                    "phonetic": "ทำ งาน",
+                    "word": "ทำงาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "there ; that place"
+                        }
+                    ],
+                    "phonetic": "ที่ นั่น",
+                    "word": "ที่นั่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "severely ; harshly"
+                        },
+                        {
+                            "meaning": "[to be] heavy ; hard"
+                        },
+                        {
+                            "meaning": "[to be] serious ; severe <i>(of a problem, illness or condition)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺนัก",
+                    "word": "หนัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "Damn, this guy's heavy.",
+            "id": 109150,
+            "phonetic": "โท่ เอ้ย · หฺนัก ช มัด เลย",
+            "thaiSentence": "โธ่เอ้ย หนักชมัดเลย",
+            "thaiSentenceSpaced": " โธ่ เอ้ย  ·  หนัก ช มัด เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "Alas! ; What a pity!"
+                        }
+                    ],
+                    "phonetic": "โท่",
+                    "word": "โธ่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "oh! ; hey! <i>(exclamation of surprise)</i>"
+                        }
+                    ],
+                    "phonetic": "เอ้ย",
+                    "word": "เอ้ย"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "severely ; harshly"
+                        },
+                        {
+                            "meaning": "[to be] heavy ; hard"
+                        },
+                        {
+                            "meaning": "[to be] serious ; severe <i>(of a problem, illness or condition)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺนัก",
+                    "word": "หนัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "chor chaang <i>(ช - the tenth letter of the Thai alphabet)</i>"
+                        }
+                    ],
+                    "phonetic": "ช",
+                    "word": "ช"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] bind ; tie ; fasten"
+                        }
+                    ],
+                    "phonetic": "มัด",
+                    "word": "มัด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "You are so heavy.",
+            "id": 124520,
+            "phonetic": "คุน ตัว หฺนัก จัง",
+            "thaiSentence": "คุณตัวหนักจัง",
+            "thaiSentenceSpaced": " คุณ ตัว หนัก จัง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "body ; physique <i>(ตัว is a classifier every type of animal, all pieces of clothing (except ones that come in pairs, but including trousers), chairs, tables and other pieces of furniture, letters and numbers of the alphabet, and also functions as a general purpose classifier for things and objects.)</i>"
+                        },
+                        {
+                            "meaning": "self ; oneself"
+                        },
+                        {
+                            "meaning": " <i>(prefix for an actor or character)</i>"
+                        },
+                        {
+                            "meaning": "character ; letter ; entity"
+                        },
+                        {
+                            "meaning": " <i>(prefix meaning \"someone or something that does/is...\")</i>"
+                        }
+                    ],
+                    "phonetic": "ตัว",
+                    "word": "ตัว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "severely ; harshly"
+                        },
+                        {
+                            "meaning": "[to be] heavy ; hard"
+                        },
+                        {
+                            "meaning": "[to be] serious ; severe <i>(of a problem, illness or condition)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺนัก",
+                    "word": "หนัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much ; so ; really"
+                        }
+                    ],
+                    "phonetic": "จัง",
+                    "word": "จัง"
+                }
+            ]
+        },
+        {
+            "engSentence": "He's so heavy.",
+            "id": 128669,
+            "phonetic": "มัน ตัว หฺนัก จัง เลย",
+            "thaiSentence": "มันตัวหนักจังเลย",
+            "thaiSentenceSpaced": " มัน ตัว หนัก จังเลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "body ; physique <i>(ตัว is a classifier every type of animal, all pieces of clothing (except ones that come in pairs, but including trousers), chairs, tables and other pieces of furniture, letters and numbers of the alphabet, and also functions as a general purpose classifier for things and objects.)</i>"
+                        },
+                        {
+                            "meaning": "self ; oneself"
+                        },
+                        {
+                            "meaning": " <i>(prefix for an actor or character)</i>"
+                        },
+                        {
+                            "meaning": "character ; letter ; entity"
+                        },
+                        {
+                            "meaning": " <i>(prefix meaning \"someone or something that does/is...\")</i>"
+                        }
+                    ],
+                    "phonetic": "ตัว",
+                    "word": "ตัว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "severely ; harshly"
+                        },
+                        {
+                            "meaning": "[to be] heavy ; hard"
+                        },
+                        {
+                            "meaning": "[to be] serious ; severe <i>(of a problem, illness or condition)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺนัก",
+                    "word": "หนัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "so much ; extremely ; greatly <i>(จังเลย is more commonly used by female speakers than males.)</i>"
+                        }
+                    ],
+                    "phonetic": "จัง เลย",
+                    "word": "จังเลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Hey, you are heavy.",
+            "id": 139068,
+            "phonetic": "นี่ · คุน หฺนัก จะ ตาย นะ",
+            "thaiSentence": "นี่ คุณหนักจะตายนะ",
+            "thaiSentenceSpaced": " นี่  ·  คุณ หนัก จะตาย นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "severely ; harshly"
+                        },
+                        {
+                            "meaning": "[to be] heavy ; hard"
+                        },
+                        {
+                            "meaning": "[to be] serious ; severe <i>(of a problem, illness or condition)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺนัก",
+                    "word": "หนัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "so much ; to death"
+                        },
+                        {
+                            "meaning": "will die ; will suffer"
+                        }
+                    ],
+                    "phonetic": "จะ ตาย",
+                    "word": "จะตาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 16180,
+        "exampleSentences": [
+            {
+                "engSentence": "Why is this so heavy ?",
+                "id": 72376,
+                "thaiSentence": "ทำไมมันหนักจังเลย",
+                "thaiSentenceSpaced": " ทำไม มัน หนัก จังเลย "
+            },
+            {
+                "engSentence": "Did you work too hard there ?",
+                "id": 93349,
+                "thaiSentence": "คุณทำงานที่นั่นหนักไปหรือเปล่า",
+                "thaiSentenceSpaced": " คุณ ทำงาน ที่นั่น หนัก ไป หรือเปล่า "
+            },
+            {
+                "engSentence": "Damn, this guy's heavy.",
+                "id": 109150,
+                "thaiSentence": "โธ่เอ้ย หนักชมัดเลย",
+                "thaiSentenceSpaced": " โธ่ เอ้ย  &middot;  หนัก ช มัด เลย "
+            },
+            {
+                "engSentence": "You are so heavy.",
+                "id": 124520,
+                "thaiSentence": "คุณตัวหนักจัง",
+                "thaiSentenceSpaced": " คุณ ตัว หนัก จัง "
+            },
+            {
+                "engSentence": "He's so heavy.",
+                "id": 128669,
+                "thaiSentence": "มันตัวหนักจังเลย",
+                "thaiSentenceSpaced": " มัน ตัว หนัก จังเลย "
+            },
+            {
+                "engSentence": "Hey, you are heavy.",
+                "id": 139068,
+                "thaiSentence": "นี่ คุณหนักจะตายนะ",
+                "thaiSentenceSpaced": " นี่  &middot;  คุณ หนัก จะตาย นะ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1413572,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "severely",
+                        "word": "severely"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "harshly",
+                        "word": "harshly"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 27525,
+                        "corpusScore": 1652,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27390,
+                        "legacyWordId": 1452192,
+                        "meaning": "harshly ; severely",
+                        "parentId": 27390,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺย่าง หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อย่างหนัก"
+                    },
+                    {
+                        "childId": 27525,
+                        "corpusScore": 295,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26697,
+                        "legacyWordId": 1413588,
+                        "meaning": "severely ; heavily ; seriously",
+                        "parentId": 26697,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺนัก หฺน่วง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนักหน่วง"
+                    },
+                    {
+                        "childId": 27525,
+                        "corpusScore": 209,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20121,
+                        "legacyWordId": 1369926,
+                        "meaning": "[to] be severely ill ; be seriously sick",
+                        "parentId": 20121,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ป่วย หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ป่วยหนัก"
+                    },
+                    {
+                        "childId": 27525,
+                        "corpusScore": 194,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20640,
+                        "legacyWordId": 1453807,
+                        "meaning": "[to] serious condition ; critical condition",
+                        "parentId": 20640,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อา-กาน หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาการหนัก"
+                    },
+                    {
+                        "childId": 27525,
+                        "corpusScore": 41,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18832,
+                        "legacyWordId": 1413577,
+                        "meaning": "severely ; badly ; gravely",
+                        "parentId": 18832,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺนัก ข้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนักข้อ"
+                    },
+                    {
+                        "childId": 27525,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22987,
+                        "legacyWordId": 1375261,
+                        "meaning": "intensive care unit ; ICU",
+                        "parentId": 22987,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ผะ-แหฺนก พู่ ป่วย หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แผนกผู้ป่วยหนัก"
+                    }
+                ],
+                "explanation": null,
+                "id": 27525,
+                "isUncommon": false,
+                "meaning": "severely ; harshly",
+                "partOfSpeech": "Adverb",
+                "usage": "",
+                "word": "หนัก"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] heavy",
+                        "word": "heavy"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "hard",
+                        "word": "hard"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 46412,
+                        "corpusScore": 7565,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42637,
+                        "legacyWordId": 1329917,
+                        "meaning": "weight",
+                        "parentId": 42637,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้าม หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น้ำหนัก"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 1196,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23763,
+                        "legacyWordId": 1287611,
+                        "meaning": "hard work ; heavy work",
+                        "parentId": 23763,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานหนัก"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 1176,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6337,
+                        "legacyWordId": 1308880,
+                        "meaning": "[to] shoulder a burden ; shoulder a responsibility",
+                        "parentId": 6337,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตก หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตกหนัก"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 463,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39711,
+                        "legacyWordId": 1413581,
+                        "meaning": "surely ; fixedly ; readily",
+                        "parentId": 39711,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺนัก แน่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนักแน่น"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 462,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16634,
+                        "legacyWordId": 1320573,
+                        "meaning": "anus ; rectum",
+                        "parentId": 16634,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทะ-วาน หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทวารหนัก"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 374,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35210,
+                        "legacyWordId": 1413579,
+                        "meaning": "[to] be serious ; tense ; strain",
+                        "parentId": 35210,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺนัก ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนักใจ"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 202,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20429,
+                        "legacyWordId": 1397523,
+                        "meaning": "metal",
+                        "parentId": 20429,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โล-หะ หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โลหะหนัก"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 169,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49839,
+                        "legacyWordId": 1282888,
+                        "meaning": "weight",
+                        "parentId": 49839,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความหนัก"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 149,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27619,
+                        "legacyWordId": 1330459,
+                        "meaning": "[to] stress ; emphasize ; accentuate",
+                        "parentId": 27619,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เน้น หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เน้นหนัก"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 145,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22901,
+                        "legacyWordId": 1284829,
+                        "meaning": "[to] think hard ; concentrate",
+                        "parentId": 22901,
+                        "partOfSpeech": "Verb",
+                        "t2e": "คิด หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คิดหนัก"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 107,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21254,
+                        "legacyWordId": 1413595,
+                        "meaning": "heavily",
+                        "parentId": 21254,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺนัก อึ้ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนักอึ้ง"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 88,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1498,
+                        "legacyWordId": 1325498,
+                        "meaning": "heavy punishment ; major offence",
+                        "parentId": 1498,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โทด หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โทษหนัก"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 57,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18398,
+                        "legacyWordId": 1413593,
+                        "meaning": "[to] worry ; brood",
+                        "parentId": 18398,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺนัก อก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนักอก"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 55,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9953,
+                        "legacyWordId": 1264457,
+                        "meaning": "[to be] rich ; wealthy ; affluent",
+                        "parentId": 9953,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "กฺระ-เป๋า หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กระเป๋าหนัก"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 46,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42983,
+                        "legacyWordId": 1384737,
+                        "meaning": "[to be] heavy handed ; tough ; rough",
+                        "parentId": 42983,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "มือ หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มือหนัก"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 38,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5312,
+                        "legacyWordId": 1325981,
+                        "meaning": "constipated ; costiveness",
+                        "parentId": 5312,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ทาด หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ธาตุหนัก"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 34,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5196,
+                        "legacyWordId": 1413586,
+                        "meaning": "heavy-handedly",
+                        "parentId": 5196,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺนัก มือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนักมือ"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 28,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20580,
+                        "legacyWordId": 1456357,
+                        "meaning": "heavy industry",
+                        "parentId": 20580,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อุด-สา-หะ-กำ หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อุตสาหกรรมหนัก"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 24,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 123,
+                        "legacyWordId": 1454552,
+                        "meaning": "big meal",
+                        "parentId": 123,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-หาน หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาหารหนัก"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 24,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15595,
+                        "legacyWordId": 1370675,
+                        "meaning": "[to] be reticent ; be tight-lipped",
+                        "parentId": 15595,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ปาก หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปากหนัก"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 17,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29768,
+                        "legacyWordId": 1276378,
+                        "meaning": "slow-growing rice ; late rice",
+                        "parentId": 29768,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าว หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้าวหนัก"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 16,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26617,
+                        "legacyWordId": 1413594,
+                        "meaning": "[to] be anxious ; be worried about",
+                        "parentId": 26617,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺนัก อก หฺนัก ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนักอกหนักใจ"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 16,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26617,
+                        "legacyWordId": 1413594,
+                        "meaning": "[to] be anxious ; be worried about",
+                        "parentId": 26617,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺนัก อก หฺนัก ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนักอกหนักใจ"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 15,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30595,
+                        "legacyWordId": 1282891,
+                        "meaning": "weight ; gravity ; heaviness",
+                        "parentId": 30595,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม หฺนัก เบา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความหนักเบา"
+                    },
+                    {
+                        "childId": 46412,
+                        "corpusScore": 10,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19297,
+                        "legacyWordId": 1409944,
+                        "meaning": "stress ; accent ; accentuation",
+                        "parentId": 19297,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เสียง หฺนัก เบา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เสียงหนักเบา"
+                    }
+                ],
+                "explanation": null,
+                "id": 46412,
+                "isUncommon": false,
+                "meaning": "[to be] heavy ; hard",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "หนัก"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] serious",
+                        "word": "serious"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "severe",
+                        "word": "severe"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 46414,
+                        "corpusScore": 556,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26551,
+                        "legacyWordId": 1413589,
+                        "meaning": "extremely ; exceedingly ; very much",
+                        "parentId": 26551,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺนัก หฺนา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนักหนา"
+                    },
+                    {
+                        "childId": 46414,
+                        "corpusScore": 211,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397046,
+                        "legacyWordId": 1275496,
+                        "meaning": "burden ; charge ; duty",
+                        "parentId": 397046,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ของ หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ของหนัก"
+                    },
+                    {
+                        "childId": 46414,
+                        "corpusScore": 69,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394637,
+                        "legacyWordId": 1263672,
+                        "meaning": "misery from bad deeds ; unjust deed",
+                        "parentId": 394637,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กำ หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กรรมหนัก"
+                    },
+                    {
+                        "childId": 46414,
+                        "corpusScore": 21,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399101,
+                        "legacyWordId": 1369910,
+                        "meaning": "[to] crap ; shit",
+                        "parentId": 399101,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ปวด หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปวดหนัก"
+                    },
+                    {
+                        "childId": 46414,
+                        "corpusScore": 6,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397291,
+                        "legacyWordId": 1279065,
+                        "meaning": "deadwood",
+                        "parentId": 397291,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน หฺนัก แผ่น ดิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนหนักแผ่นดิน"
+                    },
+                    {
+                        "childId": 46414,
+                        "corpusScore": 6,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399349,
+                        "legacyWordId": 1373626,
+                        "meaning": "[to] compromise ; come to terms with ; reconcile",
+                        "parentId": 399349,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ผ่อน หฺนัก ผ่อน เบา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผ่อนหนักผ่อนเบา"
+                    },
+                    {
+                        "childId": 46414,
+                        "corpusScore": 4,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 597888,
+                        "legacyWordId": 1310020,
+                        "meaning": "settleable solids",
+                        "parentId": 597888,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตะ-กอน หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตะกอนหนัก"
+                    },
+                    {
+                        "childId": 46414,
+                        "corpusScore": 1,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400837,
+                        "legacyWordId": 1413587,
+                        "meaning": "squeamish ; delicate ; frail",
+                        "parentId": 400837,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "หฺนัก ไม่ เอา เบา ไม่ สู้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนักไม่เอาเบาไม่สู้"
+                    },
+                    {
+                        "childId": 46414,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402344,
+                        "legacyWordId": 1325497,
+                        "meaning": "heavy punishment ; major offence",
+                        "parentId": 402344,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โทด สะ-ถาน หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โทษสถานหนัก"
+                    },
+                    {
+                        "childId": 46414,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397292,
+                        "legacyWordId": 1279066,
+                        "meaning": "deadwood",
+                        "parentId": 397292,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน หฺนัก โลก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนหนักโลก"
+                    }
+                ],
+                "explanation": "of a problem, illness or condition",
+                "id": 46414,
+                "isUncommon": false,
+                "meaning": "[to be] serious ; severe",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "หนัก"
+            }
+        ],
+        "t2e": "หฺนัก",
+        "verified": "หฺนัก",
+        "word": "หนัก"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

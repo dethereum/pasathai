@@ -1,0 +1,35 @@
+{
+    "thaiTranslationLines": [
+        {
+            "isWordBreakdownShown": true,
+            "phonetic": "แล้ว เจอ กัน",
+            "unspacedText": "แล้วเจอกัน",
+            "wordObjects": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] meet ; encounter ; see"
+                        }
+                    ],
+                    "phonetic": "เจอ กัน",
+                    "word": "เจอกัน"
+                }
+            ]
+        }
+    ],
+    "type": "translation"
+}

@@ -1,0 +1,1373 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "You mean, like a party ?",
+            "id": 2019,
+            "phonetic": "หฺมาย ถึง · งาน ปา-ตี้ เหฺรอ",
+            "thaiSentence": "หมายถึง งานปาร์ตี้เหรอ",
+            "thaiSentenceSpaced": " หมาย ถึง  ·  งาน ปาร์ตี้ เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] mean"
+                        }
+                    ],
+                    "phonetic": "หฺมาย ถึง",
+                    "word": "หมายถึง"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "work ; job ; task"
+                        },
+                        {
+                            "meaning": "event ; ceremony ; festival"
+                        }
+                    ],
+                    "phonetic": "งาน",
+                    "word": "งาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "party"
+                        }
+                    ],
+                    "phonetic": "ปา-ตี้",
+                    "word": "ปาร์ตี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "How's the hotel work going ?",
+            "id": 26076,
+            "phonetic": "แล้ว งาน ที่ โรง แรม เป็น ยัง ไง บ้าง",
+            "thaiSentence": "แล้วงานที่โรงแรมเป็นยังไงบ้าง",
+            "thaiSentenceSpaced": " แล้ว งาน ที่ โรงแรม เป็น ยังไง บ้าง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "work ; job ; task"
+                        },
+                        {
+                            "meaning": "event ; ceremony ; festival"
+                        }
+                    ],
+                    "phonetic": "งาน",
+                    "word": "งาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hotel"
+                        }
+                    ],
+                    "phonetic": "โรง แรม",
+                    "word": "โรงแรม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "ยัง ไง",
+                    "word": "ยังไง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "some ; any"
+                        }
+                    ],
+                    "phonetic": "บ้าง",
+                    "word": "บ้าง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Is this your room ?",
+            "id": 33092,
+            "phonetic": "ห้อ งาน ย เหฺรอ",
+            "thaiSentence": "ห้องานยเหรอ",
+            "thaiSentenceSpaced": " ห้อ งาน ย เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] bruise ; contuse"
+                        },
+                        {
+                            "meaning": "[to] gallop ; race"
+                        }
+                    ],
+                    "phonetic": "ห้อ",
+                    "word": "ห้อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "work ; job ; task"
+                        },
+                        {
+                            "meaning": "event ; ceremony ; festival"
+                        }
+                    ],
+                    "phonetic": "งาน",
+                    "word": "งาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yor yak <i>(ย - the thirty fourth letter of the Thai alphabet)</i>"
+                        }
+                    ],
+                    "phonetic": "ย",
+                    "word": "ย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "So it isn't work ?",
+            "id": 33650,
+            "phonetic": "ไม่ ไช่ งาน หฺรอก หฺรอ",
+            "thaiSentence": "ไม่ใช่งานหรอกหรอ",
+            "thaiSentenceSpaced": " ไม่ใช่ งาน หรอก หรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be not ; no"
+                        }
+                    ],
+                    "phonetic": "ไม่ ไช่",
+                    "word": "ไม่ใช่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "work ; job ; task"
+                        },
+                        {
+                            "meaning": "event ; ceremony ; festival"
+                        }
+                    ],
+                    "phonetic": "งาน",
+                    "word": "งาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in the negative when making a contradiction)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺรอก",
+                    "word": "หรอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺรอ",
+                    "word": "หรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Report to headquarters.",
+            "id": 46990,
+            "phonetic": "ราย งาน · ไป ที่ กอง บัน-ชา กาน",
+            "thaiSentence": "รายงาน ไปที่กองบัญชาการ",
+            "thaiSentenceSpaced": " ราย งาน  ·  ไปที่ กองบัญชาการ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] report"
+                        },
+                        {
+                            "meaning": "report ; written record"
+                        }
+                    ],
+                    "phonetic": "ราย งาน",
+                    "word": "รายงาน"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go to"
+                        }
+                    ],
+                    "phonetic": "ไป ที่",
+                    "word": "ไปที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "headquarters ; general headquarters"
+                        }
+                    ],
+                    "phonetic": "กอง บัน-ชา กาน",
+                    "word": "กองบัญชาการ"
+                }
+            ]
+        },
+        {
+            "engSentence": "The work of your god.",
+            "id": 60136,
+            "phonetic": "คือ งาน ของ พฺระ เจ้า ของ ทั่น",
+            "thaiSentence": "คืองานของพระเจ้าของท่าน",
+            "thaiSentenceSpaced": " นี่ คือ งาน ของ พระเจ้า ของ ท่าน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be"
+                        }
+                    ],
+                    "phonetic": "คือ",
+                    "word": "คือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "work ; job ; task"
+                        },
+                        {
+                            "meaning": "event ; ceremony ; festival"
+                        }
+                    ],
+                    "phonetic": "งาน",
+                    "word": "งาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "God ; Saviour"
+                        }
+                    ],
+                    "phonetic": "พฺระ เจ้า",
+                    "word": "พระเจ้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you <i>(when talking to someone respected or of high status)</i>"
+                        },
+                        {
+                            "meaning": "he ; him ; she ; her <i>(when referring to someone respected or of high status)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a title used to show respect to someone of high status, or by businesses to their customers)</i>"
+                        }
+                    ],
+                    "phonetic": "ทั่น",
+                    "word": "ท่าน"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 167498,
+        "exampleSentences": [
+            {
+                "engSentence": "You mean, like a party ?",
+                "id": 2019,
+                "thaiSentence": "หมายถึง งานปาร์ตี้เหรอ",
+                "thaiSentenceSpaced": " หมาย ถึง  &middot;  งาน ปาร์ตี้ เหรอ "
+            },
+            {
+                "engSentence": "How's the hotel work going ?",
+                "id": 26076,
+                "thaiSentence": "แล้วงานที่โรงแรมเป็นยังไงบ้าง",
+                "thaiSentenceSpaced": " แล้ว งาน ที่ โรงแรม เป็น ยังไง บ้าง "
+            },
+            {
+                "engSentence": "Is this your room ?",
+                "id": 33092,
+                "thaiSentence": "ห้องานยเหรอ",
+                "thaiSentenceSpaced": " ห้อ งาน ย เหรอ "
+            },
+            {
+                "engSentence": "So it isn't work ?",
+                "id": 33650,
+                "thaiSentence": "ไม่ใช่งานหรอกหรอ",
+                "thaiSentenceSpaced": " ไม่ใช่ งาน หรอก หรอ "
+            },
+            {
+                "engSentence": "Report to headquarters.",
+                "id": 46990,
+                "thaiSentence": "รายงาน ไปที่กองบัญชาการ",
+                "thaiSentenceSpaced": " ราย งาน  &middot;  ไปที่ กองบัญชาการ "
+            },
+            {
+                "engSentence": "The work of your god.",
+                "id": 60136,
+                "thaiSentence": "คืองานของพระเจ้าของท่าน",
+                "thaiSentenceSpaced": " นี่ คือ งาน ของ พระเจ้า ของ ท่าน "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1287486,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "work",
+                        "word": "work"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "job",
+                        "word": "job"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "task",
+                        "word": "task"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 35427,
+                        "corpusScore": 33000,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 416279,
+                        "legacyWordId": 1322905,
+                        "meaning": "[to] work",
+                        "parentId": 416279,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำงาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 11148,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4678,
+                        "legacyWordId": 1294410,
+                        "meaning": "[to] be usable ; be accessible ; be practicable",
+                        "parentId": 4678,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไช้ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใช้งาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 10247,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 34418,
+                        "legacyWordId": 1391928,
+                        "meaning": "[to] report",
+                        "parentId": 34418,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ราย งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รายงาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 9934,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35793,
+                        "legacyWordId": 1377239,
+                        "meaning": "energy",
+                        "parentId": 35793,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พะ-ลัง งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พลังงาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 9180,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 38880,
+                        "legacyWordId": 1373450,
+                        "meaning": "success ; accomplishment ; achievement",
+                        "parentId": 38880,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ผน งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผลงาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 9180,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 38752,
+                        "legacyWordId": 1373450,
+                        "meaning": "works",
+                        "parentId": 38752,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ผน งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผลงาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 9082,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 27296,
+                        "legacyWordId": 1407651,
+                        "meaning": "office ; bureau",
+                        "parentId": 27296,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สำ-นัก งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สำนักงาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 7994,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41767,
+                        "legacyWordId": 1376137,
+                        "meaning": "official ; staff ; employee",
+                        "parentId": 41767,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พะ-นัก งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พนักงาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 7924,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 33222,
+                        "legacyWordId": 1410858,
+                        "meaning": "institute",
+                        "parentId": 33222,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺน่วย งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หน่วยงาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 6454,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21755,
+                        "legacyWordId": 1393993,
+                        "meaning": "factory ; plant",
+                        "parentId": 21755,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรง งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรงงาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 5644,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25674,
+                        "legacyWordId": 1393197,
+                        "meaning": "labour ; workforce",
+                        "parentId": 25674,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แรง งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แรงงาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 4599,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1043,
+                        "legacyWordId": 1323492,
+                        "meaning": "team",
+                        "parentId": 1043,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทีม งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทีมงาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 3595,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20480,
+                        "legacyWordId": 1389190,
+                        "meaning": "[to] work together",
+                        "parentId": 20480,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ร่วม งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร่วมงาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 2677,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24243,
+                        "legacyWordId": 1369020,
+                        "meaning": "[to] coordinate ; integrate ; bring together",
+                        "parentId": 24243,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ปฺระ-สาน งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประสานงาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 2621,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13603,
+                        "legacyWordId": 1307504,
+                        "meaning": "[to] operate ; carry on ; execute",
+                        "parentId": 13603,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดำ-เนิน งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดำเนินงาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 2360,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13933,
+                        "legacyWordId": 1287591,
+                        "meaning": "research ; investigation ; study",
+                        "parentId": 13933,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน วิ-ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานวิจัย"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 2272,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35242,
+                        "legacyWordId": 1287493,
+                        "meaning": "work ; job ; employment",
+                        "parentId": 35242,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน กาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานการ"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 2221,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10353,
+                        "legacyWordId": 1267865,
+                        "meaning": "work ; job ; duty",
+                        "parentId": 10353,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การงาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 2137,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13046,
+                        "legacyWordId": 1367557,
+                        "meaning": "[to] work",
+                        "parentId": 13046,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ปะ-ติ-บัด งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปฏิบัติงาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 1375,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29292,
+                        "legacyWordId": 1278751,
+                        "meaning": "employee ; worker",
+                        "parentId": 29292,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนงาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 1353,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14584,
+                        "legacyWordId": 1332199,
+                        "meaning": "[to] administrate ; manage ; administer",
+                        "parentId": 14584,
+                        "partOfSpeech": "Verb",
+                        "t2e": "บอ-ริ-หาน งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บริหารงาน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 1196,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23763,
+                        "legacyWordId": 1287611,
+                        "meaning": "hard work ; heavy work",
+                        "parentId": 23763,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน หฺนัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานหนัก"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 1044,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28257,
+                        "legacyWordId": 1287497,
+                        "meaning": "writing ; composition ; work",
+                        "parentId": 28257,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน เขียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานเขียน"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 982,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31812,
+                        "legacyWordId": 1287540,
+                        "meaning": "routine ; routine work",
+                        "parentId": 31812,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน ปฺระ-จำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานประจำ"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 956,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44688,
+                        "legacyWordId": 1391053,
+                        "meaning": "[to be] available for hire",
+                        "parentId": 44688,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "รับ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รับงาน"
+                    }
+                ],
+                "explanation": null,
+                "id": 35427,
+                "isUncommon": false,
+                "meaning": "work ; job ; task",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "งาน"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "event",
+                        "word": "event"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "ceremony",
+                        "word": "ceremony"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "festival",
+                        "word": "festival"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 45627,
+                        "corpusScore": 4920,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 46687,
+                        "legacyWordId": 1318309,
+                        "meaning": "[to] marry ; get married",
+                        "parentId": 46687,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แต่ง งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่งงาน"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 3595,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4865,
+                        "legacyWordId": 1389190,
+                        "meaning": "[to] attend a ceremony",
+                        "parentId": 4865,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ร่วม งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร่วมงาน"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 3077,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6866,
+                        "legacyWordId": 1288912,
+                        "meaning": "[to] arrange ; organize",
+                        "parentId": 6866,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จัด งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จัดงาน"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 835,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3923,
+                        "legacyWordId": 1287616,
+                        "meaning": "important job ; big event ; big happening",
+                        "parentId": 3923,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน ไหฺย่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานใหญ่"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 816,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402558,
+                        "legacyWordId": 1373264,
+                        "meaning": "[to] give the first performance",
+                        "parentId": 402558,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปงาน"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 731,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14067,
+                        "legacyWordId": 1287581,
+                        "meaning": "banquet ; feast ; dinner",
+                        "parentId": 14067,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน เลี้ยง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานเลี้ยง"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 604,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32200,
+                        "legacyWordId": 1287592,
+                        "meaning": "funeral ; cremation ; burial",
+                        "parentId": 32200,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน สบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานศพ"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 591,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13050,
+                        "legacyWordId": 1287538,
+                        "meaning": "religious ceremony",
+                        "parentId": 13050,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน บุน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานบุญ"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 511,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42422,
+                        "legacyWordId": 1396989,
+                        "meaning": "[to] attack ; assault ; persecute",
+                        "parentId": 42422,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เล่น งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เล่นงาน"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 485,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35631,
+                        "legacyWordId": 1287608,
+                        "meaning": "exhibition ; demonstration ; display",
+                        "parentId": 35631,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน สะ-แดง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานแสดง"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 423,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1925,
+                        "legacyWordId": 1372606,
+                        "meaning": "[to] open ; be inaugurated ; unveil",
+                        "parentId": 1925,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เปิด งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เปิดงาน"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 375,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397518,
+                        "legacyWordId": 1287590,
+                        "meaning": "hobby",
+                        "parentId": 397518,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน ว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานว่าง"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 363,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13376,
+                        "legacyWordId": 1287505,
+                        "meaning": "celebration ; festivity ; festival",
+                        "parentId": 13376,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน ฉะ-หฺลอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานฉลอง"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 313,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13900,
+                        "legacyWordId": 1287558,
+                        "meaning": "ceremony ; rite ; ritual",
+                        "parentId": 13900,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน พิ-ที",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานพิธี"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 302,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "to an event",
+                        "hasSoundFile": false,
+                        "id": 7085,
+                        "legacyWordId": 1325239,
+                        "meaning": "[to] go out",
+                        "parentId": 7085,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เที่ยว งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เที่ยวงาน"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 298,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "of a play or piece of work",
+                        "hasSoundFile": false,
+                        "id": 48336,
+                        "legacyWordId": 1452570,
+                        "meaning": "[to] give the first performance",
+                        "parentId": 48336,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ออก งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ออกงาน"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 277,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31117,
+                        "legacyWordId": 1287518,
+                        "meaning": "wedding ; marriage",
+                        "parentId": 31117,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน แต่ง งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานแต่งงาน"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 247,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34168,
+                        "legacyWordId": 1404633,
+                        "meaning": "part",
+                        "parentId": 34168,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ส่วน งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ส่วนงาน"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 245,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20231,
+                        "legacyWordId": 1287526,
+                        "meaning": "carnival",
+                        "parentId": 20231,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน เทด-สะ-กาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานเทศกาล"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 224,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32092,
+                        "legacyWordId": 1287588,
+                        "meaning": "temple fair",
+                        "parentId": 32092,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน วัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานวัด"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 183,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397516,
+                        "legacyWordId": 1287559,
+                        "meaning": "printed matter",
+                        "parentId": 397516,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน พิม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานพิมพ์"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 130,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 691,
+                        "legacyWordId": 1287565,
+                        "meaning": "auspicious ceremony",
+                        "parentId": 691,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน มง-คน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานมงคล"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 99,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 455,
+                        "legacyWordId": 1287532,
+                        "meaning": "exhibition ; exhibit ; presentation",
+                        "parentId": 455,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน นิ-ทัด-สะ-กาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานนิทรรศการ"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 94,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31551,
+                        "legacyWordId": 1287578,
+                        "meaning": "festival ; party ; fair",
+                        "parentId": 31551,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน รื่น เริง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานรื่นเริง"
+                    },
+                    {
+                        "childId": 45627,
+                        "corpusScore": 91,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397949,
+                        "legacyWordId": 1307990,
+                        "meaning": "[to] administrate ; manage ; administer",
+                        "parentId": 397949,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดู แล งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดูแลงาน"
+                    }
+                ],
+                "explanation": null,
+                "id": 45627,
+                "isUncommon": false,
+                "meaning": "event ; ceremony ; festival",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "งาน"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "ngan",
+                        "word": "ngan"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": "a traditional Thai measurement of area, equal to 400sqm",
+                "id": 362188,
+                "isUncommon": true,
+                "meaning": "ngan",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "งาน"
+            }
+        ],
+        "t2e": "งาน",
+        "verified": null,
+        "word": "งาน"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

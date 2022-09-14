@@ -1,0 +1,911 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Come up, third floor.",
+            "id": 14762,
+            "phonetic": "ขึ้น มา สิ · ชั้น สาม",
+            "thaiSentence": "ขึ้นมาสิ ชั้นสาม",
+            "thaiSentenceSpaced": " ขึ้นมา สิ  ·  ชั้น สาม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] upward ; rise"
+                        }
+                    ],
+                    "phonetic": "ขึ้น มา",
+                    "word": "ขึ้นมา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "class ; rank ; grade"
+                        },
+                        {
+                            "meaning": "floor ; storey <i>(of a building)</i>"
+                        },
+                        {
+                            "meaning": "layer ; level ; stage"
+                        }
+                    ],
+                    "phonetic": "ชั้น",
+                    "word": "ชั้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "three"
+                        }
+                    ],
+                    "phonetic": "สาม",
+                    "word": "สาม"
+                }
+            ]
+        },
+        {
+            "engSentence": "I count three of them.",
+            "id": 50664,
+            "phonetic": "ฉัน นับ ด้าย สาม ตัว",
+            "thaiSentence": "ฉันนับได้สามตัว",
+            "thaiSentenceSpaced": " ฉัน นับ ได้ สาม ตัว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] regard as ; count as ; adopt as"
+                        },
+                        {
+                            "meaning": "[to] count"
+                        }
+                    ],
+                    "phonetic": "นับ",
+                    "word": "นับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "three"
+                        }
+                    ],
+                    "phonetic": "สาม",
+                    "word": "สาม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "body ; physique <i>(ตัว is a classifier every type of animal, all pieces of clothing (except ones that come in pairs, but including trousers), chairs, tables and other pieces of furniture, letters and numbers of the alphabet, and also functions as a general purpose classifier for things and objects.)</i>"
+                        },
+                        {
+                            "meaning": "self ; oneself"
+                        },
+                        {
+                            "meaning": " <i>(prefix for an actor or character)</i>"
+                        },
+                        {
+                            "meaning": "character ; letter ; entity"
+                        },
+                        {
+                            "meaning": " <i>(prefix meaning \"someone or something that does/is...\")</i>"
+                        }
+                    ],
+                    "phonetic": "ตัว",
+                    "word": "ตัว"
+                }
+            ]
+        },
+        {
+            "engSentence": "Ready ? One, two , three.",
+            "id": 57676,
+            "phonetic": "พฺร้อม หฺรือ ยัง · หฺนึ่ง · สอง · สาม",
+            "thaiSentence": "พร้อมหรือยัง หนึ่ง สอง สาม",
+            "thaiSentenceSpaced": " พร้อม หรือยัง  ·  หนึ่ง  ·  สอง  ·  สาม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "at the same time ; simultaneously ; together"
+                        },
+                        {
+                            "meaning": "with ; together with"
+                        },
+                        {
+                            "meaning": "[to be] ready ; prepared ; set"
+                        }
+                    ],
+                    "phonetic": "พฺร้อม",
+                    "word": "พร้อม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not yet"
+                        }
+                    ],
+                    "phonetic": "หฺรือ ยัง",
+                    "word": "หรือยัง"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "หฺนึ่ง",
+                    "word": "หนึ่ง"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "two"
+                        }
+                    ],
+                    "phonetic": "สอง",
+                    "word": "สอง"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "three"
+                        }
+                    ],
+                    "phonetic": "สาม",
+                    "word": "สาม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Best of three.",
+            "id": 59919,
+            "phonetic": "ดี ที่ สุด ไน สาม คน",
+            "thaiSentence": "ดีที่สุดในสามคน",
+            "thaiSentenceSpaced": " ดีที่สุด ใน สาม คน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "best"
+                        }
+                    ],
+                    "phonetic": "ดี ที่ สุด",
+                    "word": "ดีที่สุด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "three"
+                        }
+                    ],
+                    "phonetic": "สาม",
+                    "word": "สาม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                }
+            ]
+        },
+        {
+            "engSentence": "Especially number three.",
+            "id": 60071,
+            "phonetic": "โดย ฉะ-เพาะ เจ้า เลก · สาม",
+            "thaiSentence": "โดยเฉพาะเจ้าเลข สาม",
+            "thaiSentenceSpaced": " โดยเฉพาะ เจ้า เลข  ·  สาม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "specially ; especially ; particularly"
+                        }
+                    ],
+                    "phonetic": "โดย ฉะ-เพาะ",
+                    "word": "โดยเฉพาะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "prince ; princess ; lord"
+                        },
+                        {
+                            "meaning": "owner ; possessor"
+                        },
+                        {
+                            "meaning": " <i>(prefix used before names of children, inferiors or subordinates)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a prefix showing something someone does skillfully or has frequently)</i>"
+                        }
+                    ],
+                    "phonetic": "เจ้า",
+                    "word": "เจ้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "number ; numeral ; digit"
+                        }
+                    ],
+                    "phonetic": "เลก",
+                    "word": "เลข"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "three"
+                        }
+                    ],
+                    "phonetic": "สาม",
+                    "word": "สาม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Three captains, one ship.",
+            "id": 62090,
+            "phonetic": "สาม กับ ตัน และ ยาน หฺนึ่ง ลำ",
+            "thaiSentence": "สามกัปตัน และยานหนึ่งลำ",
+            "thaiSentenceSpaced": " สาม กัปตัน และ ยาน หนึ่ง ลำ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "three"
+                        }
+                    ],
+                    "phonetic": "สาม",
+                    "word": "สาม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "captain"
+                        }
+                    ],
+                    "phonetic": "กับ ตัน",
+                    "word": "กัปตัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and"
+                        }
+                    ],
+                    "phonetic": "และ",
+                    "word": "และ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be flabby"
+                        },
+                        {
+                            "meaning": "craft ; vehicle"
+                        }
+                    ],
+                    "phonetic": "ยาน",
+                    "word": "ยาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "หฺนึ่ง",
+                    "word": "หนึ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "trunk ; body ; stalk <i>(ลำ is the classifier for planes or boats.)</i>"
+                        }
+                    ],
+                    "phonetic": "ลำ",
+                    "word": "ลำ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 20111,
+        "exampleSentences": [
+            {
+                "engSentence": "Come up, third floor.",
+                "id": 14762,
+                "thaiSentence": "ขึ้นมาสิ ชั้นสาม",
+                "thaiSentenceSpaced": " ขึ้นมา สิ  &middot;  ชั้น สาม "
+            },
+            {
+                "engSentence": "I count three of them.",
+                "id": 50664,
+                "thaiSentence": "ฉันนับได้สามตัว",
+                "thaiSentenceSpaced": " ฉัน นับ ได้ สาม ตัว "
+            },
+            {
+                "engSentence": "Ready ? One, two , three.",
+                "id": 57676,
+                "thaiSentence": "พร้อมหรือยัง หนึ่ง สอง สาม",
+                "thaiSentenceSpaced": " พร้อม หรือยัง  &middot;  หนึ่ง  &middot;  สอง  &middot;  สาม "
+            },
+            {
+                "engSentence": "Best of three.",
+                "id": 59919,
+                "thaiSentence": "ดีที่สุดในสามคน",
+                "thaiSentenceSpaced": " ดีที่สุด ใน สาม คน "
+            },
+            {
+                "engSentence": "Especially number three.",
+                "id": 60071,
+                "thaiSentence": "โดยเฉพาะเจ้าเลข สาม",
+                "thaiSentenceSpaced": " โดยเฉพาะ เจ้า เลข  &middot;  สาม "
+            },
+            {
+                "engSentence": "Three captains, one ship.",
+                "id": 62090,
+                "thaiSentence": "สามกัปตัน และยานหนึ่งลำ",
+                "thaiSentenceSpaced": " สาม กัปตัน และ ยาน หนึ่ง ลำ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1406904,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "three",
+                        "word": "three"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 39290,
+                        "corpusScore": 2335,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7949,
+                        "legacyWordId": 1323577,
+                        "meaning": "third",
+                        "parentId": 7949,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ที่ สาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่สาม"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 1220,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44989,
+                        "legacyWordId": 1405256,
+                        "meaning": "[to be] a few ; several",
+                        "parentId": 44989,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "สอง สาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองสาม"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 915,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 683,
+                        "legacyWordId": 1407087,
+                        "meaning": "triangle",
+                        "parentId": 683,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สาม เหฺลี่ยม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สามเหลี่ยม"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 549,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102689,
+                        "legacyWordId": 1407022,
+                        "meaning": "thirty ; 30",
+                        "parentId": 102689,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สาม สิบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สามสิบ"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 350,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102703,
+                        "legacyWordId": 1406958,
+                        "meaning": "three thousand ; 3000",
+                        "parentId": 102703,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สาม พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สามพัน"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 320,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4957,
+                        "legacyWordId": 1407006,
+                        "meaning": "tricycle",
+                        "parentId": 4957,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สาม ล้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สามล้อ"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 269,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102696,
+                        "legacyWordId": 1406999,
+                        "meaning": "three hundred ; 300",
+                        "parentId": 102696,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สาม ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สามร้อย"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 180,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102713,
+                        "legacyWordId": 1407077,
+                        "meaning": "thirty thousand ; 30,000",
+                        "parentId": 102713,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สาม หฺมื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สามหมื่น"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 179,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17437,
+                        "legacyWordId": 1317682,
+                        "meaning": "3 a.m.",
+                        "parentId": 17437,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตี สาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตีสาม"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 119,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45017,
+                        "legacyWordId": 1413984,
+                        "meaning": "one-third ; one in three",
+                        "parentId": 45017,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนึ่ง ไน สาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนึ่งในสาม"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 114,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102769,
+                        "legacyWordId": 1365763,
+                        "meaning": "3pm",
+                        "parentId": 102769,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ่าย สาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ่ายสาม"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 114,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102682,
+                        "legacyWordId": 1408337,
+                        "meaning": "thirteen",
+                        "parentId": 102682,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สิบ สาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบสาม"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 109,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102748,
+                        "legacyWordId": 1406939,
+                        "meaning": "9pm",
+                        "parentId": 102748,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สาม ทุ่ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สามทุ่ม"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 88,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102721,
+                        "legacyWordId": 1407073,
+                        "meaning": "three hundred thousand ; 300,000",
+                        "parentId": 102721,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สาม แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สามแสน"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 74,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 160,
+                        "legacyWordId": 1406922,
+                        "meaning": "trident",
+                        "parentId": 160,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สาม ง่าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สามง่าม"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 54,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400659,
+                        "legacyWordId": 1406941,
+                        "meaning": "triple ; threefold ; three time three",
+                        "parentId": 400659,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สาม เท่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สามเท่า"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 51,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102731,
+                        "legacyWordId": 1407009,
+                        "meaning": "three million ; 3,000,000",
+                        "parentId": 102731,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สาม ล้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สามล้าน"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 45,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102770,
+                        "legacyWordId": 1365764,
+                        "meaning": "3pm",
+                        "parentId": 102770,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ่าย สาม โมง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ่ายสามโมง"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 25,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19370,
+                        "legacyWordId": 1446361,
+                        "meaning": "streaky pork",
+                        "parentId": 19370,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺมู สาม ชั้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หมูสามชั้น"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 16,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41544,
+                        "legacyWordId": 1463062,
+                        "meaning": "Khlong Sam Wa",
+                        "parentId": 41544,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺลอง สาม วา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คลองสามวา"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 12,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402409,
+                        "legacyWordId": 1397444,
+                        "meaning": "three worlds",
+                        "parentId": 402409,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โลก สาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โลกสาม"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 9,
+                        "displayOrder": 0,
+                        "etymology": "Thai",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 63654,
+                        "legacyWordId": 1463345,
+                        "meaning": "tripolarity",
+                        "parentId": 63654,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สาม ขั้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สามขั้ว"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 8,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 52946,
+                        "legacyWordId": 1388385,
+                        "meaning": "Three Kingdoms",
+                        "parentId": 52946,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ยุก สาม ก๊ก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยุคสามก๊ก"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 8,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38113,
+                        "legacyWordId": 1304407,
+                        "meaning": "three-stringed fiddle",
+                        "parentId": 38113,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ซอ สาม สาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซอสามสาย"
+                    },
+                    {
+                        "childId": 39290,
+                        "corpusScore": 8,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26308,
+                        "legacyWordId": 1451421,
+                        "meaning": "broad-chested ; able-bodied ; full-grown",
+                        "parentId": 26308,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "อก สาม สอก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อกสามศอก"
+                    }
+                ],
+                "explanation": null,
+                "id": 39290,
+                "isUncommon": false,
+                "meaning": "three",
+                "partOfSpeech": "Quantifier",
+                "usage": "",
+                "word": "สาม"
+            }
+        ],
+        "t2e": "สาม",
+        "verified": null,
+        "word": "สาม"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,528 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "Kind of spicy.",
+            "id": 70380,
+            "phonetic": "ค่อน ข้าง จะ เผ็ด น่ะ ค่ะ",
+            "thaiSentence": "ค่อนข้างจะเผ็ดน่ะค่ะ",
+            "thaiSentenceSpaced": " ค่อนข้างจะ เผ็ด น่ะ ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "rather ; somewhat"
+                        }
+                    ],
+                    "phonetic": "ค่อน ข้าง จะ",
+                    "word": "ค่อนข้างจะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] spicy ; hot"
+                        }
+                    ],
+                    "phonetic": "เผ็ด",
+                    "word": "เผ็ด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to after a noun to highlight it as the subject of the sentence, or to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "น่ะ",
+                    "word": "น่ะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Was it spicy enough ?",
+            "id": 133272,
+            "phonetic": "เผ็ด พอ หฺรือ เปฺล่า",
+            "thaiSentence": "เผ็ดพอหรือเปล่า",
+            "thaiSentenceSpaced": " เผ็ด พอ หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] spicy ; hot"
+                        }
+                    ],
+                    "phonetic": "เผ็ด",
+                    "word": "เผ็ด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "as soon as ; when ; just when ; just after"
+                        },
+                        {
+                            "meaning": "[to be] enough ; sufficient ; appropriate"
+                        }
+                    ],
+                    "phonetic": "พอ",
+                    "word": "พอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "What if it's really spicy ?",
+            "id": 271218,
+            "phonetic": "ถ้า มัน เผ็ด จิง จิง · ล่ะ",
+            "thaiSentence": "ถ้ามันเผ็ดจริงๆ ล่ะ",
+            "thaiSentenceSpaced": " ถ้า มัน เผ็ด จริงๆ ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "if"
+                        }
+                    ],
+                    "phonetic": "ถ้า",
+                    "word": "ถ้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] spicy ; hot"
+                        }
+                    ],
+                    "phonetic": "เผ็ด",
+                    "word": "เผ็ด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "really ; honestly ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง จิง",
+                    "word": "จริงๆ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Wow, this is really spicy.",
+            "id": 318072,
+            "phonetic": "ว๊าว · นี่ มัน เผ็ด จิง จิง · นะ",
+            "thaiSentence": "ว๊าว นี่มันเผ็ดจริงๆ นะ",
+            "thaiSentenceSpaced": " ว๊าว  ·  นี่ มัน เผ็ด จริงๆ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "wow!"
+                        }
+                    ],
+                    "phonetic": "ว๊าว",
+                    "word": "ว๊าว"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] spicy ; hot"
+                        }
+                    ],
+                    "phonetic": "เผ็ด",
+                    "word": "เผ็ด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "really ; honestly ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง จิง",
+                    "word": "จริงๆ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is so spicy.",
+            "id": 318073,
+            "phonetic": "มัน เผ็ด จิง จิง",
+            "thaiSentence": "มันเผ็ดจริงๆ",
+            "thaiSentenceSpaced": " มัน เผ็ด จริงๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] spicy ; hot"
+                        }
+                    ],
+                    "phonetic": "เผ็ด",
+                    "word": "เผ็ด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "really ; honestly ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง จิง",
+                    "word": "จริงๆ"
+                }
+            ]
+        },
+        {
+            "engSentence": "This really is spicy.",
+            "id": 318077,
+            "phonetic": "นี่ มัน เผ็ด จิง จิง",
+            "thaiSentence": "นี่มันเผ็ดจริงๆ",
+            "thaiSentenceSpaced": " นี่ มัน เผ็ด จริงๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] spicy ; hot"
+                        }
+                    ],
+                    "phonetic": "เผ็ด",
+                    "word": "เผ็ด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "really ; honestly ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง จิง",
+                    "word": "จริงๆ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 1051,
+        "exampleSentences": [
+            {
+                "engSentence": "Kind of spicy.",
+                "id": 70380,
+                "thaiSentence": "ค่อนข้างจะเผ็ดน่ะค่ะ",
+                "thaiSentenceSpaced": " ค่อนข้างจะ เผ็ด น่ะ ค่ะ "
+            },
+            {
+                "engSentence": "Was it spicy enough ?",
+                "id": 133272,
+                "thaiSentence": "เผ็ดพอหรือเปล่า",
+                "thaiSentenceSpaced": " เผ็ด พอ หรือเปล่า "
+            },
+            {
+                "engSentence": "What if it's really spicy ?",
+                "id": 271218,
+                "thaiSentence": "ถ้ามันเผ็ดจริงๆ ล่ะ",
+                "thaiSentenceSpaced": " ถ้า มัน เผ็ด จริงๆ ล่ะ "
+            },
+            {
+                "engSentence": "Wow, this is really spicy.",
+                "id": 318072,
+                "thaiSentence": "ว๊าว นี่มันเผ็ดจริงๆ นะ",
+                "thaiSentenceSpaced": " ว๊าว  &middot;  นี่ มัน เผ็ด จริงๆ นะ "
+            },
+            {
+                "engSentence": "It is so spicy.",
+                "id": 318073,
+                "thaiSentence": "มันเผ็ดจริงๆ",
+                "thaiSentenceSpaced": " มัน เผ็ด จริงๆ "
+            },
+            {
+                "engSentence": "This really is spicy.",
+                "id": 318077,
+                "thaiSentence": "นี่มันเผ็ดจริงๆ",
+                "thaiSentenceSpaced": " นี่ มัน เผ็ด จริงๆ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1375132,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] spicy",
+                        "word": "spicy"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "hot",
+                        "word": "hot"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 42860,
+                        "corpusScore": 208,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36289,
+                        "legacyWordId": 1375140,
+                        "meaning": "[to be] hot ; spicy ; strong",
+                        "parentId": 36289,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "เผ็ด ร้อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เผ็ดร้อน"
+                    },
+                    {
+                        "childId": 42860,
+                        "corpusScore": 137,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8981,
+                        "legacyWordId": 1274271,
+                        "meaning": "curry ; hot curry ; red curry",
+                        "parentId": 8981,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แกง เผ็ด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แกงเผ็ด"
+                    },
+                    {
+                        "childId": 42860,
+                        "corpusScore": 130,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49724,
+                        "legacyWordId": 1282134,
+                        "meaning": "spiciness ; hotness",
+                        "parentId": 49724,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม เผ็ด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความเผ็ด"
+                    },
+                    {
+                        "childId": 42860,
+                        "corpusScore": 40,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7463,
+                        "legacyWordId": 1274418,
+                        "meaning": "[to] revenge ; avenge ; get even with",
+                        "parentId": 7463,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แก้ เผ็ด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แก้เผ็ด"
+                    },
+                    {
+                        "childId": 42860,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1011,
+                        "legacyWordId": 1307846,
+                        "meaning": "furiously ; violently ; intensely",
+                        "parentId": 1011,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ดุ เด็ด เผ็ด มัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดุเด็ดเผ็ดมัน"
+                    }
+                ],
+                "explanation": null,
+                "id": 42860,
+                "isUncommon": false,
+                "meaning": "[to be] spicy ; hot",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "เผ็ด"
+            }
+        ],
+        "t2e": "เผ็ด",
+        "verified": null,
+        "word": "เผ็ด"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

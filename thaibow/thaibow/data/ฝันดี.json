@@ -1,0 +1,96 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 416,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1375691,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 42963,
+                        "corpusScore": 10926,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42963,
+                        "legacyWordId": 1375688,
+                        "meaning": "[to] dream ; imagine",
+                        "parentId": 20761,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ฝัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ฝัน"
+                    },
+                    {
+                        "childId": 421586,
+                        "corpusScore": 138563,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 421586,
+                        "legacyWordId": 1307696,
+                        "meaning": "[to be] good ; nice",
+                        "parentId": 20761,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดี"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "good dream",
+                        "word": "good dream"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "sweet dreams",
+                        "word": "sweet dreams"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 20761,
+                        "corpusScore": 37,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402819,
+                        "legacyWordId": 1327603,
+                        "meaning": "[to] sleep well",
+                        "parentId": 402819,
+                        "partOfSpeech": "Verb",
+                        "t2e": "นอน หฺลับ ฝัน ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นอนหลับฝันดี"
+                    }
+                ],
+                "explanation": null,
+                "id": 20761,
+                "isUncommon": false,
+                "meaning": "good dream ; sweet dreams",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ฝันดี"
+            }
+        ],
+        "t2e": "ฝัน ดี",
+        "verified": null,
+        "word": "ฝันดี"
+    },
+    "greenBarCount": 2,
+    "pageUrl": "",
+    "type": "thai-word"
+}

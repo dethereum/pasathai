@@ -1,0 +1,73 @@
+{
+    "commonessText": "Rarely",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 179,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1373802,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 38326,
+                        "corpusScore": 2780,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38326,
+                        "legacyWordId": 1373798,
+                        "meaning": "[to] fry",
+                        "parentId": 58914,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ผัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผัด"
+                    },
+                    {
+                        "childId": 323,
+                        "corpusScore": 104623,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 323,
+                        "legacyWordId": 1325527,
+                        "meaning": "Thai",
+                        "parentId": 58914,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ไท",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไทย"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "Pad Thai",
+                        "word": "Pad Thai"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 58914,
+                "isUncommon": false,
+                "meaning": "Pad Thai",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ผัดไทย"
+            }
+        ],
+        "t2e": "ผัด ไท",
+        "verified": null,
+        "word": "ผัดไทย"
+    },
+    "greenBarCount": 1,
+    "pageUrl": "",
+    "type": "thai-word"
+}

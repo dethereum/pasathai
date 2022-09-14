@@ -1,0 +1,626 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Was nice meeting you.",
+            "id": 4563,
+            "phonetic": "ยิน ดี ที่ ด้าย รู้ จัก นะ ค่ะ",
+            "thaiSentence": "ยินดีที่ได้รู้จักนะค่ะ",
+            "thaiSentenceSpaced": " ยินดี ที่ ได้รู้ จัก นะ ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] happy ; glad"
+                        }
+                    ],
+                    "phonetic": "ยิน ดี",
+                    "word": "ยินดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get to know ; find out ; discover"
+                        }
+                    ],
+                    "phonetic": "ด้าย รู้",
+                    "word": "ได้รู้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จัก",
+                    "word": "จัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Nice to meet you.",
+            "id": 1066,
+            "phonetic": "ยิน ดี ที่ ด้าย รู้ จัก",
+            "thaiSentence": "ยินดีที่ได้รู้จัก",
+            "thaiSentenceSpaced": " ยินดี ที่ ได้รู้ จัก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] happy ; glad"
+                        }
+                    ],
+                    "phonetic": "ยิน ดี",
+                    "word": "ยินดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get to know ; find out ; discover"
+                        }
+                    ],
+                    "phonetic": "ด้าย รู้",
+                    "word": "ได้รู้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จัก",
+                    "word": "จัก"
+                }
+            ]
+        },
+        {
+            "engSentence": "Was nice meeting you.",
+            "id": 6000,
+            "phonetic": "ยิน ดี ที่ ด้าย รู้ จัก คุน ค่ะ",
+            "thaiSentence": "ยินดีที่ได้รู้จักคุณค่ะ",
+            "thaiSentenceSpaced": " ยินดี ที่ ได้รู้ จัก คุณ ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] happy ; glad"
+                        }
+                    ],
+                    "phonetic": "ยิน ดี",
+                    "word": "ยินดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get to know ; find out ; discover"
+                        }
+                    ],
+                    "phonetic": "ด้าย รู้",
+                    "word": "ได้รู้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จัก",
+                    "word": "จัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Nice to see you.",
+            "id": 28344,
+            "phonetic": "ยิน ดี ที่ ด้าย พบ",
+            "thaiSentence": "ยินดีที่ได้พบ",
+            "thaiSentenceSpaced": " ยินดี ที่ ได้ พบ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] happy ; glad"
+                        }
+                    ],
+                    "phonetic": "ยิน ดี",
+                    "word": "ยินดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] find ; meet ; discover"
+                        }
+                    ],
+                    "phonetic": "พบ",
+                    "word": "พบ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Nice to talk to you.",
+            "id": 33526,
+            "phonetic": "ยิน ดี ที่ ด้าย คุย ด้วย",
+            "thaiSentence": "ยินดีที่ได้คุยด้วย",
+            "thaiSentenceSpaced": " ยินดี ที่ ได้ คุย ด้วย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] happy ; glad"
+                        }
+                    ],
+                    "phonetic": "ยิน ดี",
+                    "word": "ยินดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] talk ; chat ; speak"
+                        }
+                    ],
+                    "phonetic": "คุย",
+                    "word": "คุย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                }
+            ]
+        },
+        {
+            "engSentence": "It was nice to meet you.",
+            "id": 35716,
+            "phonetic": "ยิน ดี ที่ ด้าย รู้ จัก นะ",
+            "thaiSentence": "ยินดีที่ได้รู้จักนะ",
+            "thaiSentenceSpaced": " ยินดี ที่ ได้รู้ จัก นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] happy ; glad"
+                        }
+                    ],
+                    "phonetic": "ยิน ดี",
+                    "word": "ยินดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get to know ; find out ; discover"
+                        }
+                    ],
+                    "phonetic": "ด้าย รู้",
+                    "word": "ได้รู้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จัก",
+                    "word": "จัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 5282,
+        "exampleSentences": [
+            {
+                "engSentence": "Was nice meeting you.",
+                "id": 4563,
+                "thaiSentence": "ยินดีที่ได้รู้จักนะค่ะ",
+                "thaiSentenceSpaced": " ยินดี ที่ ได้รู้ จัก นะ ค่ะ "
+            },
+            {
+                "engSentence": "Nice to meet you.",
+                "id": 1066,
+                "thaiSentence": "ยินดีที่ได้รู้จัก",
+                "thaiSentenceSpaced": " ยินดี ที่ ได้รู้ จัก "
+            },
+            {
+                "engSentence": "Was nice meeting you.",
+                "id": 6000,
+                "thaiSentence": "ยินดีที่ได้รู้จักคุณค่ะ",
+                "thaiSentenceSpaced": " ยินดี ที่ ได้รู้ จัก คุณ ค่ะ "
+            },
+            {
+                "engSentence": "Nice to see you.",
+                "id": 28344,
+                "thaiSentence": "ยินดีที่ได้พบ",
+                "thaiSentenceSpaced": " ยินดี ที่ ได้ พบ "
+            },
+            {
+                "engSentence": "Nice to talk to you.",
+                "id": 33526,
+                "thaiSentence": "ยินดีที่ได้คุยด้วย",
+                "thaiSentenceSpaced": " ยินดี ที่ ได้ คุย ด้วย "
+            },
+            {
+                "engSentence": "It was nice to meet you.",
+                "id": 35716,
+                "thaiSentence": "ยินดีที่ได้รู้จักนะ",
+                "thaiSentenceSpaced": " ยินดี ที่ ได้รู้ จัก นะ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1388221,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 42002,
+                        "corpusScore": 10643,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42002,
+                        "legacyWordId": 1388220,
+                        "meaning": "[to] feel",
+                        "parentId": 47333,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ยิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยิน"
+                    },
+                    {
+                        "childId": 421586,
+                        "corpusScore": 138563,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 421586,
+                        "legacyWordId": 1307696,
+                        "meaning": "[to be] good ; nice",
+                        "parentId": 47333,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดี"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] happy",
+                        "word": "happy"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "glad",
+                        "word": "glad"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 47333,
+                        "corpusScore": 602,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49517,
+                        "legacyWordId": 1388222,
+                        "meaning": "welcome!",
+                        "parentId": 49517,
+                        "partOfSpeech": "Interjection",
+                        "t2e": "ยิน ดี ต้อน รับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยินดีต้อนรับ"
+                    },
+                    {
+                        "childId": 47333,
+                        "corpusScore": 231,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35491,
+                        "legacyWordId": 1282380,
+                        "meaning": "gladness ; joy ; happiness",
+                        "parentId": 35491,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม ยิน ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความยินดี"
+                    },
+                    {
+                        "childId": 47333,
+                        "corpusScore": 121,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16512,
+                        "legacyWordId": 1328989,
+                        "meaning": "[to be] glad ; happy ; pleasure",
+                        "parentId": 16512,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "น่า ยิน ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น่ายินดี"
+                    },
+                    {
+                        "childId": 47333,
+                        "corpusScore": 42,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32577,
+                        "legacyWordId": 1293120,
+                        "meaning": "[to] be pleased with",
+                        "parentId": 32577,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชื่น ชม ยิน ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชื่นชมยินดี"
+                    },
+                    {
+                        "childId": 47333,
+                        "corpusScore": 15,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42666,
+                        "legacyWordId": 1371572,
+                        "meaning": "[to be] delighted ; pleased ; glad",
+                        "parentId": 42666,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ปิ-ติ ยิน ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปิติยินดี"
+                    },
+                    {
+                        "childId": 47333,
+                        "corpusScore": 11,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2496,
+                        "legacyWordId": 1387081,
+                        "meaning": "[to] appear indifferent ; seem unconcerned",
+                        "parentId": 2496,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไม่ ยิน ดี ยิน ร้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ยินดียินร้าย"
+                    },
+                    {
+                        "childId": 47333,
+                        "corpusScore": 8,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44616,
+                        "legacyWordId": 1388224,
+                        "meaning": "[to be] indifferent",
+                        "parentId": 44616,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ยิน ดี ยิน ร้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยินดียินร้าย"
+                    }
+                ],
+                "explanation": null,
+                "id": 47333,
+                "isUncommon": false,
+                "meaning": "[to be] happy ; glad",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "ยินดี"
+            }
+        ],
+        "t2e": "ยิน ดี",
+        "verified": null,
+        "word": "ยินดี"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,916 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "It is all over you both.",
+            "id": 2641,
+            "phonetic": "ขึ้น หฺยู่ กับ คุน สอง คน แล้ว นะ",
+            "thaiSentence": "ขึ้นอยู่กับคุณสองคนแล้วนะ",
+            "thaiSentenceSpaced": " ขึ้นอยู่กับ คุณ สอง คน แล้ว นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] depend on ; hinge on ; be decided by"
+                        }
+                    ],
+                    "phonetic": "ขึ้น หฺยู่ กับ",
+                    "word": "ขึ้นอยู่กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "two"
+                        }
+                    ],
+                    "phonetic": "สอง",
+                    "word": "สอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "There are two doors.",
+            "id": 2940,
+            "phonetic": "มี ปฺระ-ตู สอง บาน",
+            "thaiSentence": "มีประตูสองบาน",
+            "thaiSentenceSpaced": " มี ประตู สอง บาน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "door ; gate ; entrance"
+                        }
+                    ],
+                    "phonetic": "ปฺระ-ตู",
+                    "word": "ประตู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "two"
+                        }
+                    ],
+                    "phonetic": "สอง",
+                    "word": "สอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "panel ; frame <i>(of doors, windows, mirrors etc)</i>"
+                        },
+                        {
+                            "meaning": "[to] bloom ; blossom ; open out"
+                        }
+                    ],
+                    "phonetic": "บาน",
+                    "word": "บาน"
+                }
+            ]
+        },
+        {
+            "engSentence": "OK . We'll meet at 2.",
+            "id": 6059,
+            "phonetic": "ตก ลง ค่ะ · ตอน-บ่าย สอง โมง นะ คะ",
+            "thaiSentence": "ตกลงค่ะ ตอนบ่ายสองโมงนะคะ",
+            "thaiSentenceSpaced": " ตกลง ค่ะ  ·  ตอนบ่าย สอง โมง นะ คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] fall down"
+                        },
+                        {
+                            "meaning": "OK ; okay then ; sure"
+                        },
+                        {
+                            "meaning": "[to] be OK ; agree"
+                        }
+                    ],
+                    "phonetic": "ตก ลง",
+                    "word": "ตกลง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "afternoon ; p.m."
+                        }
+                    ],
+                    "phonetic": "ตอน-บ่าย",
+                    "word": "ตอนบ่าย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "two"
+                        }
+                    ],
+                    "phonetic": "สอง",
+                    "word": "สอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hour ; o'clock"
+                        }
+                    ],
+                    "phonetic": "โมง",
+                    "word": "โมง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Always two there are.",
+            "id": 11363,
+            "phonetic": "ต้อง มี สอง สะ-เหฺมอ",
+            "thaiSentence": "ต้องมีสองเสมอ",
+            "thaiSentenceSpaced": " ต้อง มี สอง เสมอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "two"
+                        }
+                    ],
+                    "phonetic": "สอง",
+                    "word": "สอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "always ; constantly"
+                        }
+                    ],
+                    "phonetic": "สะ-เหฺมอ",
+                    "word": "เสมอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You two wait here.",
+            "id": 23952,
+            "phonetic": "คุน สอง คน รอ ตฺรง นี้ นะ",
+            "thaiSentence": "คุณสองคนรอตรงนี้นะ",
+            "thaiSentenceSpaced": " คุณ สอง คน รอ ตรงนี้ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "two"
+                        }
+                    ],
+                    "phonetic": "สอง",
+                    "word": "สอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wait (for)"
+                        }
+                    ],
+                    "phonetic": "รอ",
+                    "word": "รอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "here ; this place"
+                        }
+                    ],
+                    "phonetic": "ตฺรง นี้",
+                    "word": "ตรงนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I had no sleep for two days.",
+            "id": 33990,
+            "phonetic": "ไม่ ด้าย นอน มา สอง วัน แล้ว นี่",
+            "thaiSentence": "ไม่ได้นอนมาสองวันแล้วนี่",
+            "thaiSentenceSpaced": " ไม่ได้ นอนมา สอง วัน แล้ว นี่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "didn't ; did not"
+                        },
+                        {
+                            "meaning": "can't ; cannot"
+                        }
+                    ],
+                    "phonetic": "ไม่ ด้าย",
+                    "word": "ไม่ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have a landslide victory"
+                        }
+                    ],
+                    "phonetic": "นอน มา",
+                    "word": "นอนมา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "two"
+                        }
+                    ],
+                    "phonetic": "สอง",
+                    "word": "สอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "day"
+                        }
+                    ],
+                    "phonetic": "วัน",
+                    "word": "วัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 42014,
+        "exampleSentences": [
+            {
+                "engSentence": "It is all over you both.",
+                "id": 2641,
+                "thaiSentence": "ขึ้นอยู่กับคุณสองคนแล้วนะ",
+                "thaiSentenceSpaced": " ขึ้นอยู่กับ คุณ สอง คน แล้ว นะ "
+            },
+            {
+                "engSentence": "There are two doors.",
+                "id": 2940,
+                "thaiSentence": "มีประตูสองบาน",
+                "thaiSentenceSpaced": " มี ประตู สอง บาน "
+            },
+            {
+                "engSentence": "OK . We'll meet at 2.",
+                "id": 6059,
+                "thaiSentence": "ตกลงค่ะ ตอนบ่ายสองโมงนะคะ",
+                "thaiSentenceSpaced": " ตกลง ค่ะ  &middot;  ตอนบ่าย สอง โมง นะ คะ "
+            },
+            {
+                "engSentence": "Always two there are.",
+                "id": 11363,
+                "thaiSentence": "ต้องมีสองเสมอ",
+                "thaiSentenceSpaced": " ต้อง มี สอง เสมอ "
+            },
+            {
+                "engSentence": "You two wait here.",
+                "id": 23952,
+                "thaiSentence": "คุณสองคนรอตรงนี้นะ",
+                "thaiSentenceSpaced": " คุณ สอง คน รอ ตรงนี้ นะ "
+            },
+            {
+                "engSentence": "I had no sleep for two days.",
+                "id": 33990,
+                "thaiSentence": "ไม่ได้นอนมาสองวันแล้วนี่",
+                "thaiSentenceSpaced": " ไม่ได้ นอนมา สอง วัน แล้ว นี่ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1405194,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "two",
+                        "word": "two"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 45481,
+                        "corpusScore": 11846,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 47132,
+                        "legacyWordId": 1321313,
+                        "meaning": "both",
+                        "parentId": 47132,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ทั้ง สอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทั้งสอง"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 5293,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7648,
+                        "legacyWordId": 1323572,
+                        "meaning": "second",
+                        "parentId": 7648,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ที่ สอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่สอง"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 2482,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45482,
+                        "legacyWordId": 1384733,
+                        "meaning": "secondhand ; used",
+                        "parentId": 45482,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "มือ สอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มือสอง"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 1220,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44989,
+                        "legacyWordId": 1405256,
+                        "meaning": "[to be] a few ; several",
+                        "parentId": 44989,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "สอง สาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองสาม"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 798,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44990,
+                        "legacyWordId": 1405240,
+                        "meaning": "[to be] bilateral",
+                        "parentId": 44990,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "สอง ฝ่าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองฝ่าย"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 665,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44993,
+                        "legacyWordId": 1405205,
+                        "meaning": "twice",
+                        "parentId": 44993,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "สอง คฺรั้ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองครั้ง"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 648,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44992,
+                        "legacyWordId": 1405225,
+                        "meaning": "[to be] two-storied ; two-floored",
+                        "parentId": 44992,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "สอง ชั้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองชั้น"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 554,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44947,
+                        "legacyWordId": 1408331,
+                        "meaning": "twelve ; 12",
+                        "parentId": 44947,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สิบ สอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบสอง"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 454,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400600,
+                        "legacyWordId": 1405232,
+                        "meaning": "minibus",
+                        "parentId": 400600,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สอง แถว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองแถว"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 432,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44991,
+                        "legacyWordId": 1405226,
+                        "meaning": "[to be] two-sided",
+                        "parentId": 44991,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "สอง ด้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองด้าน"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 359,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1286,
+                        "legacyWordId": 1405235,
+                        "meaning": "twice as much",
+                        "parentId": 1286,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สอง เท่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองเท่า"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 336,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102702,
+                        "legacyWordId": 1405241,
+                        "meaning": "two thousand ; 2000",
+                        "parentId": 102702,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สอง พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองพัน"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 308,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12905,
+                        "legacyWordId": 1292230,
+                        "meaning": "second class ; second grade",
+                        "parentId": 12905,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ชั้น สอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชั้นสอง"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 255,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102695,
+                        "legacyWordId": 1405247,
+                        "meaning": "two hundred ; 200",
+                        "parentId": 102695,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สอง ร้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองร้อย"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 206,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24803,
+                        "legacyWordId": 1389028,
+                        "meaning": "minibus",
+                        "parentId": 24803,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รด สอง แถว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รถสองแถว"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 174,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102712,
+                        "legacyWordId": 1405261,
+                        "meaning": "twenty thousand ; 20,000",
+                        "parentId": 102712,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สอง หฺมื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองหมื่น"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 158,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102745,
+                        "legacyWordId": 1405234,
+                        "meaning": "8pm",
+                        "parentId": 102745,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สอง ทุ่ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองทุ่ม"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 157,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40165,
+                        "legacyWordId": 1317680,
+                        "meaning": "2 a.m.",
+                        "parentId": 40165,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตี สอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตีสอง"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 154,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44988,
+                        "legacyWordId": 1405260,
+                        "meaning": "[to be] two-faced",
+                        "parentId": 44988,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "สอง น่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองหน้า"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 151,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 84006,
+                        "legacyWordId": 1405250,
+                        "meaning": "dimorph",
+                        "parentId": 84006,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สอง รูบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองรูป"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 126,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102720,
+                        "legacyWordId": 1405258,
+                        "meaning": "two hundred thousand ; 200,000",
+                        "parentId": 102720,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สอง แสน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองแสน"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 119,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102766,
+                        "legacyWordId": 1365761,
+                        "meaning": "2pm",
+                        "parentId": 102766,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ่าย สอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ่ายสอง"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 113,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 86167,
+                        "legacyWordId": 1305638,
+                        "meaning": "binary",
+                        "parentId": 86167,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ถาน สอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ฐานสอง"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 75,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38017,
+                        "legacyWordId": 1396898,
+                        "meaning": "binary digit",
+                        "parentId": 38017,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เลก ถาน สอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เลขฐานสอง"
+                    },
+                    {
+                        "childId": 45481,
+                        "corpusScore": 69,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102730,
+                        "legacyWordId": 1405251,
+                        "meaning": "two million ; 2,000,000",
+                        "parentId": 102730,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "สอง ล้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สองล้าน"
+                    }
+                ],
+                "explanation": null,
+                "id": 45481,
+                "isUncommon": false,
+                "meaning": "two",
+                "partOfSpeech": "Quantifier",
+                "usage": "",
+                "word": "สอง"
+            }
+        ],
+        "t2e": "สอง",
+        "verified": null,
+        "word": "สอง"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

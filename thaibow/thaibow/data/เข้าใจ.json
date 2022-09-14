@@ -1,0 +1,641 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "He said you'd understand.",
+            "id": 2442,
+            "phonetic": "เขา บอก ว่า คุน จะ เข้า ไจ",
+            "thaiSentence": "เขาบอกว่าคุณจะเข้าใจ",
+            "thaiSentenceSpaced": " เขา บอก ว่า คุณ จะ เข้าใจ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] tell ; say ; describe"
+                        }
+                    ],
+                    "phonetic": "บอก",
+                    "word": "บอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        },
+                        {
+                            "meaning": "[to] say ; tell"
+                        },
+                        {
+                            "meaning": "[to] blame ; criticise"
+                        }
+                    ],
+                    "phonetic": "ว่า",
+                    "word": "ว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] enter ; reach ; get into"
+                        },
+                        {
+                            "meaning": "in ; into"
+                        },
+                        {
+                            "meaning": "[to] get along with ; be compatible with"
+                        }
+                    ],
+                    "phonetic": "เข้า",
+                    "word": "เข้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "heart ; mind ; spirit"
+                        }
+                    ],
+                    "phonetic": "ไจ",
+                    "word": "ใจ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I could understand.",
+            "id": 6096,
+            "phonetic": "ผม พอ จะ เข้า ไจ นะ",
+            "thaiSentence": "ผมพอจะเข้าใจนะ",
+            "thaiSentenceSpaced": " ผม พอจะ เข้าใจ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be enough to ; be adequate to"
+                        }
+                    ],
+                    "phonetic": "พอ จะ",
+                    "word": "พอจะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] understand"
+                        }
+                    ],
+                    "phonetic": "เข้า ไจ",
+                    "word": "เข้าใจ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am not sure I understand.",
+            "id": 13002,
+            "phonetic": "ฉัน ก้อ ยัง ไม่ แน่ ไจ · ฉัน เข้า ไจ",
+            "thaiSentence": "ฉันก็ยังไม่แน่ใจ ฉันเข้าใจ",
+            "thaiSentenceSpaced": " ฉัน ก็ ยัง ไม่แน่ใจ  ·  ฉัน เข้าใจ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "still ; yet"
+                        }
+                    ],
+                    "phonetic": "ยัง",
+                    "word": "ยัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be not sure ; be not assured ; be uncertain"
+                        }
+                    ],
+                    "phonetic": "ไม่ แน่ ไจ",
+                    "word": "ไม่แน่ใจ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] understand"
+                        }
+                    ],
+                    "phonetic": "เข้า ไจ",
+                    "word": "เข้าใจ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You'll understand soon.",
+            "id": 30500,
+            "phonetic": "เดี๋ยว คุน ก้อ จะ เข้า ไจ",
+            "thaiSentence": "เดี๋ยวคุณก็จะเข้าใจ",
+            "thaiSentenceSpaced": " เดี๋ยว คุณ ก็ จะ เข้าใจ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "moment"
+                        },
+                        {
+                            "meaning": "in just a minute ; in just a moment"
+                        }
+                    ],
+                    "phonetic": "เดี๋ยว",
+                    "word": "เดี๋ยว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] understand"
+                        }
+                    ],
+                    "phonetic": "เข้า ไจ",
+                    "word": "เข้าใจ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You have to understand.",
+            "id": 32266,
+            "phonetic": "คุน ต้อง เข้า ไจ นะ",
+            "thaiSentence": "คุณต้องเข้าใจนะ",
+            "thaiSentenceSpaced": " คุณ ต้อง เข้าใจ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] understand"
+                        }
+                    ],
+                    "phonetic": "เข้า ไจ",
+                    "word": "เข้าใจ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Do you understand me ?",
+            "id": 32644,
+            "phonetic": "คุน เข้า ไจ ฉัน ไหฺม",
+            "thaiSentence": "คุณเข้าใจฉันไหม",
+            "thaiSentenceSpaced": " คุณ เข้าใจ ฉัน ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] understand"
+                        }
+                    ],
+                    "phonetic": "เข้า ไจ",
+                    "word": "เข้าใจ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 21225,
+        "exampleSentences": [
+            {
+                "engSentence": "He said you'd understand.",
+                "id": 2442,
+                "thaiSentence": "เขาบอกว่าคุณจะเข้าใจ",
+                "thaiSentenceSpaced": " เขา บอก ว่า คุณ จะ เข้าใจ "
+            },
+            {
+                "engSentence": "I could understand.",
+                "id": 6096,
+                "thaiSentence": "ผมพอจะเข้าใจนะ",
+                "thaiSentenceSpaced": " ผม พอจะ เข้าใจ นะ "
+            },
+            {
+                "engSentence": "I am not sure I understand.",
+                "id": 13002,
+                "thaiSentence": "ฉันก็ยังไม่แน่ใจ ฉันเข้าใจ",
+                "thaiSentenceSpaced": " ฉัน ก็ ยัง ไม่แน่ใจ  &middot;  ฉัน เข้าใจ "
+            },
+            {
+                "engSentence": "You'll understand soon.",
+                "id": 30500,
+                "thaiSentence": "เดี๋ยวคุณก็จะเข้าใจ",
+                "thaiSentenceSpaced": " เดี๋ยว คุณ ก็ จะ เข้าใจ "
+            },
+            {
+                "engSentence": "You have to understand.",
+                "id": 32266,
+                "thaiSentence": "คุณต้องเข้าใจนะ",
+                "thaiSentenceSpaced": " คุณ ต้อง เข้าใจ นะ "
+            },
+            {
+                "engSentence": "Do you understand me ?",
+                "id": 32644,
+                "thaiSentence": "คุณเข้าใจฉันไหม",
+                "thaiSentenceSpaced": " คุณ เข้าใจ ฉัน ไหม "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1277355,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 30605,
+                        "corpusScore": 133716,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 30605,
+                        "legacyWordId": 1277221,
+                        "meaning": "[to] enter ; reach ; get into",
+                        "parentId": 416281,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้า"
+                    },
+                    {
+                        "childId": 40696,
+                        "corpusScore": 147269,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 40696,
+                        "legacyWordId": 1290956,
+                        "meaning": "heart ; mind ; spirit",
+                        "parentId": 416281,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไจ",
+                        "usage": "",
+                        "verified": "ไจ",
+                        "word": "ใจ"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] understand",
+                        "word": "understand"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 416281,
+                        "corpusScore": 1939,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33578,
+                        "legacyWordId": 1281259,
+                        "meaning": "understanding ; comprehension",
+                        "parentId": 33578,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม เข้า ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความเข้าใจ"
+                    },
+                    {
+                        "childId": 416281,
+                        "corpusScore": 1345,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 29314,
+                        "legacyWordId": 1386724,
+                        "meaning": "[to] not understand ; not know",
+                        "parentId": 29314,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไม่ เข้า ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่เข้าใจ"
+                    },
+                    {
+                        "childId": 416281,
+                        "corpusScore": 225,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22033,
+                        "legacyWordId": 1277357,
+                        "meaning": "[to] easily understood ; understand easily",
+                        "parentId": 22033,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ไจ ง่าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าใจง่าย"
+                    },
+                    {
+                        "childId": 416281,
+                        "corpusScore": 131,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103356,
+                        "legacyWordId": 1267473,
+                        "meaning": "understanding",
+                        "parentId": 103356,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน เข้า ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การเข้าใจ"
+                    },
+                    {
+                        "childId": 416281,
+                        "corpusScore": 18,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30099,
+                        "legacyWordId": 1277359,
+                        "meaning": "[to] misunderstand ; mistake",
+                        "parentId": 30099,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ไจ ผิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าใจผิด"
+                    },
+                    {
+                        "childId": 416281,
+                        "corpusScore": 10,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401341,
+                        "legacyWordId": 1277356,
+                        "meaning": "[to] be inventive",
+                        "parentId": 401341,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ไจ คิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าใจคิด"
+                    },
+                    {
+                        "childId": 416281,
+                        "corpusScore": 1,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401342,
+                        "legacyWordId": 1277358,
+                        "meaning": "[to] attain enlightenment ; understand thoroughly",
+                        "parentId": 401342,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ไจ ตะ-หฺลอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าใจตลอด"
+                    },
+                    {
+                        "childId": 416281,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21940,
+                        "legacyWordId": 1277360,
+                        "meaning": "[to] be difficult to understand",
+                        "parentId": 21940,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ไจ ยาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าใจยาก"
+                    }
+                ],
+                "explanation": null,
+                "id": 416281,
+                "isUncommon": false,
+                "meaning": "[to] understand",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "เข้าใจ"
+            }
+        ],
+        "t2e": "เข้า ไจ",
+        "verified": null,
+        "word": "เข้าใจ"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

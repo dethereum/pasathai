@@ -1,0 +1,792 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Hurry up . Hurry.",
+            "id": 7699,
+            "phonetic": "เร็ว เข้า · เร็ว เร็ว",
+            "thaiSentence": "เร็วเข้า เร็วๆ",
+            "thaiSentenceSpaced": " เร็ว เข้า  ·  เร็ว ๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hurry up! ; come on!"
+                        }
+                    ],
+                    "phonetic": "เร็ว เข้า",
+                    "word": "เร็วเข้า"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] fast ; very fast"
+                        }
+                    ],
+                    "phonetic": "เร็ว เร็ว",
+                    "word": "เร็วๆ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Hurry up . Hurry.",
+            "id": 7699,
+            "phonetic": "เร็ว เข้า · เร็ว เร็ว",
+            "thaiSentence": "เร็วเข้า เร็วๆ",
+            "thaiSentenceSpaced": " เร็ว เข้า  ·  เร็ว ๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hurry up! ; come on!"
+                        }
+                    ],
+                    "phonetic": "เร็ว เข้า",
+                    "word": "เร็วเข้า"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] fast ; very fast"
+                        }
+                    ],
+                    "phonetic": "เร็ว เร็ว",
+                    "word": "เร็วๆ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am a fast learner.",
+            "id": 17234,
+            "phonetic": "ฉัน เป็น พวก เรียน รู้ เร็ว",
+            "thaiSentence": "ฉันเป็นพวกเรียนรู้เร็ว",
+            "thaiSentenceSpaced": " ฉัน เป็นพวก เรียนรู้ เร็ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be a member of ; sit on"
+                        }
+                    ],
+                    "phonetic": "เป็น พวก",
+                    "word": "เป็นพวก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] learn ; study"
+                        }
+                    ],
+                    "phonetic": "เรียน รู้",
+                    "word": "เรียนรู้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] quick ; fast ; speedy"
+                        }
+                    ],
+                    "phonetic": "เร็ว",
+                    "word": "เร็ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "Hurry, we'll be late.",
+            "id": 27080,
+            "phonetic": "เร็ว เข้า · เรา จะ สาย กัน นะ",
+            "thaiSentence": "เร็วเข้า เราจะสายกันนะ",
+            "thaiSentenceSpaced": " เร็ว เข้า  ·  เรา จะ สาย กัน นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hurry up! ; come on!"
+                        }
+                    ],
+                    "phonetic": "เร็ว เข้า",
+                    "word": "เร็วเข้า"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] late"
+                        }
+                    ],
+                    "phonetic": "สาย",
+                    "word": "สาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one another ; each other"
+                        },
+                        {
+                            "meaning": "together ; jointly"
+                        }
+                    ],
+                    "phonetic": "กัน",
+                    "word": "กัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Are you sure this is faster ?",
+            "id": 35972,
+            "phonetic": "แน่ ไจ เหฺรอ ว่า เร็ว กฺว่า",
+            "thaiSentence": "แน่ใจเหรอว่าเร็วกว่า",
+            "thaiSentenceSpaced": " แน่ใจ เหรอ ว่า เร็ว กว่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be sure ; be confident ; be certain"
+                        }
+                    ],
+                    "phonetic": "แน่ ไจ",
+                    "word": "แน่ใจ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        },
+                        {
+                            "meaning": "[to] say ; tell"
+                        },
+                        {
+                            "meaning": "[to] blame ; criticise"
+                        }
+                    ],
+                    "phonetic": "ว่า",
+                    "word": "ว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] quick ; fast ; speedy"
+                        }
+                    ],
+                    "phonetic": "เร็ว",
+                    "word": "เร็ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "more ; more than"
+                        }
+                    ],
+                    "phonetic": "กฺว่า",
+                    "word": "กว่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "Hurry to the church.",
+            "id": 38269,
+            "phonetic": "รีบ ไป ที่ โบด เร็ว",
+            "thaiSentence": "รีบไปที่โบสถ์เร็ว",
+            "thaiSentenceSpaced": " รีบ ไปที่ โบสถ์ เร็ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "quickly ; hurriedly"
+                        },
+                        {
+                            "meaning": "[to] hurry ; be in a hurry"
+                        }
+                    ],
+                    "phonetic": "รีบ",
+                    "word": "รีบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go to"
+                        }
+                    ],
+                    "phonetic": "ไป ที่",
+                    "word": "ไปที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "Buddhist temple ; Buddhist monastery"
+                        }
+                    ],
+                    "phonetic": "โบด",
+                    "word": "โบสถ์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] quick ; fast ; speedy"
+                        }
+                    ],
+                    "phonetic": "เร็ว",
+                    "word": "เร็ว"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 18325,
+        "exampleSentences": [
+            {
+                "engSentence": "Hurry up . Hurry.",
+                "id": 7699,
+                "thaiSentence": "เร็วเข้า เร็วๆ",
+                "thaiSentenceSpaced": " เร็ว เข้า  &middot;  เร็ว ๆ "
+            },
+            {
+                "engSentence": "Hurry up . Hurry.",
+                "id": 7699,
+                "thaiSentence": "เร็วเข้า เร็วๆ",
+                "thaiSentenceSpaced": " เร็ว เข้า  &middot;  เร็ว ๆ "
+            },
+            {
+                "engSentence": "I am a fast learner.",
+                "id": 17234,
+                "thaiSentence": "ฉันเป็นพวกเรียนรู้เร็ว",
+                "thaiSentenceSpaced": " ฉัน เป็นพวก เรียนรู้ เร็ว "
+            },
+            {
+                "engSentence": "Hurry, we'll be late.",
+                "id": 27080,
+                "thaiSentence": "เร็วเข้า เราจะสายกันนะ",
+                "thaiSentenceSpaced": " เร็ว เข้า  &middot;  เรา จะ สาย กัน นะ "
+            },
+            {
+                "engSentence": "Are you sure this is faster ?",
+                "id": 35972,
+                "thaiSentence": "แน่ใจเหรอว่าเร็วกว่า",
+                "thaiSentenceSpaced": " แน่ใจ เหรอ ว่า เร็ว กว่า "
+            },
+            {
+                "engSentence": "Hurry to the church.",
+                "id": 38269,
+                "thaiSentence": "รีบไปที่โบสถ์เร็ว",
+                "thaiSentenceSpaced": " รีบ ไปที่ โบสถ์ เร็ว "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1392817,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] quick",
+                        "word": "quick"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "fast",
+                        "word": "fast"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "speedy",
+                        "word": "speedy"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 42135,
+                        "corpusScore": 4874,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48101,
+                        "legacyWordId": 1389155,
+                        "meaning": "[to be] fast ; rapid ; quick",
+                        "parentId": 48101,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "รวด เร็ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รวดเร็ว"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 4864,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42136,
+                        "legacyWordId": 1282549,
+                        "meaning": "speed ; rapidity ; quickness",
+                        "parentId": 42136,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม เร็ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความเร็ว"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 2354,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46559,
+                        "legacyWordId": 1392828,
+                        "meaning": "[to be] fast ; very fast",
+                        "parentId": 46559,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "เร็ว เร็ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เร็วๆ"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 1021,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18629,
+                        "legacyWordId": 1308608,
+                        "meaning": "quickly ; immediately ; instantly",
+                        "parentId": 18629,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "โดย เร็ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โดยเร็ว"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 793,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394831,
+                        "legacyWordId": 1392825,
+                        "meaning": "[to be] fast",
+                        "parentId": 394831,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "เร็ว มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เร็วมาก"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 202,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26836,
+                        "legacyWordId": 1452149,
+                        "meaning": "quickly ; speedily ; fast",
+                        "parentId": 26836,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺย่าง เร็ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อย่างเร็ว"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 173,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23,
+                        "legacyWordId": 1453465,
+                        "meaning": "speed",
+                        "parentId": 23,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อัด-ตฺรา เร็ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อัตราเร็ว"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 79,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42137,
+                        "legacyWordId": 1291027,
+                        "meaning": "[to be] quick-tempered ; impatient ; short-tempered",
+                        "parentId": 42137,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ไจ เร็ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใจเร็ว"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 46,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26591,
+                        "legacyWordId": 1392827,
+                        "meaning": "quickly ; fast ; rapidly",
+                        "parentId": 26591,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เร็ว ไว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เร็วไว"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 25,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402823,
+                        "legacyWordId": 1392819,
+                        "meaning": "hurry up! ; come on!",
+                        "parentId": 402823,
+                        "partOfSpeech": "Interjection",
+                        "t2e": "เร็ว เข้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เร็วเข้า"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 23,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394598,
+                        "legacyWordId": 1392822,
+                        "meaning": "fast ; quickly ; swiftly",
+                        "parentId": 394598,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เร็ว ทัน ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เร็วทันใจ"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 17,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39124,
+                        "legacyWordId": 1384207,
+                        "meaning": "messenger ; mounted scout",
+                        "parentId": 39124,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ม้า เร็ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ม้าเร็ว"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 16,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25180,
+                        "legacyWordId": 1386815,
+                        "meaning": "sooner or later",
+                        "parentId": 25180,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไม่ ช้า ก้อ เร็ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ช้าก็เร็ว"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 11,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41458,
+                        "legacyWordId": 1392826,
+                        "meaning": "fast",
+                        "parentId": 41458,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "เร็ว รี่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เร็วรี่"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 7,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401818,
+                        "legacyWordId": 1392823,
+                        "meaning": "soon ; in the near future ; shortly",
+                        "parentId": 401818,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เร็ว นี้ นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เร็วนี้ๆ"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 6,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2567,
+                        "legacyWordId": 1329775,
+                        "meaning": "diesel fuel ; diesel oil",
+                        "parentId": 2567,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้าม มัน ดี-เซน หฺมุน เร็ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น้ำมันดีเซลหมุนเร็ว"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 4,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396893,
+                        "legacyWordId": 1272330,
+                        "meaning": "speed ; rapidity ; quickness",
+                        "parentId": 396893,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กำ-ลัง เร็ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กำลังเร็ว"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41457,
+                        "legacyWordId": 1392824,
+                        "meaning": "fast",
+                        "parentId": 41457,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "เร็ว ปฺรื๋อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เร็วปรื๋อ"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 2,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 508637,
+                        "legacyWordId": 1271707,
+                        "meaning": "premature ejaculation",
+                        "parentId": 508637,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน หฺลั่ง เร็ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การหลั่งเร็ว"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 1,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25854,
+                        "legacyWordId": 1387122,
+                        "meaning": "sooner or later",
+                        "parentId": 25854,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไม่ เร็ว ก้อ ช้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่เร็วก็ช้า"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 87991,
+                        "legacyWordId": 1284823,
+                        "meaning": "number crunching",
+                        "parentId": 87991,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คิด เลก เร็ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คิดเลขเร็ว"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 79497,
+                        "legacyWordId": 1371908,
+                        "meaning": "rapid-hardening cement",
+                        "parentId": 79497,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปูน ซี-เมน แข็ง ตัว เร็ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปูนซีเมนต์แข็งตัวเร็ว"
+                    },
+                    {
+                        "childId": 42135,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397154,
+                        "legacyWordId": 1276361,
+                        "meaning": "latest news",
+                        "parentId": 397154,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข่าว ล่า มา เร็ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข่าวล่ามาเร็ว"
+                    }
+                ],
+                "explanation": null,
+                "id": 42135,
+                "isUncommon": false,
+                "meaning": "[to be] quick ; fast ; speedy",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "เร็ว"
+            }
+        ],
+        "t2e": "เร็ว",
+        "verified": null,
+        "word": "เร็ว"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

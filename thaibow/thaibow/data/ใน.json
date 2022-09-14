@@ -1,0 +1,951 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "He fell into a ravine.",
+            "id": 7569,
+            "phonetic": "เขา ตก ลง ไป ไน หุบ เขา",
+            "thaiSentence": "เขาตกลงไปในหุบเขา",
+            "thaiSentenceSpaced": " เขา ตกลง ไป ใน หุบเขา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] fall down"
+                        },
+                        {
+                            "meaning": "OK ; okay then ; sure"
+                        },
+                        {
+                            "meaning": "[to] be OK ; agree"
+                        }
+                    ],
+                    "phonetic": "ตก ลง",
+                    "word": "ตกลง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "valley ; ravine ; gorge"
+                        }
+                    ],
+                    "phonetic": "หุบ เขา",
+                    "word": "หุบเขา"
+                }
+            ]
+        },
+        {
+            "engSentence": "You'll be safe in there.",
+            "id": 9921,
+            "phonetic": "คุน จะ ปฺลอด ไพ หฺยู่ ไน นั้น",
+            "thaiSentence": "คุณจะปลอดภัยอยู่ในนั้น",
+            "thaiSentenceSpaced": " คุณ จะ ปลอดภัย อยู่ ใน นั้น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be safe ; be out of danger ; be free from harm"
+                        }
+                    ],
+                    "phonetic": "ปฺลอด ไพ",
+                    "word": "ปลอดภัย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence, or to show the end of a relative clause)</i>"
+                        },
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั้น",
+                    "word": "นั้น"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am very popular in school.",
+            "id": 11776,
+            "phonetic": "ไน โรง เรียน หฺนู ยอด นิ-ยม มาก เลย นะ คะ",
+            "thaiSentence": "ในโรงเรียนหนูยอดนิยมมากเลยนะคะ",
+            "thaiSentenceSpaced": " ใน โรงเรียน หนู ยอดนิยม มากเลย นะ คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "school"
+                        }
+                    ],
+                    "phonetic": "โรง เรียน",
+                    "word": "โรงเรียน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "rat ; mouse"
+                        },
+                        {
+                            "meaning": "she ; her"
+                        },
+                        {
+                            "meaning": "you"
+                        },
+                        {
+                            "meaning": "I ; me <i>(used by young children, and by women when speaking to their elders)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺนู",
+                    "word": "หนู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] highly popular ; highly fashionable"
+                        }
+                    ],
+                    "phonetic": "ยอด นิ-ยม",
+                    "word": "ยอดนิยม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "very much"
+                        }
+                    ],
+                    "phonetic": "มาก เลย",
+                    "word": "มากเลย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I had to learn the hard way.",
+            "id": 13127,
+            "phonetic": "ฉัน จะ ต้อง เรียน รู้ ไน วิ-ที ที่ ยาก ลำ-บาก",
+            "thaiSentence": "ฉันจะต้องเรียนรู้ในวิธีที่ยากลำบาก",
+            "thaiSentenceSpaced": " ฉัน จะ ต้อง เรียนรู้ ใน วิธี ที่ ยากลำบาก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] learn ; study"
+                        }
+                    ],
+                    "phonetic": "เรียน รู้",
+                    "word": "เรียนรู้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "means ; way ; method"
+                        }
+                    ],
+                    "phonetic": "วิ-ที",
+                    "word": "วิธี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be troubled by ; suffer ; become weary"
+                        }
+                    ],
+                    "phonetic": "ยาก ลำ-บาก",
+                    "word": "ยากลำบาก"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am a member of her family.",
+            "id": 13479,
+            "phonetic": "เป็น คน ไน คฺรอบ คฺรัว ของ เขา",
+            "thaiSentence": "เป็นคนในครอบครัวของเขา",
+            "thaiSentenceSpaced": " เป็น คน ใน ครอบครัว ของ เขา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "family"
+                        }
+                    ],
+                    "phonetic": "คฺรอบ คฺรัว",
+                    "word": "ครอบครัว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                }
+            ]
+        },
+        {
+            "engSentence": "Iike an ocean of time.",
+            "id": 14487,
+            "phonetic": "เหฺมือน เว-ลา ไน มะ-หา สะ-หฺมุด",
+            "thaiSentence": "เหมือนเวลาในมหาสมุทร",
+            "thaiSentenceSpaced": " เหมือน เวลา ใน มหาสมุทร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "like ; as ; as if ; as though"
+                        }
+                    ],
+                    "phonetic": "เหฺมือน",
+                    "word": "เหมือน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "time"
+                        }
+                    ],
+                    "phonetic": "เว-ลา",
+                    "word": "เวลา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "ocean"
+                        }
+                    ],
+                    "phonetic": "มะ-หา สะ-หฺมุด",
+                    "word": "มหาสมุทร"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 710792,
+        "exampleSentences": [
+            {
+                "engSentence": "He fell into a ravine.",
+                "id": 7569,
+                "thaiSentence": "เขาตกลงไปในหุบเขา",
+                "thaiSentenceSpaced": " เขา ตกลง ไป ใน หุบเขา "
+            },
+            {
+                "engSentence": "You'll be safe in there.",
+                "id": 9921,
+                "thaiSentence": "คุณจะปลอดภัยอยู่ในนั้น",
+                "thaiSentenceSpaced": " คุณ จะ ปลอดภัย อยู่ ใน นั้น "
+            },
+            {
+                "engSentence": "I am very popular in school.",
+                "id": 11776,
+                "thaiSentence": "ในโรงเรียนหนูยอดนิยมมากเลยนะคะ",
+                "thaiSentenceSpaced": " ใน โรงเรียน หนู ยอดนิยม มากเลย นะ คะ "
+            },
+            {
+                "engSentence": "I had to learn the hard way.",
+                "id": 13127,
+                "thaiSentence": "ฉันจะต้องเรียนรู้ในวิธีที่ยากลำบาก",
+                "thaiSentenceSpaced": " ฉัน จะ ต้อง เรียนรู้ ใน วิธี ที่ ยากลำบาก "
+            },
+            {
+                "engSentence": "I am a member of her family.",
+                "id": 13479,
+                "thaiSentence": "เป็นคนในครอบครัวของเขา",
+                "thaiSentenceSpaced": " เป็น คน ใน ครอบครัว ของ เขา "
+            },
+            {
+                "engSentence": "Iike an ocean of time.",
+                "id": 14487,
+                "thaiSentence": "เหมือนเวลาในมหาสมุทร",
+                "thaiSentenceSpaced": " เหมือน เวลา ใน มหาสมุทร "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1331657,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "in",
+                        "word": "in"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "of",
+                        "word": "of"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 31472,
+                        "corpusScore": 24830,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 48105,
+                        "legacyWordId": 1381526,
+                        "meaning": "inside ; interior ; internal",
+                        "parentId": 48105,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "พาย ไน",
+                        "usage": "",
+                        "verified": "พาย ไน",
+                        "word": "ภายใน"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 13754,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 46853,
+                        "legacyWordId": 1331688,
+                        "meaning": "at the time ; in the period",
+                        "parentId": 46853,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไน ช่วง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในช่วง"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 11541,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 22884,
+                        "legacyWordId": 1331717,
+                        "meaning": "domestic ; local ; in the country",
+                        "parentId": 22884,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ไน ปฺระ-เทด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในประเทศ"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 4972,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "a time or period of time",
+                        "hasSoundFile": false,
+                        "id": 46834,
+                        "legacyWordId": 1331748,
+                        "meaning": "at ; during",
+                        "parentId": 46834,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไน เว-ลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในเวลา"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 4904,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46851,
+                        "legacyWordId": 1331691,
+                        "meaning": "as ; in the status of",
+                        "parentId": 46851,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไน ถา-นะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในฐานะ"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 4891,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6681,
+                        "legacyWordId": 1331761,
+                        "meaning": "in the future",
+                        "parentId": 6681,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไน อะ-นา-คด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในอนาคต"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 4753,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46814,
+                        "legacyWordId": 1331728,
+                        "meaning": "in the city ; downtown",
+                        "parentId": 46814,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไน เมือง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในเมือง"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 4749,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 46832,
+                        "legacyWordId": 1331687,
+                        "meaning": "in one's heart ; in one's mind",
+                        "parentId": 46832,
+                        "partOfSpeech": "Adjective ; Adverb",
+                        "t2e": "ไน ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในใจ"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 3968,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 46817,
+                        "legacyWordId": 1331719,
+                        "meaning": "at present ; nowadays",
+                        "parentId": 46817,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไน ปัด-จุ-บัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในปัจจุบัน"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 3927,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46854,
+                        "legacyWordId": 1331667,
+                        "meaning": "while ; meanwhile",
+                        "parentId": 46854,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ไน ขะ-หฺนะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในขณะ"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 3095,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27744,
+                        "legacyWordId": 1331669,
+                        "meaning": "while ; when ; as",
+                        "parentId": 27744,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ไน ขะ-หฺนะ ที่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในขณะที่"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 2882,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46840,
+                        "legacyWordId": 1331735,
+                        "meaning": "between ; during",
+                        "parentId": 46840,
+                        "partOfSpeech": "Preposition",
+                        "t2e": "ไน ระ-หฺว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในระหว่าง"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 2882,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46841,
+                        "legacyWordId": 1331735,
+                        "meaning": "during",
+                        "parentId": 46841,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไน ระ-หฺว่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในระหว่าง"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 2795,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46855,
+                        "legacyWordId": 1331658,
+                        "meaning": "in case that ; in case of",
+                        "parentId": 46855,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ไน กอ-ระ-นี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในกรณี"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 2535,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38004,
+                        "legacyWordId": 1331711,
+                        "meaning": "finally ; at last ; eventually",
+                        "parentId": 38004,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไน ที่ สุด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในที่สุด"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 2365,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28470,
+                        "legacyWordId": 1331759,
+                        "meaning": "king",
+                        "parentId": 28470,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไน หฺลวง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในหลวง"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 2253,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38048,
+                        "legacyWordId": 1331683,
+                        "meaning": "in the sense of ; in the meaning of",
+                        "parentId": 38048,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไน แง่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในแง่"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 1888,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 29884,
+                        "legacyWordId": 1276035,
+                        "meaning": "inside ; interior ; indoors",
+                        "parentId": 29884,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ข้าง ไน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ข้างใน"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 1678,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28310,
+                        "legacyWordId": 1307258,
+                        "meaning": "inside ; interior",
+                        "parentId": 28310,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ด้าน ไน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ด้านใน"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 1654,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46949,
+                        "legacyWordId": 1331660,
+                        "meaning": "in case of ; in case",
+                        "parentId": 46949,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไน กอ-ระ-นี ที่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในกรณีที่"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 1506,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15016,
+                        "legacyWordId": 1321882,
+                        "meaning": "meditation",
+                        "parentId": 15016,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทาง ไน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทางใน"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 1239,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46835,
+                        "legacyWordId": 1331727,
+                        "meaning": "when",
+                        "parentId": 46835,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ไน เมื่อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในเมื่อ"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 1186,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6438,
+                        "legacyWordId": 1331712,
+                        "meaning": "in the name of ; on behalf of",
+                        "parentId": 6438,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไน นาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในนาม"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 1142,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45407,
+                        "legacyWordId": 1330750,
+                        "meaning": "on the occasion of",
+                        "parentId": 45407,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "เนื่อง ไน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เนื่องใน"
+                    },
+                    {
+                        "childId": 31472,
+                        "corpusScore": 1093,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6161,
+                        "legacyWordId": 1331681,
+                        "meaning": "under ; affiliated to",
+                        "parentId": 6161,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ไน เคฺรือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในเครือ"
+                    }
+                ],
+                "explanation": null,
+                "id": 31472,
+                "isUncommon": false,
+                "meaning": "in ; of",
+                "partOfSpeech": "Preposition",
+                "usage": "",
+                "word": "ใน"
+            }
+        ],
+        "t2e": "ไน",
+        "verified": "ไน",
+        "word": "ใน"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

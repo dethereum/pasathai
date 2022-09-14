@@ -1,0 +1,91 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 1314,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1382326,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 47577,
+                        "corpusScore": 47,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "the symbol of the Zodiac sign Capricorn",
+                        "hasSoundFile": false,
+                        "id": 47577,
+                        "legacyWordId": 1382324,
+                        "meaning": "dragon",
+                        "parentId": 28090,
+                        "partOfSpeech": "Noun",
+                        "t2e": "มะ-กอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มกร"
+                    },
+                    {
+                        "childId": 47563,
+                        "corpusScore": 384,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47563,
+                        "legacyWordId": 1453850,
+                        "meaning": "the arrival of ; the coming of",
+                        "parentId": 28090,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-คม",
+                        "usage": "",
+                        "verified": "อา-คม",
+                        "word": "อาคม"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "January",
+                        "word": "January"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 28090,
+                        "corpusScore": 684,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45296,
+                        "legacyWordId": 1308378,
+                        "meaning": "January",
+                        "parentId": 45296,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน มก-กะ-รา คม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนมกราคม"
+                    }
+                ],
+                "explanation": null,
+                "id": 28090,
+                "isUncommon": false,
+                "meaning": "January",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "มกราคม"
+            }
+        ],
+        "t2e": "มก-กะ-รา คม",
+        "verified": null,
+        "word": "มกราคม"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

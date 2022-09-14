@@ -1,0 +1,899 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Everyone, say hi.",
+            "id": 127284,
+            "phonetic": "ทุก คน · กฺล่าว คำ ทัก ทาย ซิ",
+            "thaiSentence": "ทุกคน กล่าวคำทักทายซิ",
+            "thaiSentenceSpaced": " ทุก คน  ·  กล่าว คำ ทักทาย ซิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "everyone ; everybody"
+                        }
+                    ],
+                    "phonetic": "ทุก คน",
+                    "word": "ทุกคน"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] say ; tell ; speak"
+                        }
+                    ],
+                    "phonetic": "กฺล่าว",
+                    "word": "กล่าว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "word ; words <i>(คำ is the classifier for many things that can be spoken or written down - a question, a promise, a translation etc.)</i>"
+                        }
+                    ],
+                    "phonetic": "คำ",
+                    "word": "คำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] greet ; say hello ; address"
+                        }
+                    ],
+                    "phonetic": "ทัก ทาย",
+                    "word": "ทักทาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "ซิ",
+                    "word": "ซิ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Orders are orders.",
+            "id": 288977,
+            "phonetic": "คำ สั่ง · ก้อ คือ · คำ สั่ง",
+            "thaiSentence": "คำสั่ง ก็คือ คำสั่ง",
+            "thaiSentenceSpaced": " คำ สั่ง  ·  ก็ คือ  ·  คำ สั่ง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "command ; order ; word of command"
+                        }
+                    ],
+                    "phonetic": "คำ สั่ง",
+                    "word": "คำสั่ง"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be"
+                        }
+                    ],
+                    "phonetic": "คือ",
+                    "word": "คือ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "command ; order ; word of command"
+                        }
+                    ],
+                    "phonetic": "คำ สั่ง",
+                    "word": "คำสั่ง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Orders are orders.",
+            "id": 288977,
+            "phonetic": "คำ สั่ง · ก้อ คือ · คำ สั่ง",
+            "thaiSentence": "คำสั่ง ก็คือ คำสั่ง",
+            "thaiSentenceSpaced": " คำ สั่ง  ·  ก็ คือ  ·  คำ สั่ง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "command ; order ; word of command"
+                        }
+                    ],
+                    "phonetic": "คำ สั่ง",
+                    "word": "คำสั่ง"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be"
+                        }
+                    ],
+                    "phonetic": "คือ",
+                    "word": "คือ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "command ; order ; word of command"
+                        }
+                    ],
+                    "phonetic": "คำ สั่ง",
+                    "word": "คำสั่ง"
+                }
+            ]
+        },
+        {
+            "engSentence": "What is the answer ?",
+            "id": 292923,
+            "phonetic": "คำ ตอบ · คือ อะ-ไร",
+            "thaiSentence": "คำตอบ คืออะไร",
+            "thaiSentenceSpaced": " คำ ตอบ  ·  คือ อะไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "answer ; reply ; response"
+                        }
+                    ],
+                    "phonetic": "คำ ตอบ",
+                    "word": "คำตอบ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be"
+                        }
+                    ],
+                    "phonetic": "คือ",
+                    "word": "คือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "What word can't you write ?",
+            "id": 304469,
+            "phonetic": "มี คำ ไหฺน ที่ ยัง เขียน ไม่ ด้าย",
+            "thaiSentence": "มีคำไหนที่ยังเขียนไม่ได้",
+            "thaiSentenceSpaced": " มี คำ ไหน ที่ ยัง เขียน ไม่ได้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "word ; words <i>(คำ is the classifier for many things that can be spoken or written down - a question, a promise, a translation etc.)</i>"
+                        }
+                    ],
+                    "phonetic": "คำ",
+                    "word": "คำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whichever one"
+                        },
+                        {
+                            "meaning": "which"
+                        },
+                        {
+                            "meaning": "where ; which place <i>(a shortened form of ที่ไหน)</i>"
+                        },
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        }
+                    ],
+                    "phonetic": "ไหฺน",
+                    "word": "ไหน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "still ; yet"
+                        }
+                    ],
+                    "phonetic": "ยัง",
+                    "word": "ยัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] write"
+                        }
+                    ],
+                    "phonetic": "เขียน",
+                    "word": "เขียน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "didn't ; did not"
+                        },
+                        {
+                            "meaning": "can't ; cannot"
+                        }
+                    ],
+                    "phonetic": "ไม่ ด้าย",
+                    "word": "ไม่ได้"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is a turtle of gold.",
+            "id": 421908,
+            "phonetic": "คือ · เต่า ทอง คำ",
+            "thaiSentence": "คือ เต่าทองคำ",
+            "thaiSentenceSpaced": " นี่ คือ  ·  เต่าทอง คำ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be"
+                        }
+                    ],
+                    "phonetic": "คือ",
+                    "word": "คือ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "turtle ; tortoise ; terrapin"
+                        }
+                    ],
+                    "phonetic": "เต่า",
+                    "word": "เต่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "gold"
+                        }
+                    ],
+                    "phonetic": "ทอง คำ",
+                    "word": "ทองคำ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 67281,
+        "exampleSentences": [
+            {
+                "engSentence": "Everyone, say hi.",
+                "id": 127284,
+                "thaiSentence": "ทุกคน กล่าวคำทักทายซิ",
+                "thaiSentenceSpaced": " ทุก คน  &middot;  กล่าว คำ ทักทาย ซิ "
+            },
+            {
+                "engSentence": "Orders are orders.",
+                "id": 288977,
+                "thaiSentence": "คำสั่ง ก็คือ คำสั่ง",
+                "thaiSentenceSpaced": " คำ สั่ง  &middot;  ก็ คือ  &middot;  คำ สั่ง "
+            },
+            {
+                "engSentence": "Orders are orders.",
+                "id": 288977,
+                "thaiSentence": "คำสั่ง ก็คือ คำสั่ง",
+                "thaiSentenceSpaced": " คำ สั่ง  &middot;  ก็ คือ  &middot;  คำ สั่ง "
+            },
+            {
+                "engSentence": "What is the answer ?",
+                "id": 292923,
+                "thaiSentence": "คำตอบ คืออะไร",
+                "thaiSentenceSpaced": " คำ ตอบ  &middot;  คือ อะไร "
+            },
+            {
+                "engSentence": "What word can't you write ?",
+                "id": 304469,
+                "thaiSentence": "มีคำไหนที่ยังเขียนไม่ได้",
+                "thaiSentenceSpaced": " มี คำ ไหน ที่ ยัง เขียน ไม่ได้ "
+            },
+            {
+                "engSentence": "It is a turtle of gold.",
+                "id": 421908,
+                "thaiSentence": "คือ เต่าทองคำ",
+                "thaiSentenceSpaced": " นี่ คือ  &middot;  เต่าทอง คำ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1284178,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "word",
+                        "word": "word"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "words",
+                        "word": "words"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 394333,
+                        "corpusScore": 9660,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 191389,
+                        "legacyWordId": 1284605,
+                        "meaning": "the word",
+                        "parentId": 191389,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ ว่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำว่า"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 7217,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30671,
+                        "legacyWordId": 1284351,
+                        "meaning": "question ; query ; inquiry",
+                        "parentId": 30671,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำถาม"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 6492,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 31031,
+                        "legacyWordId": 1284314,
+                        "meaning": "answer ; reply ; response",
+                        "parentId": 31031,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ ตอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำตอบ"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 5619,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17068,
+                        "legacyWordId": 1284653,
+                        "meaning": "command ; order ; word of command",
+                        "parentId": 17068,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ สั่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำสั่ง"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 3675,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30201,
+                        "legacyWordId": 1284409,
+                        "meaning": "suggestion ; advice ; direction",
+                        "parentId": 30201,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ แนะ นำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำแนะนำ"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 3403,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30935,
+                        "legacyWordId": 1284511,
+                        "meaning": "words ; speech",
+                        "parentId": 30935,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ พูด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำพูด"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 3095,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34786,
+                        "legacyWordId": 1320715,
+                        "meaning": "gold",
+                        "parentId": 34786,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทอง คำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทองคำ"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 1881,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30453,
+                        "legacyWordId": 1284648,
+                        "meaning": "teaching ; doctrine ; instruction",
+                        "parentId": 30453,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ สอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำสอน"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 1443,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32423,
+                        "legacyWordId": 1319328,
+                        "meaning": "word ; confession ; expression",
+                        "parentId": 32423,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ถ้อย คำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถ้อยคำ"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 1338,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29555,
+                        "legacyWordId": 1284405,
+                        "meaning": "[to] consider ; contemplate ; think of",
+                        "parentId": 29555,
+                        "partOfSpeech": "Verb",
+                        "t2e": "คำ นึง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำนึง"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 1275,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21199,
+                        "legacyWordId": 1391051,
+                        "meaning": "[to] promise ; give one's word ; vow",
+                        "parentId": 21199,
+                        "partOfSpeech": "Verb",
+                        "t2e": "รับ คำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รับคำ"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 1167,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30815,
+                        "legacyWordId": 1284736,
+                        "meaning": "explanation ; caption ; exposition",
+                        "parentId": 30815,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ อะ-ทิ-บาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำอธิบาย"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 1072,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30440,
+                        "legacyWordId": 1284506,
+                        "meaning": "decision ; judgement ; verdict",
+                        "parentId": 30440,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ พิ-พาก-สา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำพิพากษา"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 1000,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17775,
+                        "legacyWordId": 1284454,
+                        "meaning": "suggestion ; advice ; direction",
+                        "parentId": 17775,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ ปฺรึก-สา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำปรึกษา"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 980,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30844,
+                        "legacyWordId": 1284575,
+                        "meaning": "petition ; request ; appeal",
+                        "parentId": 30844,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ ร้อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำร้อง"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 958,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30891,
+                        "legacyWordId": 1284614,
+                        "meaning": "vocabulary ; glossary ; word",
+                        "parentId": 30891,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ สับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำศัพท์"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 871,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2610,
+                        "legacyWordId": 1284212,
+                        "meaning": "request ; appeal ; demand",
+                        "parentId": 2610,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ ขอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำขอ"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 814,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30664,
+                        "legacyWordId": 1284189,
+                        "meaning": "saying ; hearsay ; speaking",
+                        "parentId": 30664,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ กฺล่าว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำกล่าว"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 778,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17112,
+                        "legacyWordId": 1284690,
+                        "meaning": "curse ; malediction",
+                        "parentId": 17112,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ สาบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำสาป"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 551,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31323,
+                        "legacyWordId": 1284210,
+                        "meaning": "slogan ; motto ; catchword",
+                        "parentId": 31323,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ ขฺวัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำขวัญ"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 551,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49537,
+                        "legacyWordId": 1284472,
+                        "meaning": "translation",
+                        "parentId": 49537,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ แปฺล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำแปล"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 530,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30774,
+                        "legacyWordId": 1284414,
+                        "meaning": "lecture ; narration ; expository",
+                        "parentId": 30774,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ บัน-ยาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำบรรยาย"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 404,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30289,
+                        "legacyWordId": 1284393,
+                        "meaning": "noun",
+                        "parentId": 30289,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ นาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำนาม"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 341,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30839,
+                        "legacyWordId": 1284608,
+                        "meaning": "decision ; judgement ; verdict",
+                        "parentId": 30839,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ วิ-นิด-ไฉ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำวินิจฉัย"
+                    },
+                    {
+                        "childId": 394333,
+                        "corpusScore": 331,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31393,
+                        "legacyWordId": 1370445,
+                        "meaning": "testimony ; statement ; evidence",
+                        "parentId": 31393,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปาก คำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปากคำ"
+                    }
+                ],
+                "explanation": "คำ is the classifier for many things that can be spoken or written down - a question, a promise, a translation etc.",
+                "id": 394333,
+                "isUncommon": false,
+                "meaning": "word ; words",
+                "partOfSpeech": "Noun ; Classifier",
+                "usage": "",
+                "word": "คำ"
+            }
+        ],
+        "t2e": "คำ",
+        "verified": null,
+        "word": "คำ"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

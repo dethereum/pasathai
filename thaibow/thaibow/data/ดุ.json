@@ -1,0 +1,151 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 1808,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1307827,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "fierce",
+                        "word": "fierce"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "ferocious",
+                        "word": "ferocious"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "unfriendly",
+                        "word": "unfriendly"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 12070,
+                        "corpusScore": 333,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11652,
+                        "legacyWordId": 1307847,
+                        "meaning": "violently ; ferociously ; viciously",
+                        "parentId": 11652,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ดุ เดือด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดุเดือด"
+                    },
+                    {
+                        "childId": 12070,
+                        "corpusScore": 255,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42032,
+                        "legacyWordId": 1307865,
+                        "meaning": "[to be] savage ; ferocious ; wild",
+                        "parentId": 42032,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ดุ ร้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดุร้าย"
+                    },
+                    {
+                        "childId": 12070,
+                        "corpusScore": 249,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2374,
+                        "legacyWordId": 1307843,
+                        "meaning": "violent ; hot-tempered ; vehement",
+                        "parentId": 2374,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ดุ ดัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดุดัน"
+                    },
+                    {
+                        "childId": 12070,
+                        "corpusScore": 32,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41126,
+                        "legacyWordId": 1307844,
+                        "meaning": "[to] scold ; reproach ; blame",
+                        "parentId": 41126,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดุ ด่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดุด่า"
+                    },
+                    {
+                        "childId": 12070,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1011,
+                        "legacyWordId": 1307846,
+                        "meaning": "furiously ; violently ; intensely",
+                        "parentId": 1011,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ดุ เด็ด เผ็ด มัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดุเด็ดเผ็ดมัน"
+                    },
+                    {
+                        "childId": 12070,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "literally \"the bull fighting land\"",
+                        "hasSoundFile": false,
+                        "id": 47842,
+                        "legacyWordId": 1308439,
+                        "meaning": "Spain",
+                        "parentId": 47842,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แดน กฺระ-ทิง ดุ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แดนกระทิงดุ"
+                    }
+                ],
+                "explanation": null,
+                "id": 12070,
+                "isUncommon": false,
+                "meaning": "fierce ; ferocious ; unfriendly",
+                "partOfSpeech": "Adjective",
+                "usage": "",
+                "word": "ดุ"
+            }
+        ],
+        "t2e": "ดุ",
+        "verified": null,
+        "word": "ดุ"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

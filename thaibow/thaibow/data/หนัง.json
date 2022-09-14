@@ -1,0 +1,1089 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Are you enjoying the movie ?",
+            "id": 25852,
+            "phonetic": "ดู หฺนัง สะ-หฺนุก หฺรือ เปฺล่า",
+            "thaiSentence": "ดูหนังสนุกหรือเปล่า",
+            "thaiSentenceSpaced": " ดู หนัง สนุก หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] appear ; seem"
+                        },
+                        {
+                            "meaning": "[to] watch ; look ; see"
+                        }
+                    ],
+                    "phonetic": "ดู",
+                    "word": "ดู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "movie ; film"
+                        }
+                    ],
+                    "phonetic": "หฺนัง",
+                    "word": "หนัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] fun ; enjoyable"
+                        }
+                    ],
+                    "phonetic": "สะ-หฺนุก",
+                    "word": "สนุก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "It was a fun movie.",
+            "id": 70538,
+            "phonetic": "หฺนัง สะ-หฺนุก ออก นี่-นา",
+            "thaiSentence": "หนังสนุกออกนี่นา",
+            "thaiSentenceSpaced": " หนัง สนุก ออก นี่นา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "movie ; film"
+                        }
+                    ],
+                    "phonetic": "หฺนัง",
+                    "word": "หนัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] fun ; enjoyable"
+                        }
+                    ],
+                    "phonetic": "สะ-หฺนุก",
+                    "word": "สนุก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "out ; out of"
+                        },
+                        {
+                            "meaning": "[to] issue ; produce ; reveal"
+                        },
+                        {
+                            "meaning": "[to] leave ; exit ; go out"
+                        }
+                    ],
+                    "phonetic": "ออก",
+                    "word": "ออก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        }
+                    ],
+                    "phonetic": "นี่-นา",
+                    "word": "นี่นา"
+                }
+            ]
+        },
+        {
+            "engSentence": "How was the movie's opening ?",
+            "id": 81644,
+            "phonetic": "เรื่อง เปิด ตัว หฺนัง เป็น ยัง ไง บ้าง",
+            "thaiSentence": "เรื่องเปิดตัวหนังเป็นยังไงบ้าง",
+            "thaiSentenceSpaced": " เรื่อง เปิดตัว หนัง เป็น ยังไง บ้าง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "matter ; affair ; thing <i>(เรื่อง is the classifier for a movie, story or tale.)</i>"
+                        },
+                        {
+                            "meaning": "about ; regarding ; concerning"
+                        },
+                        {
+                            "meaning": "problem ; trouble"
+                        }
+                    ],
+                    "phonetic": "เรื่อง",
+                    "word": "เรื่อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] begin ; start ; raise the curtain"
+                        }
+                    ],
+                    "phonetic": "เปิด ตัว",
+                    "word": "เปิดตัว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "movie ; film"
+                        }
+                    ],
+                    "phonetic": "หฺนัง",
+                    "word": "หนัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "ยัง ไง",
+                    "word": "ยังไง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "some ; any"
+                        }
+                    ],
+                    "phonetic": "บ้าง",
+                    "word": "บ้าง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Contract for what movie ?",
+            "id": 104306,
+            "phonetic": "สัน-ยา หฺนัง เรื่อง อะ-ไร",
+            "thaiSentence": "สัญญาหนังเรื่องอะไร",
+            "thaiSentenceSpaced": " สัญญา หนัง เรื่อง อะไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "contract ; agreement ; promise"
+                        },
+                        {
+                            "meaning": "[to] promise ; vow"
+                        }
+                    ],
+                    "phonetic": "สัน-ยา",
+                    "word": "สัญญา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "movie ; film"
+                        }
+                    ],
+                    "phonetic": "หฺนัง",
+                    "word": "หนัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "matter ; affair ; thing <i>(เรื่อง is the classifier for a movie, story or tale.)</i>"
+                        },
+                        {
+                            "meaning": "about ; regarding ; concerning"
+                        },
+                        {
+                            "meaning": "problem ; trouble"
+                        }
+                    ],
+                    "phonetic": "เรื่อง",
+                    "word": "เรื่อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "Was the movie that sad ?",
+            "id": 113050,
+            "phonetic": "หฺนัง เส้า แบบ นั้น เลย เหฺรอ",
+            "thaiSentence": "หนังเศร้าแบบนั้นเลยเหรอ",
+            "thaiSentenceSpaced": " หนัง เศร้า แบบนั้น เลย เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "movie ; film"
+                        }
+                    ],
+                    "phonetic": "หฺนัง",
+                    "word": "หนัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] sad ; upset ; depressed"
+                        },
+                        {
+                            "meaning": "sadly ; regretfully"
+                        }
+                    ],
+                    "phonetic": "เส้า",
+                    "word": "เศร้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "like that ; that way"
+                        }
+                    ],
+                    "phonetic": "แบบ นั้น",
+                    "word": "แบบนั้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Never seen a mob movie ?",
+            "id": 132809,
+            "phonetic": "ไม่ เคย ดู หฺนัง หฺรือ ไง",
+            "thaiSentence": "ไม่เคยดูหนังหรือไง",
+            "thaiSentenceSpaced": " ไม่เคย ดู หนัง หรือไง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "never"
+                        }
+                    ],
+                    "phonetic": "ไม่ เคย",
+                    "word": "ไม่เคย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] appear ; seem"
+                        },
+                        {
+                            "meaning": "[to] watch ; look ; see"
+                        }
+                    ],
+                    "phonetic": "ดู",
+                    "word": "ดู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "movie ; film"
+                        }
+                    ],
+                    "phonetic": "หฺนัง",
+                    "word": "หนัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or what ; or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ ไง",
+                    "word": "หรือไง"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 39247,
+        "exampleSentences": [
+            {
+                "engSentence": "Are you enjoying the movie ?",
+                "id": 25852,
+                "thaiSentence": "ดูหนังสนุกหรือเปล่า",
+                "thaiSentenceSpaced": " ดู หนัง สนุก หรือเปล่า "
+            },
+            {
+                "engSentence": "It was a fun movie.",
+                "id": 70538,
+                "thaiSentence": "หนังสนุกออกนี่นา",
+                "thaiSentenceSpaced": " หนัง สนุก ออก นี่นา "
+            },
+            {
+                "engSentence": "How was the movie's opening ?",
+                "id": 81644,
+                "thaiSentence": "เรื่องเปิดตัวหนังเป็นยังไงบ้าง",
+                "thaiSentenceSpaced": " เรื่อง เปิดตัว หนัง เป็น ยังไง บ้าง "
+            },
+            {
+                "engSentence": "Contract for what movie ?",
+                "id": 104306,
+                "thaiSentence": "สัญญาหนังเรื่องอะไร",
+                "thaiSentenceSpaced": " สัญญา หนัง เรื่อง อะไร "
+            },
+            {
+                "engSentence": "Was the movie that sad ?",
+                "id": 113050,
+                "thaiSentence": "หนังเศร้าแบบนั้นเลยเหรอ",
+                "thaiSentenceSpaced": " หนัง เศร้า แบบนั้น เลย เหรอ "
+            },
+            {
+                "engSentence": "Never seen a mob movie ?",
+                "id": 132809,
+                "thaiSentence": "ไม่เคยดูหนังหรือไง",
+                "thaiSentenceSpaced": " ไม่เคย ดู หนัง หรือไง "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1413598,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "movie",
+                        "word": "movie"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "film",
+                        "word": "film"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 19149,
+                        "corpusScore": 441,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42240,
+                        "legacyWordId": 1394159,
+                        "meaning": "cinema ; movie theater",
+                        "parentId": 42240,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรง หฺนัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรงหนัง"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 246,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24216,
+                        "legacyWordId": 1413605,
+                        "meaning": "shadow play ; shadow show",
+                        "parentId": 24216,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง ตะ-ลุง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังตะลุง"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 186,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32312,
+                        "legacyWordId": 1413601,
+                        "meaning": "Chinese film ; Chinese movie",
+                        "parentId": 32312,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง จีน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังจีน"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 180,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17014,
+                        "legacyWordId": 1319513,
+                        "meaning": "[to] shoot ; film ; make a movie",
+                        "parentId": 17014,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถ่าย หฺนัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถ่ายหนัง"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 156,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39993,
+                        "legacyWordId": 1413686,
+                        "meaning": "grand shadow play",
+                        "parentId": 39993,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง ไหฺย่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังใหญ่"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 112,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34230,
+                        "legacyWordId": 1413607,
+                        "meaning": "porn film",
+                        "parentId": 34230,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง โป๊",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังโป๊"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 101,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19229,
+                        "legacyWordId": 1413604,
+                        "meaning": "comedy film ; comedy movie",
+                        "parentId": 19229,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง ตะ-หฺลก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังตลก"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 92,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43731,
+                        "legacyWordId": 1291226,
+                        "meaning": "[to] show a movie",
+                        "parentId": 43731,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ฉาย หฺนัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ฉายหนัง"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 86,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21519,
+                        "legacyWordId": 1283450,
+                        "meaning": "movie fan",
+                        "parentId": 21519,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คอ หฺนัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คอหนัง"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 78,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400839,
+                        "legacyWordId": 1413685,
+                        "meaning": "[to] be invulnerable",
+                        "parentId": 400839,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺนัง เหฺนียว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังเหนียว"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 57,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22806,
+                        "legacyWordId": 1310976,
+                        "meaning": "cinema ticket ; movie theater ticket",
+                        "parentId": 22806,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตั๋ว หฺนัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตั๋วหนัง"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 34,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24631,
+                        "legacyWordId": 1389533,
+                        "meaning": "leather shoes",
+                        "parentId": 24631,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รอง เท้า หฺนัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รองเท้าหนัง"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 30,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36365,
+                        "legacyWordId": 1378143,
+                        "meaning": "[to] dub",
+                        "parentId": 36365,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พาก หฺนัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พากย์หนัง"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 29,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34596,
+                        "legacyWordId": 1307367,
+                        "meaning": "film star ; movie star",
+                        "parentId": 34596,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ดา-รา หฺนัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดาราหนัง"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 22,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39647,
+                        "legacyWordId": 1413610,
+                        "meaning": "war movie ; war film",
+                        "parentId": 39647,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง สง-คฺราม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังสงคราม"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 21,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399246,
+                        "legacyWordId": 1374226,
+                        "meaning": "director",
+                        "parentId": 399246,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ กำ-กับ หฺนัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้กำกับหนัง"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 13,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37477,
+                        "legacyWordId": 1294092,
+                        "meaning": "[to] display shadow figures ; perform a puppet show",
+                        "parentId": 37477,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เชิด หฺนัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เชิดหนัง"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 5,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "literally a \"zoom movie\", filmed in secret by a cinema-goer with a hidden camcorder.",
+                        "hasSoundFile": false,
+                        "id": 193539,
+                        "legacyWordId": 1413603,
+                        "meaning": "pirated movie",
+                        "parentId": 193539,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง ซูม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังซูม"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 4,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395029,
+                        "legacyWordId": 1413609,
+                        "meaning": "porn film",
+                        "parentId": 395029,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง ลา-มก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังลามก"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "The name of a village in Trang province",
+                        "hasSoundFile": false,
+                        "id": 677894,
+                        "legacyWordId": 1293280,
+                        "meaning": "Chum Chonkhuan Nang Kham",
+                        "parentId": 677894,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม-ชน-ควน-หฺนัง-ขำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนควนหนังขำ"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": "The name of a village in Phetchaburi province",
+                        "hasSoundFile": false,
+                        "id": 670265,
+                        "legacyWordId": 1345903,
+                        "meaning": "Banna Khueng Nang",
+                        "parentId": 670265,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บ้าน นา ขึง หฺนัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ้านนาขึงหนัง"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 424342,
+                        "legacyWordId": 1393885,
+                        "meaning": "congenital ichthyosis",
+                        "parentId": 424342,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรก หฺนัง แห้ง จาก พัน-ทุ-กำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรคหนังแห้งจากพันธุกรรม"
+                    },
+                    {
+                        "childId": 19149,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400652,
+                        "legacyWordId": 1406228,
+                        "meaning": "very short",
+                        "parentId": 400652,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "สั้น ติด หฺนัง หัว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สั้นติดหนังหัว"
+                    }
+                ],
+                "explanation": null,
+                "id": 19149,
+                "isUncommon": false,
+                "meaning": "movie ; film",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "หนัง"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "skin",
+                        "word": "skin"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "peel",
+                        "word": "peel"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 18366,
+                        "corpusScore": 4098,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44011,
+                        "legacyWordId": 1374088,
+                        "meaning": "skin",
+                        "parentId": 44011,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ผิว หฺนัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผิวหนัง"
+                    },
+                    {
+                        "childId": 18366,
+                        "corpusScore": 211,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32342,
+                        "legacyWordId": 1413600,
+                        "meaning": "epidermis ; cuticle",
+                        "parentId": 32342,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง กำ-พฺร้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังกำพร้า"
+                    },
+                    {
+                        "childId": 18366,
+                        "corpusScore": 101,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25671,
+                        "legacyWordId": 1413606,
+                        "meaning": "eyelid",
+                        "parentId": 25671,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง ตา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังตา"
+                    },
+                    {
+                        "childId": 18366,
+                        "corpusScore": 86,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1245,
+                        "legacyWordId": 1283450,
+                        "meaning": "leatherneck",
+                        "parentId": 1245,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คอ หฺนัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คอหนัง"
+                    },
+                    {
+                        "childId": 18366,
+                        "corpusScore": 40,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27165,
+                        "legacyWordId": 1413608,
+                        "meaning": "plastic band",
+                        "parentId": 27165,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง ยาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังยาง"
+                    },
+                    {
+                        "childId": 18366,
+                        "corpusScore": 32,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39265,
+                        "legacyWordId": 1380614,
+                        "meaning": "[to] tan ; tan leather",
+                        "parentId": 39265,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ฟอก หฺนัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ฟอกหนัง"
+                    },
+                    {
+                        "childId": 18366,
+                        "corpusScore": 20,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27837,
+                        "legacyWordId": 1374089,
+                        "meaning": "epidermis ; skin",
+                        "parentId": 27837,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ผิว หฺนัง ชั้น นอก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผิวหนังชั้นนอก"
+                    },
+                    {
+                        "childId": 18366,
+                        "corpusScore": 19,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30883,
+                        "legacyWordId": 1284168,
+                        "meaning": "red-handedly ; clearly",
+                        "parentId": 30883,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "คา หฺนัง คา เขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คาหนังคาเขา"
+                    },
+                    {
+                        "childId": 18366,
+                        "corpusScore": 5,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3762,
+                        "legacyWordId": 1384542,
+                        "meaning": "[to] be plump ; be corpulent ; be fat",
+                        "parentId": 3762,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี เนื้อ มี หฺนัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีเนื้อมีหนัง"
+                    },
+                    {
+                        "childId": 18366,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46214,
+                        "legacyWordId": 1413684,
+                        "meaning": "one who bears the brunt of an attack",
+                        "parentId": 46214,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง น่า ไฟ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังหน้าไฟ"
+                    },
+                    {
+                        "childId": 18366,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27816,
+                        "legacyWordId": 1330794,
+                        "meaning": "flesh ; human body",
+                        "parentId": 27816,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เนื้อ หฺนัง มัง สา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เนื้อหนังมังสา"
+                    },
+                    {
+                        "childId": 18366,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23973,
+                        "legacyWordId": 1394782,
+                        "meaning": "thong",
+                        "parentId": 23973,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ลวด หฺนัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลวดหนัง"
+                    },
+                    {
+                        "childId": 18366,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 68223,
+                        "legacyWordId": 1413602,
+                        "meaning": "shadow play",
+                        "parentId": 68223,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง เชิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังเชิด"
+                    }
+                ],
+                "explanation": null,
+                "id": 18366,
+                "isUncommon": true,
+                "meaning": "skin ; peel",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "หนัง"
+            }
+        ],
+        "t2e": "หฺนัง",
+        "verified": "หฺนัง",
+        "word": "หนัง"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

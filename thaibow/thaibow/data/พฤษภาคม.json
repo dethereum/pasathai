@@ -1,0 +1,91 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 1367,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1377132,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 47580,
+                        "corpusScore": 88,
+                        "displayOrder": 0,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": "the symbol of the Zodiac sign Taurus",
+                        "hasSoundFile": false,
+                        "id": 47580,
+                        "legacyWordId": 1377130,
+                        "meaning": "ox ; bull",
+                        "parentId": 35755,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พฺรึ-สบ",
+                        "usage": "",
+                        "verified": "พฺรึ-สบ, พฺรึด-สบ",
+                        "word": "พฤษภ"
+                    },
+                    {
+                        "childId": 47563,
+                        "corpusScore": 384,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47563,
+                        "legacyWordId": 1453850,
+                        "meaning": "the arrival of ; the coming of",
+                        "parentId": 35755,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-คม",
+                        "usage": "",
+                        "verified": "อา-คม",
+                        "word": "อาคม"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "May",
+                        "word": "May"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [
+                    {
+                        "childId": 35755,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45297,
+                        "legacyWordId": 1308377,
+                        "meaning": "May",
+                        "parentId": 45297,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน พฺรึด-สะ-พา คม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนพฤษภาคม"
+                    }
+                ],
+                "explanation": null,
+                "id": 35755,
+                "isUncommon": false,
+                "meaning": "May",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "พฤษภาคม"
+            }
+        ],
+        "t2e": "พฺรึด-สะ-พา คม",
+        "verified": "พฺรึด-สะ-พา คม",
+        "word": "พฤษภาคม"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

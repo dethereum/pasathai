@@ -1,0 +1,91 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 1348,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1399185,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 362198,
+                        "corpusScore": 106774,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 362198,
+                        "legacyWordId": 1399065,
+                        "meaning": "day",
+                        "parentId": 44838,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วัน"
+                    },
+                    {
+                        "childId": 37206,
+                        "corpusScore": 1595,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37206,
+                        "legacyWordId": 1401695,
+                        "meaning": "Friday",
+                        "parentId": 44838,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สุก",
+                        "usage": "",
+                        "verified": "สุก",
+                        "word": "ศุกร์"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "Friday",
+                        "word": "Friday"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 44838,
+                        "corpusScore": 52,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103136,
+                        "legacyWordId": 1284971,
+                        "meaning": "Friday night",
+                        "parentId": 103136,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คืน วัน สุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คืนวันศุกร์"
+                    }
+                ],
+                "explanation": null,
+                "id": 44838,
+                "isUncommon": false,
+                "meaning": "Friday",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "วันศุกร์"
+            }
+        ],
+        "t2e": "วัน สุก",
+        "verified": null,
+        "word": "วันศุกร์"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

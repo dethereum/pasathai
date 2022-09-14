@@ -1,0 +1,896 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "You can't find it in books.",
+            "id": 71425,
+            "phonetic": "คุน จะ หา มัน ไม่ พบ ไน หฺนัง-สือ",
+            "thaiSentence": "คุณจะหามันไม่พบในหนังสือ",
+            "thaiSentenceSpaced": " คุณ จะ หา มัน ไม่ พบ ใน หนังสือ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] search for ; look for"
+                        }
+                    ],
+                    "phonetic": "หา",
+                    "word": "หา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] find ; meet ; discover"
+                        }
+                    ],
+                    "phonetic": "พบ",
+                    "word": "พบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "book ; letter"
+                        }
+                    ],
+                    "phonetic": "หฺนัง-สือ",
+                    "word": "หนังสือ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You can't find it in books.",
+            "id": 90882,
+            "phonetic": "คุน หา ไน หฺนัง-สือ ไม่ เจอ หฺรอก",
+            "thaiSentence": "คุณหาในหนังสือไม่เจอหรอก",
+            "thaiSentenceSpaced": " คุณ หา ใน หนังสือ ไม่ เจอ หรอก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] search for ; look for"
+                        }
+                    ],
+                    "phonetic": "หา",
+                    "word": "หา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "book ; letter"
+                        }
+                    ],
+                    "phonetic": "หฺนัง-สือ",
+                    "word": "หนังสือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] meet ; find"
+                        }
+                    ],
+                    "phonetic": "เจอ",
+                    "word": "เจอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in the negative when making a contradiction)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺรอก",
+                    "word": "หรอก"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is not like the books.",
+            "id": 110605,
+            "phonetic": "มัน ไม่ เหฺมือน ไน หฺนัง-สือ",
+            "thaiSentence": "มันไม่เหมือนในหนังสือ",
+            "thaiSentenceSpaced": " มัน ไม่ เหมือน ใน หนังสือ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "like ; as ; as if ; as though"
+                        }
+                    ],
+                    "phonetic": "เหฺมือน",
+                    "word": "เหมือน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "book ; letter"
+                        }
+                    ],
+                    "phonetic": "หฺนัง-สือ",
+                    "word": "หนังสือ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What book is it ?",
+            "id": 149504,
+            "phonetic": "หฺนัง-สือ อะ-ไร เหฺรอ",
+            "thaiSentence": "หนังสืออะไรเหรอ",
+            "thaiSentenceSpaced": " หนังสือ อะไร เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "book ; letter"
+                        }
+                    ],
+                    "phonetic": "หฺนัง-สือ",
+                    "word": "หนังสือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Take out your books.",
+            "id": 162401,
+            "phonetic": "หฺยิบ หฺนัง-สือ ขึ้น มา",
+            "thaiSentence": "หยิบหนังสือขึ้นมา",
+            "thaiSentenceSpaced": " หยิบ หนังสือ ขึ้นมา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pick up ; take"
+                        }
+                    ],
+                    "phonetic": "หฺยิบ",
+                    "word": "หยิบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "book ; letter"
+                        }
+                    ],
+                    "phonetic": "หฺนัง-สือ",
+                    "word": "หนังสือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] upward ; rise"
+                        }
+                    ],
+                    "phonetic": "ขึ้น มา",
+                    "word": "ขึ้นมา"
+                }
+            ]
+        },
+        {
+            "engSentence": "Everybody open your book.",
+            "id": 183911,
+            "phonetic": "ทุก คน เปิด หฺนัง-สือ ของ ตัว เอง ซะ",
+            "thaiSentence": "ทุกคนเปิดหนังสือของตัวเองซะ",
+            "thaiSentenceSpaced": " ทุกคน เปิด หนังสือ ของ ตัวเอง ซะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "everyone ; everybody"
+                        }
+                    ],
+                    "phonetic": "ทุก คน",
+                    "word": "ทุกคน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] open ; turn on ; switch on"
+                        }
+                    ],
+                    "phonetic": "เปิด",
+                    "word": "เปิด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "book ; letter"
+                        }
+                    ],
+                    "phonetic": "หฺนัง-สือ",
+                    "word": "หนังสือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "oneself ; ourselves"
+                        }
+                    ],
+                    "phonetic": "ตัว เอง",
+                    "word": "ตัวเอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle implying the verb should be done quickly or completely)</i>"
+                        }
+                    ],
+                    "phonetic": "ซะ",
+                    "word": "ซะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 24448,
+        "exampleSentences": [
+            {
+                "engSentence": "You can't find it in books.",
+                "id": 71425,
+                "thaiSentence": "คุณจะหามันไม่พบในหนังสือ",
+                "thaiSentenceSpaced": " คุณ จะ หา มัน ไม่ พบ ใน หนังสือ "
+            },
+            {
+                "engSentence": "You can't find it in books.",
+                "id": 90882,
+                "thaiSentence": "คุณหาในหนังสือไม่เจอหรอก",
+                "thaiSentenceSpaced": " คุณ หา ใน หนังสือ ไม่ เจอ หรอก "
+            },
+            {
+                "engSentence": "It is not like the books.",
+                "id": 110605,
+                "thaiSentence": "มันไม่เหมือนในหนังสือ",
+                "thaiSentenceSpaced": " มัน ไม่ เหมือน ใน หนังสือ "
+            },
+            {
+                "engSentence": "What book is it ?",
+                "id": 149504,
+                "thaiSentence": "หนังสืออะไรเหรอ",
+                "thaiSentenceSpaced": " หนังสือ อะไร เหรอ "
+            },
+            {
+                "engSentence": "Take out your books.",
+                "id": 162401,
+                "thaiSentence": "หยิบหนังสือขึ้นมา",
+                "thaiSentenceSpaced": " หยิบ หนังสือ ขึ้นมา "
+            },
+            {
+                "engSentence": "Everybody open your book.",
+                "id": 183911,
+                "thaiSentence": "ทุกคนเปิดหนังสือของตัวเองซะ",
+                "thaiSentenceSpaced": " ทุกคน เปิด หนังสือ ของ ตัวเอง ซะ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1413613,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "book",
+                        "word": "book"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "letter",
+                        "word": "letter"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 39847,
+                        "corpusScore": 2038,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 25735,
+                        "legacyWordId": 1413646,
+                        "meaning": "newspaper ; paper ; press",
+                        "parentId": 25735,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง-สือ พิม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังสือพิมพ์"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 1005,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1105,
+                        "legacyWordId": 1454125,
+                        "meaning": "[to] read ; study",
+                        "parentId": 1105,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อ่าน หฺนัง-สือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อ่านหนังสือ"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 519,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19048,
+                        "legacyWordId": 1310977,
+                        "meaning": "character ; letter ; writing",
+                        "parentId": 19048,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตัว หฺนัง-สือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตัวหนังสือ"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 383,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26214,
+                        "legacyWordId": 1392957,
+                        "meaning": "[to] study ; learn ; be in school",
+                        "parentId": 26214,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เรียน หฺนัง-สือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรียนหนังสือ"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 357,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19462,
+                        "legacyWordId": 1413622,
+                        "meaning": "passport",
+                        "parentId": 19462,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง-สือ เดิน ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังสือเดินทาง"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 317,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29390,
+                        "legacyWordId": 1277877,
+                        "meaning": "[to] write ; compose",
+                        "parentId": 29390,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เขียน หฺนัง-สือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เขียนหนังสือ"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 306,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21974,
+                        "legacyWordId": 1413657,
+                        "meaning": "certificate ; letter of recommendation",
+                        "parentId": 21974,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง-สือ รับ รอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังสือรับรอง"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 296,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40231,
+                        "legacyWordId": 1323086,
+                        "meaning": "[to] make a book ; publish",
+                        "parentId": 40231,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ หฺนัง-สือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำหนังสือ"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 248,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24130,
+                        "legacyWordId": 1391627,
+                        "meaning": "bookstore",
+                        "parentId": 24130,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้าน หฺนัง-สือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้านหนังสือ"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 168,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 589948,
+                        "legacyWordId": 1413615,
+                        "meaning": "cartoon book",
+                        "parentId": 589948,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง-สือ กา-ตูน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังสือการ์ตูน"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 168,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39721,
+                        "legacyWordId": 1413674,
+                        "meaning": "contract ; agreement",
+                        "parentId": 39721,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง-สือ สัน-ยา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังสือสัญญา"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 126,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28129,
+                        "legacyWordId": 1413669,
+                        "meaning": "textbook ; coursebook",
+                        "parentId": 28129,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง-สือ เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังสือเรียน"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 114,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4611,
+                        "legacyWordId": 1405289,
+                        "meaning": "[to] teach ; instruct",
+                        "parentId": 4611,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สอน หฺนัง-สือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สอนหนังสือ"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 107,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400788,
+                        "legacyWordId": 1402307,
+                        "meaning": "[to] deliver a document ; send messages",
+                        "parentId": 400788,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ส่ง หฺนัง-สือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ส่งหนังสือ"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 107,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 715,
+                        "legacyWordId": 1287612,
+                        "meaning": "desk work",
+                        "parentId": 715,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน หฺนัง-สือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานหนังสือ"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 93,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39423,
+                        "legacyWordId": 1378515,
+                        "meaning": "[to] print ; publish",
+                        "parentId": 39423,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พิม หฺนัง-สือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พิมพ์หนังสือ"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 67,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19714,
+                        "legacyWordId": 1413619,
+                        "meaning": "manual ; manuscript",
+                        "parentId": 19714,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง-สือ คู่ มือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังสือคู่มือ"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 46,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19433,
+                        "legacyWordId": 1413671,
+                        "meaning": "circular notice ; circular letter",
+                        "parentId": 19433,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง-สือ เวียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังสือเวียน"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 39,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44760,
+                        "legacyWordId": 1394559,
+                        "meaning": "[to] publish a book",
+                        "parentId": 44760,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ลง หฺนัง-สือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลงหนังสือ"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 39,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16682,
+                        "legacyWordId": 1318332,
+                        "meaning": "[to] write a book ; compose",
+                        "parentId": 16682,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แต่ง หฺนัง-สือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่งหนังสือ"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 37,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13514,
+                        "legacyWordId": 1392742,
+                        "meaning": "[to] be literate ; be educated",
+                        "parentId": 13514,
+                        "partOfSpeech": "Verb",
+                        "t2e": "รู้ หฺนัง-สือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รู้หนังสือ"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 33,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24707,
+                        "legacyWordId": 1413676,
+                        "meaning": "credentials ; papers ; document",
+                        "parentId": 24707,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง-สือ สำ-คัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังสือสำคัญ"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 31,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23899,
+                        "legacyWordId": 1413655,
+                        "meaning": "power of attorney ; proxy",
+                        "parentId": 23899,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง-สือ มอบ อำ-นาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังสือมอบอำนาจ"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 29,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16895,
+                        "legacyWordId": 1317927,
+                        "meaning": "bookcase",
+                        "parentId": 16895,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตู้ หฺนัง-สือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตู้หนังสือ"
+                    },
+                    {
+                        "childId": 39847,
+                        "corpusScore": 27,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32332,
+                        "legacyWordId": 1413629,
+                        "meaning": "guide book",
+                        "parentId": 32332,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺนัง-สือ แนะ นำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนังสือแนะนำ"
+                    }
+                ],
+                "explanation": null,
+                "id": 39847,
+                "isUncommon": false,
+                "meaning": "book ; letter",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "หนังสือ"
+            }
+        ],
+        "t2e": "หฺนัง-สือ",
+        "verified": null,
+        "word": "หนังสือ"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

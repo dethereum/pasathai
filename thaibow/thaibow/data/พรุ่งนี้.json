@@ -1,0 +1,439 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "See you tomorrow.",
+            "id": 2100,
+            "phonetic": "เจอ กัน พฺรุ่ง-นี้",
+            "thaiSentence": "เจอกันพรุ่งนี้",
+            "thaiSentenceSpaced": " เจอกัน พรุ่งนี้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] meet ; encounter ; see"
+                        }
+                    ],
+                    "phonetic": "เจอ กัน",
+                    "word": "เจอกัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tomorrow ; the next day"
+                        }
+                    ],
+                    "phonetic": "พฺรุ่ง-นี้",
+                    "word": "พรุ่งนี้"
+                }
+            ]
+        },
+        {
+            "engSentence": "Tomorrow is our last lesson.",
+            "id": 24366,
+            "phonetic": "พฺรุ่ง-นี้ เป็น บด สุด ท้าย ของ เรา แล้ว",
+            "thaiSentence": "พรุ่งนี้เป็นบทสุดท้ายของเราแล้ว",
+            "thaiSentenceSpaced": " พรุ่งนี้ เป็น บท สุดท้าย ของ เรา แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tomorrow ; the next day"
+                        }
+                    ],
+                    "phonetic": "พฺรุ่ง-นี้",
+                    "word": "พรุ่งนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "chapter ; lesson ; part"
+                        }
+                    ],
+                    "phonetic": "บด",
+                    "word": "บท"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "last ; final"
+                        },
+                        {
+                            "meaning": "finally ; lastly"
+                        }
+                    ],
+                    "phonetic": "สุด ท้าย",
+                    "word": "สุดท้าย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "Tomorrow is our last lesson.",
+            "id": 30697,
+            "phonetic": "พฺรุ่ง-นี้ จะ เป็น บด เรียน สุด ท้าย",
+            "thaiSentence": "พรุ่งนี้จะเป็นบทเรียนสุดท้าย",
+            "thaiSentenceSpaced": " พรุ่งนี้ จะเป็น บทเรียน สุดท้าย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tomorrow ; the next day"
+                        }
+                    ],
+                    "phonetic": "พฺรุ่ง-นี้",
+                    "word": "พรุ่งนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will be"
+                        }
+                    ],
+                    "phonetic": "จะ เป็น",
+                    "word": "จะเป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "lesson"
+                        }
+                    ],
+                    "phonetic": "บด เรียน",
+                    "word": "บทเรียน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "last ; final"
+                        },
+                        {
+                            "meaning": "finally ; lastly"
+                        }
+                    ],
+                    "phonetic": "สุด ท้าย",
+                    "word": "สุดท้าย"
+                }
+            ]
+        },
+        {
+            "engSentence": "So we'll see you tomorrow.",
+            "id": 38466,
+            "phonetic": "แล้ว เจอ กัน พฺรุ่ง-นี้ นะ",
+            "thaiSentence": "แล้วเจอกันพรุ่งนี้นะ",
+            "thaiSentenceSpaced": " แล้ว เจอกัน พรุ่งนี้ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] meet ; encounter ; see"
+                        }
+                    ],
+                    "phonetic": "เจอ กัน",
+                    "word": "เจอกัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tomorrow ; the next day"
+                        }
+                    ],
+                    "phonetic": "พฺรุ่ง-นี้",
+                    "word": "พรุ่งนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "See you tomorrow.",
+            "id": 68328,
+            "phonetic": "เจอ กัน พฺรุ่ง-นี้ นะ",
+            "thaiSentence": "เจอกันพรุ่งนี้นะ",
+            "thaiSentenceSpaced": " เจอกัน พรุ่งนี้ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] meet ; encounter ; see"
+                        }
+                    ],
+                    "phonetic": "เจอ กัน",
+                    "word": "เจอกัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tomorrow ; the next day"
+                        }
+                    ],
+                    "phonetic": "พฺรุ่ง-นี้",
+                    "word": "พรุ่งนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "How about tomorrow ?",
+            "id": 81303,
+            "phonetic": "พฺรุ่ง-นี้ เป็น ไง",
+            "thaiSentence": "พรุ่งนี้เป็นไง",
+            "thaiSentenceSpaced": " พรุ่งนี้ เป็น ไง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tomorrow ; the next day"
+                        }
+                    ],
+                    "phonetic": "พฺรุ่ง-นี้",
+                    "word": "พรุ่งนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle showing the preceding statement is self-evident)</i>"
+                        },
+                        {
+                            "meaning": "how"
+                        }
+                    ],
+                    "phonetic": "ไง",
+                    "word": "ไง"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 2455,
+        "exampleSentences": [
+            {
+                "engSentence": "See you tomorrow.",
+                "id": 2100,
+                "thaiSentence": "เจอกันพรุ่งนี้",
+                "thaiSentenceSpaced": " เจอกัน พรุ่งนี้ "
+            },
+            {
+                "engSentence": "Tomorrow is our last lesson.",
+                "id": 24366,
+                "thaiSentence": "พรุ่งนี้เป็นบทสุดท้ายของเราแล้ว",
+                "thaiSentenceSpaced": " พรุ่งนี้ เป็น บท สุดท้าย ของ เรา แล้ว "
+            },
+            {
+                "engSentence": "Tomorrow is our last lesson.",
+                "id": 30697,
+                "thaiSentence": "พรุ่งนี้จะเป็นบทเรียนสุดท้าย",
+                "thaiSentenceSpaced": " พรุ่งนี้ จะเป็น บทเรียน สุดท้าย "
+            },
+            {
+                "engSentence": "So we'll see you tomorrow.",
+                "id": 38466,
+                "thaiSentence": "แล้วเจอกันพรุ่งนี้นะ",
+                "thaiSentenceSpaced": " แล้ว เจอกัน พรุ่งนี้ นะ "
+            },
+            {
+                "engSentence": "See you tomorrow.",
+                "id": 68328,
+                "thaiSentence": "เจอกันพรุ่งนี้นะ",
+                "thaiSentenceSpaced": " เจอกัน พรุ่งนี้ นะ "
+            },
+            {
+                "engSentence": "How about tomorrow ?",
+                "id": 81303,
+                "thaiSentence": "พรุ่งนี้เป็นไง",
+                "thaiSentenceSpaced": " พรุ่งนี้ เป็น ไง "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1377057,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 42145,
+                        "corpusScore": 314016,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42145,
+                        "legacyWordId": 1330353,
+                        "meaning": "this",
+                        "parentId": 45807,
+                        "partOfSpeech": "DemonstrativeAdjective",
+                        "t2e": "นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นี้"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "tomorrow",
+                        "word": "tomorrow"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "the next day",
+                        "word": "the next day"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 45807,
+                        "corpusScore": 317,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36512,
+                        "legacyWordId": 1399147,
+                        "meaning": "tomorrow ; next day ; following day",
+                        "parentId": 36512,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน พฺรุ่ง-นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันพรุ่งนี้"
+                    },
+                    {
+                        "childId": 45807,
+                        "corpusScore": 83,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 702115,
+                        "legacyWordId": 1377058,
+                        "meaning": "tomorrow morning",
+                        "parentId": 702115,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พฺรุ่ง-นี้ เช้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พรุ่งนี้เช้า"
+                    }
+                ],
+                "explanation": null,
+                "id": 45807,
+                "isUncommon": false,
+                "meaning": "tomorrow ; the next day",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "พรุ่งนี้"
+            }
+        ],
+        "t2e": "พฺรุ่ง-นี้",
+        "verified": null,
+        "word": "พรุ่งนี้"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

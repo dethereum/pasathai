@@ -1,0 +1,108 @@
+{
+    "commonessText": "Rarely",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 229,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1273147,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 47569,
+                        "corpusScore": 10,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47569,
+                        "legacyWordId": 1454169,
+                        "meaning": "binding ; tying",
+                        "parentId": 29971,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาพันธ์"
+                    },
+                    {
+                        "childId": 191352,
+                        "corpusScore": 715,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 191352,
+                        "legacyWordId": 1273146,
+                        "meaning": "February",
+                        "parentId": 29971,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กุม-พา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กุมภา"
+                    },
+                    {
+                        "childId": 44421,
+                        "corpusScore": 5092,
+                        "displayOrder": 2,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 44421,
+                        "legacyWordId": 1378037,
+                        "meaning": "[to] unite ; connect",
+                        "parentId": 29971,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พัน",
+                        "usage": "",
+                        "verified": "พัน",
+                        "word": "พันธ์"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "February",
+                        "word": "February"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [
+                    {
+                        "childId": 29971,
+                        "corpusScore": 388,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45301,
+                        "legacyWordId": 1308360,
+                        "meaning": "February",
+                        "parentId": 45301,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน กุม-พา พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนกุมภาพันธ์"
+                    }
+                ],
+                "explanation": null,
+                "id": 29971,
+                "isUncommon": false,
+                "meaning": "February",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "กุมภาพันธ์"
+            }
+        ],
+        "t2e": "กุม-พา พัน",
+        "verified": null,
+        "word": "กุมภาพันธ์"
+    },
+    "greenBarCount": 1,
+    "pageUrl": "",
+    "type": "thai-word"
+}

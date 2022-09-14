@@ -1,0 +1,413 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "No, I am fine.",
+            "id": 2433,
+            "phonetic": "เปฺล่า · ผม สะ-บาย ดี",
+            "thaiSentence": "เปล่า ผมสบายดี",
+            "thaiSentenceSpaced": " เปล่า  ·  ผม สบายดี ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "เปฺล่า",
+                    "word": "เปล่า"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be fine ; be well ; be happy"
+                        }
+                    ],
+                    "phonetic": "สะ-บาย ดี",
+                    "word": "สบายดี"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is ok . I am all right.",
+            "id": 11526,
+            "phonetic": "ไม่ เป็น ไร · ฉัน สะ-บาย ดี",
+            "thaiSentence": "ไม่เป็นไร ฉันสบายดี",
+            "thaiSentenceSpaced": " ไม่ เป็นไร  ·  ฉัน สบายดี ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be ok ; be all right ; be nothing"
+                        }
+                    ],
+                    "phonetic": "ไม่ เป็น ไร",
+                    "word": "ไม่เป็นไร"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be fine ; be well ; be happy"
+                        }
+                    ],
+                    "phonetic": "สะ-บาย ดี",
+                    "word": "สบายดี"
+                }
+            ]
+        },
+        {
+            "engSentence": "No . I am fine.",
+            "id": 16963,
+            "phonetic": "ไม่ ล่ะ · ฉัน สะ-บาย ดี",
+            "thaiSentence": "ไม่ล่ะ ฉันสบายดี",
+            "thaiSentenceSpaced": " ไม่ ล่ะ  ·  ฉัน สบายดี ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be fine ; be well ; be happy"
+                        }
+                    ],
+                    "phonetic": "สะ-บาย ดี",
+                    "word": "สบายดี"
+                }
+            ]
+        },
+        {
+            "engSentence": "Of course . I am fine.",
+            "id": 64950,
+            "phonetic": "คฺรับ · ผม สะ-บาย ดี",
+            "thaiSentence": "ครับ ผมสบายดี",
+            "thaiSentenceSpaced": " ครับ  ·  ผม สบายดี ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be fine ; be well ; be happy"
+                        }
+                    ],
+                    "phonetic": "สะ-บาย ดี",
+                    "word": "สบายดี"
+                }
+            ]
+        },
+        {
+            "engSentence": "He seems to be doing fine.",
+            "id": 69601,
+            "phonetic": "เขา สะ-บาย ดี นะ",
+            "thaiSentence": "เขาสบายดีนะ",
+            "thaiSentenceSpaced": " เขา สบายดี นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be fine ; be well ; be happy"
+                        }
+                    ],
+                    "phonetic": "สะ-บาย ดี",
+                    "word": "สบายดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I'll be fine . Good-bye.",
+            "id": 148171,
+            "phonetic": "สะ-บาย ดี คะ · ลา ก่อน",
+            "thaiSentence": "สบายดีคะ ลาก่อน",
+            "thaiSentenceSpaced": " สบายดี คะ  ·  ลา ก่อน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be fine ; be well ; be happy"
+                        }
+                    ],
+                    "phonetic": "สะ-บาย ดี",
+                    "word": "สบายดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] say goodbye ; leave"
+                        }
+                    ],
+                    "phonetic": "ลา ก่อน",
+                    "word": "ลาก่อน"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 970,
+        "exampleSentences": [
+            {
+                "engSentence": "No, I am fine.",
+                "id": 2433,
+                "thaiSentence": "เปล่า ผมสบายดี",
+                "thaiSentenceSpaced": " เปล่า  &middot;  ผม สบายดี "
+            },
+            {
+                "engSentence": "It is ok . I am all right.",
+                "id": 11526,
+                "thaiSentence": "ไม่เป็นไร ฉันสบายดี",
+                "thaiSentenceSpaced": " ไม่ เป็นไร  &middot;  ฉัน สบายดี "
+            },
+            {
+                "engSentence": "No . I am fine.",
+                "id": 16963,
+                "thaiSentence": "ไม่ล่ะ ฉันสบายดี",
+                "thaiSentenceSpaced": " ไม่ ล่ะ  &middot;  ฉัน สบายดี "
+            },
+            {
+                "engSentence": "Of course . I am fine.",
+                "id": 64950,
+                "thaiSentence": "ครับ ผมสบายดี",
+                "thaiSentenceSpaced": " ครับ  &middot;  ผม สบายดี "
+            },
+            {
+                "engSentence": "He seems to be doing fine.",
+                "id": 69601,
+                "thaiSentence": "เขาสบายดีนะ",
+                "thaiSentenceSpaced": " เขา สบายดี นะ "
+            },
+            {
+                "engSentence": "I'll be fine . Good-bye.",
+                "id": 148171,
+                "thaiSentence": "สบายดีคะ ลาก่อน",
+                "thaiSentenceSpaced": " สบายดี คะ  &middot;  ลา ก่อน "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1402929,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 35400,
+                        "corpusScore": 9674,
+                        "displayOrder": 0,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35400,
+                        "legacyWordId": 1402923,
+                        "meaning": "[to] be fine ; be well ; be happy",
+                        "parentId": 3672,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สะ-บาย",
+                        "usage": "",
+                        "verified": "สะ-บาย",
+                        "word": "สบาย"
+                    },
+                    {
+                        "childId": 421586,
+                        "corpusScore": 138563,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 421586,
+                        "legacyWordId": 1307696,
+                        "meaning": "[to be] good ; nice",
+                        "parentId": 3672,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดี"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] be fine",
+                        "word": "fine"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "be well",
+                        "word": "be well"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "be happy",
+                        "word": "be happy"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 3672,
+                        "corpusScore": 47,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41650,
+                        "legacyWordId": 1402930,
+                        "meaning": "how are you ?",
+                        "parentId": 41650,
+                        "partOfSpeech": "Interrogative",
+                        "t2e": "สะ-บาย ดี ไหฺม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สบายดีไหม"
+                    }
+                ],
+                "explanation": null,
+                "id": 3672,
+                "isUncommon": false,
+                "meaning": "[to] be fine ; be well ; be happy",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "สบายดี"
+            }
+        ],
+        "t2e": "สะ-บาย ดี",
+        "verified": null,
+        "word": "สบายดี"
+    },
+    "greenBarCount": 2,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,994 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Clean this first and go.",
+            "id": 81145,
+            "phonetic": "นี่ · ล้าง นี่ ก่อน ค่อย ไป",
+            "thaiSentence": "นี่ ล้างนี่ก่อนค่อยไป",
+            "thaiSentenceSpaced": " นี่  ·  ล้าง นี่ ก่อน ค่อย ไป ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wash clothes ; launder ; clean"
+                        }
+                    ],
+                    "phonetic": "ล้าง",
+                    "word": "ล้าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "before ; first ; former"
+                        }
+                    ],
+                    "phonetic": "ก่อน",
+                    "word": "ก่อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "quietly ; silently ; softly lightly"
+                        },
+                        {
+                            "meaning": "gradually ; little ; hardly ; rarely"
+                        }
+                    ],
+                    "phonetic": "ค่อย",
+                    "word": "ค่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                }
+            ]
+        },
+        {
+            "engSentence": "I'll clean it later.",
+            "id": 83249,
+            "phonetic": "ฉัน จะ ล้าง ที หฺลัง",
+            "thaiSentence": "ฉันจะล้างทีหลัง",
+            "thaiSentenceSpaced": " ฉัน จะ ล้าง ทีหลัง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wash clothes ; launder ; clean"
+                        }
+                    ],
+                    "phonetic": "ล้าง",
+                    "word": "ล้าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "later ; afterward ; next"
+                        }
+                    ],
+                    "phonetic": "ที หฺลัง",
+                    "word": "ทีหลัง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Could wash them on the sink ?",
+            "id": 100579,
+            "phonetic": "ล้าง ไน อ่าง ล้าง มือ ด้าย ไหฺม",
+            "thaiSentence": "ล้างในอ่างล้างมือได้ไหม",
+            "thaiSentenceSpaced": " ล้าง ใน อ่างล้างมือ ได้ ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wash clothes ; launder ; clean"
+                        }
+                    ],
+                    "phonetic": "ล้าง",
+                    "word": "ล้าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sink ; washbasin ; basin"
+                        }
+                    ],
+                    "phonetic": "อ่าง ล้าง มือ",
+                    "word": "อ่างล้างมือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "I'll wash it clean.",
+            "id": 147094,
+            "phonetic": "ฉัน จะ ล้าง ไห้ สะ-อาด เอง นะ",
+            "thaiSentence": "ฉันจะล้างให้สะอาดเองนะ",
+            "thaiSentenceSpaced": " ฉัน จะ ล้าง ให้ สะอาด เอง นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wash clothes ; launder ; clean"
+                        }
+                    ],
+                    "phonetic": "ล้าง",
+                    "word": "ล้าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] clean ; fresh ; pure"
+                        }
+                    ],
+                    "phonetic": "สะ-อาด",
+                    "word": "สะอาด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "only ; alone ; just"
+                        }
+                    ],
+                    "phonetic": "เอง",
+                    "word": "เอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I'll wash it away for you.",
+            "id": 147095,
+            "phonetic": "ฉัน จะ ล้าง ออก ไห้ หฺมด เลย",
+            "thaiSentence": "ฉันจะล้างออกให้หมดเลย",
+            "thaiSentenceSpaced": " ฉัน จะ ล้าง ออก ให้ หมด เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wash clothes ; launder ; clean"
+                        }
+                    ],
+                    "phonetic": "ล้าง",
+                    "word": "ล้าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "out ; out of"
+                        },
+                        {
+                            "meaning": "[to] issue ; produce ; reveal"
+                        },
+                        {
+                            "meaning": "[to] leave ; exit ; go out"
+                        }
+                    ],
+                    "phonetic": "ออก",
+                    "word": "ออก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "completely ; entirely"
+                        },
+                        {
+                            "meaning": "[to be] finished ; used up"
+                        }
+                    ],
+                    "phonetic": "หฺมด",
+                    "word": "หมด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "I told you to wash it.",
+            "id": 171260,
+            "phonetic": "ฉัน บอก ไห้ คุน ล้าง มัน",
+            "thaiSentence": "ฉันบอกให้คุณล้างมัน",
+            "thaiSentenceSpaced": " ฉัน บอก ให้ คุณ ล้าง มัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] tell ; say ; describe"
+                        }
+                    ],
+                    "phonetic": "บอก",
+                    "word": "บอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wash clothes ; launder ; clean"
+                        }
+                    ],
+                    "phonetic": "ล้าง",
+                    "word": "ล้าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 7349,
+        "exampleSentences": [
+            {
+                "engSentence": "Clean this first and go.",
+                "id": 81145,
+                "thaiSentence": "นี่ ล้างนี่ก่อนค่อยไป",
+                "thaiSentenceSpaced": " นี่  &middot;  ล้าง นี่ ก่อน ค่อย ไป "
+            },
+            {
+                "engSentence": "I'll clean it later.",
+                "id": 83249,
+                "thaiSentence": "ฉันจะล้างทีหลัง",
+                "thaiSentenceSpaced": " ฉัน จะ ล้าง ทีหลัง "
+            },
+            {
+                "engSentence": "Could wash them on the sink ?",
+                "id": 100579,
+                "thaiSentence": "ล้างในอ่างล้างมือได้ไหม",
+                "thaiSentenceSpaced": " ล้าง ใน อ่างล้างมือ ได้ ไหม "
+            },
+            {
+                "engSentence": "I'll wash it clean.",
+                "id": 147094,
+                "thaiSentence": "ฉันจะล้างให้สะอาดเองนะ",
+                "thaiSentenceSpaced": " ฉัน จะ ล้าง ให้ สะอาด เอง นะ "
+            },
+            {
+                "engSentence": "I'll wash it away for you.",
+                "id": 147095,
+                "thaiSentence": "ฉันจะล้างออกให้หมดเลย",
+                "thaiSentenceSpaced": " ฉัน จะ ล้าง ออก ให้ หมด เลย "
+            },
+            {
+                "engSentence": "I told you to wash it.",
+                "id": 171260,
+                "thaiSentence": "ฉันบอกให้คุณล้างมัน",
+                "thaiSentenceSpaced": " ฉัน บอก ให้ คุณ ล้าง มัน "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1395415,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "[to] wash clothes",
+                        "word": "wash clothes"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "launder",
+                        "word": "launder"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "clean",
+                        "word": "clean"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 1737,
+                        "corpusScore": 558,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396357,
+                        "legacyWordId": 1270945,
+                        "meaning": "rubbing ; scrubbing ; wiping",
+                        "parentId": 396357,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ล้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การล้าง"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 498,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26448,
+                        "legacyWordId": 1395446,
+                        "meaning": "[to] wash one's face",
+                        "parentId": 26448,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้าง น่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้างหน้า"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 314,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37679,
+                        "legacyWordId": 1395436,
+                        "meaning": "[to] wash one's hands",
+                        "parentId": 37679,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้าง มือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้างมือ"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 274,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34266,
+                        "legacyWordId": 1395420,
+                        "meaning": "[to] wash dishes",
+                        "parentId": 34266,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้าง จาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้างจาน"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 266,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9236,
+                        "legacyWordId": 1265763,
+                        "meaning": "[to] wipe out ; eliminate ; get rid of",
+                        "parentId": 9236,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กฺวาด ล้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กวาดล้าง"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 247,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26099,
+                        "legacyWordId": 1395425,
+                        "meaning": "[to] wash ; clean ; rinse",
+                        "parentId": 26099,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้าง น้าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้างน้ำ"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 222,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11981,
+                        "legacyWordId": 1292030,
+                        "meaning": "[to] clean ; cleanse ; wash",
+                        "parentId": 11981,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชะ ล้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชะล้าง"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 216,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 78881,
+                        "legacyWordId": 1329822,
+                        "meaning": "marble cleaning",
+                        "parentId": 78881,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้ำ ยา ล้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น้ำยาล้าง"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 211,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31901,
+                        "legacyWordId": 1394700,
+                        "meaning": "[to] overthrow ; destroy ; eliminate",
+                        "parentId": 31901,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้ม ล้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้มล้าง"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 205,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1495,
+                        "legacyWordId": 1448402,
+                        "meaning": "[to] confute ; destroy ; erase",
+                        "parentId": 1495,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หัก ล้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หักล้าง"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 203,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25455,
+                        "legacyWordId": 1394632,
+                        "meaning": "[to] wipe out ; eradicate ; destroy",
+                        "parentId": 25455,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ลบ ล้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลบล้าง"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 202,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14985,
+                        "legacyWordId": 1323048,
+                        "meaning": "[to] smash ; break",
+                        "parentId": 14985,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ ลาย ล้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำลายล้าง"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 176,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394728,
+                        "legacyWordId": 1395419,
+                        "meaning": "[to] ask for the bill ; pay the bill",
+                        "parentId": 394728,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้าง แค้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้างแค้น"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 167,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3209,
+                        "legacyWordId": 1292878,
+                        "meaning": "[to] clear up ; solve ; settle",
+                        "parentId": 3209,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชำ-ระ ล้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชำระล้าง"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 165,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4505,
+                        "legacyWordId": 1395438,
+                        "meaning": "[to] wash a car",
+                        "parentId": 4505,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้าง รด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้างรถ"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 82,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 620,
+                        "legacyWordId": 1395432,
+                        "meaning": "[to] devastate ; destroy ; ravage",
+                        "parentId": 620,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้าง ผฺลาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้างผลาญ"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 81,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5963,
+                        "legacyWordId": 1395442,
+                        "meaning": "[to] brainwash",
+                        "parentId": 5963,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้าง สะ-หฺมอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้างสมอง"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 72,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11924,
+                        "legacyWordId": 1304440,
+                        "meaning": "[to] wash ; clean ; rinse",
+                        "parentId": 11924,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ซัก ล้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซักล้าง"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 62,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400361,
+                        "legacyWordId": 1395422,
+                        "meaning": "[to] wash ; bathe ; shower",
+                        "parentId": 400361,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้าง ตัว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้างตัว"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 61,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38058,
+                        "legacyWordId": 1395433,
+                        "meaning": "[to] bathe the wound",
+                        "parentId": 38058,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้าง แผฺล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้างแผล"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 55,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2760,
+                        "legacyWordId": 1395428,
+                        "meaning": "[to] expiate one's sins ; wash away one's sins",
+                        "parentId": 2760,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้าง บาบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้างบาป"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 48,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21322,
+                        "legacyWordId": 1395427,
+                        "meaning": "[to] eliminate ; wipe out ; clean up",
+                        "parentId": 21322,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้าง บาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้างบาง"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 44,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37066,
+                        "legacyWordId": 1395429,
+                        "meaning": "[to] gargle ; wash the mouth",
+                        "parentId": 37066,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้าง ปาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้างปาก"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 44,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38332,
+                        "legacyWordId": 1395429,
+                        "meaning": "[to] eat dessert or fruit afte",
+                        "parentId": 38332,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้าง ปาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้างปาก"
+                    },
+                    {
+                        "childId": 1737,
+                        "corpusScore": 29,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37641,
+                        "legacyWordId": 1395447,
+                        "meaning": "[to] wash one's face",
+                        "parentId": 37641,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้าง น่า ล้าง ตา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้างหน้าล้างตา"
+                    }
+                ],
+                "explanation": null,
+                "id": 1737,
+                "isUncommon": false,
+                "meaning": "[to] wash clothes ; launder ; clean",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ล้าง"
+            }
+        ],
+        "t2e": "ล้าง",
+        "verified": null,
+        "word": "ล้าง"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,1067 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Not until you are upstairs.",
+            "id": 31242,
+            "phonetic": "ไม่ · จน กฺว่า · คุน จะ ขึ้น ไป ข้าง บน",
+            "thaiSentence": "ไม่ จนกว่า คุณจะขึ้นไปข้างบน",
+            "thaiSentenceSpaced": " ไม่  ·  จน กว่า  ·  คุณ จะ ขึ้นไป ข้างบน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "until ; till ; as long as ; as far as"
+                        }
+                    ],
+                    "phonetic": "จน กฺว่า",
+                    "word": "จนกว่า"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "over ; up"
+                        },
+                        {
+                            "meaning": "[to] go upward ; up"
+                        }
+                    ],
+                    "phonetic": "ขึ้น ไป",
+                    "word": "ขึ้นไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "above"
+                        },
+                        {
+                            "meaning": "upstairs"
+                        }
+                    ],
+                    "phonetic": "ข้าง บน",
+                    "word": "ข้างบน"
+                }
+            ]
+        },
+        {
+            "engSentence": "He's too calm.",
+            "id": 89128,
+            "phonetic": "เขา นิ่ง จน เกิน ไป",
+            "thaiSentence": "เขานิ่งจนเกินไป",
+            "thaiSentenceSpaced": " เขา นิ่ง จน เกินไป ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] calm ; serene ; tranquil"
+                        }
+                    ],
+                    "phonetic": "นิ่ง",
+                    "word": "นิ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "until ; till"
+                        },
+                        {
+                            "meaning": "[to be] poor ; impoverished ; broke"
+                        }
+                    ],
+                    "phonetic": "จน",
+                    "word": "จน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "too much ; excessively"
+                        }
+                    ],
+                    "phonetic": "เกิน ไป",
+                    "word": "เกินไป"
+                }
+            ]
+        },
+        {
+            "engSentence": "Your family is that poor ?",
+            "id": 95344,
+            "phonetic": "คฺรอบ คฺรัว คุน จน หฺรือ ไง",
+            "thaiSentence": "ครอบครัวคุณจนหรือไง",
+            "thaiSentenceSpaced": " ครอบครัว คุณ จน หรือไง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "family"
+                        }
+                    ],
+                    "phonetic": "คฺรอบ คฺรัว",
+                    "word": "ครอบครัว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "until ; till"
+                        },
+                        {
+                            "meaning": "[to be] poor ; impoverished ; broke"
+                        }
+                    ],
+                    "phonetic": "จน",
+                    "word": "จน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or what ; or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ ไง",
+                    "word": "หรือไง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Your family is that poor ?",
+            "id": 97590,
+            "phonetic": "คฺรอบ คฺรัว คุน จน เหฺรอ ไง",
+            "thaiSentence": "ครอบครัวคุณจนเหรอไง",
+            "thaiSentenceSpaced": " ครอบครัว คุณ จน เหรอ ไง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "family"
+                        }
+                    ],
+                    "phonetic": "คฺรอบ คฺรัว",
+                    "word": "ครอบครัว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "until ; till"
+                        },
+                        {
+                            "meaning": "[to be] poor ; impoverished ; broke"
+                        }
+                    ],
+                    "phonetic": "จน",
+                    "word": "จน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle showing the preceding statement is self-evident)</i>"
+                        },
+                        {
+                            "meaning": "how"
+                        }
+                    ],
+                    "phonetic": "ไง",
+                    "word": "ไง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Don't go overboard.",
+            "id": 105675,
+            "phonetic": "หฺย่า ทำ ไห้ ดู โอ-เวอ จน เกิน ไป",
+            "thaiSentence": "อย่าทำให้ดูโอเวอร์จนเกินไป",
+            "thaiSentenceSpaced": " อย่า ทำให้ ดู โอเวอร์ จน เกินไป ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "do not ; don't ; never <i>(A phrase using อย่า often also includes the particle นะ, which softens the meaning and makes more like a polite request rather than an order.)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺย่า",
+                    "word": "อย่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] cause ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ ไห้",
+                    "word": "ทำให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] appear ; seem"
+                        },
+                        {
+                            "meaning": "[to] watch ; look ; see"
+                        }
+                    ],
+                    "phonetic": "ดู",
+                    "word": "ดู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "over ; over-the-top"
+                        }
+                    ],
+                    "phonetic": "โอ-เวอ",
+                    "word": "โอเวอร์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "until ; till"
+                        },
+                        {
+                            "meaning": "[to be] poor ; impoverished ; broke"
+                        }
+                    ],
+                    "phonetic": "จน",
+                    "word": "จน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "too much ; excessively"
+                        }
+                    ],
+                    "phonetic": "เกิน ไป",
+                    "word": "เกินไป"
+                }
+            ]
+        },
+        {
+            "engSentence": "Did you oversleep ?",
+            "id": 206144,
+            "phonetic": "คุน นอน จน เลย เว-ลา เหฺรอ",
+            "thaiSentence": "คุณนอนจนเลยเวลาเหรอ",
+            "thaiSentenceSpaced": " นี่ คุณ นอน จน เลยเวลา เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] sleep ; lie down"
+                        }
+                    ],
+                    "phonetic": "นอน",
+                    "word": "นอน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "until ; till"
+                        },
+                        {
+                            "meaning": "[to be] poor ; impoverished ; broke"
+                        }
+                    ],
+                    "phonetic": "จน",
+                    "word": "จน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be overdue ; be late ; be behindhand"
+                        }
+                    ],
+                    "phonetic": "เลย เว-ลา",
+                    "word": "เลยเวลา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 66877,
+        "exampleSentences": [
+            {
+                "engSentence": "Not until you are upstairs.",
+                "id": 31242,
+                "thaiSentence": "ไม่ จนกว่า คุณจะขึ้นไปข้างบน",
+                "thaiSentenceSpaced": " ไม่  &middot;  จน กว่า  &middot;  คุณ จะ ขึ้นไป ข้างบน "
+            },
+            {
+                "engSentence": "He's too calm.",
+                "id": 89128,
+                "thaiSentence": "เขานิ่งจนเกินไป",
+                "thaiSentenceSpaced": " เขา นิ่ง จน เกินไป "
+            },
+            {
+                "engSentence": "Your family is that poor ?",
+                "id": 95344,
+                "thaiSentence": "ครอบครัวคุณจนหรือไง",
+                "thaiSentenceSpaced": " ครอบครัว คุณ จน หรือไง "
+            },
+            {
+                "engSentence": "Your family is that poor ?",
+                "id": 97590,
+                "thaiSentence": "ครอบครัวคุณจนเหรอไง",
+                "thaiSentenceSpaced": " ครอบครัว คุณ จน เหรอ ไง "
+            },
+            {
+                "engSentence": "Don't go overboard.",
+                "id": 105675,
+                "thaiSentence": "อย่าทำให้ดูโอเวอร์จนเกินไป",
+                "thaiSentenceSpaced": " อย่า ทำให้ ดู โอเวอร์ จน เกินไป "
+            },
+            {
+                "engSentence": "Did you oversleep ?",
+                "id": 206144,
+                "thaiSentence": "คุณนอนจนเลยเวลาเหรอ",
+                "thaiSentenceSpaced": " นี่ คุณ นอน จน เลยเวลา เหรอ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1288112,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "until",
+                        "word": "until"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "till",
+                        "word": "till"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 45179,
+                        "corpusScore": 11779,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 35254,
+                        "legacyWordId": 1288127,
+                        "meaning": "until ; till to ; up to",
+                        "parentId": 35254,
+                        "partOfSpeech": "Preposition",
+                        "t2e": "จน ถึง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนถึง"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 3063,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17124,
+                        "legacyWordId": 1309546,
+                        "meaning": "including ; covering ; and ; as well as",
+                        "parentId": 17124,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ตะ-หฺลอด จน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตลอดจน"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 3003,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32032,
+                        "legacyWordId": 1288115,
+                        "meaning": "until ; till",
+                        "parentId": 32032,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "จน กฺระ-ทั่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนกระทั่ง"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 2313,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35058,
+                        "legacyWordId": 1288119,
+                        "meaning": "until ; till ; as long as ; as far as",
+                        "parentId": 35058,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "จน กฺว่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนกว่า"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 2046,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25113,
+                        "legacyWordId": 1288123,
+                        "meaning": "in the end ; ultimately ; finally",
+                        "parentId": 25113,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "จน ด้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนได้"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 465,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397552,
+                        "legacyWordId": 1288125,
+                        "meaning": "[to] meet one's death ; meet one's end",
+                        "parentId": 397552,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จน ตาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนตาย"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 353,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41308,
+                        "legacyWordId": 1409968,
+                        "meaning": "so much that",
+                        "parentId": 41308,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "เสีย จน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เสียจน"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 318,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7549,
+                        "legacyWordId": 1288373,
+                        "meaning": "until ; till",
+                        "parentId": 7549,
+                        "partOfSpeech": "Preposition",
+                        "t2e": "จวบ-จน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จวบจน"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 178,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41307,
+                        "legacyWordId": 1304411,
+                        "meaning": "so much that",
+                        "parentId": 41307,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ซะ จน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซะจน"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 110,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36180,
+                        "legacyWordId": 1288120,
+                        "meaning": "[to] be baffled ; be unable to help",
+                        "parentId": 36180,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จน ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนใจ"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 109,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31805,
+                        "legacyWordId": 1288131,
+                        "meaning": "[to] be at a loss to do what to know",
+                        "parentId": 31805,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จน ปัน-ยา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนปัญญา"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 96,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9037,
+                        "legacyWordId": 1288133,
+                        "meaning": "[to] corner ; maneuver ; checkmate",
+                        "parentId": 9037,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จน มุม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนมุม"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 95,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395447,
+                        "legacyWordId": 1309449,
+                        "meaning": "until ; till",
+                        "parentId": 395447,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ตฺราบ จน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตราบจน"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 81,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397555,
+                        "legacyWordId": 1288132,
+                        "meaning": "[to] be penniless",
+                        "parentId": 397555,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จน มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนมาก"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 60,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31451,
+                        "legacyWordId": 1288128,
+                        "meaning": "to the last ; till the last",
+                        "parentId": 31451,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "จน ถึง ที่ สุด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนถึงที่สุด"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 44,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21244,
+                        "legacyWordId": 1288134,
+                        "meaning": "for a long time ; frequently",
+                        "parentId": 21244,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "จน แล้ว จน รอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนแล้วจนรอด"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 44,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21244,
+                        "legacyWordId": 1288134,
+                        "meaning": "for a long time ; frequently",
+                        "parentId": 21244,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "จน แล้ว จน รอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนแล้วจนรอด"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 20,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34897,
+                        "legacyWordId": 1288126,
+                        "meaning": "[to] be cornered ; maneuver ; be checkmated",
+                        "parentId": 34897,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จน แต้ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนแต้ม"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 11,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397556,
+                        "legacyWordId": 1288122,
+                        "meaning": "up to now ; until now",
+                        "parentId": 397556,
+                        "partOfSpeech": "Noun",
+                        "t2e": "จน เดี๋ยว นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนเดี๋ยวนี้"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 10,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41075,
+                        "legacyWordId": 1288137,
+                        "meaning": "wholeheartedly",
+                        "parentId": 41075,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "จน หฺมด ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนหมดใจ"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 7,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13960,
+                        "legacyWordId": 1288121,
+                        "meaning": "[to] be baffled",
+                        "parentId": 13960,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จน ด้วย เกฺล้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนด้วยเกล้า"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 5,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42132,
+                        "legacyWordId": 1318348,
+                        "meaning": "from the beginning to the end",
+                        "parentId": 42132,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แต่ ต้น จน จบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ต้นจนจบ"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 5,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8736,
+                        "legacyWordId": 1288135,
+                        "meaning": "as hard as possible",
+                        "parentId": 8736,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "จน สุด กำ-ลัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนสุดกำลัง"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 3,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394840,
+                        "legacyWordId": 1288136,
+                        "meaning": "[to] have no dignity ; have no splendour left",
+                        "parentId": 394840,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จน หน ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนหนทาง"
+                    },
+                    {
+                        "childId": 45179,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 78285,
+                        "legacyWordId": 1388553,
+                        "meaning": "frost",
+                        "parentId": 78285,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เย็น จน แข็ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เย็นจนแข็ง"
+                    }
+                ],
+                "explanation": null,
+                "id": 45179,
+                "isUncommon": false,
+                "meaning": "until ; till",
+                "partOfSpeech": "Conjunction",
+                "usage": "",
+                "word": "จน"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] poor",
+                        "word": "poor"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "impoverished",
+                        "word": "impoverished"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "broke",
+                        "word": "broke"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 46983,
+                        "corpusScore": 1632,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31655,
+                        "legacyWordId": 1387689,
+                        "meaning": "[to be] poor ; impoverished ; broke",
+                        "parentId": 31655,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ยาก จน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยากจน"
+                    },
+                    {
+                        "childId": 46983,
+                        "corpusScore": 1601,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31387,
+                        "legacyWordId": 1278761,
+                        "meaning": "poor ; poor people ; poor person",
+                        "parentId": 31387,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน จน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนจน"
+                    },
+                    {
+                        "childId": 46983,
+                        "corpusScore": 140,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1864,
+                        "legacyWordId": 1281424,
+                        "meaning": "poverty",
+                        "parentId": 1864,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม จน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความจน"
+                    },
+                    {
+                        "childId": 46983,
+                        "corpusScore": 64,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31448,
+                        "legacyWordId": 1288124,
+                        "meaning": "[to] be cornered ; maneuver ; be checkmated",
+                        "parentId": 31448,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จน ตฺรอก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนตรอก"
+                    },
+                    {
+                        "childId": 46983,
+                        "corpusScore": 37,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1635,
+                        "legacyWordId": 1453593,
+                        "meaning": "[to] have no way out ; be poor ; be broke",
+                        "parentId": 1635,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อับ จน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อับจน"
+                    },
+                    {
+                        "childId": 46983,
+                        "corpusScore": 37,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43682,
+                        "legacyWordId": 1278981,
+                        "meaning": "poor ; impoverished",
+                        "parentId": 43682,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน ยาก คน จน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนยากคนจน"
+                    },
+                    {
+                        "childId": 46983,
+                        "corpusScore": 33,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31747,
+                        "legacyWordId": 1288114,
+                        "meaning": "[to] be penniless",
+                        "parentId": 31747,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จน กฺรอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จนกรอบ"
+                    },
+                    {
+                        "childId": 46983,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29627,
+                        "legacyWordId": 1277442,
+                        "meaning": "[to] have no way out",
+                        "parentId": 29627,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ตา จน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าตาจน"
+                    }
+                ],
+                "explanation": null,
+                "id": 46983,
+                "isUncommon": false,
+                "meaning": "[to be] poor ; impoverished ; broke",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "จน"
+            }
+        ],
+        "t2e": "จน",
+        "verified": null,
+        "word": "จน"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

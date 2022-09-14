@@ -1,0 +1,544 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "Oh, yeah , I have drinks.",
+            "id": 40676,
+            "phonetic": "โอ · ไช่ · ฉัน หฺยาก ด้าย เคฺรื่อง ดื่ม",
+            "thaiSentence": "โอ ใช่ ฉันอยากได้เครื่องดื่ม",
+            "thaiSentenceSpaced": " โอ  ·  ใช่  ·  ฉัน อยากได้ เครื่องดื่ม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "O ; the letter O"
+                        }
+                    ],
+                    "phonetic": "โอ",
+                    "word": "โอ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yes"
+                        }
+                    ],
+                    "phonetic": "ไช่",
+                    "word": "ใช่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want to get ; want to have ; want to obtain"
+                        }
+                    ],
+                    "phonetic": "หฺยาก ด้าย",
+                    "word": "อยากได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "drink ; beverage"
+                        }
+                    ],
+                    "phonetic": "เคฺรื่อง ดื่ม",
+                    "word": "เครื่องดื่ม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Can I take you for a drink ?",
+            "id": 70892,
+            "phonetic": "ขอ เลี้ยง เคฺรื่อง ดื่ม คุน ด้าย ไหฺม คฺรับ",
+            "thaiSentence": "ขอเลี้ยงเครื่องดื่มคุณได้ไหมครับ",
+            "thaiSentenceSpaced": " ขอ เลี้ยง เครื่องดื่ม คุณ ได้ ไหม ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask for ; request for ; ask"
+                        }
+                    ],
+                    "phonetic": "ขอ",
+                    "word": "ขอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] provide ; pay for <i>(food or drink)</i>"
+                        },
+                        {
+                            "meaning": "step- <i>(a relation by marriage)</i>"
+                        },
+                        {
+                            "meaning": "[to] have a party ; have a feast"
+                        },
+                        {
+                            "meaning": "[to] bring up ; raise ; take care of"
+                        }
+                    ],
+                    "phonetic": "เลี้ยง",
+                    "word": "เลี้ยง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "drink ; beverage"
+                        }
+                    ],
+                    "phonetic": "เคฺรื่อง ดื่ม",
+                    "word": "เครื่องดื่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What drinks manager ?",
+            "id": 237005,
+            "phonetic": "พู่ จัด กาน เคฺรื่อง ดื่ม อะ-ไร หฺรือ",
+            "thaiSentence": "ผู้จัดการเครื่องดื่มอะไรหรือ",
+            "thaiSentenceSpaced": " ผู้จัดการ เครื่องดื่ม อะไร หรือ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "manager"
+                        }
+                    ],
+                    "phonetic": "พู่ จัด กาน",
+                    "word": "ผู้จัดการ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "drink ; beverage"
+                        }
+                    ],
+                    "phonetic": "เคฺรื่อง ดื่ม",
+                    "word": "เครื่องดื่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        },
+                        {
+                            "meaning": "or"
+                        }
+                    ],
+                    "phonetic": "หฺรือ",
+                    "word": "หรือ"
+                }
+            ]
+        },
+        {
+            "engSentence": "How about a drink ?",
+            "id": 360880,
+            "phonetic": "เคฺรื่อง ดื่ม หฺน่อย ไหฺม",
+            "thaiSentence": "เครื่องดื่มหน่อยไหม",
+            "thaiSentenceSpaced": " เครื่องดื่ม หน่อย ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "drink ; beverage"
+                        }
+                    ],
+                    "phonetic": "เคฺรื่อง ดื่ม",
+                    "word": "เครื่องดื่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle added to soften a request or command)</i>"
+                        },
+                        {
+                            "meaning": "a little ; a little bit"
+                        }
+                    ],
+                    "phonetic": "หฺน่อย",
+                    "word": "หน่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "There are still drinks left.",
+            "id": 364032,
+            "phonetic": "ยัง มี เคฺรื่อง ดื่ม เหฺลือ หฺยู่ เลย",
+            "thaiSentence": "ยังมีเครื่องดื่มเหลืออยู่เลย",
+            "thaiSentenceSpaced": " ยัง มี เครื่องดื่ม เหลืออยู่ เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "still ; yet"
+                        }
+                    ],
+                    "phonetic": "ยัง",
+                    "word": "ยัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "drink ; beverage"
+                        }
+                    ],
+                    "phonetic": "เคฺรื่อง ดื่ม",
+                    "word": "เครื่องดื่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] remain ; be left (over)"
+                        }
+                    ],
+                    "phonetic": "เหฺลือ หฺยู่",
+                    "word": "เหลืออยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "I forgot to buy drinks.",
+            "id": 427526,
+            "phonetic": "ฉัน ลืม ซื้อ เคฺรื่อง ดื่ม",
+            "thaiSentence": "ฉันลืมซื้อเครื่องดื่ม",
+            "thaiSentenceSpaced": " ฉัน ลืม ซื้อ เครื่องดื่ม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] forget"
+                        }
+                    ],
+                    "phonetic": "ลืม",
+                    "word": "ลืม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] buy ; purchase ; pay for"
+                        }
+                    ],
+                    "phonetic": "ซื้อ",
+                    "word": "ซื้อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "drink ; beverage"
+                        }
+                    ],
+                    "phonetic": "เคฺรื่อง ดื่ม",
+                    "word": "เครื่องดื่ม"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 2171,
+        "exampleSentences": [
+            {
+                "engSentence": "Oh, yeah , I have drinks.",
+                "id": 40676,
+                "thaiSentence": "โอ ใช่ ฉันอยากได้เครื่องดื่ม",
+                "thaiSentenceSpaced": " โอ  &middot;  ใช่  &middot;  ฉัน อยากได้ เครื่องดื่ม "
+            },
+            {
+                "engSentence": "Can I take you for a drink ?",
+                "id": 70892,
+                "thaiSentence": "ขอเลี้ยงเครื่องดื่มคุณได้ไหมครับ",
+                "thaiSentenceSpaced": " ขอ เลี้ยง เครื่องดื่ม คุณ ได้ ไหม ครับ "
+            },
+            {
+                "engSentence": "What drinks manager ?",
+                "id": 237005,
+                "thaiSentence": "ผู้จัดการเครื่องดื่มอะไรหรือ",
+                "thaiSentenceSpaced": " ผู้จัดการ เครื่องดื่ม อะไร หรือ "
+            },
+            {
+                "engSentence": "How about a drink ?",
+                "id": 360880,
+                "thaiSentence": "เครื่องดื่มหน่อยไหม",
+                "thaiSentenceSpaced": " เครื่องดื่ม หน่อย ไหม "
+            },
+            {
+                "engSentence": "There are still drinks left.",
+                "id": 364032,
+                "thaiSentence": "ยังมีเครื่องดื่มเหลืออยู่เลย",
+                "thaiSentenceSpaced": " ยัง มี เครื่องดื่ม เหลืออยู่ เลย "
+            },
+            {
+                "engSentence": "I forgot to buy drinks.",
+                "id": 427526,
+                "thaiSentence": "ฉันลืมซื้อเครื่องดื่ม",
+                "thaiSentenceSpaced": " ฉัน ลืม ซื้อ เครื่องดื่ม "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1285664,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 102642,
+                        "corpusScore": 49736,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "เครื่อง is the classifier for electrical appliances like TVs, computers, phones, stereos and phones.",
+                        "hasSoundFile": true,
+                        "id": 102642,
+                        "legacyWordId": 1285543,
+                        "meaning": "machine ; tool ; engine",
+                        "parentId": 47869,
+                        "partOfSpeech": "Noun ; Classifier",
+                        "t2e": "เคฺรื่อง",
+                        "usage": "",
+                        "verified": "เคฺรื่อง",
+                        "word": "เครื่อง"
+                    },
+                    {
+                        "childId": 47868,
+                        "corpusScore": 9037,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47868,
+                        "legacyWordId": 1307811,
+                        "meaning": "[to] drink",
+                        "parentId": 47869,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดื่ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดื่ม"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "drink",
+                        "word": "drink"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "beverage",
+                        "word": "beverage"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 47869,
+                        "corpusScore": 10,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4631,
+                        "legacyWordId": 1285666,
+                        "meaning": "energy drink",
+                        "parentId": 4631,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เคฺรื่อง ดื่ม ชู กำ-ลัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เครื่องดื่มชูกำลัง"
+                    },
+                    {
+                        "childId": 47869,
+                        "corpusScore": 5,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21768,
+                        "legacyWordId": 1391596,
+                        "meaning": "refreshment stall ; drinks stall",
+                        "parentId": 21768,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้าน ขาย เคฺรื่อง ดื่ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้านขายเครื่องดื่ม"
+                    },
+                    {
+                        "childId": 47869,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1185,
+                        "legacyWordId": 1285667,
+                        "meaning": "energy drink",
+                        "parentId": 1185,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เคฺรื่อง ดื่ม ไห้ พะ-ลัง งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เครื่องดื่มให้พลังงาน"
+                    }
+                ],
+                "explanation": null,
+                "id": 47869,
+                "isUncommon": false,
+                "meaning": "drink ; beverage",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "เครื่องดื่ม"
+            }
+        ],
+        "t2e": "เคฺรื่อง ดื่ม",
+        "verified": null,
+        "word": "เครื่องดื่ม"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

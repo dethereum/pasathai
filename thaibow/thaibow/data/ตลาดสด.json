@@ -1,0 +1,61 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 473,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1309678,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 42780,
+                        "corpusScore": 11034,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42780,
+                        "legacyWordId": 1402327,
+                        "meaning": "[to be] fresh",
+                        "parentId": 17139,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "สด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สด"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "fresh-food market",
+                        "word": "fresh-food market"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "vegetable market",
+                        "word": "vegetable market"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 17139,
+                "isUncommon": false,
+                "meaning": "fresh-food market ; vegetable market",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ตลาดสด"
+            }
+        ],
+        "t2e": "ตะ-หฺลาด สด",
+        "verified": null,
+        "word": "ตลาดสด"
+    },
+    "greenBarCount": 2,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,538 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "I have to eat all this ?",
+            "id": 445,
+            "phonetic": "ผม ต้อง กิน ทั้ง หฺมด นี่ เลย เหฺรอ คฺรับ",
+            "thaiSentence": "ผมต้องกินทั้งหมดนี่เลยเหรอครับ",
+            "thaiSentenceSpaced": " ผม ต้อง กิน ทั้งหมด นี่ เลย เหรอ ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] eat ; consume <i>(As well as food, กิน is also used when referring to drinks and medicines in Thai.)</i>"
+                        }
+                    ],
+                    "phonetic": "กิน",
+                    "word": "กิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "absolutely ; all ; total"
+                        }
+                    ],
+                    "phonetic": "ทั้ง หฺมด",
+                    "word": "ทั้งหมด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What's that, sir ?",
+            "id": 2108,
+            "phonetic": "อะ-ไร เหฺรอ คฺรับ",
+            "thaiSentence": "อะไรเหรอครับ",
+            "thaiSentenceSpaced": " อะไร เหรอ ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Yes, sir . I will , sir.",
+            "id": 2110,
+            "phonetic": "ด้าย คฺรับ · ผม จะ เชื่อ คุน",
+            "thaiSentence": "ได้ครับ ผมจะเชื่อคุณ",
+            "thaiSentenceSpaced": " ได้ ครับ  ·  ผม จะ เชื่อ คุณ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] believe (in) ; have faith (in)"
+                        }
+                    ],
+                    "phonetic": "เชื่อ",
+                    "word": "เชื่อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Go ahead, shoot.",
+            "id": 2859,
+            "phonetic": "เอา สิ คฺรับ · ยิง เลย",
+            "thaiSentence": "เอาสิครับ ยิงเลย",
+            "thaiSentenceSpaced": " เอา สิ ครับ  ·  ยิง เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want ; desire"
+                        },
+                        {
+                            "meaning": "[to] take ; bring"
+                        }
+                    ],
+                    "phonetic": "เอา",
+                    "word": "เอา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] shoot ; fire"
+                        }
+                    ],
+                    "phonetic": "ยิง",
+                    "word": "ยิง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Aunt, it is me.",
+            "id": 3014,
+            "phonetic": "ป้า เหฺรอ คฺรับ · นี่ ผม เอง นะ",
+            "thaiSentence": "ป้าเหรอครับ นี่ผมเองนะ",
+            "thaiSentenceSpaced": " ป้า เหรอ ครับ  ·  นี่ ผม เอง นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "aunt"
+                        }
+                    ],
+                    "phonetic": "ป้า",
+                    "word": "ป้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "only ; alone ; just"
+                        }
+                    ],
+                    "phonetic": "เอง",
+                    "word": "เอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Are you busy today ?",
+            "id": 4513,
+            "phonetic": "วัน นี้ ยุ่ง หฺรือ เปฺล่า คฺรับ",
+            "thaiSentence": "วันนี้ยุ่งหรือเปล่าครับ",
+            "thaiSentenceSpaced": " วันนี้ ยุ่ง หรือเปล่า ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "today"
+                        }
+                    ],
+                    "phonetic": "วัน นี้",
+                    "word": "วันนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be involved with ; be mixed up with"
+                        },
+                        {
+                            "meaning": "[to] bother ; disturb ; interfere"
+                        },
+                        {
+                            "meaning": "[to be] busy ; hectic"
+                        }
+                    ],
+                    "phonetic": "ยุ่ง",
+                    "word": "ยุ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 162618,
+        "exampleSentences": [
+            {
+                "engSentence": "I have to eat all this ?",
+                "id": 445,
+                "thaiSentence": "ผมต้องกินทั้งหมดนี่เลยเหรอครับ",
+                "thaiSentenceSpaced": " ผม ต้อง กิน ทั้งหมด นี่ เลย เหรอ ครับ "
+            },
+            {
+                "engSentence": "What's that, sir ?",
+                "id": 2108,
+                "thaiSentence": "อะไรเหรอครับ",
+                "thaiSentenceSpaced": " อะไร เหรอ ครับ "
+            },
+            {
+                "engSentence": "Yes, sir . I will , sir.",
+                "id": 2110,
+                "thaiSentence": "ได้ครับ ผมจะเชื่อคุณ",
+                "thaiSentenceSpaced": " ได้ ครับ  &middot;  ผม จะ เชื่อ คุณ "
+            },
+            {
+                "engSentence": "Go ahead, shoot.",
+                "id": 2859,
+                "thaiSentence": "เอาสิครับ ยิงเลย",
+                "thaiSentenceSpaced": " เอา สิ ครับ  &middot;  ยิง เลย "
+            },
+            {
+                "engSentence": "Aunt, it is me.",
+                "id": 3014,
+                "thaiSentence": "ป้าเหรอครับ นี่ผมเองนะ",
+                "thaiSentenceSpaced": " ป้า เหรอ ครับ  &middot;  นี่ ผม เอง นะ "
+            },
+            {
+                "engSentence": "Are you busy today ?",
+                "id": 4513,
+                "thaiSentence": "วันนี้ยุ่งหรือเปล่าครับ",
+                "thaiSentenceSpaced": " วันนี้ ยุ่ง หรือเปล่า ครับ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1279273,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "",
+                        "word": ""
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 103278,
+                        "corpusScore": 3423,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "It's a particle used by male speakers to sound polite and deferential, sometimes corresponding to \"Sir\" or \"Yes, sir\"",
+                        "hasSoundFile": false,
+                        "id": 103289,
+                        "legacyWordId": 1279274,
+                        "meaning": "",
+                        "parentId": 103289,
+                        "partOfSpeech": "Particle",
+                        "t2e": "คฺรับ ผม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครับผม"
+                    }
+                ],
+                "explanation": "It's a particle used by male speakers at the end of sentences to make them more polite",
+                "id": 103278,
+                "isUncommon": false,
+                "meaning": "",
+                "partOfSpeech": "Particle",
+                "usage": "",
+                "word": "ครับ"
+            }
+        ],
+        "t2e": "คฺรับ",
+        "verified": "คฺรับ",
+        "word": "ครับ"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

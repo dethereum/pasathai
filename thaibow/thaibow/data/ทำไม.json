@@ -1,0 +1,544 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Why are you laughing ?",
+            "id": 460,
+            "phonetic": "หัว เราะ ทำ-ไม เหฺรอ",
+            "thaiSentence": "หัวเราะทำไมเหรอ",
+            "thaiSentenceSpaced": " หัวเราะ ทำไม เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] laugh"
+                        }
+                    ],
+                    "phonetic": "หัว เราะ",
+                    "word": "หัวเราะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "why"
+                        }
+                    ],
+                    "phonetic": "ทำ-ไม",
+                    "word": "ทำไม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Why is it so loud in here ?",
+            "id": 1050,
+            "phonetic": "ทำ-ไม ที่ นี่ ถึง ด้าย เสียง ดัง นัก",
+            "thaiSentence": "ทำไมที่นี่ถึงได้เสียงดังนัก",
+            "thaiSentenceSpaced": " ทำไม ที่นี่ ถึง ได้ เสียงดัง นัก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "why"
+                        }
+                    ],
+                    "phonetic": "ทำ-ไม",
+                    "word": "ทำไม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "here"
+                        }
+                    ],
+                    "phonetic": "ที่ นี่",
+                    "word": "ที่นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] reach ; arrive ; get to"
+                        },
+                        {
+                            "meaning": "even though ; even if"
+                        },
+                        {
+                            "meaning": "about ; of"
+                        }
+                    ],
+                    "phonetic": "ถึง",
+                    "word": "ถึง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "loud sound ; noise"
+                        }
+                    ],
+                    "phonetic": "เสียง ดัง",
+                    "word": "เสียงดัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "greatly ; extremely"
+                        },
+                        {
+                            "meaning": " <i>(นัก also sometimes appears before nouns too, to describe a profession connected to that noun. A couple of examples are นักตนตรี (\"musician\", ตนตรี is \"music\") or นักเคมี (\"chemist\", เคมี is \"chemistry\").)</i>"
+                        }
+                    ],
+                    "phonetic": "นัก",
+                    "word": "นัก"
+                }
+            ]
+        },
+        {
+            "engSentence": "Why can't she come ?",
+            "id": 1435,
+            "phonetic": "ทำ-ไม เขา มา ไม่ ด้าย",
+            "thaiSentence": "ทำไมเขามาไม่ได้",
+            "thaiSentenceSpaced": " ทำไม เขา มา ไม่ได้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "why"
+                        }
+                    ],
+                    "phonetic": "ทำ-ไม",
+                    "word": "ทำไม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "didn't ; did not"
+                        },
+                        {
+                            "meaning": "can't ; cannot"
+                        }
+                    ],
+                    "phonetic": "ไม่ ด้าย",
+                    "word": "ไม่ได้"
+                }
+            ]
+        },
+        {
+            "engSentence": "Why did you give me this ?",
+            "id": 1517,
+            "phonetic": "ทำ-ไม คุน ถึง ไห้ · นี่ กับ ฉัน",
+            "thaiSentence": "ทำไมคุณถึงให้ นี่กับฉัน",
+            "thaiSentenceSpaced": " ทำไม คุณ ถึง ให้  ·  นี่ กับ ฉัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "why"
+                        }
+                    ],
+                    "phonetic": "ทำ-ไม",
+                    "word": "ทำไม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] reach ; arrive ; get to"
+                        },
+                        {
+                            "meaning": "even though ; even if"
+                        },
+                        {
+                            "meaning": "about ; of"
+                        }
+                    ],
+                    "phonetic": "ถึง",
+                    "word": "ถึง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "with ; together with"
+                        }
+                    ],
+                    "phonetic": "กับ",
+                    "word": "กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                }
+            ]
+        },
+        {
+            "engSentence": "Why trust a shark, right ?",
+            "id": 2013,
+            "phonetic": "ทำ-ไม ต้อง ไว้ ไจ ฉะ-หฺลาม · ไช่ ไหฺม",
+            "thaiSentence": "ทำไมต้องไว้ใจฉลาม ใช่ไหม",
+            "thaiSentenceSpaced": " ทำไม ต้อง ไว้ใจ ฉลาม  ·  ใช่ ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "why"
+                        }
+                    ],
+                    "phonetic": "ทำ-ไม",
+                    "word": "ทำไม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] believe in ; have faith in ; rely"
+                        }
+                    ],
+                    "phonetic": "ไว้ ไจ",
+                    "word": "ไว้ใจ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "shark"
+                        }
+                    ],
+                    "phonetic": "ฉะ-หฺลาม",
+                    "word": "ฉลาม"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "right ? ; is that right? ; is that true? <i>(question particle used when seeking confirmation of something thought to be true)</i>"
+                        }
+                    ],
+                    "phonetic": "ไช่ ไหฺม",
+                    "word": "ใช่ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Why are we here ?",
+            "id": 3635,
+            "phonetic": "ทำ-ไม เรา มา หฺยู่ ที่ นี่ ล่ะ",
+            "thaiSentence": "ทำไมเรามาอยู่ที่นี่ล่ะ",
+            "thaiSentenceSpaced": " ทำไม เรา มา อยู่ ที่นี่ ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "why"
+                        }
+                    ],
+                    "phonetic": "ทำ-ไม",
+                    "word": "ทำไม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be at ; stay at ; live at"
+                        }
+                    ],
+                    "phonetic": "หฺยู่ ที่",
+                    "word": "อยู่ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 17990,
+        "exampleSentences": [
+            {
+                "engSentence": "Why are you laughing ?",
+                "id": 460,
+                "thaiSentence": "หัวเราะทำไมเหรอ",
+                "thaiSentenceSpaced": " หัวเราะ ทำไม เหรอ "
+            },
+            {
+                "engSentence": "Why is it so loud in here ?",
+                "id": 1050,
+                "thaiSentence": "ทำไมที่นี่ถึงได้เสียงดังนัก",
+                "thaiSentenceSpaced": " ทำไม ที่นี่ ถึง ได้ เสียงดัง นัก "
+            },
+            {
+                "engSentence": "Why can't she come ?",
+                "id": 1435,
+                "thaiSentence": "ทำไมเขามาไม่ได้",
+                "thaiSentenceSpaced": " ทำไม เขา มา ไม่ได้ "
+            },
+            {
+                "engSentence": "Why did you give me this ?",
+                "id": 1517,
+                "thaiSentence": "ทำไมคุณถึงให้ นี่กับฉัน",
+                "thaiSentenceSpaced": " ทำไม คุณ ถึง ให้  &middot;  นี่ กับ ฉัน "
+            },
+            {
+                "engSentence": "Why trust a shark, right ?",
+                "id": 2013,
+                "thaiSentence": "ทำไมต้องไว้ใจฉลาม ใช่ไหม",
+                "thaiSentenceSpaced": " ทำไม ต้อง ไว้ใจ ฉลาม  &middot;  ใช่ ไหม "
+            },
+            {
+                "engSentence": "Why are we here ?",
+                "id": 3635,
+                "thaiSentence": "ทำไมเรามาอยู่ที่นี่ล่ะ",
+                "thaiSentenceSpaced": " ทำไม เรา มา อยู่ ที่นี่ ล่ะ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1323023,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "why",
+                        "word": "why"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 14987,
+                        "corpusScore": 975,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 388,
+                        "legacyWordId": 1323025,
+                        "meaning": "why",
+                        "parentId": 388,
+                        "partOfSpeech": "None",
+                        "t2e": "ทำ-ไม ถึง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำไมถึง"
+                    },
+                    {
+                        "childId": 14987,
+                        "corpusScore": 126,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41233,
+                        "legacyWordId": 1323024,
+                        "meaning": "why",
+                        "parentId": 41233,
+                        "partOfSpeech": "None",
+                        "t2e": "ทำ-ไม กัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำไมกัน"
+                    }
+                ],
+                "explanation": null,
+                "id": 14987,
+                "isUncommon": false,
+                "meaning": "why",
+                "partOfSpeech": "Interrogative",
+                "usage": "",
+                "word": "ทำไม"
+            }
+        ],
+        "t2e": "ทำ-ไม",
+        "verified": null,
+        "word": "ทำไม"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,883 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Is this her room ?",
+            "id": 474,
+            "phonetic": "นี่ ห้อง ของ เขา เหฺรอ",
+            "thaiSentence": "นี่ห้องของเขาเหรอ",
+            "thaiSentenceSpaced": " นี่ ห้อง ของ เขา เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "room <i>(ห้อง is also the classifier for rooms.)</i>"
+                        }
+                    ],
+                    "phonetic": "ห้อง",
+                    "word": "ห้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I must be in the wrong room.",
+            "id": 747,
+            "phonetic": "ฉัน ต้อง หฺยู่ ผิด ห้อง แน่ เลย",
+            "thaiSentence": "ฉันต้องอยู่ผิดห้องแน่เลย",
+            "thaiSentenceSpaced": " ฉัน ต้อง อยู่ ผิด ห้อง แน่เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] wrong ; incorrect"
+                        }
+                    ],
+                    "phonetic": "ผิด",
+                    "word": "ผิด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "room <i>(ห้อง is also the classifier for rooms.)</i>"
+                        }
+                    ],
+                    "phonetic": "ห้อง",
+                    "word": "ห้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be sure ; be certain"
+                        }
+                    ],
+                    "phonetic": "แน่",
+                    "word": "แน่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is a nice room.",
+            "id": 5731,
+            "phonetic": "ห้อง สวย ดี นะ คะ",
+            "thaiSentence": "ห้องสวยดีนะคะ",
+            "thaiSentenceSpaced": " ห้อง สวย ดี นะ คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "room <i>(ห้อง is also the classifier for rooms.)</i>"
+                        }
+                    ],
+                    "phonetic": "ห้อง",
+                    "word": "ห้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] beautiful ; attractive ; pretty"
+                        }
+                    ],
+                    "phonetic": "สวย",
+                    "word": "สวย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "A real student's apartment.",
+            "id": 5732,
+            "phonetic": "เป็น ห้อง ของ นัก เรียน จิง จิง",
+            "thaiSentence": "เป็นห้องของนักเรียนจริงๆ",
+            "thaiSentenceSpaced": " เป็น ห้อง ของ นักเรียน จริงๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "room <i>(ห้อง is also the classifier for rooms.)</i>"
+                        }
+                    ],
+                    "phonetic": "ห้อง",
+                    "word": "ห้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "student ; learner <i>(usually referring to junior or high school students)</i>"
+                        }
+                    ],
+                    "phonetic": "นัก เรียน",
+                    "word": "นักเรียน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "really ; honestly ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง จิง",
+                    "word": "จริงๆ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What's his room number ?",
+            "id": 34429,
+            "phonetic": "ห้อง เขา เบอ อะ-ไร",
+            "thaiSentence": "ห้องเขาเบอร์อะไร",
+            "thaiSentenceSpaced": " ห้อง เขา เบอร์ อะไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "room <i>(ห้อง is also the classifier for rooms.)</i>"
+                        }
+                    ],
+                    "phonetic": "ห้อง",
+                    "word": "ห้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "number"
+                        }
+                    ],
+                    "phonetic": "เบอ",
+                    "word": "เบอร์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "This is your room ?",
+            "id": 38567,
+            "phonetic": "นี่ ห้อง ของ คุน เหฺรอ",
+            "thaiSentence": "นี่ห้องของคุณเหรอ",
+            "thaiSentenceSpaced": " นี่ ห้อง ของคุณ เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "room <i>(ห้อง is also the classifier for rooms.)</i>"
+                        }
+                    ],
+                    "phonetic": "ห้อง",
+                    "word": "ห้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "your ; of you"
+                        }
+                    ],
+                    "phonetic": "ของ คุน",
+                    "word": "ของคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 27228,
+        "exampleSentences": [
+            {
+                "engSentence": "Is this her room ?",
+                "id": 474,
+                "thaiSentence": "นี่ห้องของเขาเหรอ",
+                "thaiSentenceSpaced": " นี่ ห้อง ของ เขา เหรอ "
+            },
+            {
+                "engSentence": "I must be in the wrong room.",
+                "id": 747,
+                "thaiSentence": "ฉันต้องอยู่ผิดห้องแน่เลย",
+                "thaiSentenceSpaced": " ฉัน ต้อง อยู่ ผิด ห้อง แน่เลย "
+            },
+            {
+                "engSentence": "It is a nice room.",
+                "id": 5731,
+                "thaiSentence": "ห้องสวยดีนะคะ",
+                "thaiSentenceSpaced": " ห้อง สวย ดี นะ คะ "
+            },
+            {
+                "engSentence": "A real student's apartment.",
+                "id": 5732,
+                "thaiSentence": "เป็นห้องของนักเรียนจริงๆ",
+                "thaiSentenceSpaced": " เป็น ห้อง ของ นักเรียน จริงๆ "
+            },
+            {
+                "engSentence": "What's his room number ?",
+                "id": 34429,
+                "thaiSentence": "ห้องเขาเบอร์อะไร",
+                "thaiSentenceSpaced": " ห้อง เขา เบอร์ อะไร "
+            },
+            {
+                "engSentence": "This is your room ?",
+                "id": 38567,
+                "thaiSentence": "นี่ห้องของคุณเหรอ",
+                "thaiSentenceSpaced": " นี่ ห้อง ของคุณ เหรอ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1448212,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "room",
+                        "word": "room"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 102656,
+                        "corpusScore": 2668,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28122,
+                        "legacyWordId": 1448247,
+                        "meaning": "toilet ; bathroom ; wash room",
+                        "parentId": 28122,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง น้าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องน้ำ"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 2444,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14191,
+                        "legacyWordId": 1448261,
+                        "meaning": "recreation room ; lounge ; waiting room",
+                        "parentId": 14191,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง พัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องพัก"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 1496,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5783,
+                        "legacyWordId": 1448275,
+                        "meaning": "library",
+                        "parentId": 5783,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง สะ-หฺมุด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องสมุด"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 1211,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26790,
+                        "legacyWordId": 1448270,
+                        "meaning": "classroom",
+                        "parentId": 26790,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง เรียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องเรียน"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 1040,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25774,
+                        "legacyWordId": 1448243,
+                        "meaning": "bedroom",
+                        "parentId": 25774,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องนอน"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 733,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25571,
+                        "legacyWordId": 1448255,
+                        "meaning": "meeting room ; auditorium ; assembly hall",
+                        "parentId": 25571,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง ปฺระ-ชุม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องประชุม"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 539,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45006,
+                        "legacyWordId": 1413914,
+                        "meaning": "[to] be in front of the room",
+                        "parentId": 45006,
+                        "partOfSpeech": "Verb",
+                        "t2e": "น่า ห้อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หน้าห้อง"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 444,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28176,
+                        "legacyWordId": 1448289,
+                        "meaning": "dining-room ; eating-room ; restaurant",
+                        "parentId": 28176,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องอาหาร"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 431,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36650,
+                        "legacyWordId": 1448219,
+                        "meaning": "kitchen",
+                        "parentId": 36650,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง คฺรัว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องครัว"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 360,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5596,
+                        "legacyWordId": 1448250,
+                        "meaning": "laboratory ; lab",
+                        "parentId": 5596,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง ปะ-ติ-บัด กาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องปฏิบัติการ"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 316,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23148,
+                        "legacyWordId": 1448239,
+                        "meaning": "lobby ; hall ; foyer",
+                        "parentId": 23148,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง โถง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องโถง"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 270,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26456,
+                        "legacyWordId": 1448238,
+                        "meaning": "row house",
+                        "parentId": 26456,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง แถว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องแถว"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 184,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6525,
+                        "legacyWordId": 1448266,
+                        "meaning": "cold storage ; refrigerated room",
+                        "parentId": 6525,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง เย็น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องเย็น"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 183,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5875,
+                        "legacyWordId": 1448224,
+                        "meaning": "apartment ; flat",
+                        "parentId": 5875,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง ชุด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องชุด"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 168,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33522,
+                        "legacyWordId": 1448225,
+                        "meaning": "rented room",
+                        "parentId": 33522,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง เช่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องเช่า"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 149,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5026,
+                        "legacyWordId": 1448223,
+                        "meaning": "king's kitchen ; royal kitchen",
+                        "parentId": 5026,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง เคฺรื่อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องเครื่อง"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 119,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25233,
+                        "legacyWordId": 1448242,
+                        "meaning": "office ; studio",
+                        "parentId": 25233,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องทำงาน"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 114,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401063,
+                        "legacyWordId": 1448283,
+                        "meaning": "toilet ; bathroom ; wash room",
+                        "parentId": 401063,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง สุ-ขา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องสุขา"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 102,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26436,
+                        "legacyWordId": 1448268,
+                        "meaning": "drawing room ; reception hall",
+                        "parentId": 26436,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง รับ แขก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องรับแขก"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 98,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27478,
+                        "legacyWordId": 1448282,
+                        "meaning": "toilet ; bathroom ; washroom",
+                        "parentId": 27478,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง ส้วม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องส้วม"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 98,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4798,
+                        "legacyWordId": 1448216,
+                        "meaning": "cell ; detention cell ; prison cell",
+                        "parentId": 4798,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง ขัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องขัง"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 97,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40669,
+                        "legacyWordId": 1373396,
+                        "meaning": "room wall ; partition",
+                        "parentId": 40669,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ผะ-หฺนัง ห้อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผนังห้อง"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 93,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27256,
+                        "legacyWordId": 1448241,
+                        "meaning": "laboratory ; lab",
+                        "parentId": 27256,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง ทด ลอง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องทดลอง"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 92,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6186,
+                        "legacyWordId": 1378938,
+                        "meaning": "floor ; room floor",
+                        "parentId": 6186,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พื้น ห้อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พื้นห้อง"
+                    },
+                    {
+                        "childId": 102656,
+                        "corpusScore": 89,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26159,
+                        "legacyWordId": 1448246,
+                        "meaning": "living room ; parlour",
+                        "parentId": 26159,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง นั่ง เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องนั่งเล่น"
+                    }
+                ],
+                "explanation": "ห้อง is also the classifier for rooms.",
+                "id": 102656,
+                "isUncommon": false,
+                "meaning": "room",
+                "partOfSpeech": "Noun ; Classifier",
+                "usage": "",
+                "word": "ห้อง"
+            }
+        ],
+        "t2e": "ห้อง",
+        "verified": null,
+        "word": "ห้อง"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

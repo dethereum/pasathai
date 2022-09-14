@@ -1,0 +1,926 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "What are you talking about ?",
+            "id": 858,
+            "phonetic": "กำ-ลัง พูด เรื่อง อะ-ไร หฺยู่",
+            "thaiSentence": "กำลังพูดเรื่องอะไรอยู่",
+            "thaiSentenceSpaced": " กำลัง พูด เรื่อง อะไร อยู่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "power ; energy ; strength"
+                        },
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense)</i>"
+                        }
+                    ],
+                    "phonetic": "กำ-ลัง",
+                    "word": "กำลัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] talk ; say ; speak"
+                        }
+                    ],
+                    "phonetic": "พูด",
+                    "word": "พูด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "matter ; affair ; thing <i>(เรื่อง is the classifier for a movie, story or tale.)</i>"
+                        },
+                        {
+                            "meaning": "about ; regarding ; concerning"
+                        },
+                        {
+                            "meaning": "problem ; trouble"
+                        }
+                    ],
+                    "phonetic": "เรื่อง",
+                    "word": "เรื่อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                }
+            ]
+        },
+        {
+            "engSentence": "What are you talking about ?",
+            "id": 3977,
+            "phonetic": "คุน พูด เรื่อง อะ-ไร เหฺรอ",
+            "thaiSentence": "คุณพูดเรื่องอะไรเหรอ",
+            "thaiSentenceSpaced": " คุณ พูด เรื่อง อะไร เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] talk ; say ; speak"
+                        }
+                    ],
+                    "phonetic": "พูด",
+                    "word": "พูด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "matter ; affair ; thing <i>(เรื่อง is the classifier for a movie, story or tale.)</i>"
+                        },
+                        {
+                            "meaning": "about ; regarding ; concerning"
+                        },
+                        {
+                            "meaning": "problem ; trouble"
+                        }
+                    ],
+                    "phonetic": "เรื่อง",
+                    "word": "เรื่อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What are you talking about ?",
+            "id": 4666,
+            "phonetic": "คุน กำ-ลัง พูด เรื่อง อะ-ไร ค่ะ",
+            "thaiSentence": "คุณกำลังพูดเรื่องอะไรค่ะ",
+            "thaiSentenceSpaced": " นี่ คุณ กำลัง พูด เรื่อง อะไร ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "power ; energy ; strength"
+                        },
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense)</i>"
+                        }
+                    ],
+                    "phonetic": "กำ-ลัง",
+                    "word": "กำลัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] talk ; say ; speak"
+                        }
+                    ],
+                    "phonetic": "พูด",
+                    "word": "พูด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "matter ; affair ; thing <i>(เรื่อง is the classifier for a movie, story or tale.)</i>"
+                        },
+                        {
+                            "meaning": "about ; regarding ; concerning"
+                        },
+                        {
+                            "meaning": "problem ; trouble"
+                        }
+                    ],
+                    "phonetic": "เรื่อง",
+                    "word": "เรื่อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What are you talking about ?",
+            "id": 6103,
+            "phonetic": "คุน พูด เรื่อง อะ-ไร ของ คุน",
+            "thaiSentence": "คุณพูดเรื่องอะไรของคุณ",
+            "thaiSentenceSpaced": " คุณ พูด เรื่อง อะไร ของคุณ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] talk ; say ; speak"
+                        }
+                    ],
+                    "phonetic": "พูด",
+                    "word": "พูด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "matter ; affair ; thing <i>(เรื่อง is the classifier for a movie, story or tale.)</i>"
+                        },
+                        {
+                            "meaning": "about ; regarding ; concerning"
+                        },
+                        {
+                            "meaning": "problem ; trouble"
+                        }
+                    ],
+                    "phonetic": "เรื่อง",
+                    "word": "เรื่อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "your ; of you"
+                        }
+                    ],
+                    "phonetic": "ของ คุน",
+                    "word": "ของคุณ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What the hell am I saying ?",
+            "id": 6613,
+            "phonetic": "ฉัน พูด อะ-ไร ออก ไป เนี่ย",
+            "thaiSentence": "ฉันพูดอะไรออกไปเนี่ย",
+            "thaiSentenceSpaced": " ฉัน พูด อะไร ออกไป เนี่ย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] talk ; say ; speak"
+                        }
+                    ],
+                    "phonetic": "พูด",
+                    "word": "พูด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "go out"
+                        }
+                    ],
+                    "phonetic": "ออก ไป",
+                    "word": "ออกไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(ending particle, sometimes showing suprise or confusion)</i>"
+                        }
+                    ],
+                    "phonetic": "เนี่ย",
+                    "word": "เนี่ย"
+                }
+            ]
+        },
+        {
+            "engSentence": "When did I say that ?",
+            "id": 11998,
+            "phonetic": "ฉัน พูด ตอน ไหฺน",
+            "thaiSentence": "ฉันพูดตอนไหน",
+            "thaiSentenceSpaced": " ฉัน พูด ตอน ไหน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] talk ; say ; speak"
+                        }
+                    ],
+                    "phonetic": "พูด",
+                    "word": "พูด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "when ; during ; at"
+                        },
+                        {
+                            "meaning": "section ; piece ; bit ; part ; episode"
+                        }
+                    ],
+                    "phonetic": "ตอน",
+                    "word": "ตอน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whichever one"
+                        },
+                        {
+                            "meaning": "which"
+                        },
+                        {
+                            "meaning": "where ; which place <i>(a shortened form of ที่ไหน)</i>"
+                        },
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        }
+                    ],
+                    "phonetic": "ไหฺน",
+                    "word": "ไหน"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 34297,
+        "exampleSentences": [
+            {
+                "engSentence": "What are you talking about ?",
+                "id": 858,
+                "thaiSentence": "กำลังพูดเรื่องอะไรอยู่",
+                "thaiSentenceSpaced": " กำลัง พูด เรื่อง อะไร อยู่ "
+            },
+            {
+                "engSentence": "What are you talking about ?",
+                "id": 3977,
+                "thaiSentence": "คุณพูดเรื่องอะไรเหรอ",
+                "thaiSentenceSpaced": " คุณ พูด เรื่อง อะไร เหรอ "
+            },
+            {
+                "engSentence": "What are you talking about ?",
+                "id": 4666,
+                "thaiSentence": "คุณกำลังพูดเรื่องอะไรค่ะ",
+                "thaiSentenceSpaced": " นี่ คุณ กำลัง พูด เรื่อง อะไร ค่ะ "
+            },
+            {
+                "engSentence": "What are you talking about ?",
+                "id": 6103,
+                "thaiSentence": "คุณพูดเรื่องอะไรของคุณ",
+                "thaiSentenceSpaced": " คุณ พูด เรื่อง อะไร ของคุณ "
+            },
+            {
+                "engSentence": "What the hell am I saying ?",
+                "id": 6613,
+                "thaiSentence": "ฉันพูดอะไรออกไปเนี่ย",
+                "thaiSentenceSpaced": " ฉัน พูด อะไร ออกไป เนี่ย "
+            },
+            {
+                "engSentence": "When did I say that ?",
+                "id": 11998,
+                "thaiSentence": "ฉันพูดตอนไหน",
+                "thaiSentenceSpaced": " ฉัน พูด ตอน ไหน "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1379180,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] talk",
+                        "word": "talk"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "say",
+                        "word": "say"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "speak",
+                        "word": "speak"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 39330,
+                        "corpusScore": 5283,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31059,
+                        "legacyWordId": 1379211,
+                        "meaning": "[to] mention ; talk about ; speak of",
+                        "parentId": 31059,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พูด ถึง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พูดถึง"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 3864,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39743,
+                        "legacyWordId": 1379189,
+                        "meaning": "[to] chat ; talk ; converse",
+                        "parentId": 39743,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พูด คุย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พูดคุย"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 3403,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30935,
+                        "legacyWordId": 1284511,
+                        "meaning": "words ; speech",
+                        "parentId": 30935,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ พูด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำพูด"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 2367,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44402,
+                        "legacyWordId": 1379258,
+                        "meaning": "[to] say that",
+                        "parentId": 44402,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พูด ว่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พูดว่า"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 1784,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49980,
+                        "legacyWordId": 1270205,
+                        "meaning": "talking ; speech",
+                        "parentId": 49980,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน พูด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การพูด"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 1290,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39136,
+                        "legacyWordId": 1379194,
+                        "meaning": "[to] speak ; confer",
+                        "parentId": 39136,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พูด-จา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พูดจา"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 459,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25969,
+                        "legacyWordId": 1381876,
+                        "meaning": "colloquialism",
+                        "parentId": 25969,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พา-สา พูด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ภาษาพูด"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 341,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44401,
+                        "legacyWordId": 1379224,
+                        "meaning": "[to] know how to talk ; be eloquent",
+                        "parentId": 44401,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พูด เป็น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พูดเป็น"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 306,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36168,
+                        "legacyWordId": 1374739,
+                        "meaning": "speaker ; spokesman ; orator",
+                        "parentId": 36168,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ พูด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้พูด"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 290,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 59325,
+                        "legacyWordId": 1379239,
+                        "meaning": "[to] talk a lot",
+                        "parentId": 59325,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พูด มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พูดมาก"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 277,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33877,
+                        "legacyWordId": 1409902,
+                        "meaning": "voice ; speech ; speaking voice",
+                        "parentId": 33877,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เสียง พูด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เสียงพูด"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 160,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 416274,
+                        "legacyWordId": 1379254,
+                        "meaning": "[to] joke ; kid",
+                        "parentId": 416274,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พูด เล่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พูดเล่น"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 142,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2394,
+                        "legacyWordId": 1379207,
+                        "meaning": "[to] repeat after",
+                        "parentId": 2394,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พูด ตาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พูดตาม"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 140,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399609,
+                        "legacyWordId": 1379204,
+                        "meaning": "[to] blurt out ; blab ; say something unthinkingly",
+                        "parentId": 399609,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พูด ตฺรง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พูดตรง"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 85,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49471,
+                        "legacyWordId": 1379242,
+                        "meaning": "[to] be at loss for what to say",
+                        "parentId": 49471,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พูด ไม่ ออก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พูดไม่ออก"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 80,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6965,
+                        "legacyWordId": 1327872,
+                        "meaning": "orator ; expert speaker",
+                        "parentId": 6965,
+                        "partOfSpeech": "Noun",
+                        "t2e": "นัก พูด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นักพูด"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 76,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400938,
+                        "legacyWordId": 1446502,
+                        "meaning": "[to] shut up ; keep quiet",
+                        "parentId": 400938,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยุด พูด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หยุดพูด"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 75,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28159,
+                        "legacyWordId": 1331892,
+                        "meaning": "dialogue ; conversation",
+                        "parentId": 28159,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บด พูด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บทพูด"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 66,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399128,
+                        "legacyWordId": 1370606,
+                        "meaning": "tell-tale ; verbal ; word of mouth",
+                        "parentId": 399128,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปาก พูด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปากพูด"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 57,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34996,
+                        "legacyWordId": 1292497,
+                        "meaning": "[to] be talkative ; be full of talk ; be chatty",
+                        "parentId": 34996,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ช่าง พูด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ช่างพูด"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 57,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399625,
+                        "legacyWordId": 1379182,
+                        "meaning": "[to be] eloquent ; rhetorical",
+                        "parentId": 399625,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "พูด เก่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พูดเก่ง"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 55,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401068,
+                        "legacyWordId": 1449189,
+                        "meaning": "[to] shut up ; stop speaking ; keep quiet",
+                        "parentId": 401068,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ห้าม พูด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้ามพูด"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 53,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399637,
+                        "legacyWordId": 1379216,
+                        "meaning": "[to] speak for ; be the voice of",
+                        "parentId": 399637,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พูด แทน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พูดแทน"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 52,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399608,
+                        "legacyWordId": 1379201,
+                        "meaning": "[to] repeat one's word ; replay",
+                        "parentId": 399608,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พูด ซ้ำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พูดซ้ำ"
+                    },
+                    {
+                        "childId": 39330,
+                        "corpusScore": 47,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402587,
+                        "legacyWordId": 1386680,
+                        "meaning": "evade ; elude ; avoid",
+                        "parentId": 402587,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไม่ กฺล้า พูด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่กล้าพูด"
+                    }
+                ],
+                "explanation": null,
+                "id": 39330,
+                "isUncommon": false,
+                "meaning": "[to] talk ; say ; speak",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "พูด"
+            }
+        ],
+        "t2e": "พูด",
+        "verified": null,
+        "word": "พูด"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

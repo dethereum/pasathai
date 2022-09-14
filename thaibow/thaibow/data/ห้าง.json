@@ -1,0 +1,406 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Don't run, don't walk.",
+            "id": 247515,
+            "phonetic": "ห้าม วิ่ง · ห้าง เดิน",
+            "thaiSentence": "ห้ามวิ่ง ห้างเดิน",
+            "thaiSentenceSpaced": " ห้าม วิ่ง  ·  ห้าง เดิน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] forbid ; prohibit ; disallow"
+                        }
+                    ],
+                    "phonetic": "ห้าม",
+                    "word": "ห้าม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] run"
+                        }
+                    ],
+                    "phonetic": "วิ่ง",
+                    "word": "วิ่ง"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "store ; shop ; firm"
+                        },
+                        {
+                            "meaning": "cross-legged"
+                        }
+                    ],
+                    "phonetic": "ห้าง",
+                    "word": "ห้าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] walk"
+                        }
+                    ],
+                    "phonetic": "เดิน",
+                    "word": "เดิน"
+                }
+            ]
+        },
+        {
+            "engSentence": "Are you the mall's owner ?",
+            "id": 342750,
+            "phonetic": "เป็น เจ้า ของ ห้าง หฺรือ ไง",
+            "thaiSentence": "เป็นเจ้าของห้างหรือไง",
+            "thaiSentenceSpaced": " เป็นเจ้าของ ห้าง หรือไง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] possess ; own ; have"
+                        }
+                    ],
+                    "phonetic": "เป็น เจ้า ของ",
+                    "word": "เป็นเจ้าของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "store ; shop ; firm"
+                        },
+                        {
+                            "meaning": "cross-legged"
+                        }
+                    ],
+                    "phonetic": "ห้าง",
+                    "word": "ห้าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or what ; or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ ไง",
+                    "word": "หรือไง"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am at the mall.",
+            "id": 383903,
+            "phonetic": "ผม หฺยู่ ที่ ห้าง",
+            "thaiSentence": "ผมอยู่ที่ห้าง",
+            "thaiSentenceSpaced": " ผม อยู่ที่ ห้าง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be at ; stay at ; live at"
+                        }
+                    ],
+                    "phonetic": "หฺยู่ ที่",
+                    "word": "อยู่ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "store ; shop ; firm"
+                        },
+                        {
+                            "meaning": "cross-legged"
+                        }
+                    ],
+                    "phonetic": "ห้าง",
+                    "word": "ห้าง"
+                }
+            ]
+        },
+        {
+            "engSentence": "To the mall.",
+            "id": 404954,
+            "phonetic": "ไป ที่ ห้าง",
+            "thaiSentence": "ไปที่ห้าง",
+            "thaiSentenceSpaced": " ไปที่ ห้าง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go to"
+                        }
+                    ],
+                    "phonetic": "ไป ที่",
+                    "word": "ไปที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "store ; shop ; firm"
+                        },
+                        {
+                            "meaning": "cross-legged"
+                        }
+                    ],
+                    "phonetic": "ห้าง",
+                    "word": "ห้าง"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 2962,
+        "exampleSentences": [
+            {
+                "engSentence": "Don't run, don't walk.",
+                "id": 247515,
+                "thaiSentence": "ห้ามวิ่ง ห้างเดิน",
+                "thaiSentenceSpaced": " ห้าม วิ่ง  &middot;  ห้าง เดิน "
+            },
+            {
+                "engSentence": "Are you the mall's owner ?",
+                "id": 342750,
+                "thaiSentence": "เป็นเจ้าของห้างหรือไง",
+                "thaiSentenceSpaced": " เป็นเจ้าของ ห้าง หรือไง "
+            },
+            {
+                "engSentence": "I am at the mall.",
+                "id": 383903,
+                "thaiSentence": "ผมอยู่ที่ห้าง",
+                "thaiSentenceSpaced": " ผม อยู่ที่ ห้าง "
+            },
+            {
+                "engSentence": "To the mall.",
+                "id": 404954,
+                "thaiSentence": "ไปที่ห้าง",
+                "thaiSentenceSpaced": " ไปที่ ห้าง "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1448981,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "store",
+                        "word": "store"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "shop",
+                        "word": "shop"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "firm",
+                        "word": "firm"
+                    }
+                ],
+                "etymology": "Chinese",
+                "examples": [
+                    {
+                        "childId": 47498,
+                        "corpusScore": 146,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15073,
+                        "legacyWordId": 1449023,
+                        "meaning": "shops ; stores",
+                        "parentId": 15073,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้าง ร้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้างร้าน"
+                    },
+                    {
+                        "childId": 47498,
+                        "corpusScore": 128,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22248,
+                        "legacyWordId": 1449029,
+                        "meaning": "department store ; shopping mall",
+                        "parentId": 22248,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้าง สับ สิน ค้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้างสรรพสินค้า"
+                    },
+                    {
+                        "childId": 47498,
+                        "corpusScore": 52,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35354,
+                        "legacyWordId": 1449040,
+                        "meaning": "partnership",
+                        "parentId": 35354,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้าง หุ้น ส่วน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้างหุ้นส่วน"
+                    },
+                    {
+                        "childId": 47498,
+                        "corpusScore": 23,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15201,
+                        "legacyWordId": 1328973,
+                        "meaning": "proprietor ; shopkeeper ; owner",
+                        "parentId": 15201,
+                        "partOfSpeech": "Noun",
+                        "t2e": "นาย ห้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นายห้าง"
+                    },
+                    {
+                        "childId": 47498,
+                        "corpusScore": 23,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "on a raised platform",
+                        "hasSoundFile": false,
+                        "id": 34698,
+                        "legacyWordId": 1328022,
+                        "meaning": "[to] sit",
+                        "parentId": 34698,
+                        "partOfSpeech": "Verb",
+                        "t2e": "นั่ง ห้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นั่งห้าง"
+                    },
+                    {
+                        "childId": 47498,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29942,
+                        "legacyWordId": 1275868,
+                        "meaning": "[to] build a platform on a tre",
+                        "parentId": 29942,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขัด ห้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขัดห้าง"
+                    }
+                ],
+                "explanation": null,
+                "id": 47498,
+                "isUncommon": false,
+                "meaning": "store ; shop ; firm",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ห้าง"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "cross-legged",
+                        "word": "cross-legged"
+                    }
+                ],
+                "etymology": "Chinese",
+                "examples": [
+                    {
+                        "childId": 47499,
+                        "corpusScore": 8,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30446,
+                        "legacyWordId": 1278294,
+                        "meaning": "[to] cross one's legs ; sit with one's legs crossed",
+                        "parentId": 30446,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไขฺว่ ห้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไขว่ห้าง"
+                    },
+                    {
+                        "childId": 47499,
+                        "corpusScore": 6,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401452,
+                        "legacyWordId": 1290484,
+                        "meaning": "proprietor ; shopkeeper ; owner",
+                        "parentId": 401452,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เจ้า ของ ห้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ้าของห้าง"
+                    }
+                ],
+                "explanation": null,
+                "id": 47499,
+                "isUncommon": false,
+                "meaning": "cross-legged",
+                "partOfSpeech": "Boundelement",
+                "usage": "",
+                "word": "ห้าง"
+            }
+        ],
+        "t2e": "ห้าง",
+        "verified": null,
+        "word": "ห้าง"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

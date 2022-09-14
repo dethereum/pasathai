@@ -1,0 +1,422 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "This is really delicious.",
+            "id": 82706,
+            "phonetic": "อัน นี้ อะ-หฺร่อย จัง เลย",
+            "thaiSentence": "อันนี้อร่อยจังเลย",
+            "thaiSentenceSpaced": " อันนี้ อร่อย จังเลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "this ; this"
+                        }
+                    ],
+                    "phonetic": "อัน นี้",
+                    "word": "อันนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] nice ; delicious ; tasty <i>(only used when referring to food or drink)</i>"
+                        }
+                    ],
+                    "phonetic": "อะ-หฺร่อย",
+                    "word": "อร่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "so much ; extremely ; greatly <i>(จังเลย is more commonly used by female speakers than males.)</i>"
+                        }
+                    ],
+                    "phonetic": "จัง เลย",
+                    "word": "จังเลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "This is delicious.",
+            "id": 90375,
+            "phonetic": "นี่ อะ-หฺร่อย ดี นะ",
+            "thaiSentence": "นี่อร่อยดีนะ",
+            "thaiSentenceSpaced": " นี่ อร่อย ดี นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] nice ; delicious ; tasty <i>(only used when referring to food or drink)</i>"
+                        }
+                    ],
+                    "phonetic": "อะ-หฺร่อย",
+                    "word": "อร่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Is it delicious ?",
+            "id": 92617,
+            "phonetic": "มัน อะ-หฺร่อย ไหฺม",
+            "thaiSentence": "มันอร่อยไหม",
+            "thaiSentenceSpaced": " มัน อร่อย ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] nice ; delicious ; tasty <i>(only used when referring to food or drink)</i>"
+                        }
+                    ],
+                    "phonetic": "อะ-หฺร่อย",
+                    "word": "อร่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Try it . It is delicious.",
+            "id": 105434,
+            "phonetic": "ลอง ดู · มัน อะ-หฺร่อย นะ",
+            "thaiSentence": "ลองดู มันอร่อยนะ",
+            "thaiSentenceSpaced": " ลอง ดู  ·  มัน อร่อย นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] try out ; try"
+                        }
+                    ],
+                    "phonetic": "ลอง ดู",
+                    "word": "ลองดู"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] nice ; delicious ; tasty <i>(only used when referring to food or drink)</i>"
+                        }
+                    ],
+                    "phonetic": "อะ-หฺร่อย",
+                    "word": "อร่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Is it delicious ?",
+            "id": 113814,
+            "phonetic": "มัน อะ-หฺร่อย เหฺรอ",
+            "thaiSentence": "มันอร่อยเหรอ",
+            "thaiSentenceSpaced": " มัน อร่อย เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] nice ; delicious ; tasty <i>(only used when referring to food or drink)</i>"
+                        }
+                    ],
+                    "phonetic": "อะ-หฺร่อย",
+                    "word": "อร่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Was breakfast delicious ?",
+            "id": 114655,
+            "phonetic": "อา-หาน เช้า อะ-หฺร่อย ไหฺม",
+            "thaiSentence": "อาหารเช้าอร่อยไหม",
+            "thaiSentenceSpaced": " อาหารเช้า อร่อย ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "breakfast"
+                        }
+                    ],
+                    "phonetic": "อา-หาน เช้า",
+                    "word": "อาหารเช้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] nice ; delicious ; tasty <i>(only used when referring to food or drink)</i>"
+                        }
+                    ],
+                    "phonetic": "อะ-หฺร่อย",
+                    "word": "อร่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 7021,
+        "exampleSentences": [
+            {
+                "engSentence": "This is really delicious.",
+                "id": 82706,
+                "thaiSentence": "อันนี้อร่อยจังเลย",
+                "thaiSentenceSpaced": " อันนี้ อร่อย จังเลย "
+            },
+            {
+                "engSentence": "This is delicious.",
+                "id": 90375,
+                "thaiSentence": "นี่อร่อยดีนะ",
+                "thaiSentenceSpaced": " นี่ อร่อย ดี นะ "
+            },
+            {
+                "engSentence": "Is it delicious ?",
+                "id": 92617,
+                "thaiSentence": "มันอร่อยไหม",
+                "thaiSentenceSpaced": " มัน อร่อย ไหม "
+            },
+            {
+                "engSentence": "Try it . It is delicious.",
+                "id": 105434,
+                "thaiSentence": "ลองดู มันอร่อยนะ",
+                "thaiSentenceSpaced": " ลอง ดู  &middot;  มัน อร่อย นะ "
+            },
+            {
+                "engSentence": "Is it delicious ?",
+                "id": 113814,
+                "thaiSentence": "มันอร่อยเหรอ",
+                "thaiSentenceSpaced": " มัน อร่อย เหรอ "
+            },
+            {
+                "engSentence": "Was breakfast delicious ?",
+                "id": 114655,
+                "thaiSentence": "อาหารเช้าอร่อยไหม",
+                "thaiSentenceSpaced": " อาหารเช้า อร่อย ไหม "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1452323,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] nice",
+                        "word": "nice"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "delicious",
+                        "word": "delicious"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "tasty",
+                        "word": "tasty"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 390046,
+                        "corpusScore": 178,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43116,
+                        "legacyWordId": 1457178,
+                        "meaning": "[to be] delicious ; tasty",
+                        "parentId": 43116,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "อะ-เหฺร็ด-อะ-หฺร่อย",
+                        "usage": "",
+                        "verified": "อะ-เหฺร็ด-อะ-หฺร่อย",
+                        "word": "เอร็ดอร่อย"
+                    },
+                    {
+                        "childId": 390046,
+                        "corpusScore": 178,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43117,
+                        "legacyWordId": 1457178,
+                        "meaning": "deliciously ; tastily",
+                        "parentId": 43117,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "อะ-เหฺร็ด-อะ-หฺร่อย",
+                        "usage": "",
+                        "verified": "อะ-เหฺร็ด-อะ-หฺร่อย",
+                        "word": "เอร็ดอร่อย"
+                    },
+                    {
+                        "childId": 390046,
+                        "corpusScore": 87,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28441,
+                        "legacyWordId": 1329349,
+                        "meaning": "[to be] appetizing ; look delicious ; look tasty",
+                        "parentId": 28441,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "น่า อะ-หฺร่อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น่าอร่อย"
+                    }
+                ],
+                "explanation": "only used when referring to food or drink",
+                "id": 390046,
+                "isUncommon": false,
+                "meaning": "[to be] nice ; delicious ; tasty",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "อร่อย"
+            }
+        ],
+        "t2e": "อะ-หฺร่อย",
+        "verified": "อะ-หฺร่อย",
+        "word": "อร่อย"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

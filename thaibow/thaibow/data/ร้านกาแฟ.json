@@ -1,0 +1,83 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 433,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1391589,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 25644,
+                        "corpusScore": 27707,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 25644,
+                        "legacyWordId": 1391588,
+                        "meaning": "shop ; store ; booth",
+                        "parentId": 25152,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้าน"
+                    },
+                    {
+                        "childId": 7610,
+                        "corpusScore": 1565,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7610,
+                        "legacyWordId": 1266922,
+                        "meaning": "coffee",
+                        "parentId": 25152,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กา-แฟ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กาแฟ"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "coffee shop",
+                        "word": "coffee shop"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "coffee stall",
+                        "word": "coffee stall"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "coffee house",
+                        "word": "coffee house"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 25152,
+                "isUncommon": false,
+                "meaning": "coffee shop ; coffee stall ; coffee house",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ร้านกาแฟ"
+            }
+        ],
+        "t2e": "ร้าน กา-แฟ",
+        "verified": null,
+        "word": "ร้านกาแฟ"
+    },
+    "greenBarCount": 2,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,548 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "Isn't this strange ?",
+            "id": 5193,
+            "phonetic": "แล้ว นี่ มัน ไม่ แปฺลก ไช่ ไหฺม",
+            "thaiSentence": "แล้วนี่มันไม่แปลกใช่ไหม",
+            "thaiSentenceSpaced": " แล้ว นี่ มัน ไม่ แปลก ใช่ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] strange ; odd ; weird"
+                        }
+                    ],
+                    "phonetic": "แปฺลก",
+                    "word": "แปลก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yes"
+                        }
+                    ],
+                    "phonetic": "ไช่",
+                    "word": "ใช่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "You saw me, didn't you ?",
+            "id": 6100,
+            "phonetic": "คุน เห็น ผม แล้ว ไช่ ไหฺม",
+            "thaiSentence": "คุณเห็นผมแล้วใช่ไหม",
+            "thaiSentenceSpaced": " คุณ เห็น ผม แล้ว ใช่ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] see"
+                        }
+                    ],
+                    "phonetic": "เห็น",
+                    "word": "เห็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "right ? ; is that right? ; is that true? <i>(question particle used when seeking confirmation of something thought to be true)</i>"
+                        }
+                    ],
+                    "phonetic": "ไช่ ไหฺม",
+                    "word": "ใช่ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "You are not a cop, are you ?",
+            "id": 13317,
+            "phonetic": "คุน ไม่ ไช่ ตำ-หฺรวด ไช่ ไหฺม · ไช่ หฺรือ เปฺล่า",
+            "thaiSentence": "คุณไม่ใช่ตำรวจใช่ไหม ใช่หรือเปล่า",
+            "thaiSentenceSpaced": " คุณ ไม่ใช่ ตำรวจ ใช่ไหม  ·  ใช่หรือ เปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be not ; no"
+                        }
+                    ],
+                    "phonetic": "ไม่ ไช่",
+                    "word": "ไม่ใช่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "police ; policeman"
+                        }
+                    ],
+                    "phonetic": "ตำ-หฺรวด",
+                    "word": "ตำรวจ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "right ? ; is that right? ; is that true? <i>(question particle used when seeking confirmation of something thought to be true)</i>"
+                        }
+                    ],
+                    "phonetic": "ไช่ ไหฺม",
+                    "word": "ใช่ไหม"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is that right? ; is that true?"
+                        }
+                    ],
+                    "phonetic": "ไช่ หฺรือ เปฺล่า",
+                    "word": "ใช่หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "This is cancer, right ?",
+            "id": 18458,
+            "phonetic": "มัน คือ มะ-เร็ง ไช่ ไหฺม",
+            "thaiSentence": "มันคือมะเร็งใช่ไหม",
+            "thaiSentenceSpaced": " มัน คือ มะเร็ง ใช่ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be"
+                        }
+                    ],
+                    "phonetic": "คือ",
+                    "word": "คือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "cancer"
+                        }
+                    ],
+                    "phonetic": "มะ-เร็ง",
+                    "word": "มะเร็ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "right ? ; is that right? ; is that true? <i>(question particle used when seeking confirmation of something thought to be true)</i>"
+                        }
+                    ],
+                    "phonetic": "ไช่ ไหฺม",
+                    "word": "ใช่ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Is that grape ? It is grape.",
+            "id": 23031,
+            "phonetic": "นั่น อะ-หฺงุ่น ไช่ ไหฺม · มัน คือ อะ-หฺงุ่น",
+            "thaiSentence": "นั่นองุ่นใช่ไหม มันคือองุ่น",
+            "thaiSentenceSpaced": " นั่น องุ่น ใช่ไหม  ·  มัน คือ องุ่น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั่น",
+                    "word": "นั่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "grape"
+                        }
+                    ],
+                    "phonetic": "อะ-หฺงุ่น",
+                    "word": "องุ่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "right ? ; is that right? ; is that true? <i>(question particle used when seeking confirmation of something thought to be true)</i>"
+                        }
+                    ],
+                    "phonetic": "ไช่ ไหฺม",
+                    "word": "ใช่ไหม"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be"
+                        }
+                    ],
+                    "phonetic": "คือ",
+                    "word": "คือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "grape"
+                        }
+                    ],
+                    "phonetic": "อะ-หฺงุ่น",
+                    "word": "องุ่น"
+                }
+            ]
+        },
+        {
+            "engSentence": "He's here, isn't he ?",
+            "id": 25507,
+            "phonetic": "เขา หฺยู่ ที่ นี่ ไช่ ไหฺม",
+            "thaiSentence": "เขาอยู่ที่นี่ใช่ไหม",
+            "thaiSentenceSpaced": " เขา อยู่ ที่นี่ ใช่ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "here"
+                        }
+                    ],
+                    "phonetic": "ที่ นี่",
+                    "word": "ที่นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "right ? ; is that right? ; is that true? <i>(question particle used when seeking confirmation of something thought to be true)</i>"
+                        }
+                    ],
+                    "phonetic": "ไช่ ไหฺม",
+                    "word": "ใช่ไหม"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 2396,
+        "exampleSentences": [
+            {
+                "engSentence": "Isn't this strange ?",
+                "id": 5193,
+                "thaiSentence": "แล้วนี่มันไม่แปลกใช่ไหม",
+                "thaiSentenceSpaced": " แล้ว นี่ มัน ไม่ แปลก ใช่ไหม "
+            },
+            {
+                "engSentence": "You saw me, didn't you ?",
+                "id": 6100,
+                "thaiSentence": "คุณเห็นผมแล้วใช่ไหม",
+                "thaiSentenceSpaced": " คุณ เห็น ผม แล้ว ใช่ไหม "
+            },
+            {
+                "engSentence": "You are not a cop, are you ?",
+                "id": 13317,
+                "thaiSentence": "คุณไม่ใช่ตำรวจใช่ไหม ใช่หรือเปล่า",
+                "thaiSentenceSpaced": " คุณ ไม่ใช่ ตำรวจ ใช่ไหม  &middot;  ใช่หรือ เปล่า "
+            },
+            {
+                "engSentence": "This is cancer, right ?",
+                "id": 18458,
+                "thaiSentence": "มันคือมะเร็งใช่ไหม",
+                "thaiSentenceSpaced": " มัน คือ มะเร็ง ใช่ไหม "
+            },
+            {
+                "engSentence": "Is that grape ? It is grape.",
+                "id": 23031,
+                "thaiSentence": "นั่นองุ่นใช่ไหม มันคือองุ่น",
+                "thaiSentenceSpaced": " นั่น องุ่น ใช่ไหม  &middot;  มัน คือ องุ่น "
+            },
+            {
+                "engSentence": "He's here, isn't he ?",
+                "id": 25507,
+                "thaiSentence": "เขาอยู่ที่นี่ใช่ไหม",
+                "thaiSentenceSpaced": " เขา อยู่ ที่นี่ ใช่ไหม "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1294441,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 390067,
+                        "corpusScore": 25166,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 390067,
+                        "legacyWordId": 1294399,
+                        "meaning": "yes",
+                        "parentId": 103321,
+                        "partOfSpeech": "Interjection",
+                        "t2e": "ไช่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใช่"
+                    },
+                    {
+                        "childId": 103300,
+                        "corpusScore": 50059,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "It's a particle used to turn a statement into a question, similar to a question mark",
+                        "hasSoundFile": false,
+                        "id": 103300,
+                        "legacyWordId": 1451325,
+                        "meaning": "",
+                        "parentId": 103321,
+                        "partOfSpeech": "Interrogative",
+                        "t2e": "ไหฺม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไหม"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "right ?",
+                        "word": "right ?"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "is that right?",
+                        "word": "is that right?"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "is that true?",
+                        "word": "is that true?"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 103321,
+                        "corpusScore": 7,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41261,
+                        "legacyWordId": 1386978,
+                        "meaning": "it's not wrong is it",
+                        "parentId": 41261,
+                        "partOfSpeech": "Interrogative",
+                        "t2e": "ไม่ ผิด ไช่ ไหฺม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ผิดใช่ไหม"
+                    }
+                ],
+                "explanation": "question particle used when seeking confirmation of something thought to be true",
+                "id": 103321,
+                "isUncommon": false,
+                "meaning": "right ? ; is that right? ; is that true?",
+                "partOfSpeech": "Particle",
+                "usage": "",
+                "word": "ใช่ไหม"
+            }
+        ],
+        "t2e": "ไช่ ไหฺม",
+        "verified": null,
+        "word": "ใช่ไหม"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

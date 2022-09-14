@@ -1,0 +1,600 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "It is a nice computer.",
+            "id": 193005,
+            "phonetic": "เป็น คอม-พิว-เต้อ ที่ ดี",
+            "thaiSentence": "เป็นคอมพิวเตอร์ที่ดี",
+            "thaiSentenceSpaced": " เป็น คอมพิวเตอร์ ที่ดี ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "computer ; PC"
+                        }
+                    ],
+                    "phonetic": "คอม-พิว-เต้อ",
+                    "word": "คอมพิวเตอร์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "best"
+                        }
+                    ],
+                    "phonetic": "ที่ ดี",
+                    "word": "ที่ดี"
+                }
+            ]
+        },
+        {
+            "engSentence": "Do you use the computer ?",
+            "id": 251170,
+            "phonetic": "คุน ไช้ คอม-พิว-เต้อ ด้วย เหฺรอ คฺรับ",
+            "thaiSentence": "คุณใช้คอมพิวเตอร์ด้วยเหรอครับ",
+            "thaiSentenceSpaced": " คุณ ใช้ คอมพิวเตอร์ ด้วย เหรอ ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] use"
+                        }
+                    ],
+                    "phonetic": "ไช้",
+                    "word": "ใช้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "computer ; PC"
+                        }
+                    ],
+                    "phonetic": "คอม-พิว-เต้อ",
+                    "word": "คอมพิวเตอร์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 10512,
+        "exampleSentences": [
+            {
+                "engSentence": "It is a nice computer.",
+                "id": 193005,
+                "thaiSentence": "เป็นคอมพิวเตอร์ที่ดี",
+                "thaiSentenceSpaced": " เป็น คอมพิวเตอร์ ที่ดี "
+            },
+            {
+                "engSentence": "Do you use the computer ?",
+                "id": 251170,
+                "thaiSentence": "คุณใช้คอมพิวเตอร์ด้วยเหรอครับ",
+                "thaiSentenceSpaced": " คุณ ใช้ คอมพิวเตอร์ ด้วย เหรอ ครับ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1283326,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "computer",
+                        "word": "computer"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "PC",
+                        "word": "PC"
+                    }
+                ],
+                "etymology": "English",
+                "examples": [
+                    {
+                        "childId": 102576,
+                        "corpusScore": 1830,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45289,
+                        "legacyWordId": 1285597,
+                        "meaning": "computer",
+                        "parentId": 45289,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เคฺรื่อง คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เครื่องคอมพิวเตอร์"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 301,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40498,
+                        "legacyWordId": 1373107,
+                        "meaning": "computer program",
+                        "parentId": 40498,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรมคอมพิวเตอร์"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 144,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44560,
+                        "legacyWordId": 1285531,
+                        "meaning": "computer network",
+                        "parentId": 44560,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เคฺรือ ข่าย คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เครือข่ายคอมพิวเตอร์"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 112,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 51150,
+                        "legacyWordId": 1456497,
+                        "meaning": "computer hardware",
+                        "parentId": 51150,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อุ-ปะ-กอน คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อุปกรณ์คอมพิวเตอร์"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 67,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 589761,
+                        "legacyWordId": 1324661,
+                        "meaning": "computer technology",
+                        "parentId": 589761,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เท็ก-โน-โล-ยี คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เทคโนโลยีคอมพิวเตอร์"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 61,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 422695,
+                        "legacyWordId": 1390120,
+                        "meaning": "computer network",
+                        "parentId": 422695,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ระ-บบ เคฺรือ ข่าย คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ระบบเครือข่ายคอมพิวเตอร์"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 38,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 53906,
+                        "legacyWordId": 1400160,
+                        "meaning": "computer engineering",
+                        "parentId": 53906,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วิด-สะ-วะ-กำ คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วิศวกรรมคอมพิวเตอร์"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 31,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 88680,
+                        "legacyWordId": 1305098,
+                        "meaning": "supercomputer",
+                        "parentId": 88680,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ซู-เปอ คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซูเปอร์คอมพิวเตอร์"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 30,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 53270,
+                        "legacyWordId": 1399795,
+                        "meaning": "computer science",
+                        "parentId": 53270,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วิด-ทะ-ยา กาน คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วิทยาการคอมพิวเตอร์"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 28,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 86501,
+                        "legacyWordId": 1268206,
+                        "meaning": "computer applications",
+                        "parentId": 86501,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ไช้ งาน คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การใช้งานคอมพิวเตอร์"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 24,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 54315,
+                        "legacyWordId": 1283328,
+                        "meaning": "computer graphics",
+                        "parentId": 54315,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คอม-พิว-เต้อ กฺรา-ฟิก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คอมพิวเตอร์กราฟิกส์"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 18,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30627,
+                        "legacyWordId": 1283342,
+                        "meaning": "personal computer",
+                        "parentId": 30627,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คอม-พิว-เต้อ ส่วน บุก-คน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คอมพิวเตอร์ส่วนบุคคล"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 17,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 87807,
+                        "legacyWordId": 1385108,
+                        "meaning": "mainframemainframe computer",
+                        "parentId": 87807,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เมน เฟฺรม คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เมนเฟรมคอมพิวเตอร์"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 17,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 589803,
+                        "legacyWordId": 1283327,
+                        "meaning": "computer graphics",
+                        "parentId": 589803,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คอม-พิว-เต้อ กฺรา-ฟิก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คอมพิวเตอร์กราฟิก"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 15,
+                        "displayOrder": 4,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 53595,
+                        "legacyWordId": 1401765,
+                        "meaning": "Thailand National Electronics and Computer Technology Center",
+                        "parentId": 53595,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สูน เท็ก-โน-โล-ยี อิ-เล็ก-ทฺรอ-หฺนิก และ คอม-พิว-เต้อ แห่ง ชาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ศูนย์เทคโนโลยีอิเล็กทรอนิกส์และคอมพิวเตอร์แห่งชาติ"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 13,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 422914,
+                        "legacyWordId": 1283335,
+                        "meaning": "introduction to computer",
+                        "parentId": 422914,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คอม-พิว-เต้อ เบื้อง ต้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คอมพิวเตอร์เบื้องต้น"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 7,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 422635,
+                        "legacyWordId": 1305061,
+                        "meaning": "supercomputer",
+                        "parentId": 422635,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ซุบ-เปอ คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซุปเปอร์คอมพิวเตอร์"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 6,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 86513,
+                        "legacyWordId": 1278578,
+                        "meaning": "computer mathematics",
+                        "parentId": 86513,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คะ-นิด-ตะ-สาด คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คณิตศาสตร์คอมพิวเตอร์"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 6,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 55034,
+                        "legacyWordId": 1399857,
+                        "meaning": "computer science",
+                        "parentId": 55034,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วิด-ทะ-ยา สาด คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วิทยาศาสตร์คอมพิวเตอร์"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 4,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 54662,
+                        "legacyWordId": 1458221,
+                        "meaning": "computer hardware",
+                        "parentId": 54662,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ฮาด-แว คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ฮาร์ดแวร์คอมพิวเตอร์"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 87355,
+                        "legacyWordId": 1283338,
+                        "meaning": "host computer",
+                        "parentId": 87355,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คอม-พิว-เต้อ แม่ ข่าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คอมพิวเตอร์แม่ข่าย"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 88036,
+                        "legacyWordId": 1283343,
+                        "meaning": "office computer",
+                        "parentId": 88036,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คอม-พิว-เต้อ สำ-นัก งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คอมพิวเตอร์สำนักงาน"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 589361,
+                        "legacyWordId": 1397397,
+                        "meaning": "laptop computer",
+                        "parentId": 589361,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แล็บ-ท็อบ คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แล็ปท็อปคอมพิวเตอร์"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 2,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 68758,
+                        "legacyWordId": 1374426,
+                        "meaning": "computer specialist",
+                        "parentId": 68758,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ เชี่ยว-ชาน ทาง คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้เชี่ยวชาญทางคอมพิวเตอร์"
+                    },
+                    {
+                        "childId": 102576,
+                        "corpusScore": 1,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38537,
+                        "legacyWordId": 1394120,
+                        "meaning": "computer school",
+                        "parentId": 38537,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรง เรียน สอน คอม-พิว-เต้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรงเรียนสอนคอมพิวเตอร์"
+                    }
+                ],
+                "explanation": null,
+                "id": 102576,
+                "isUncommon": false,
+                "meaning": "computer ; PC",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "คอมพิวเตอร์"
+            }
+        ],
+        "t2e": "คอม-พิว-เต้อ",
+        "verified": null,
+        "word": "คอมพิวเตอร์"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

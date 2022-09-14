@@ -1,0 +1,304 @@
+{
+    "commonessText": "Rarely",
+    "exampleSentences": [
+        {
+            "engSentence": "Yes . Goodbye everyone.",
+            "id": 252815,
+            "phonetic": "ค่ะ · ลา ก่อน ทุก คน",
+            "thaiSentence": "ค่ะ ลาก่อนทุกคน",
+            "thaiSentenceSpaced": " ค่ะ  ·  ลาก่อน ทุกคน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] say goodbye ; leave"
+                        }
+                    ],
+                    "phonetic": "ลา ก่อน",
+                    "word": "ลาก่อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "everyone ; everybody"
+                        }
+                    ],
+                    "phonetic": "ทุก คน",
+                    "word": "ทุกคน"
+                }
+            ]
+        },
+        {
+            "engSentence": "Okay, goodbye boss.",
+            "id": 303657,
+            "phonetic": "ด้าย · ลา ก่อน เจ้า นาย",
+            "thaiSentence": "ได้ ลาก่อนเจ้านาย",
+            "thaiSentenceSpaced": " ได้  ·  ลาก่อน เจ้านาย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] say goodbye ; leave"
+                        }
+                    ],
+                    "phonetic": "ลา ก่อน",
+                    "word": "ลาก่อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "boss ; head ; master"
+                        }
+                    ],
+                    "phonetic": "เจ้า นาย",
+                    "word": "เจ้านาย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Thanks and goodbye.",
+            "id": 368275,
+            "phonetic": "ขอบ คุน และ ลา ก่อน คะ",
+            "thaiSentence": "ขอบคุณและลาก่อนคะ",
+            "thaiSentenceSpaced": " ขอบคุณ และ ลาก่อน คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] thank you ; be thankful (for something)"
+                        }
+                    ],
+                    "phonetic": "ขอบ คุน",
+                    "word": "ขอบคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and"
+                        }
+                    ],
+                    "phonetic": "และ",
+                    "word": "และ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] say goodbye ; leave"
+                        }
+                    ],
+                    "phonetic": "ลา ก่อน",
+                    "word": "ลาก่อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Right . Goodbye, then.",
+            "id": 562284,
+            "phonetic": "ไช่ ค่ะ · ลา ก่อน ค่ะ",
+            "thaiSentence": "ใช่ค่ะ ลาก่อนค่ะ",
+            "thaiSentenceSpaced": " ใช่ ค่ะ  ·  ลาก่อน ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yes"
+                        }
+                    ],
+                    "phonetic": "ไช่",
+                    "word": "ใช่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] say goodbye ; leave"
+                        }
+                    ],
+                    "phonetic": "ลา ก่อน",
+                    "word": "ลาก่อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 153,
+        "exampleSentences": [
+            {
+                "engSentence": "Yes . Goodbye everyone.",
+                "id": 252815,
+                "thaiSentence": "ค่ะ ลาก่อนทุกคน",
+                "thaiSentenceSpaced": " ค่ะ  &middot;  ลาก่อน ทุกคน "
+            },
+            {
+                "engSentence": "Okay, goodbye boss.",
+                "id": 303657,
+                "thaiSentence": "ได้ ลาก่อนเจ้านาย",
+                "thaiSentenceSpaced": " ได้  &middot;  ลาก่อน เจ้านาย "
+            },
+            {
+                "engSentence": "Thanks and goodbye.",
+                "id": 368275,
+                "thaiSentence": "ขอบคุณและลาก่อนคะ",
+                "thaiSentenceSpaced": " ขอบคุณ และ ลาก่อน คะ "
+            },
+            {
+                "engSentence": "Right . Goodbye, then.",
+                "id": 562284,
+                "thaiSentence": "ใช่ค่ะ ลาก่อนค่ะ",
+                "thaiSentenceSpaced": " ใช่ ค่ะ  &middot;  ลาก่อน ค่ะ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1395407,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 19239,
+                        "corpusScore": 2458,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19239,
+                        "legacyWordId": 1395392,
+                        "meaning": "[to] leave ; say goodbye ; bid farewell",
+                        "parentId": 102631,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลา"
+                    },
+                    {
+                        "childId": 35263,
+                        "corpusScore": 72425,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 35263,
+                        "legacyWordId": 1266209,
+                        "meaning": "before ; first ; former",
+                        "parentId": 102631,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ก่อน"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] say goodbye",
+                        "word": "say goodbye"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "leave",
+                        "word": "leave"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 102631,
+                "isUncommon": false,
+                "meaning": "[to] say goodbye ; leave",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ลาก่อน"
+            }
+        ],
+        "t2e": "ลา ก่อน",
+        "verified": null,
+        "word": "ลาก่อน"
+    },
+    "greenBarCount": 1,
+    "pageUrl": "",
+    "type": "thai-word"
+}

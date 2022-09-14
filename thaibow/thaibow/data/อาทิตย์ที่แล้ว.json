@@ -1,0 +1,32 @@
+{
+    "thaiTranslationLines": [
+        {
+            "isWordBreakdownShown": true,
+            "phonetic": "อา-ทิด ที่ แล้ว",
+            "unspacedText": "อาทิตย์ที่แล้ว",
+            "wordObjects": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "week"
+                        }
+                    ],
+                    "phonetic": "อา-ทิด",
+                    "word": "อาทิตย์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "last ; previous"
+                        }
+                    ],
+                    "phonetic": "ที่ แล้ว",
+                    "word": "ที่แล้ว"
+                }
+            ]
+        }
+    ],
+    "type": "translation"
+}

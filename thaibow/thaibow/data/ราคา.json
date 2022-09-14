@@ -1,0 +1,878 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "How much would this be ?",
+            "id": 100405,
+            "phonetic": "มัน จะ รา-คา สัก เท่า ไหฺร่ นะ",
+            "thaiSentence": "มันจะราคาสักเท่าไหร่นะ",
+            "thaiSentenceSpaced": " มัน จะ ราคา สักเท่าไหร่ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "price ; cost ; value"
+                        }
+                    ],
+                    "phonetic": "รา-คา",
+                    "word": "ราคา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how much ; how many"
+                        }
+                    ],
+                    "phonetic": "สัก เท่า ไหฺร่",
+                    "word": "สักเท่าไหร่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "How much is it ?",
+            "id": 101823,
+            "phonetic": "รา-คา เท่า ไหฺร่",
+            "thaiSentence": "ราคาเท่าไหร่",
+            "thaiSentenceSpaced": " ราคา เท่าไหร่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "price ; cost ; value"
+                        }
+                    ],
+                    "phonetic": "รา-คา",
+                    "word": "ราคา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how much ; how many"
+                        },
+                        {
+                            "meaning": "however much"
+                        }
+                    ],
+                    "phonetic": "เท่า ไหฺร่",
+                    "word": "เท่าไหร่"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am a bit expensive.",
+            "id": 130761,
+            "phonetic": "ตัว ผม รา-คา แพง นะ",
+            "thaiSentence": "ตัวผมราคาแพงนะ",
+            "thaiSentenceSpaced": " ตัว ผม ราคา แพง นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "body ; physique <i>(ตัว is a classifier every type of animal, all pieces of clothing (except ones that come in pairs, but including trousers), chairs, tables and other pieces of furniture, letters and numbers of the alphabet, and also functions as a general purpose classifier for things and objects.)</i>"
+                        },
+                        {
+                            "meaning": "self ; oneself"
+                        },
+                        {
+                            "meaning": " <i>(prefix for an actor or character)</i>"
+                        },
+                        {
+                            "meaning": "character ; letter ; entity"
+                        },
+                        {
+                            "meaning": " <i>(prefix meaning \"someone or something that does/is...\")</i>"
+                        }
+                    ],
+                    "phonetic": "ตัว",
+                    "word": "ตัว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "price ; cost ; value"
+                        }
+                    ],
+                    "phonetic": "รา-คา",
+                    "word": "ราคา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] expensive ; high-priced"
+                        }
+                    ],
+                    "phonetic": "แพง",
+                    "word": "แพง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "How much is this ring ?",
+            "id": 244428,
+            "phonetic": "แหฺวน รา-คา เท่า ไหฺร่ เหฺรอ",
+            "thaiSentence": "แหวนราคาเท่าไหร่เหรอ",
+            "thaiSentenceSpaced": " แหวน ราคา เท่าไหร่ เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "ring ; hoop ; circle"
+                        }
+                    ],
+                    "phonetic": "แหฺวน",
+                    "word": "แหวน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "price ; cost ; value"
+                        }
+                    ],
+                    "phonetic": "รา-คา",
+                    "word": "ราคา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how much ; how many"
+                        },
+                        {
+                            "meaning": "however much"
+                        }
+                    ],
+                    "phonetic": "เท่า ไหฺร่",
+                    "word": "เท่าไหร่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "How much did it go up ?",
+            "id": 282750,
+            "phonetic": "รา-คา หุ้น ขึ้น เท่า ไร่ แล้ว นะ",
+            "thaiSentence": "ราคาหุ้นขึ้นเท่าไร่แล้วนะ",
+            "thaiSentenceSpaced": " ราคา หุ้น ขึ้น เท่า ไร่ แล้ว นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "price ; cost ; value"
+                        }
+                    ],
+                    "phonetic": "รา-คา",
+                    "word": "ราคา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "share ; stock"
+                        }
+                    ],
+                    "phonetic": "หุ้น",
+                    "word": "หุ้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] enter ; get on ; get in"
+                        },
+                        {
+                            "meaning": "[to] develop ; progress"
+                        },
+                        {
+                            "meaning": "[to] go up ; rise ; increase"
+                        },
+                        {
+                            "meaning": "up ; upward"
+                        }
+                    ],
+                    "phonetic": "ขึ้น",
+                    "word": "ขึ้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(classifier for an amount of something when making a comparison, usually translated as \" -times (as much) ; -fold (as much)\")</i>"
+                        },
+                        {
+                            "meaning": "as much as ; equal to"
+                        }
+                    ],
+                    "phonetic": "เท่า",
+                    "word": "เท่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "farm ; field"
+                        }
+                    ],
+                    "phonetic": "ไร่",
+                    "word": "ไร่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "We lost the bid.",
+            "id": 359960,
+            "phonetic": "เรา แพ้ ปฺระ-มูน รา-คา",
+            "thaiSentence": "เราแพ้ประมูลราคา",
+            "thaiSentenceSpaced": " เรา แพ้ ประมูล ราคา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be defeated (by someone) ; lose (to someone)"
+                        },
+                        {
+                            "meaning": "[to] be allergic to"
+                        }
+                    ],
+                    "phonetic": "แพ้",
+                    "word": "แพ้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] bid ; submit a tender ; make an offer"
+                        }
+                    ],
+                    "phonetic": "ปฺระ-มูน",
+                    "word": "ประมูล"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "price ; cost ; value"
+                        }
+                    ],
+                    "phonetic": "รา-คา",
+                    "word": "ราคา"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 32315,
+        "exampleSentences": [
+            {
+                "engSentence": "How much would this be ?",
+                "id": 100405,
+                "thaiSentence": "มันจะราคาสักเท่าไหร่นะ",
+                "thaiSentenceSpaced": " มัน จะ ราคา สักเท่าไหร่ นะ "
+            },
+            {
+                "engSentence": "How much is it ?",
+                "id": 101823,
+                "thaiSentence": "ราคาเท่าไหร่",
+                "thaiSentenceSpaced": " ราคา เท่าไหร่ "
+            },
+            {
+                "engSentence": "I am a bit expensive.",
+                "id": 130761,
+                "thaiSentence": "ตัวผมราคาแพงนะ",
+                "thaiSentenceSpaced": " ตัว ผม ราคา แพง นะ "
+            },
+            {
+                "engSentence": "How much is this ring ?",
+                "id": 244428,
+                "thaiSentence": "แหวนราคาเท่าไหร่เหรอ",
+                "thaiSentenceSpaced": " แหวน ราคา เท่าไหร่ เหรอ "
+            },
+            {
+                "engSentence": "How much did it go up ?",
+                "id": 282750,
+                "thaiSentence": "ราคาหุ้นขึ้นเท่าไร่แล้วนะ",
+                "thaiSentenceSpaced": " ราคา หุ้น ขึ้น เท่า ไร่ แล้ว นะ "
+            },
+            {
+                "engSentence": "We lost the bid.",
+                "id": 359960,
+                "thaiSentence": "เราแพ้ประมูลราคา",
+                "thaiSentenceSpaced": " เรา แพ้ ประมูล ราคา "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1391184,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "price",
+                        "word": "price"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "cost",
+                        "word": "cost"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "value",
+                        "word": "value"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 31382,
+                        "corpusScore": 3428,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402827,
+                        "legacyWordId": 1391203,
+                        "meaning": "cheap price ; low price",
+                        "parentId": 402827,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รา-คา ถูก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ราคาถูก"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 1981,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 102530,
+                        "legacyWordId": 1384585,
+                        "meaning": "[to] be valuable ; be expensive",
+                        "parentId": 102530,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีราคา"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 738,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37467,
+                        "legacyWordId": 1394587,
+                        "meaning": "[to] discount ; lower the price",
+                        "parentId": 37467,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ลด รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลดราคา"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 585,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29193,
+                        "legacyWordId": 1276667,
+                        "meaning": "[to] raise the price ; increase the price",
+                        "parentId": 29193,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขึ้น รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขึ้นราคา"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 481,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23538,
+                        "legacyWordId": 1451288,
+                        "meaning": "[to] set the price ; offer the price",
+                        "parentId": 23538,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไห้ รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ให้ราคา"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 467,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13925,
+                        "legacyWordId": 1391186,
+                        "meaning": "sale price ; selling price",
+                        "parentId": 13925,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รา-คา ขาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ราคาขาย"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 413,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18088,
+                        "legacyWordId": 1308746,
+                        "meaning": "[to] be of good price ; fetch a good price",
+                        "parentId": 18088,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ด้าย รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ได้ราคา"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 346,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1371,
+                        "legacyWordId": 1391212,
+                        "meaning": "cost estimate",
+                        "parentId": 1371,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รา-คา ปฺระ-เมิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ราคาประเมิน"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 343,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34755,
+                        "legacyWordId": 1391216,
+                        "meaning": "wholesale price",
+                        "parentId": 34755,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รา-คา ส่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ราคาส่ง"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 292,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13167,
+                        "legacyWordId": 1367755,
+                        "meaning": "[to] bid ; tender ; submit a tender",
+                        "parentId": 13167,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ปฺระ-กวด รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประกวดราคา"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 261,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25475,
+                        "legacyWordId": 1391195,
+                        "meaning": "market price",
+                        "parentId": 25475,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รา-คา ตะ-หฺลาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ราคาตลาด"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 244,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400103,
+                        "legacyWordId": 1391192,
+                        "meaning": "cost price",
+                        "parentId": 400103,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รา-คา ซื้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ราคาซื้อ"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 230,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3821,
+                        "legacyWordId": 1369124,
+                        "meaning": "[to] change the price ; adjust the price",
+                        "parentId": 3821,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ปฺรับ รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปรับราคา"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 216,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31674,
+                        "legacyWordId": 1284817,
+                        "meaning": "[to] estimate ; evaluate ; charge",
+                        "parentId": 31674,
+                        "partOfSpeech": "Verb",
+                        "t2e": "คิด รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คิดราคา"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 183,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6794,
+                        "legacyWordId": 1310483,
+                        "meaning": "[to] fix a price",
+                        "parentId": 6794,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตั้ง รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตั้งราคา"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 175,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24088,
+                        "legacyWordId": 1368875,
+                        "meaning": "[to] estimate ; calculate ; evaluate",
+                        "parentId": 24088,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ปฺระ-เมิน รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเมินราคา"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 164,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36762,
+                        "legacyWordId": 1402737,
+                        "meaning": "price",
+                        "parentId": 36762,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ-หฺนน รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สนนราคา"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 130,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28041,
+                        "legacyWordId": 1309954,
+                        "meaning": "[to] bargain",
+                        "parentId": 28041,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ต่อ รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ต่อราคา"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 115,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17722,
+                        "legacyWordId": 1309518,
+                        "meaning": "[to] peg the price ; fix the price",
+                        "parentId": 17722,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตฺรึง รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตรึงราคา"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 97,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398992,
+                        "legacyWordId": 1368860,
+                        "meaning": "[to] appraise ; assess ; estimate",
+                        "parentId": 398992,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ปฺระ-มาน รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประมาณราคา"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 96,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34350,
+                        "legacyWordId": 1370285,
+                        "meaning": "[to] speculate",
+                        "parentId": 34350,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ปั่น รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปั่นราคา"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 88,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40374,
+                        "legacyWordId": 1317671,
+                        "meaning": "[to] appraise ; assess ; estimate",
+                        "parentId": 40374,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตี รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตีราคา"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 87,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401950,
+                        "legacyWordId": 1410149,
+                        "meaning": "[to] devalue ; depreciate",
+                        "parentId": 401950,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เสื่อม รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เสื่อมราคา"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 86,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33600,
+                        "legacyWordId": 1403720,
+                        "meaning": "[to] be reasonable ; be moderate ; be inexpensive",
+                        "parentId": 33600,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สม รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สมราคา"
+                    },
+                    {
+                        "childId": 31382,
+                        "corpusScore": 78,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401713,
+                        "legacyWordId": 1379757,
+                        "meaning": "[to] raise the price ; increase the price",
+                        "parentId": 401713,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เพิ่ม รา-คา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพิ่มราคา"
+                    }
+                ],
+                "explanation": null,
+                "id": 31382,
+                "isUncommon": false,
+                "meaning": "price ; cost ; value",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ราคา"
+            }
+        ],
+        "t2e": "รา-คา",
+        "verified": null,
+        "word": "ราคา"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

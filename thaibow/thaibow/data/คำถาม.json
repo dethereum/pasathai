@@ -1,0 +1,685 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Okay, first question.",
+            "id": 41011,
+            "phonetic": "โอ เค · คำ ถาม แรก",
+            "thaiSentence": "โอเค คำถามแรก",
+            "thaiSentenceSpaced": " โอ เค  ·  คำถาม แรก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "OK"
+                        }
+                    ],
+                    "phonetic": "โอ เค",
+                    "word": "โอเค"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "question ; query ; inquiry"
+                        }
+                    ],
+                    "phonetic": "คำ ถาม",
+                    "word": "คำถาม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "first ; initial ; original"
+                        }
+                    ],
+                    "phonetic": "แรก",
+                    "word": "แรก"
+                }
+            ]
+        },
+        {
+            "engSentence": "Okay, next question.",
+            "id": 41014,
+            "phonetic": "โอ เค · คำ ถาม ต่อ ไป",
+            "thaiSentence": "โอเค คำถามต่อไป",
+            "thaiSentenceSpaced": " โอ เค  ·  คำถาม ต่อไป ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "OK"
+                        }
+                    ],
+                    "phonetic": "โอ เค",
+                    "word": "โอเค"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "question ; query ; inquiry"
+                        }
+                    ],
+                    "phonetic": "คำ ถาม",
+                    "word": "คำถาม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "continually ; further ; afterward"
+                        },
+                        {
+                            "meaning": "next ; latter ; later"
+                        }
+                    ],
+                    "phonetic": "ต่อ ไป",
+                    "word": "ต่อไป"
+                }
+            ]
+        },
+        {
+            "engSentence": "Questions about what ?",
+            "id": 52697,
+            "phonetic": "คำ ถาม เกี่ยว กับ อะ-ไร",
+            "thaiSentence": "คำถามเกี่ยวกับอะไร",
+            "thaiSentenceSpaced": " คำถาม เกี่ยวกับ อะไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "question ; query ; inquiry"
+                        }
+                    ],
+                    "phonetic": "คำ ถาม",
+                    "word": "คำถาม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "about ; regarding ; concerning"
+                        }
+                    ],
+                    "phonetic": "เกี่ยว กับ",
+                    "word": "เกี่ยวกับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "I have so many questions.",
+            "id": 71813,
+            "phonetic": "ฉัน ก้อ มี คำ ถาม มาก มาย",
+            "thaiSentence": "ฉันก็มีคำถามมากมาย",
+            "thaiSentenceSpaced": " ฉัน ก็ มี คำถาม มากมาย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "question ; query ; inquiry"
+                        }
+                    ],
+                    "phonetic": "คำ ถาม",
+                    "word": "คำถาม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "a lot ; many ; several"
+                        }
+                    ],
+                    "phonetic": "มาก มาย",
+                    "word": "มากมาย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Just answer my questions.",
+            "id": 90571,
+            "phonetic": "แค่ ตอบ คำ ถาม ผม ก้อ พอ",
+            "thaiSentence": "แค่ตอบคำถามผมก็พอ",
+            "thaiSentenceSpaced": " แค่ ตอบ คำถาม ผม ก็ พอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "just ; only"
+                        }
+                    ],
+                    "phonetic": "แค่",
+                    "word": "แค่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] answer questions"
+                        }
+                    ],
+                    "phonetic": "ตอบ คำ ถาม",
+                    "word": "ตอบคำถาม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "as soon as ; when ; just when ; just after"
+                        },
+                        {
+                            "meaning": "[to be] enough ; sufficient ; appropriate"
+                        }
+                    ],
+                    "phonetic": "พอ",
+                    "word": "พอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Let me ask you a question.",
+            "id": 127563,
+            "phonetic": "ไห้ ผม ถาม คำ ถาม คุน นะ",
+            "thaiSentence": "ให้ผมถามคำถามคุณนะ",
+            "thaiSentenceSpaced": " ให้ ผม ถาม คำถาม คุณ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask a question ; pose a question"
+                        }
+                    ],
+                    "phonetic": "ถาม คำ ถาม",
+                    "word": "ถามคำถาม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 7217,
+        "exampleSentences": [
+            {
+                "engSentence": "Okay, first question.",
+                "id": 41011,
+                "thaiSentence": "โอเค คำถามแรก",
+                "thaiSentenceSpaced": " โอ เค  &middot;  คำถาม แรก "
+            },
+            {
+                "engSentence": "Okay, next question.",
+                "id": 41014,
+                "thaiSentence": "โอเค คำถามต่อไป",
+                "thaiSentenceSpaced": " โอ เค  &middot;  คำถาม ต่อไป "
+            },
+            {
+                "engSentence": "Questions about what ?",
+                "id": 52697,
+                "thaiSentence": "คำถามเกี่ยวกับอะไร",
+                "thaiSentenceSpaced": " คำถาม เกี่ยวกับ อะไร "
+            },
+            {
+                "engSentence": "I have so many questions.",
+                "id": 71813,
+                "thaiSentence": "ฉันก็มีคำถามมากมาย",
+                "thaiSentenceSpaced": " ฉัน ก็ มี คำถาม มากมาย "
+            },
+            {
+                "engSentence": "Just answer my questions.",
+                "id": 90571,
+                "thaiSentence": "แค่ตอบคำถามผมก็พอ",
+                "thaiSentenceSpaced": " แค่ ตอบ คำถาม ผม ก็ พอ "
+            },
+            {
+                "engSentence": "Let me ask you a question.",
+                "id": 127563,
+                "thaiSentence": "ให้ผมถามคำถามคุณนะ",
+                "thaiSentenceSpaced": " ให้ ผม ถาม คำถาม คุณ นะ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1284351,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 394333,
+                        "corpusScore": 67281,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "คำ is the classifier for many things that can be spoken or written down - a question, a promise, a translation etc.",
+                        "hasSoundFile": true,
+                        "id": 394333,
+                        "legacyWordId": 1284178,
+                        "meaning": "word ; words",
+                        "parentId": 30671,
+                        "partOfSpeech": "Noun ; Classifier",
+                        "t2e": "คำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำ"
+                    },
+                    {
+                        "childId": 17691,
+                        "corpusScore": 32835,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 17691,
+                        "legacyWordId": 1319470,
+                        "meaning": "[to] ask",
+                        "parentId": 30671,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถาม"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "question",
+                        "word": "question"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "query",
+                        "word": "query"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "inquiry",
+                        "word": "inquiry"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 30671,
+                        "corpusScore": 890,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7119,
+                        "legacyWordId": 1309890,
+                        "meaning": "[to] answer questions",
+                        "parentId": 7119,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตอบ คำ ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตอบคำถาม"
+                    },
+                    {
+                        "childId": 30671,
+                        "corpusScore": 421,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 603,
+                        "legacyWordId": 1310411,
+                        "meaning": "[to] ask ; ask a question",
+                        "parentId": 603,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตั้ง คำ ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตั้งคำถาม"
+                    },
+                    {
+                        "childId": 30671,
+                        "corpusScore": 125,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395006,
+                        "legacyWordId": 1319473,
+                        "meaning": "[to] ask a question ; pose a question",
+                        "parentId": 395006,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ถาม คำ ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถามคำถาม"
+                    },
+                    {
+                        "childId": 30671,
+                        "corpusScore": 23,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21504,
+                        "legacyWordId": 1388208,
+                        "meaning": "[to] ask a question ; pose a question",
+                        "parentId": 21504,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ยิง คำ ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยิงคำถาม"
+                    },
+                    {
+                        "childId": 30671,
+                        "corpusScore": 12,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12240,
+                        "legacyWordId": 1368894,
+                        "meaning": "interrogative sentence ; question",
+                        "parentId": 12240,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-โหฺยก คำ ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประโยคคำถาม"
+                    },
+                    {
+                        "childId": 30671,
+                        "corpusScore": 9,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 58418,
+                        "legacyWordId": 1285985,
+                        "meaning": "question mark",
+                        "parentId": 58418,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เคฺรื่อง หฺมาย คำ ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เครื่องหมายคำถาม"
+                    },
+                    {
+                        "childId": 30671,
+                        "corpusScore": 6,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395007,
+                        "legacyWordId": 1369993,
+                        "meaning": "[to] ask a question ; pose a question",
+                        "parentId": 395007,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ป้อน คำ ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ป้อนคำถาม"
+                    },
+                    {
+                        "childId": 30671,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23629,
+                        "legacyWordId": 1284355,
+                        "meaning": "open-ended question",
+                        "parentId": 23629,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ ถาม เปิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำถามเปิด"
+                    },
+                    {
+                        "childId": 30671,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 88304,
+                        "legacyWordId": 1269595,
+                        "meaning": "query processing",
+                        "parentId": 88304,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ปฺระ-มวน ผน ข้อ คำ ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การประมวลผลข้อคำถาม"
+                    },
+                    {
+                        "childId": 30671,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 82783,
+                        "legacyWordId": 1284356,
+                        "meaning": "overhead question",
+                        "parentId": 82783,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ ถาม ลอย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำถามลอย"
+                    },
+                    {
+                        "childId": 30671,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394454,
+                        "legacyWordId": 1409535,
+                        "meaning": "[to] ask ; ask a question",
+                        "parentId": 394454,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สะ-เหฺนอ คำ ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เสนอคำถาม"
+                    },
+                    {
+                        "childId": 30671,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24039,
+                        "legacyWordId": 1284354,
+                        "meaning": "closed-ended question",
+                        "parentId": 24039,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ ถาม ปิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำถามปิด"
+                    },
+                    {
+                        "childId": 30671,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38347,
+                        "legacyWordId": 1367039,
+                        "meaning": "questionnaire",
+                        "parentId": 38347,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แบบ ข้อ คำ ถาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แบบข้อคำถาม"
+                    }
+                ],
+                "explanation": null,
+                "id": 30671,
+                "isUncommon": false,
+                "meaning": "question ; query ; inquiry",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "คำถาม"
+            }
+        ],
+        "t2e": "คำ ถาม",
+        "verified": null,
+        "word": "คำถาม"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

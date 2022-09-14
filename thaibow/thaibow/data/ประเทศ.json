@@ -1,0 +1,614 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Go back to your country.",
+            "id": 146858,
+            "phonetic": "กฺลับ ปฺระ-เทด ไป",
+            "thaiSentence": "กลับประเทศไป",
+            "thaiSentenceSpaced": " กลับ ประเทศ ไป ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] return ; go back ; reverse"
+                        }
+                    ],
+                    "phonetic": "กฺลับ",
+                    "word": "กลับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "country ; nation ; state"
+                        }
+                    ],
+                    "phonetic": "ปฺระ-เทด",
+                    "word": "ประเทศ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                }
+            ]
+        },
+        {
+            "engSentence": "Do you know what country ?",
+            "id": 174924,
+            "phonetic": "รู้ หฺรือ เปฺล่า ว่า มา จาก ปฺระ-เทด ไหฺน",
+            "thaiSentence": "รู้หรือเปล่าว่ามาจากประเทศไหน",
+            "thaiSentenceSpaced": " รู้ หรือเปล่า ว่า มาจาก ประเทศ ไหน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] know <i>(รู้ is \"to know\" in the sense of knowing information ; to say \"to know\" in the sense of knowing someone รู้จัก is used instead.)</i>"
+                        }
+                    ],
+                    "phonetic": "รู้",
+                    "word": "รู้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        },
+                        {
+                            "meaning": "[to] say ; tell"
+                        },
+                        {
+                            "meaning": "[to] blame ; criticise"
+                        }
+                    ],
+                    "phonetic": "ว่า",
+                    "word": "ว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] come from ; be from"
+                        }
+                    ],
+                    "phonetic": "มา จาก",
+                    "word": "มาจาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "country ; nation ; state"
+                        }
+                    ],
+                    "phonetic": "ปฺระ-เทด",
+                    "word": "ประเทศ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whichever one"
+                        },
+                        {
+                            "meaning": "which"
+                        },
+                        {
+                            "meaning": "where ; which place <i>(a shortened form of ที่ไหน)</i>"
+                        },
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        }
+                    ],
+                    "phonetic": "ไหฺน",
+                    "word": "ไหน"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 68119,
+        "exampleSentences": [
+            {
+                "engSentence": "Go back to your country.",
+                "id": 146858,
+                "thaiSentence": "กลับประเทศไป",
+                "thaiSentenceSpaced": " กลับ ประเทศ ไป "
+            },
+            {
+                "engSentence": "Do you know what country ?",
+                "id": 174924,
+                "thaiSentence": "รู้หรือเปล่าว่ามาจากประเทศไหน",
+                "thaiSentenceSpaced": " รู้ หรือเปล่า ว่า มาจาก ประเทศ ไหน "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1368501,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "country",
+                        "word": "country"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "nation",
+                        "word": "nation"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "state",
+                        "word": "state"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [
+                    {
+                        "childId": 33346,
+                        "corpusScore": 23676,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 37238,
+                        "legacyWordId": 1368586,
+                        "meaning": "Thailand",
+                        "parentId": 37238,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด ไท",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศไทย"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 11541,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 22884,
+                        "legacyWordId": 1331717,
+                        "meaning": "domestic ; local ; in the country",
+                        "parentId": 22884,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ไน ปฺระ-เทด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในประเทศ"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 11480,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 39696,
+                        "legacyWordId": 1311090,
+                        "meaning": "abroad ; foreign country",
+                        "parentId": 39696,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ต่าง ปฺระ-เทด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ต่างประเทศ"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 3571,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4106,
+                        "legacyWordId": 1321553,
+                        "meaning": "nationwide ; countrywide",
+                        "parentId": 4106,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ทั่ว ปฺระ-เทด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทั่วประเทศ"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 3144,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3663,
+                        "legacyWordId": 1390578,
+                        "meaning": "international",
+                        "parentId": 3663,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ระ-หฺว่าง ปฺระ-เทด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ระหว่างประเทศ"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 1784,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11934,
+                        "legacyWordId": 1368543,
+                        "meaning": "nation ; country",
+                        "parentId": 11934,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด ชาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศชาติ"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 1669,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28570,
+                        "legacyWordId": 1382183,
+                        "meaning": "topography ; landscape ; scenery",
+                        "parentId": 28570,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู-มิ-ประ-เทด",
+                        "usage": "",
+                        "verified": "พู-มิ-ประ-เทด",
+                        "word": "ภูมิประเทศ"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 1632,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13476,
+                        "legacyWordId": 1368541,
+                        "meaning": "China ; Peoples Republic of China",
+                        "parentId": 13476,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด จีน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศจีน"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 1196,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398405,
+                        "legacyWordId": 1321298,
+                        "meaning": "entire nation ; whole nation",
+                        "parentId": 398405,
+                        "partOfSpeech": "Pronoun",
+                        "t2e": "ทั้ง ปฺระ-เทด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทั้งประเทศ"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 1113,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11772,
+                        "legacyWordId": 1368564,
+                        "meaning": "Japan",
+                        "parentId": 11772,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด ยี่-ปุ่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศญี่ปุ่น"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 820,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399008,
+                        "legacyWordId": 1368669,
+                        "meaning": "People's Democratic Republic of Laos",
+                        "parentId": 399008,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด ลาว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศลาว"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 725,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12926,
+                        "legacyWordId": 1368704,
+                        "meaning": "England",
+                        "parentId": 12926,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด อัง-กฺริด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศอังกฤษ"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 657,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12866,
+                        "legacyWordId": 1368687,
+                        "meaning": "member state ; member country",
+                        "parentId": 12866,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด สะ-มา-ชิก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศสมาชิก"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 630,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 384066,
+                        "legacyWordId": 1390000,
+                        "meaning": "national class ; national level",
+                        "parentId": 384066,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ระ-ดับ ปฺระ-เทด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ระดับประเทศ"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 592,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50612,
+                        "legacyWordId": 1368626,
+                        "meaning": "Myanmar",
+                        "parentId": 50612,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด พะ-ม่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศพม่า"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 475,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50297,
+                        "legacyWordId": 1368625,
+                        "meaning": "France",
+                        "parentId": 50297,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด ฝะ-หฺรั่ง-เสด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศฝรั่งเศส"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 438,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12919,
+                        "legacyWordId": 1368713,
+                        "meaning": "Republic of India ; India",
+                        "parentId": 12919,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด อิน-เดีย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศอินเดีย"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 424,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50610,
+                        "legacyWordId": 1368506,
+                        "meaning": "Cambodia",
+                        "parentId": 50610,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด กำ-พู-ชา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศกัมพูชา"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 320,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50680,
+                        "legacyWordId": 1368680,
+                        "meaning": "Vietnam",
+                        "parentId": 50680,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด เวียด-นาม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศเวียดนาม"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 267,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 510464,
+                        "legacyWordId": 1270154,
+                        "meaning": "national development",
+                        "parentId": 510464,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน พัด-ทะ-นา ปฺระ-เทด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การพัฒนาประเทศ"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 223,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50703,
+                        "legacyWordId": 1368702,
+                        "meaning": "Australia",
+                        "parentId": 50703,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด ออด-เตฺร-เลีย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศออสเตรเลีย"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 196,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38045,
+                        "legacyWordId": 1368511,
+                        "meaning": "developing country",
+                        "parentId": 38045,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด กำ-ลัง พัด-ทะ-นา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศกำลังพัฒนา"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 180,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50274,
+                        "legacyWordId": 1368655,
+                        "meaning": "Germany",
+                        "parentId": 50274,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด เยอ-ระ-มะ-นี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศเยอรมนี"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 163,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50682,
+                        "legacyWordId": 1368699,
+                        "meaning": "Singapore",
+                        "parentId": 50682,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด สิง-คะ-โป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศสิงคโปร์"
+                    },
+                    {
+                        "childId": 33346,
+                        "corpusScore": 161,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50498,
+                        "legacyWordId": 1368663,
+                        "meaning": "Russia",
+                        "parentId": 50498,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-เทด รัด-เซีย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประเทศรัสเซีย"
+                    }
+                ],
+                "explanation": null,
+                "id": 33346,
+                "isUncommon": false,
+                "meaning": "country ; nation ; state",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ประเทศ"
+            }
+        ],
+        "t2e": "ปฺระ-เทด",
+        "verified": null,
+        "word": "ประเทศ"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

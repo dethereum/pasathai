@@ -1,0 +1,73 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 359,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1385537,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 5828,
+                        "corpusScore": 122723,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 5828,
+                        "legacyWordId": 1385235,
+                        "meaning": "when ; at the time ; at",
+                        "parentId": 46479,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "เมื่อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เมื่อ"
+                    },
+                    {
+                        "childId": 397148,
+                        "corpusScore": 10849,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 397148,
+                        "legacyWordId": 1293997,
+                        "meaning": "morning",
+                        "parentId": 46479,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เช้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เช้า"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "this morning",
+                        "word": "this morning"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": "referring to a morning just past",
+                "id": 46479,
+                "isUncommon": false,
+                "meaning": "this morning",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "เมื่อเช้า"
+            }
+        ],
+        "t2e": "เมื่อ เช้า",
+        "verified": null,
+        "word": "เมื่อเช้า"
+    },
+    "greenBarCount": 2,
+    "pageUrl": "",
+    "type": "thai-word"
+}

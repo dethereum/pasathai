@@ -1,0 +1,868 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "I have to eat all this ?",
+            "id": 445,
+            "phonetic": "ผม ต้อง กิน ทั้ง หฺมด นี่ เลย เหฺรอ คฺรับ",
+            "thaiSentence": "ผมต้องกินทั้งหมดนี่เลยเหรอครับ",
+            "thaiSentenceSpaced": " ผม ต้อง กิน ทั้งหมด นี่ เลย เหรอ ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] eat ; consume <i>(As well as food, กิน is also used when referring to drinks and medicines in Thai.)</i>"
+                        }
+                    ],
+                    "phonetic": "กิน",
+                    "word": "กิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "absolutely ; all ; total"
+                        }
+                    ],
+                    "phonetic": "ทั้ง หฺมด",
+                    "word": "ทั้งหมด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Do you want a chocolate ?",
+            "id": 14960,
+            "phonetic": "หฺยาก กิน ช็อก-โก-แล็ด ไหฺม",
+            "thaiSentence": "อยากกินช็อกโกแลตไหม",
+            "thaiSentenceSpaced": " อยาก กิน ช็อกโกแลต ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want to"
+                        }
+                    ],
+                    "phonetic": "หฺยาก",
+                    "word": "อยาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] eat ; consume <i>(As well as food, กิน is also used when referring to drinks and medicines in Thai.)</i>"
+                        }
+                    ],
+                    "phonetic": "กิน",
+                    "word": "กิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "chocolate"
+                        }
+                    ],
+                    "phonetic": "ช็อก-โก-แล็ด",
+                    "word": "ช็อกโกแลต"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Are you going to eat me ?",
+            "id": 21198,
+            "phonetic": "จะ กิน ฉัน ไหฺม",
+            "thaiSentence": "จะกินฉันไหม",
+            "thaiSentenceSpaced": " จะ กิน ฉัน ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] eat ; consume <i>(As well as food, กิน is also used when referring to drinks and medicines in Thai.)</i>"
+                        }
+                    ],
+                    "phonetic": "กิน",
+                    "word": "กิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am not eating it.",
+            "id": 43898,
+            "phonetic": "ฉัน ไม่ กิน มัน เด็ด ขาด",
+            "thaiSentence": "ฉันไม่กินมันเด็ดขาด",
+            "thaiSentenceSpaced": " ฉัน ไม่ กิน มัน เด็ดขาด ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] eat ; consume <i>(As well as food, กิน is also used when referring to drinks and medicines in Thai.)</i>"
+                        }
+                    ],
+                    "phonetic": "กิน",
+                    "word": "กิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] decisive ; firm"
+                        },
+                        {
+                            "meaning": "absolutely ; resolutely"
+                        }
+                    ],
+                    "phonetic": "เด็ด ขาด",
+                    "word": "เด็ดขาด"
+                }
+            ]
+        },
+        {
+            "engSentence": "Do you eat fish ?",
+            "id": 44273,
+            "phonetic": "กิน ปฺลา ไหฺม",
+            "thaiSentence": "กินปลาไหม",
+            "thaiSentenceSpaced": " กิน ปลา ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] eat ; consume <i>(As well as food, กิน is also used when referring to drinks and medicines in Thai.)</i>"
+                        }
+                    ],
+                    "phonetic": "กิน",
+                    "word": "กิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "fish"
+                        }
+                    ],
+                    "phonetic": "ปฺลา",
+                    "word": "ปลา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "WeII, drink your soup.",
+            "id": 45797,
+            "phonetic": "เอ้า · กิน ซุบ สิ",
+            "thaiSentence": "เอ้า กินซุปสิ",
+            "thaiSentenceSpaced": " เอ้า  ·  กิน ซุป สิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "oh!"
+                        }
+                    ],
+                    "phonetic": "เอ้า",
+                    "word": "เอ้า"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] eat ; consume <i>(As well as food, กิน is also used when referring to drinks and medicines in Thai.)</i>"
+                        }
+                    ],
+                    "phonetic": "กิน",
+                    "word": "กิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "soup"
+                        }
+                    ],
+                    "phonetic": "ซุบ",
+                    "word": "ซุป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 42648,
+        "exampleSentences": [
+            {
+                "engSentence": "I have to eat all this ?",
+                "id": 445,
+                "thaiSentence": "ผมต้องกินทั้งหมดนี่เลยเหรอครับ",
+                "thaiSentenceSpaced": " ผม ต้อง กิน ทั้งหมด นี่ เลย เหรอ ครับ "
+            },
+            {
+                "engSentence": "Do you want a chocolate ?",
+                "id": 14960,
+                "thaiSentence": "อยากกินช็อกโกแลตไหม",
+                "thaiSentenceSpaced": " อยาก กิน ช็อกโกแลต ไหม "
+            },
+            {
+                "engSentence": "Are you going to eat me ?",
+                "id": 21198,
+                "thaiSentence": "จะกินฉันไหม",
+                "thaiSentenceSpaced": " จะ กิน ฉัน ไหม "
+            },
+            {
+                "engSentence": "I am not eating it.",
+                "id": 43898,
+                "thaiSentence": "ฉันไม่กินมันเด็ดขาด",
+                "thaiSentenceSpaced": " ฉัน ไม่ กิน มัน เด็ดขาด "
+            },
+            {
+                "engSentence": "Do you eat fish ?",
+                "id": 44273,
+                "thaiSentence": "กินปลาไหม",
+                "thaiSentenceSpaced": " กิน ปลา ไหม "
+            },
+            {
+                "engSentence": "WeII, drink your soup.",
+                "id": 45797,
+                "thaiSentence": "เอ้า กินซุปสิ",
+                "thaiSentenceSpaced": " เอ้า  &middot;  กิน ซุป สิ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1272580,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] eat",
+                        "word": "eat"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "consume",
+                        "word": "consume"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 46307,
+                        "corpusScore": 2902,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26218,
+                        "legacyWordId": 1448973,
+                        "meaning": "[to] make a living ; earn a living",
+                        "parentId": 26218,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หา กิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หากิน"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 2570,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "Although this is literally \"to eat rice\" it's used as a general term for referring to eating meals.",
+                        "hasSoundFile": false,
+                        "id": 395472,
+                        "legacyWordId": 1272591,
+                        "meaning": "[to] eat",
+                        "parentId": 395472,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กิน ข้าว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กินข้าว"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 1962,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396914,
+                        "legacyWordId": 1272660,
+                        "meaning": "[to] eat",
+                        "parentId": 396914,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กิน อา-หาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กินอาหาร"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 1835,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49959,
+                        "legacyWordId": 1267219,
+                        "meaning": "eating",
+                        "parentId": 49959,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน กิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การกิน"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 1184,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32993,
+                        "legacyWordId": 1272585,
+                        "meaning": "[to] harmonize ; get along ; fit well together",
+                        "parentId": 32993,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กิน กัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กินกัน"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 866,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7116,
+                        "legacyWordId": 1275349,
+                        "meaning": "things to eat",
+                        "parentId": 7116,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ของ กิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ของกิน"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 797,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14892,
+                        "legacyWordId": 1328154,
+                        "meaning": "[to be] tasty-looking ; appetizing",
+                        "parentId": 14892,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "น่า กิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น่ากิน"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 524,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396915,
+                        "legacyWordId": 1272656,
+                        "meaning": "[to] drink alcohol",
+                        "parentId": 396915,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กิน เหฺล้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กินเหล้า"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 509,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8996,
+                        "legacyWordId": 1272626,
+                        "meaning": "[to] doubt ; distrust ; mistrust",
+                        "parentId": 8996,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กิน ไน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กินใน"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 437,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15860,
+                        "legacyWordId": 1323020,
+                        "meaning": "[to] earn a living ; make a living",
+                        "parentId": 15860,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ มา หา กิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำมาหากิน"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 348,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9498,
+                        "legacyWordId": 1272596,
+                        "meaning": "[to] be a vegetarian",
+                        "parentId": 9498,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กิน เจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กินเจ"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 337,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10518,
+                        "legacyWordId": 1272648,
+                        "meaning": "[to] be time consuming",
+                        "parentId": 10518,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กิน เว-ลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กินเวลา"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 267,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26164,
+                        "legacyWordId": 1454522,
+                        "meaning": "food ; nutrition ; diet",
+                        "parentId": 26164,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-หาน กาน กิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาหารการกิน"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 241,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402293,
+                        "legacyWordId": 1274571,
+                        "meaning": "[to] eat ; consume",
+                        "parentId": 402293,
+                        "partOfSpeech": "Verb",
+                        "t2e": "โกง กิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โกงกิน"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 235,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26275,
+                        "legacyWordId": 1452224,
+                        "meaning": "[to] live together ; cohabit",
+                        "parentId": 26275,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยู่ กิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่กิน"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 223,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42939,
+                        "legacyWordId": 1272598,
+                        "meaning": "[to] be wary (of) ; be suspicious (of)",
+                        "parentId": 42939,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กิน ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กินใจ"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 223,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42940,
+                        "legacyWordId": 1272598,
+                        "meaning": "[to be] moving ; profound ; deep",
+                        "parentId": 42940,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "กิน ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กินใจ"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 212,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34990,
+                        "legacyWordId": 1329426,
+                        "meaning": "drinking water ; potable water",
+                        "parentId": 34990,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้าม กิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น้ำกิน"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 161,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15775,
+                        "legacyWordId": 1323389,
+                        "meaning": "workplace ; land",
+                        "parentId": 15775,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ที่ ทำ กิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่ทำกิน"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 112,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1478,
+                        "legacyWordId": 1387708,
+                        "meaning": "oral drug ; oral medicine",
+                        "parentId": 1478,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ยา กิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ยากิน"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 102,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9364,
+                        "legacyWordId": 1272634,
+                        "meaning": "[to] govern a town ; capture a town ; rule the town",
+                        "parentId": 9364,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กิน เมือง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กินเมือง"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 86,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37256,
+                        "legacyWordId": 1404538,
+                        "meaning": "lottery ; lottery ticket",
+                        "parentId": 37256,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ-หฺลาก กิน แบ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สลากกินแบ่ง"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 84,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9687,
+                        "legacyWordId": 1272647,
+                        "meaning": "[to] feast ; banquet",
+                        "parentId": 9687,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กิน เลี้ยง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กินเลี้ยง"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 83,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9983,
+                        "legacyWordId": 1272590,
+                        "meaning": "[to] be superior ; be much better",
+                        "parentId": 9983,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กิน ขาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กินขาด"
+                    },
+                    {
+                        "childId": 46307,
+                        "corpusScore": 70,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9517,
+                        "legacyWordId": 1272618,
+                        "meaning": "[to be] boarding ; resident",
+                        "parentId": 9517,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "กิน นอน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กินนอน"
+                    }
+                ],
+                "explanation": "As well as food, กิน is also used when referring to drinks and medicines in Thai.",
+                "id": 46307,
+                "isUncommon": false,
+                "meaning": "[to] eat ; consume",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "กิน"
+            }
+        ],
+        "t2e": "กิน",
+        "verified": null,
+        "word": "กิน"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

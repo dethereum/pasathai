@@ -1,0 +1,1409 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "I must be in the wrong room.",
+            "id": 747,
+            "phonetic": "ฉัน ต้อง หฺยู่ ผิด ห้อง แน่ เลย",
+            "thaiSentence": "ฉันต้องอยู่ผิดห้องแน่เลย",
+            "thaiSentenceSpaced": " ฉัน ต้อง อยู่ ผิด ห้อง แน่เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] wrong ; incorrect"
+                        }
+                    ],
+                    "phonetic": "ผิด",
+                    "word": "ผิด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "room <i>(ห้อง is also the classifier for rooms.)</i>"
+                        }
+                    ],
+                    "phonetic": "ห้อง",
+                    "word": "ห้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be sure ; be certain"
+                        }
+                    ],
+                    "phonetic": "แน่",
+                    "word": "แน่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Is something bothering you ?",
+            "id": 830,
+            "phonetic": "มี อะ-ไร รบ กวน คุน หฺยู่ หฺรือ เปฺล่า",
+            "thaiSentence": "มีอะไรรบกวนคุณอยู่หรือเปล่า",
+            "thaiSentenceSpaced": " มี อะไร รบกวน คุณ อยู่ หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] annoy ; bother"
+                        }
+                    ],
+                    "phonetic": "รบ กวน",
+                    "word": "รบกวน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "What are you talking about ?",
+            "id": 858,
+            "phonetic": "กำ-ลัง พูด เรื่อง อะ-ไร หฺยู่",
+            "thaiSentence": "กำลังพูดเรื่องอะไรอยู่",
+            "thaiSentenceSpaced": " กำลัง พูด เรื่อง อะไร อยู่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "power ; energy ; strength"
+                        },
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense)</i>"
+                        }
+                    ],
+                    "phonetic": "กำ-ลัง",
+                    "word": "กำลัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] talk ; say ; speak"
+                        }
+                    ],
+                    "phonetic": "พูด",
+                    "word": "พูด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "matter ; affair ; thing <i>(เรื่อง is the classifier for a movie, story or tale.)</i>"
+                        },
+                        {
+                            "meaning": "about ; regarding ; concerning"
+                        },
+                        {
+                            "meaning": "problem ; trouble"
+                        }
+                    ],
+                    "phonetic": "เรื่อง",
+                    "word": "เรื่อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                }
+            ]
+        },
+        {
+            "engSentence": "What are you thinking about ?",
+            "id": 1371,
+            "phonetic": "คุน กำ-ลัง คิด อะ-ไร หฺยู่",
+            "thaiSentence": "คุณกำลังคิดอะไรอยู่",
+            "thaiSentenceSpaced": " คุณ กำลัง คิด อะไร อยู่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "power ; energy ; strength"
+                        },
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense)</i>"
+                        }
+                    ],
+                    "phonetic": "กำ-ลัง",
+                    "word": "กำลัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] think ; consider ; calculate"
+                        }
+                    ],
+                    "phonetic": "คิด",
+                    "word": "คิด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                }
+            ]
+        },
+        {
+            "engSentence": "What are you thinking about ?",
+            "id": 1572,
+            "phonetic": "กำ-ลัง คิด เรื่อง อะ-ไร หฺยู่ เหฺรอ",
+            "thaiSentence": "กำลังคิดเรื่องอะไรอยู่เหรอ",
+            "thaiSentenceSpaced": " กำลัง คิด เรื่อง อะไร อยู่ เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "power ; energy ; strength"
+                        },
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense)</i>"
+                        }
+                    ],
+                    "phonetic": "กำ-ลัง",
+                    "word": "กำลัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] think ; consider ; calculate"
+                        }
+                    ],
+                    "phonetic": "คิด",
+                    "word": "คิด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "matter ; affair ; thing <i>(เรื่อง is the classifier for a movie, story or tale.)</i>"
+                        },
+                        {
+                            "meaning": "about ; regarding ; concerning"
+                        },
+                        {
+                            "meaning": "problem ; trouble"
+                        }
+                    ],
+                    "phonetic": "เรื่อง",
+                    "word": "เรื่อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Are you listening to me ?",
+            "id": 1936,
+            "phonetic": "คุน ฟัง ผม หฺยู่ หฺรือ เปฺล่า",
+            "thaiSentence": "คุณฟังผมอยู่หรือเปล่า",
+            "thaiSentenceSpaced": " คุณ ฟัง ผม อยู่ หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] listen (to something) ; hear (something)"
+                        }
+                    ],
+                    "phonetic": "ฟัง",
+                    "word": "ฟัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 250261,
+        "exampleSentences": [
+            {
+                "engSentence": "I must be in the wrong room.",
+                "id": 747,
+                "thaiSentence": "ฉันต้องอยู่ผิดห้องแน่เลย",
+                "thaiSentenceSpaced": " ฉัน ต้อง อยู่ ผิด ห้อง แน่เลย "
+            },
+            {
+                "engSentence": "Is something bothering you ?",
+                "id": 830,
+                "thaiSentence": "มีอะไรรบกวนคุณอยู่หรือเปล่า",
+                "thaiSentenceSpaced": " มี อะไร รบกวน คุณ อยู่ หรือเปล่า "
+            },
+            {
+                "engSentence": "What are you talking about ?",
+                "id": 858,
+                "thaiSentence": "กำลังพูดเรื่องอะไรอยู่",
+                "thaiSentenceSpaced": " กำลัง พูด เรื่อง อะไร อยู่ "
+            },
+            {
+                "engSentence": "What are you thinking about ?",
+                "id": 1371,
+                "thaiSentence": "คุณกำลังคิดอะไรอยู่",
+                "thaiSentenceSpaced": " คุณ กำลัง คิด อะไร อยู่ "
+            },
+            {
+                "engSentence": "What are you thinking about ?",
+                "id": 1572,
+                "thaiSentence": "กำลังคิดเรื่องอะไรอยู่เหรอ",
+                "thaiSentenceSpaced": " กำลัง คิด เรื่อง อะไร อยู่ เหรอ "
+            },
+            {
+                "engSentence": "Are you listening to me ?",
+                "id": 1936,
+                "thaiSentence": "คุณฟังผมอยู่หรือเปล่า",
+                "thaiSentenceSpaced": " คุณ ฟัง ผม อยู่ หรือเปล่า "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1452219,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] be at",
+                        "word": "at"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "live at",
+                        "word": "live at"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "stay",
+                        "word": "stay"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 38943,
+                        "corpusScore": 20128,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 48074,
+                        "legacyWordId": 1323613,
+                        "meaning": "address ; location",
+                        "parentId": 48074,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ที่ หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่อยู่"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 19862,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 384085,
+                        "legacyWordId": 1452240,
+                        "meaning": "[to] be at ; stay at ; live at",
+                        "parentId": 384085,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยู่ ที่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่ที่"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 9849,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 41218,
+                        "legacyWordId": 1452222,
+                        "meaning": "[to] live with ; stay with ; be with",
+                        "parentId": 41218,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยู่ กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่กับ"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 8059,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 17926,
+                        "legacyWordId": 1310504,
+                        "meaning": "[to] be in ; maintain ; remain",
+                        "parentId": 17926,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตั้ง หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตั้งอยู่"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 4806,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45248,
+                        "legacyWordId": 1454477,
+                        "meaning": "[to] live ; reside",
+                        "parentId": 45248,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อา-ไส หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาศัยอยู่"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 3419,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29046,
+                        "legacyWordId": 1276680,
+                        "meaning": "[to] depend on ; rely on",
+                        "parentId": 29046,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขึ้น หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขึ้นอยู่"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 2360,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28133,
+                        "legacyWordId": 1452276,
+                        "meaning": "[to] live ; settle ; inhabit",
+                        "parentId": 28133,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยู่ อา-ไส",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่อาศัย"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 2172,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 68420,
+                        "legacyWordId": 1387232,
+                        "meaning": "absent",
+                        "parentId": 68420,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไม่ หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่อยู่"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 1915,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29871,
+                        "legacyWordId": 1278359,
+                        "meaning": "[to] remain",
+                        "parentId": 29871,
+                        "partOfSpeech": "Verb",
+                        "t2e": "คง หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คงอยู่"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 1769,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 36466,
+                        "legacyWordId": 1376572,
+                        "meaning": "king ; His Majesty",
+                        "parentId": 36466,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พฺระ เจ้า หฺยู่ หัว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พระเจ้าอยู่หัว"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 1731,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22552,
+                        "legacyWordId": 1450419,
+                        "meaning": "[to] remain ; be left (over)",
+                        "parentId": 22552,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เหฺลือ หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เหลืออยู่"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 1674,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45118,
+                        "legacyWordId": 1452246,
+                        "meaning": "be at home ; stay at home",
+                        "parentId": 45118,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺยู่ บ้าน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่บ้าน"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 1474,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43609,
+                        "legacyWordId": 1271872,
+                        "meaning": "staying ; living",
+                        "parentId": 43609,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การอยู่"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 998,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13207,
+                        "legacyWordId": 1307526,
+                        "meaning": "[to] hold ; occupy",
+                        "parentId": 13207,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ดำ-รง หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดำรงอยู่"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 984,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24261,
+                        "legacyWordId": 1452258,
+                        "meaning": "[to] coexist ; live together",
+                        "parentId": 24261,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยู่ ร่วม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่ร่วม"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 870,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 43132,
+                        "legacyWordId": 1329348,
+                        "meaning": "[to be] livable ; habitable ; pleasant",
+                        "parentId": 43132,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "น่า หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น่าอยู่"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 812,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42057,
+                        "legacyWordId": 1452260,
+                        "meaning": "[to] survive ; exist",
+                        "parentId": 42057,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยู่ รอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่รอด"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 776,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44729,
+                        "legacyWordId": 1389286,
+                        "meaning": "[to] include",
+                        "parentId": 44729,
+                        "partOfSpeech": "Verb",
+                        "t2e": "รวม หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รวมอยู่"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 565,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 45343,
+                        "legacyWordId": 1290656,
+                        "meaning": "king",
+                        "parentId": 45343,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เจ้า หฺยู่ หัว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจ้าอยู่หัว"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 327,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45115,
+                        "legacyWordId": 1452278,
+                        "meaning": "unexpectedly",
+                        "parentId": 45115,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺยู่ หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่ๆ"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 286,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25816,
+                        "legacyWordId": 1452236,
+                        "meaning": "[to] be stable ; be steady",
+                        "parentId": 25816,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยู่ ตัว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่ตัว"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 282,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 91947,
+                        "legacyWordId": 1332007,
+                        "meaning": "contain",
+                        "parentId": 91947,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บัน-จุ หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บรรจุอยู่"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 237,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3213,
+                        "legacyWordId": 1452233,
+                        "meaning": "unexpectedly ; suddenly ; abruptly",
+                        "parentId": 3213,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺยู่ ดี ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่ดีๆ"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 235,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26275,
+                        "legacyWordId": 1452224,
+                        "meaning": "[to] live together ; cohabit",
+                        "parentId": 26275,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยู่ กิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่กิน"
+                    },
+                    {
+                        "childId": 38943,
+                        "corpusScore": 193,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "something, i.e. to orchestrate an action from behind the scenes",
+                        "hasSoundFile": false,
+                        "id": 193588,
+                        "legacyWordId": 1452247,
+                        "meaning": "[to] be behind",
+                        "parentId": 193588,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยู่ เบื้อง หฺลัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่เบื้องหลัง"
+                    }
+                ],
+                "explanation": null,
+                "id": 38943,
+                "isUncommon": false,
+                "meaning": "[to] be at ; live at ; stay",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "อยู่"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "",
+                        "word": ""
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 103360,
+                        "corpusScore": 12151,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42039,
+                        "legacyWordId": 1384640,
+                        "meaning": "[to] exist ; occur ; be",
+                        "parentId": 42039,
+                        "partOfSpeech": "Verb",
+                        "t2e": "มี หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มีอยู่"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 2644,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40723,
+                        "legacyWordId": 1372327,
+                        "meaning": "[to] exist",
+                        "parentId": 40723,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เป็น หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เป็นอยู่"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 1633,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398149,
+                        "legacyWordId": 1317532,
+                        "meaning": "[to be] unfinished ; undone ; pending",
+                        "parentId": 398149,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ติด หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ติดอยู่"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 636,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46276,
+                        "legacyWordId": 1392747,
+                        "meaning": "[to] know ; be aware",
+                        "parentId": 46276,
+                        "partOfSpeech": "Verb",
+                        "t2e": "รู้ หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รู้อยู่"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 573,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397490,
+                        "legacyWordId": 1283721,
+                        "meaning": "[to] part ; abandon ; forsaken",
+                        "parentId": 397490,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ค้าง หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ค้างอยู่"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 556,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399527,
+                        "legacyWordId": 1377769,
+                        "meaning": "[to] stay overnight",
+                        "parentId": 399527,
+                        "partOfSpeech": "Verb",
+                        "t2e": "พัก หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พักอยู่"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 541,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400409,
+                        "legacyWordId": 1399404,
+                        "meaning": "[to] be in ; maintain ; remain",
+                        "parentId": 400409,
+                        "partOfSpeech": "Verb",
+                        "t2e": "วาง หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วางอยู่"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 410,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401337,
+                        "legacyWordId": 1277840,
+                        "meaning": "[to] be possessed ; haunt",
+                        "parentId": 401337,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าอยู่"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 402,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401102,
+                        "legacyWordId": 1452244,
+                        "meaning": "[to] be in ; maintain ; remain",
+                        "parentId": 401102,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยู่ ไน สะ-พาบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่ในสภาพ"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 346,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33786,
+                        "legacyWordId": 1288323,
+                        "meaning": "in fact ; actually",
+                        "parentId": 33786,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "จิง หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จริงอยู่"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 260,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401097,
+                        "legacyWordId": 1452241,
+                        "meaning": "[to] be motionless ; be at a standstill",
+                        "parentId": 401097,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยู่ นิ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่นิ่ง"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 226,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397389,
+                        "legacyWordId": 1283390,
+                        "meaning": "[to] expect ; wait ; look forward to",
+                        "parentId": 397389,
+                        "partOfSpeech": "Verb",
+                        "t2e": "คอย หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คอยอยู่"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 207,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401100,
+                        "legacyWordId": 1452229,
+                        "meaning": "silently",
+                        "parentId": 401100,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺยู่ เฉย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่เฉย"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 77,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396275,
+                        "legacyWordId": 1270326,
+                        "meaning": "survival ; living ; existence",
+                        "parentId": 396275,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน มี ชี-วิด หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การมีชีวิตอยู่"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 52,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395450,
+                        "legacyWordId": 1452226,
+                        "meaning": "[to] stay away",
+                        "parentId": 395450,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยู่ ไกฺล ไกฺล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่ไกลๆ"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 41,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401101,
+                        "legacyWordId": 1452243,
+                        "meaning": "[to] be within the scope",
+                        "parentId": 401101,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยู่ ไน ข่าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่ในข่าย"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 32,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397543,
+                        "legacyWordId": 1287420,
+                        "meaning": "[to] engrossed (with)",
+                        "parentId": 397543,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ง่วน หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ง่วนอยู่"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 29,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401094,
+                        "legacyWordId": 1452234,
+                        "meaning": "continuously ; ceaselessly ; continually",
+                        "parentId": 401094,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺยู่ ตะ-หฺลอด ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่ตลอดไป"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 21,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401096,
+                        "legacyWordId": 1452237,
+                        "meaning": "[to] be well fit ; set something into shape",
+                        "parentId": 401096,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยู่ ซง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่ทรง"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 15,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399319,
+                        "legacyWordId": 1375073,
+                        "meaning": "leader ; chief ; chief of state",
+                        "parentId": 399319,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ หฺยู่ เหฺนือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้อยู่เหนือ"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 11,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20097,
+                        "legacyWordId": 1408004,
+                        "meaning": "remainder ; rest ; residue",
+                        "parentId": 20097,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิ่ง ที่ เหฺลือ หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิ่งที่เหลืออยู่"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 8,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399320,
+                        "legacyWordId": 1375070,
+                        "meaning": "eyewitness ; witness",
+                        "parentId": 399320,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ หฺยู่ ไน เหด กาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้อยู่ในเหตุการณ์"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 4,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4083,
+                        "legacyWordId": 1317533,
+                        "meaning": "[to] be stuck at one's lips",
+                        "parentId": 4083,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ติด หฺยู่ ที่ ปาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ติดอยู่ที่ปาก"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401095,
+                        "legacyWordId": 1452235,
+                        "meaning": "[to] confront ; face",
+                        "parentId": 401095,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยู่ ต่อ น่า กัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่ต่อหน้ากัน"
+                    },
+                    {
+                        "childId": 103360,
+                        "corpusScore": 1,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396419,
+                        "legacyWordId": 1271689,
+                        "meaning": "livelihood ; way of living ; existence",
+                        "parentId": 396419,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน หฺยุด หฺยู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การหยุดอยู่"
+                    }
+                ],
+                "explanation": "It's an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place",
+                "id": 103360,
+                "isUncommon": false,
+                "meaning": "",
+                "partOfSpeech": "SecondaryVerb",
+                "usage": "",
+                "word": "อยู่"
+            }
+        ],
+        "t2e": "หฺยู่",
+        "verified": "หฺยู่",
+        "word": "อยู่"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

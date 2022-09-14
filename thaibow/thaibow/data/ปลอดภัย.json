@@ -1,0 +1,591 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "You'll be safe in there.",
+            "id": 9921,
+            "phonetic": "คุน จะ ปฺลอด ไพ หฺยู่ ไน นั้น",
+            "thaiSentence": "คุณจะปลอดภัยอยู่ในนั้น",
+            "thaiSentenceSpaced": " คุณ จะ ปลอดภัย อยู่ ใน นั้น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be safe ; be out of danger ; be free from harm"
+                        }
+                    ],
+                    "phonetic": "ปฺลอด ไพ",
+                    "word": "ปลอดภัย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence, or to show the end of a relative clause)</i>"
+                        },
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั้น",
+                    "word": "นั้น"
+                }
+            ]
+        },
+        {
+            "engSentence": "Is it safe ?",
+            "id": 45198,
+            "phonetic": "มัน จะ ปฺลอด ไพ ไหฺม",
+            "thaiSentence": "มันจะปลอดภัยไหม",
+            "thaiSentenceSpaced": " มัน จะ ปลอดภัย ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be safe ; be out of danger ; be free from harm"
+                        }
+                    ],
+                    "phonetic": "ปฺลอด ไพ",
+                    "word": "ปลอดภัย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Your soy nuts are safe.",
+            "id": 45652,
+            "phonetic": "ถั่ว หฺนู ปฺลอด ไพ แล้ว",
+            "thaiSentence": "ถั่วหนูปลอดภัยแล้ว",
+            "thaiSentenceSpaced": " ถั่ว หนู ปลอดภัย แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "bean ; pea ; nut"
+                        }
+                    ],
+                    "phonetic": "ถั่ว",
+                    "word": "ถั่ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "rat ; mouse"
+                        },
+                        {
+                            "meaning": "she ; her"
+                        },
+                        {
+                            "meaning": "you"
+                        },
+                        {
+                            "meaning": "I ; me <i>(used by young children, and by women when speaking to their elders)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺนู",
+                    "word": "หนู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be safe ; be out of danger ; be free from harm"
+                        }
+                    ],
+                    "phonetic": "ปฺลอด ไพ",
+                    "word": "ปลอดภัย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "Maybe I was safer outside.",
+            "id": 50719,
+            "phonetic": "บาง ที ฉัน น่า จะ ปฺลอด ไพ กฺว่า ข้าง นอก",
+            "thaiSentence": "บางทีฉันน่าจะปลอดภัยกว่าข้างนอก",
+            "thaiSentenceSpaced": " บางที ฉัน น่าจะ ปลอดภัย กว่า ข้างนอก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "perhaps ; maybe"
+                        },
+                        {
+                            "meaning": "sometimes ; occasionally"
+                        }
+                    ],
+                    "phonetic": "บาง ที",
+                    "word": "บางที"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "should ; had better"
+                        }
+                    ],
+                    "phonetic": "น่า จะ",
+                    "word": "น่าจะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be safe ; be out of danger ; be free from harm"
+                        }
+                    ],
+                    "phonetic": "ปฺลอด ไพ",
+                    "word": "ปลอดภัย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "more ; more than"
+                        }
+                    ],
+                    "phonetic": "กฺว่า",
+                    "word": "กว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "outside"
+                        },
+                        {
+                            "meaning": "outside ; outdoors"
+                        }
+                    ],
+                    "phonetic": "ข้าง นอก",
+                    "word": "ข้างนอก"
+                }
+            ]
+        },
+        {
+            "engSentence": "You are safe.",
+            "id": 50975,
+            "phonetic": "คุน ปฺลอด ไพ",
+            "thaiSentence": "คุณปลอดภัย",
+            "thaiSentenceSpaced": " คุณ ปลอดภัย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be safe ; be out of danger ; be free from harm"
+                        }
+                    ],
+                    "phonetic": "ปฺลอด ไพ",
+                    "word": "ปลอดภัย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Is everyone all right ?",
+            "id": 54922,
+            "phonetic": "ทุก คน · ปฺลอด ไพ ดี หฺรือ เปฺล่า",
+            "thaiSentence": "ทุกคน ปลอดภัยดีหรือเปล่า",
+            "thaiSentenceSpaced": " ทุก คน  ·  ปลอดภัย ดี หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "everyone ; everybody"
+                        }
+                    ],
+                    "phonetic": "ทุก คน",
+                    "word": "ทุกคน"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be safe ; be out of danger ; be free from harm"
+                        }
+                    ],
+                    "phonetic": "ปฺลอด ไพ",
+                    "word": "ปลอดภัย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 7489,
+        "exampleSentences": [
+            {
+                "engSentence": "You'll be safe in there.",
+                "id": 9921,
+                "thaiSentence": "คุณจะปลอดภัยอยู่ในนั้น",
+                "thaiSentenceSpaced": " คุณ จะ ปลอดภัย อยู่ ใน นั้น "
+            },
+            {
+                "engSentence": "Is it safe ?",
+                "id": 45198,
+                "thaiSentence": "มันจะปลอดภัยไหม",
+                "thaiSentenceSpaced": " มัน จะ ปลอดภัย ไหม "
+            },
+            {
+                "engSentence": "Your soy nuts are safe.",
+                "id": 45652,
+                "thaiSentence": "ถั่วหนูปลอดภัยแล้ว",
+                "thaiSentenceSpaced": " ถั่ว หนู ปลอดภัย แล้ว "
+            },
+            {
+                "engSentence": "Maybe I was safer outside.",
+                "id": 50719,
+                "thaiSentence": "บางทีฉันน่าจะปลอดภัยกว่าข้างนอก",
+                "thaiSentenceSpaced": " บางที ฉัน น่าจะ ปลอดภัย กว่า ข้างนอก "
+            },
+            {
+                "engSentence": "You are safe.",
+                "id": 50975,
+                "thaiSentence": "คุณปลอดภัย",
+                "thaiSentenceSpaced": " คุณ ปลอดภัย "
+            },
+            {
+                "engSentence": "Is everyone all right ?",
+                "id": 54922,
+                "thaiSentence": "ทุกคน ปลอดภัยดีหรือเปล่า",
+                "thaiSentenceSpaced": " ทุก คน  &middot;  ปลอดภัย ดี หรือเปล่า "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1369467,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 42129,
+                        "corpusScore": 7586,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42129,
+                        "legacyWordId": 1369460,
+                        "meaning": "[to be] free from ; clear of",
+                        "parentId": 35411,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ปฺลอด",
+                        "usage": "",
+                        "verified": "ปฺลอด",
+                        "word": "ปลอด"
+                    },
+                    {
+                        "childId": 28064,
+                        "corpusScore": 18562,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 28064,
+                        "legacyWordId": 1381320,
+                        "meaning": "danger ; harm ; risk",
+                        "parentId": 35411,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไพ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ภัย"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] be safe",
+                        "word": "safe"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "be out of danger",
+                        "word": "be out of danger"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "be free from harm",
+                        "word": "be free from harm"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 35411,
+                        "corpusScore": 2254,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 2718,
+                        "legacyWordId": 1281961,
+                        "meaning": "safety ; security",
+                        "parentId": 2718,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม ปฺลอด ไพ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความปลอดภัย"
+                    },
+                    {
+                        "childId": 35411,
+                        "corpusScore": 295,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25469,
+                        "legacyWordId": 1452102,
+                        "meaning": "safely ; securely",
+                        "parentId": 25469,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺย่าง ปฺลอด ไพ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อย่างปลอดภัย"
+                    },
+                    {
+                        "childId": 35411,
+                        "corpusScore": 259,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398535,
+                        "legacyWordId": 1323454,
+                        "meaning": "safety zone",
+                        "parentId": 398535,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ที่ ปฺลอด ไพ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่ปลอดภัย"
+                    },
+                    {
+                        "childId": 35411,
+                        "corpusScore": 3,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 70210,
+                        "legacyWordId": 1390450,
+                        "meaning": "safe period",
+                        "parentId": 70210,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ระ-ยะ ปฺลอด ไพ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ระยะปลอดภัย"
+                    },
+                    {
+                        "childId": 35411,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12484,
+                        "legacyWordId": 1276990,
+                        "meaning": "safety zone",
+                        "parentId": 12484,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เขด ปฺลอด ไพ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เขตปลอดภัย"
+                    },
+                    {
+                        "childId": 35411,
+                        "corpusScore": 1,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 81702,
+                        "legacyWordId": 1404610,
+                        "meaning": "margin of safety",
+                        "parentId": 81702,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ส่วน เกิน ที่ ปฺลอด ไพ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ส่วนเกินที่ปลอดภัย"
+                    },
+                    {
+                        "childId": 35411,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 87098,
+                        "legacyWordId": 1369468,
+                        "meaning": "fail-safe",
+                        "parentId": 87098,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลอด ไพ แม้ ขัด ข้อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลอดภัยแม้ขัดข้อง"
+                    }
+                ],
+                "explanation": null,
+                "id": 35411,
+                "isUncommon": false,
+                "meaning": "[to] be safe ; be out of danger ; be free from harm",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ปลอดภัย"
+            }
+        ],
+        "t2e": "ปฺลอด ไพ",
+        "verified": null,
+        "word": "ปลอดภัย"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,940 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "So give me some fin.",
+            "id": 1649,
+            "phonetic": "ขอ คฺรีบ หฺน่อย",
+            "thaiSentence": "ขอครีบหน่อย",
+            "thaiSentenceSpaced": " ขอ ครีบ หน่อย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask for ; request for ; ask"
+                        }
+                    ],
+                    "phonetic": "ขอ",
+                    "word": "ขอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "fin ; flipper"
+                        }
+                    ],
+                    "phonetic": "คฺรีบ",
+                    "word": "ครีบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle added to soften a request or command)</i>"
+                        },
+                        {
+                            "meaning": "a little ; a little bit"
+                        }
+                    ],
+                    "phonetic": "หฺน่อย",
+                    "word": "หน่อย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Can we wait for her outside ?",
+            "id": 5448,
+            "phonetic": "พวก เรา ขอ รอ เขา ข้าง นอก ด้าย ไหฺม คฺรับ",
+            "thaiSentence": "พวกเราขอรอเขาข้างนอกได้ไหมครับ",
+            "thaiSentenceSpaced": " พวกเรา ขอ รอ เขา ข้างนอก ได้ ไหม ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us ; all of us"
+                        }
+                    ],
+                    "phonetic": "พวก เรา",
+                    "word": "พวกเรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask for ; request for ; ask"
+                        }
+                    ],
+                    "phonetic": "ขอ",
+                    "word": "ขอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wait (for)"
+                        }
+                    ],
+                    "phonetic": "รอ",
+                    "word": "รอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "outside"
+                        },
+                        {
+                            "meaning": "outside ; outdoors"
+                        }
+                    ],
+                    "phonetic": "ข้าง นอก",
+                    "word": "ข้างนอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Sorry, what was your name ?",
+            "id": 5617,
+            "phonetic": "ขอ โทด · คุน ชื่อ อะ-ไร",
+            "thaiSentence": "ขอโทษ คุณชื่ออะไร",
+            "thaiSentenceSpaced": " ขอ โทษ  ·  คุณ ชื่อ อะไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "sorry ! ; excuse me !"
+                        },
+                        {
+                            "meaning": "[to] apologize ; say sorry <i>(ขอโทษ is \"sorry\" in the sense of making an apology; for \"sorry\" in the sense of offering sympathy เสียใจ is used instead.)</i>"
+                        }
+                    ],
+                    "phonetic": "ขอ โทด",
+                    "word": "ขอโทษ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be named"
+                        },
+                        {
+                            "meaning": "name ; first name"
+                        }
+                    ],
+                    "phonetic": "ชื่อ",
+                    "word": "ชื่อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "Wow, can I try it on ?",
+            "id": 24103,
+            "phonetic": "โอ้ โห้ · ขอ ฉัน ลอง หฺน่อย ด้าย ไหฺม",
+            "thaiSentence": "โอ้โห้ ขอฉันลองหน่อยได้ไหม",
+            "thaiSentenceSpaced": " โอ้ โห้  ·  ขอ ฉัน ลอง หน่อย ได้ ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(interjection showing surprise, admiration or amazement at something)</i>"
+                        }
+                    ],
+                    "phonetic": "โอ้ โห้",
+                    "word": "โอ้โห้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask for ; request for ; ask"
+                        }
+                    ],
+                    "phonetic": "ขอ",
+                    "word": "ขอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] try ; sample"
+                        }
+                    ],
+                    "phonetic": "ลอง",
+                    "word": "ลอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle added to soften a request or command)</i>"
+                        },
+                        {
+                            "meaning": "a little ; a little bit"
+                        }
+                    ],
+                    "phonetic": "หฺน่อย",
+                    "word": "หน่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Can I ask you something ?",
+            "id": 28075,
+            "phonetic": "ขอ ถาม อะ-ไร ด้าย ไหฺม",
+            "thaiSentence": "ขอถามอะไรได้ไหม",
+            "thaiSentenceSpaced": " ขอ ถาม อะไร ได้ ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask for ; request for ; ask"
+                        }
+                    ],
+                    "phonetic": "ขอ",
+                    "word": "ขอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask"
+                        }
+                    ],
+                    "phonetic": "ถาม",
+                    "word": "ถาม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Give me your phone number.",
+            "id": 30968,
+            "phonetic": "ขอ เบอ โท ของ คุน หฺน่อย สิ",
+            "thaiSentence": "ขอเบอร์โทรของคุณหน่อยสิ",
+            "thaiSentenceSpaced": " ขอ เบอร์โทร ของคุณ หน่อย สิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] ask for ; request for ; ask"
+                        }
+                    ],
+                    "phonetic": "ขอ",
+                    "word": "ขอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "telephone number"
+                        }
+                    ],
+                    "phonetic": "เบอ โท",
+                    "word": "เบอร์โทร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "your ; of you"
+                        }
+                    ],
+                    "phonetic": "ของ คุน",
+                    "word": "ของคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle added to soften a request or command)</i>"
+                        },
+                        {
+                            "meaning": "a little ; a little bit"
+                        }
+                    ],
+                    "phonetic": "หฺน่อย",
+                    "word": "หน่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 81824,
+        "exampleSentences": [
+            {
+                "engSentence": "So give me some fin.",
+                "id": 1649,
+                "thaiSentence": "ขอครีบหน่อย",
+                "thaiSentenceSpaced": " ขอ ครีบ หน่อย "
+            },
+            {
+                "engSentence": "Can we wait for her outside ?",
+                "id": 5448,
+                "thaiSentence": "พวกเราขอรอเขาข้างนอกได้ไหมครับ",
+                "thaiSentenceSpaced": " พวกเรา ขอ รอ เขา ข้างนอก ได้ ไหม ครับ "
+            },
+            {
+                "engSentence": "Sorry, what was your name ?",
+                "id": 5617,
+                "thaiSentence": "ขอโทษ คุณชื่ออะไร",
+                "thaiSentenceSpaced": " ขอ โทษ  &middot;  คุณ ชื่อ อะไร "
+            },
+            {
+                "engSentence": "Wow, can I try it on ?",
+                "id": 24103,
+                "thaiSentence": "โอ้โห้ ขอฉันลองหน่อยได้ไหม",
+                "thaiSentenceSpaced": " โอ้ โห้  &middot;  ขอ ฉัน ลอง หน่อย ได้ ไหม "
+            },
+            {
+                "engSentence": "Can I ask you something ?",
+                "id": 28075,
+                "thaiSentence": "ขอถามอะไรได้ไหม",
+                "thaiSentenceSpaced": " ขอ ถาม อะไร ได้ ไหม "
+            },
+            {
+                "engSentence": "Give me your phone number.",
+                "id": 30968,
+                "thaiSentence": "ขอเบอร์โทรของคุณหน่อยสิ",
+                "thaiSentenceSpaced": " ขอ เบอร์โทร ของคุณ หน่อย สิ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1275230,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] ask for",
+                        "word": "ask for"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "request for",
+                        "word": "request for"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "ask",
+                        "word": "ask"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 7513,
+                        "corpusScore": 11910,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 29557,
+                        "legacyWordId": 1275786,
+                        "meaning": "[to] request ; beg ; ask",
+                        "parentId": 29557,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ ไห้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอให้"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 2600,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "ขอโทษ is \"sorry\" in the sense of making an apology; for \"sorry\" in the sense of offering sympathy เสียใจ is used instead.",
+                        "hasSoundFile": false,
+                        "id": 49523,
+                        "legacyWordId": 1275582,
+                        "meaning": "[to] apologize ; say sorry",
+                        "parentId": 49523,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ โทด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอโทษ"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 2600,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49473,
+                        "legacyWordId": 1275582,
+                        "meaning": "sorry ! ; excuse me !",
+                        "parentId": 49473,
+                        "partOfSpeech": "Interjection",
+                        "t2e": "ขอ โทด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอโทษ"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 2516,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29320,
+                        "legacyWordId": 1275742,
+                        "meaning": "yes ; sir ; right",
+                        "parentId": 29320,
+                        "partOfSpeech": "Particle",
+                        "t2e": "ขอ รับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอรับ"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 2140,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29776,
+                        "legacyWordId": 1275790,
+                        "meaning": "[to] ask for permission",
+                        "parentId": 29776,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ อะ-นุ-ยาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขออนุญาต"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 1951,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 50060,
+                        "legacyWordId": 1267376,
+                        "meaning": "asking for ; requesting",
+                        "parentId": 50060,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ขอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การขอ"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 1616,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49475,
+                        "legacyWordId": 1275792,
+                        "meaning": "[to] apologize ; ask for forgiveness",
+                        "parentId": 49475,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ อะ-ไพ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขออภัย"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 1273,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30394,
+                        "legacyWordId": 1275736,
+                        "meaning": "[to] beg ; ask ; request",
+                        "parentId": 30394,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ ร้อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอร้อง"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 1048,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24011,
+                        "legacyWordId": 1389417,
+                        "meaning": "[to] beg for ; request ; cry for",
+                        "parentId": 24011,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ร้อง ขอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้องขอ"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 871,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2610,
+                        "legacyWordId": 1284212,
+                        "meaning": "request ; appeal ; demand",
+                        "parentId": 2610,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คำ ขอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คำขอ"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 488,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8014,
+                        "legacyWordId": 1275566,
+                        "meaning": "[to] beg off ; beg to be excused",
+                        "parentId": 8014,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ ตัว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอตัว"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 425,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8157,
+                        "legacyWordId": 1275577,
+                        "meaning": "beggar",
+                        "parentId": 8157,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ขอ ทาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอทาน"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 425,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8191,
+                        "legacyWordId": 1275577,
+                        "meaning": "[to] beg for money",
+                        "parentId": 8191,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ ทาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอทาน"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 388,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2553,
+                        "legacyWordId": 1275317,
+                        "meaning": "[to] ask for help ; appeal for aid ; request",
+                        "parentId": 2553,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ คฺวาม ช่วย เหฺลือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอความช่วยเหลือ"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 329,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8901,
+                        "legacyWordId": 1275301,
+                        "meaning": "[to] apologize ; ask for forgiveness",
+                        "parentId": 8901,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ ขะ-หฺมา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอขมา"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 319,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29923,
+                        "legacyWordId": 1275732,
+                        "meaning": "[to] borrow",
+                        "parentId": 29923,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ ยืม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอยืม"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 306,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 78529,
+                        "legacyWordId": 1275515,
+                        "meaning": "hook",
+                        "parentId": 78529,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ขอ งอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ของอ"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 276,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30356,
+                        "legacyWordId": 1275791,
+                        "meaning": "[to] ask for authorization",
+                        "parentId": 30356,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ อะ-นุ-มัด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขออนุมัติ"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 264,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2572,
+                        "legacyWordId": 1275325,
+                        "meaning": "[to] ask for your cooperation",
+                        "parentId": 2572,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ คฺวาม ร่วม มือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอความร่วมมือ"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 260,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22956,
+                        "legacyWordId": 1275315,
+                        "meaning": "[to] beg ; request ; ask",
+                        "parentId": 22956,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ คฺวาม กะ-รุ-นา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอความกรุณา"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 259,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24437,
+                        "legacyWordId": 1275755,
+                        "meaning": "[to] spare some time ; request time",
+                        "parentId": 24437,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ เว-ลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอเวลา"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 214,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "of something",
+                        "hasSoundFile": false,
+                        "id": 395008,
+                        "legacyWordId": 1275339,
+                        "meaning": "[to] request the return",
+                        "parentId": 395008,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ คืน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอคืน"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 201,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397024,
+                        "legacyWordId": 1275336,
+                        "meaning": "[to] consult ; confer with ; take/seek advice",
+                        "parentId": 397024,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ คำ แนะ นำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอคำแนะนำ"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 190,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30521,
+                        "legacyWordId": 1275781,
+                        "meaning": "[to] congratulate ; felicitate",
+                        "parentId": 30521,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ สะ-แดง คฺวาม ยิน ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอแสดงความยินดี"
+                    },
+                    {
+                        "childId": 7513,
+                        "corpusScore": 135,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29598,
+                        "legacyWordId": 1275751,
+                        "meaning": "[to] ask to leave ; take one's leave",
+                        "parentId": 29598,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขอ ลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขอลา"
+                    }
+                ],
+                "explanation": null,
+                "id": 7513,
+                "isUncommon": false,
+                "meaning": "[to] ask for ; request for ; ask",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ขอ"
+            }
+        ],
+        "t2e": "ขอ",
+        "verified": null,
+        "word": "ขอ"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

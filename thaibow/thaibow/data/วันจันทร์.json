@@ -1,0 +1,91 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 1579,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1399086,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 362198,
+                        "corpusScore": 106774,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 362198,
+                        "legacyWordId": 1399065,
+                        "meaning": "day",
+                        "parentId": 44844,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วัน"
+                    },
+                    {
+                        "childId": 1583,
+                        "corpusScore": 8557,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1583,
+                        "legacyWordId": 1289048,
+                        "meaning": "moon",
+                        "parentId": 44844,
+                        "partOfSpeech": "Noun",
+                        "t2e": "จัน",
+                        "usage": "",
+                        "verified": "จัน",
+                        "word": "จันทร์"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "Monday",
+                        "word": "Monday"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 44844,
+                        "corpusScore": 22,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103133,
+                        "legacyWordId": 1284967,
+                        "meaning": "Monday night",
+                        "parentId": 103133,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คืน วัน จัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คืนวันจันทร์"
+                    }
+                ],
+                "explanation": null,
+                "id": 44844,
+                "isUncommon": false,
+                "meaning": "Monday",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "วันจันทร์"
+            }
+        ],
+        "t2e": "วัน จัน",
+        "verified": null,
+        "word": "วันจันทร์"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,822 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "He likes bubbles.",
+            "id": 2057,
+            "phonetic": "เขา ชอบ ฟอง อา-กาด นะ",
+            "thaiSentence": "เขาชอบฟองอากาศนะ",
+            "thaiSentenceSpaced": " เขา ชอบ ฟองอากาศ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] like"
+                        }
+                    ],
+                    "phonetic": "ชอบ",
+                    "word": "ชอบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "air bubble"
+                        }
+                    ],
+                    "phonetic": "ฟอง อา-กาด",
+                    "word": "ฟองอากาศ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I like it down here.",
+            "id": 2393,
+            "phonetic": "ผม ชอบ ลง มา ที่ นี่",
+            "thaiSentence": "ผมชอบลงมาที่นี่",
+            "thaiSentenceSpaced": " ผม ชอบ ลงมา ที่นี่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] like"
+                        }
+                    ],
+                    "phonetic": "ชอบ",
+                    "word": "ชอบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "down ; downward"
+                        },
+                        {
+                            "meaning": "[to] come down ; descend"
+                        }
+                    ],
+                    "phonetic": "ลง มา",
+                    "word": "ลงมา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "here"
+                        }
+                    ],
+                    "phonetic": "ที่ นี่",
+                    "word": "ที่นี่"
+                }
+            ]
+        },
+        {
+            "engSentence": "Do you like wine ?",
+            "id": 3165,
+            "phonetic": "คุน ชอบ ไว · ไหฺม",
+            "thaiSentence": "คุณชอบไวน์ ไหม",
+            "thaiSentenceSpaced": " คุณ ชอบ ไวน์  ·  ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] like"
+                        }
+                    ],
+                    "phonetic": "ชอบ",
+                    "word": "ชอบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "wine"
+                        }
+                    ],
+                    "phonetic": "ไว",
+                    "word": "ไวน์"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "She's bothering me.",
+            "id": 4698,
+            "phonetic": "เขา ชอบ กวน ผม",
+            "thaiSentence": "เขาชอบกวนผม",
+            "thaiSentenceSpaced": " เขา ชอบ กวน ผม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] like"
+                        }
+                    ],
+                    "phonetic": "ชอบ",
+                    "word": "ชอบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] annoy ; bother"
+                        }
+                    ],
+                    "phonetic": "กวน",
+                    "word": "กวน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                }
+            ]
+        },
+        {
+            "engSentence": "You like smart guys ?",
+            "id": 5746,
+            "phonetic": "คุน ชอบ คน สะ-หฺมาด เหฺรอ",
+            "thaiSentence": "คุณชอบคนสมาร์ทเหรอ",
+            "thaiSentenceSpaced": " คุณ ชอบ คน สมาร์ท เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] like"
+                        }
+                    ],
+                    "phonetic": "ชอบ",
+                    "word": "ชอบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] smart ; elegant ; stylish"
+                        }
+                    ],
+                    "phonetic": "สะ-หฺมาด",
+                    "word": "สมาร์ท"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You are interested in her.",
+            "id": 6431,
+            "phonetic": "คุน ชอบ เทอ น่ะ สิ",
+            "thaiSentence": "คุณชอบเธอน่ะสิ",
+            "thaiSentenceSpaced": " คุณ ชอบ เธอ น่ะ สิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] like"
+                        }
+                    ],
+                    "phonetic": "ชอบ",
+                    "word": "ชอบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "เทอ",
+                    "word": "เธอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to after a noun to highlight it as the subject of the sentence, or to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "น่ะ",
+                    "word": "น่ะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 45445,
+        "exampleSentences": [
+            {
+                "engSentence": "He likes bubbles.",
+                "id": 2057,
+                "thaiSentence": "เขาชอบฟองอากาศนะ",
+                "thaiSentenceSpaced": " เขา ชอบ ฟองอากาศ นะ "
+            },
+            {
+                "engSentence": "I like it down here.",
+                "id": 2393,
+                "thaiSentence": "ผมชอบลงมาที่นี่",
+                "thaiSentenceSpaced": " ผม ชอบ ลงมา ที่นี่ "
+            },
+            {
+                "engSentence": "Do you like wine ?",
+                "id": 3165,
+                "thaiSentence": "คุณชอบไวน์ ไหม",
+                "thaiSentenceSpaced": " คุณ ชอบ ไวน์  &middot;  ไหม "
+            },
+            {
+                "engSentence": "She's bothering me.",
+                "id": 4698,
+                "thaiSentence": "เขาชอบกวนผม",
+                "thaiSentenceSpaced": " เขา ชอบ กวน ผม "
+            },
+            {
+                "engSentence": "You like smart guys ?",
+                "id": 5746,
+                "thaiSentence": "คุณชอบคนสมาร์ทเหรอ",
+                "thaiSentenceSpaced": " คุณ ชอบ คน สมาร์ท เหรอ "
+            },
+            {
+                "engSentence": "You are interested in her.",
+                "id": 6431,
+                "thaiSentence": "คุณชอบเธอน่ะสิ",
+                "thaiSentenceSpaced": " คุณ ชอบ เธอ น่ะ สิ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1291947,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] like",
+                        "word": "like"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 384128,
+                        "corpusScore": 1806,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11314,
+                        "legacyWordId": 1293122,
+                        "meaning": "[to] admire ; like",
+                        "parentId": 11314,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชื่น ชอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชื่นชอบ"
+                    },
+                    {
+                        "childId": 384128,
+                        "corpusScore": 1487,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27800,
+                        "legacyWordId": 1449714,
+                        "meaning": "[to] approve of ; agree to ; consent to",
+                        "parentId": 27800,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เห็น ชอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เห็นชอบ"
+                    },
+                    {
+                        "childId": 384128,
+                        "corpusScore": 1171,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33579,
+                        "legacyWordId": 1281508,
+                        "meaning": "liking ; fondness ; affection",
+                        "parentId": 33579,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม ชอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความชอบ"
+                    },
+                    {
+                        "childId": 384128,
+                        "corpusScore": 620,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48022,
+                        "legacyWordId": 1291951,
+                        "meaning": "[to be] pleased ; satisfied",
+                        "parentId": 48022,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ชอบ ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชอบใจ"
+                    },
+                    {
+                        "childId": 384128,
+                        "corpusScore": 294,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402444,
+                        "legacyWordId": 1290980,
+                        "meaning": "[to] be extremely fond of some ; love ; be bent on",
+                        "parentId": 402444,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไจ ชอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใจชอบ"
+                    },
+                    {
+                        "childId": 384128,
+                        "corpusScore": 230,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9994,
+                        "legacyWordId": 1291575,
+                        "meaning": "[to] like",
+                        "parentId": 9994,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชม ชอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชมชอบ"
+                    },
+                    {
+                        "childId": 384128,
+                        "corpusScore": 229,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28662,
+                        "legacyWordId": 1311270,
+                        "meaning": "as you like it ; as you please",
+                        "parentId": 28662,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ตาม ไจ ชอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตามใจชอบ"
+                    },
+                    {
+                        "childId": 384128,
+                        "corpusScore": 226,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46264,
+                        "legacyWordId": 1291950,
+                        "meaning": "[to] like each other",
+                        "parentId": 46264,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชอบ กัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชอบกัน"
+                    },
+                    {
+                        "childId": 384128,
+                        "corpusScore": 211,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34971,
+                        "legacyWordId": 1291949,
+                        "meaning": "strange ; peculiar ; odd",
+                        "parentId": 34971,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ชอบ กน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชอบกล"
+                    },
+                    {
+                        "childId": 384128,
+                        "corpusScore": 157,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3532,
+                        "legacyWordId": 1291954,
+                        "meaning": "[to] love ; love each other",
+                        "parentId": 3532,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชอบ พอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชอบพอ"
+                    },
+                    {
+                        "childId": 384128,
+                        "corpusScore": 31,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402604,
+                        "legacyWordId": 1386809,
+                        "meaning": "[to] dislike ; hate ; abhor",
+                        "parentId": 402604,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไม่ ชอบ น่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ชอบหน้า"
+                    }
+                ],
+                "explanation": null,
+                "id": 384128,
+                "isUncommon": false,
+                "meaning": "[to] like",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ชอบ"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] right",
+                        "word": "right"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "appropriate",
+                        "word": "appropriate"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "virtuous",
+                        "word": "virtuous"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 384129,
+                        "corpusScore": 2120,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24938,
+                        "legacyWordId": 1391081,
+                        "meaning": "[to] be responsible (for)",
+                        "parentId": 24938,
+                        "partOfSpeech": "Verb",
+                        "t2e": "รับ ผิด ชอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รับผิดชอบ"
+                    },
+                    {
+                        "childId": 384129,
+                        "corpusScore": 1171,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36038,
+                        "legacyWordId": 1281508,
+                        "meaning": "goodness ; charity ; beneficence",
+                        "parentId": 36038,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม ชอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความชอบ"
+                    },
+                    {
+                        "childId": 384129,
+                        "corpusScore": 888,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1862,
+                        "legacyWordId": 1291953,
+                        "meaning": "[to] be righteous ; be lawful ; be rightful",
+                        "parentId": 1862,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชอบ ทำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชอบธรรม"
+                    },
+                    {
+                        "childId": 384129,
+                        "corpusScore": 346,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395610,
+                        "legacyWordId": 1282981,
+                        "meaning": "resolution",
+                        "parentId": 395610,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม เห็น ชอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความเห็นชอบ"
+                    },
+                    {
+                        "childId": 384129,
+                        "corpusScore": 329,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23719,
+                        "legacyWordId": 1384301,
+                        "meaning": "dishonestly ; illegitimately ; deceitfully",
+                        "parentId": 23719,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "มิ ชอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มิชอบ"
+                    },
+                    {
+                        "childId": 384129,
+                        "corpusScore": 166,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2176,
+                        "legacyWordId": 1291952,
+                        "meaning": "[to be] legal ; lawful ; legitimate",
+                        "parentId": 2176,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ชอบ ด้วย กด หฺมาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชอบด้วยกฎหมาย"
+                    },
+                    {
+                        "childId": 384129,
+                        "corpusScore": 110,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398945,
+                        "legacyWordId": 1367558,
+                        "meaning": "[to] make good thing ; do good ; do well",
+                        "parentId": 398945,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ปะ-ติ-บัด ชอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปฏิบัติชอบ"
+                    },
+                    {
+                        "childId": 384129,
+                        "corpusScore": 31,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 703,
+                        "legacyWordId": 1368791,
+                        "meaning": "[to] behave well ; conduct oneself properly",
+                        "parentId": 703,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ปฺระ-พฺรึด ชอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประพฤติชอบ"
+                    },
+                    {
+                        "childId": 384129,
+                        "corpusScore": 8,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402848,
+                        "legacyWordId": 1282112,
+                        "meaning": "responsibility",
+                        "parentId": 402848,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม ผิด ชอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความผิดชอบ"
+                    },
+                    {
+                        "childId": 384129,
+                        "corpusScore": 1,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400547,
+                        "legacyWordId": 1403921,
+                        "meaning": "right concentration",
+                        "parentId": 400547,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ-มา-ทิ ชอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สมาธิชอบ"
+                    },
+                    {
+                        "childId": 384129,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 190072,
+                        "legacyWordId": 1271824,
+                        "meaning": "justification",
+                        "parentId": 190072,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ไห้ เหด ผน ว่า ชอบ ด้วย กด หฺมาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การให้เหตุผลว่าชอบด้วยกฎหมาย"
+                    },
+                    {
+                        "childId": 384129,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396205,
+                        "legacyWordId": 1269398,
+                        "meaning": "doing good ; morality",
+                        "parentId": 396205,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ปะ-ติ-บัด ชอบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การปฏิบัติชอบ"
+                    }
+                ],
+                "explanation": null,
+                "id": 384129,
+                "isUncommon": true,
+                "meaning": "[to be] right ; appropriate ; virtuous",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "ชอบ"
+            }
+        ],
+        "t2e": "ชอบ",
+        "verified": null,
+        "word": "ชอบ"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

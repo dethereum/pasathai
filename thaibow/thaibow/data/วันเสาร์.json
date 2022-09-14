@@ -1,0 +1,108 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 2345,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1399193,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 362198,
+                        "corpusScore": 106774,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 362198,
+                        "legacyWordId": 1399065,
+                        "meaning": "day",
+                        "parentId": 40805,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วัน"
+                    },
+                    {
+                        "childId": 32679,
+                        "corpusScore": 3749,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32679,
+                        "legacyWordId": 1409748,
+                        "meaning": "Saturn",
+                        "parentId": 40805,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เสา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เสาร์"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "Saturday",
+                        "word": "Saturday"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 40805,
+                        "corpusScore": 44,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40804,
+                        "legacyWordId": 1399194,
+                        "meaning": "Saturday and Sunday",
+                        "parentId": 40804,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน เสา อา-ทิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันเสาร์อาทิตย์"
+                    },
+                    {
+                        "childId": 40805,
+                        "corpusScore": 42,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103130,
+                        "legacyWordId": 1284972,
+                        "meaning": "Saturday night",
+                        "parentId": 103130,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คืน วัน เสา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คืนวันเสาร์"
+                    }
+                ],
+                "explanation": null,
+                "id": 40805,
+                "isUncommon": false,
+                "meaning": "Saturday",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "วันเสาร์"
+            }
+        ],
+        "t2e": "วัน เสา",
+        "verified": null,
+        "word": "วันเสาร์"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

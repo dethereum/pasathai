@@ -1,0 +1,347 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Hurry to the church.",
+            "id": 38269,
+            "phonetic": "รีบ ไป ที่ โบด เร็ว",
+            "thaiSentence": "รีบไปที่โบสถ์เร็ว",
+            "thaiSentenceSpaced": " รีบ ไปที่ โบสถ์ เร็ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "quickly ; hurriedly"
+                        },
+                        {
+                            "meaning": "[to] hurry ; be in a hurry"
+                        }
+                    ],
+                    "phonetic": "รีบ",
+                    "word": "รีบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go to"
+                        }
+                    ],
+                    "phonetic": "ไป ที่",
+                    "word": "ไปที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "Buddhist temple ; Buddhist monastery"
+                        }
+                    ],
+                    "phonetic": "โบด",
+                    "word": "โบสถ์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] quick ; fast ; speedy"
+                        }
+                    ],
+                    "phonetic": "เร็ว",
+                    "word": "เร็ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "Come to church . Please ?",
+            "id": 252265,
+            "phonetic": "มา ที่ โบด เถอะ นะ · ด้าย โปฺรด",
+            "thaiSentence": "มาที่โบสถ์เถอะนะ ได้โปรด",
+            "thaiSentenceSpaced": " มา ที่ โบสถ์ เถอะ นะ  ·  ได้ โปรด ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "Buddhist temple ; Buddhist monastery"
+                        }
+                    ],
+                    "phonetic": "โบด",
+                    "word": "โบสถ์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(a particle adding a sense of mild urging or emphasis to the sentence, sometimes equivalent to \"let's...\" in English)</i>"
+                        }
+                    ],
+                    "phonetic": "เถอะ",
+                    "word": "เถอะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "please"
+                        }
+                    ],
+                    "phonetic": "ด้าย โปฺรด",
+                    "word": "ได้โปรด"
+                }
+            ]
+        },
+        {
+            "engSentence": "The church isn't far.",
+            "id": 495525,
+            "phonetic": "โบด หฺยู่ ไม่ ไกฺล",
+            "thaiSentence": "โบสถ์อยู่ไม่ไกล",
+            "thaiSentenceSpaced": " โบสถ์ อยู่ ไม่ ไกล ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "Buddhist temple ; Buddhist monastery"
+                        }
+                    ],
+                    "phonetic": "โบด",
+                    "word": "โบสถ์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "far"
+                        },
+                        {
+                            "meaning": "[to be] far away ; distant"
+                        }
+                    ],
+                    "phonetic": "ไกฺล",
+                    "word": "ไกล"
+                }
+            ]
+        },
+        {
+            "engSentence": "Beneath the church.",
+            "id": 567056,
+            "phonetic": "ข้าง ไต้ · โบด",
+            "thaiSentence": "ข้างใต้ โบสถ์",
+            "thaiSentenceSpaced": " ข้าง ใต้  ·  โบสถ์ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "under ; underneath ; beneath"
+                        }
+                    ],
+                    "phonetic": "ข้าง ไต้",
+                    "word": "ข้างใต้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "Buddhist temple ; Buddhist monastery"
+                        }
+                    ],
+                    "phonetic": "โบด",
+                    "word": "โบสถ์"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 2851,
+        "exampleSentences": [
+            {
+                "engSentence": "Hurry to the church.",
+                "id": 38269,
+                "thaiSentence": "รีบไปที่โบสถ์เร็ว",
+                "thaiSentenceSpaced": " รีบ ไปที่ โบสถ์ เร็ว "
+            },
+            {
+                "engSentence": "Come to church . Please ?",
+                "id": 252265,
+                "thaiSentence": "มาที่โบสถ์เถอะนะ ได้โปรด",
+                "thaiSentenceSpaced": " มา ที่ โบสถ์ เถอะ นะ  &middot;  ได้ โปรด "
+            },
+            {
+                "engSentence": "The church isn't far.",
+                "id": 495525,
+                "thaiSentence": "โบสถ์อยู่ไม่ไกล",
+                "thaiSentenceSpaced": " โบสถ์ อยู่ ไม่ ไกล "
+            },
+            {
+                "engSentence": "Beneath the church.",
+                "id": 567056,
+                "thaiSentence": "ข้างใต้ โบสถ์",
+                "thaiSentenceSpaced": " ข้าง ใต้  &middot;  โบสถ์ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1463224,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "Buddhist temple",
+                        "word": "Buddhist temple"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "Buddhist monastery",
+                        "word": "Buddhist monastery"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [
+                    {
+                        "childId": 27441,
+                        "corpusScore": 6,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31778,
+                        "legacyWordId": 1394519,
+                        "meaning": "[to] get along (with)",
+                        "parentId": 31778,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ลง โบด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลงโบสถ์"
+                    },
+                    {
+                        "childId": 27441,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": "The name of a village in Phichit province",
+                        "hasSoundFile": false,
+                        "id": 663534,
+                        "legacyWordId": 1293770,
+                        "meaning": "Chum Chon Lang Bot Khritsatian",
+                        "parentId": 663534,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม ชน หฺลัง โบด คฺริด-เตียน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนหลังโบสถ์คริสเตียน"
+                    },
+                    {
+                        "childId": 27441,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": "The name of a village in Prachuap Khiri Khan province",
+                        "hasSoundFile": false,
+                        "id": 671298,
+                        "legacyWordId": 1293539,
+                        "meaning": "Chum Chon Bot Khrit",
+                        "parentId": 671298,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม ชน โบด คฺริด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนโบสถ์คริสต์"
+                    }
+                ],
+                "explanation": null,
+                "id": 27441,
+                "isUncommon": false,
+                "meaning": "Buddhist temple ; Buddhist monastery",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "โบสถ์"
+            }
+        ],
+        "t2e": "โบด",
+        "verified": "โบด",
+        "word": "โบสถ์"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,704 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Car's out in front, right ?",
+            "id": 25906,
+            "phonetic": "จอด ตฺรง รด ที่ ออก มา ข้าง น่า นั่น ไช่ ไหฺม",
+            "thaiSentence": "จอดตรงรถที่ออกมาข้างหน้านั่นใช่ไหม",
+            "thaiSentenceSpaced": " จอด ตรง รถ ที่ ออกมา ข้างหน้า นั่น ใช่ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] park ; moor ; stop"
+                        }
+                    ],
+                    "phonetic": "จอด",
+                    "word": "จอด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be in accordance (with) ; be consistent (with)"
+                        },
+                        {
+                            "meaning": "[to be] straight ; direct"
+                        },
+                        {
+                            "meaning": "directly ; straightforwardly"
+                        },
+                        {
+                            "meaning": "at"
+                        },
+                        {
+                            "meaning": "[to] be precise at ; be exact ; be accurate"
+                        }
+                    ],
+                    "phonetic": "ตฺรง",
+                    "word": "ตรง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "car ; vehicle"
+                        }
+                    ],
+                    "phonetic": "รด",
+                    "word": "รถ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] come out"
+                        }
+                    ],
+                    "phonetic": "ออก มา",
+                    "word": "ออกมา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "future"
+                        },
+                        {
+                            "meaning": "in front"
+                        }
+                    ],
+                    "phonetic": "ข้าง น่า",
+                    "word": "ข้างหน้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั่น",
+                    "word": "นั่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "right ? ; is that right? ; is that true? <i>(question particle used when seeking confirmation of something thought to be true)</i>"
+                        }
+                    ],
+                    "phonetic": "ไช่ ไหฺม",
+                    "word": "ใช่ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Thanks for the free parking.",
+            "id": 31431,
+            "phonetic": "ขอบ คุน ที่ ไห้ จอด รด ฟฺรี",
+            "thaiSentence": "ขอบคุณที่ให้จอดรถฟรี",
+            "thaiSentenceSpaced": " ขอบคุณ ที่ ให้ จอด รถ ฟรี ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] thank you ; be thankful (for something)"
+                        }
+                    ],
+                    "phonetic": "ขอบ คุน",
+                    "word": "ขอบคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] park ; moor ; stop"
+                        }
+                    ],
+                    "phonetic": "จอด",
+                    "word": "จอด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "car ; vehicle"
+                        }
+                    ],
+                    "phonetic": "รด",
+                    "word": "รถ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "free"
+                        }
+                    ],
+                    "phonetic": "ฟฺรี",
+                    "word": "ฟรี"
+                }
+            ]
+        },
+        {
+            "engSentence": "Hey, you can't park there.",
+            "id": 48265,
+            "phonetic": "เฮ้ · คุน จอด ตฺรง นั้น ไม่ ด้าย นะ",
+            "thaiSentence": "เฮ้ คุณจอดตรงนั้นไม่ได้นะ",
+            "thaiSentenceSpaced": " เฮ้  ·  คุณ จอด ตรงนั้น ไม่ได้ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hey!"
+                        }
+                    ],
+                    "phonetic": "เฮ้",
+                    "word": "เฮ้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] park ; moor ; stop"
+                        }
+                    ],
+                    "phonetic": "จอด",
+                    "word": "จอด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "there ; that place"
+                        }
+                    ],
+                    "phonetic": "ตฺรง นั้น",
+                    "word": "ตรงนั้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "didn't ; did not"
+                        },
+                        {
+                            "meaning": "can't ; cannot"
+                        }
+                    ],
+                    "phonetic": "ไม่ ด้าย",
+                    "word": "ไม่ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Who parked this car here ?",
+            "id": 136520,
+            "phonetic": "ไคฺร จอด รด นี่",
+            "thaiSentence": "ใครจอดรถนี่",
+            "thaiSentenceSpaced": " ใคร จอด รถ นี่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "who"
+                        },
+                        {
+                            "meaning": "someone ; anyone"
+                        }
+                    ],
+                    "phonetic": "ไคฺร",
+                    "word": "ใคร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] park ; moor ; stop"
+                        }
+                    ],
+                    "phonetic": "จอด",
+                    "word": "จอด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "car ; vehicle"
+                        }
+                    ],
+                    "phonetic": "รด",
+                    "word": "รถ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                }
+            ]
+        },
+        {
+            "engSentence": "Please stop the car.",
+            "id": 248879,
+            "phonetic": "ช่วย จอด รด ด้วย ค่ะ",
+            "thaiSentence": "ช่วยจอดรถด้วยค่ะ",
+            "thaiSentenceSpaced": " ช่วย จอด รถ ด้วย ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] help ; aid ; assist"
+                        },
+                        {
+                            "meaning": "please"
+                        }
+                    ],
+                    "phonetic": "ช่วย",
+                    "word": "ช่วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] park ; moor ; stop"
+                        }
+                    ],
+                    "phonetic": "จอด",
+                    "word": "จอด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "car ; vehicle"
+                        }
+                    ],
+                    "phonetic": "รด",
+                    "word": "รถ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I'll go park the car.",
+            "id": 335354,
+            "phonetic": "ผม จะ ไป จอด รด นะ",
+            "thaiSentence": "ผมจะไปจอดรถนะ",
+            "thaiSentenceSpaced": " ผม จะ ไป จอด รถ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] park ; moor ; stop"
+                        }
+                    ],
+                    "phonetic": "จอด",
+                    "word": "จอด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "car ; vehicle"
+                        }
+                    ],
+                    "phonetic": "รด",
+                    "word": "รถ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 3354,
+        "exampleSentences": [
+            {
+                "engSentence": "Car's out in front, right ?",
+                "id": 25906,
+                "thaiSentence": "จอดตรงรถที่ออกมาข้างหน้านั่นใช่ไหม",
+                "thaiSentenceSpaced": " จอด ตรง รถ ที่ ออกมา ข้างหน้า นั่น ใช่ไหม "
+            },
+            {
+                "engSentence": "Thanks for the free parking.",
+                "id": 31431,
+                "thaiSentence": "ขอบคุณที่ให้จอดรถฟรี",
+                "thaiSentenceSpaced": " ขอบคุณ ที่ ให้ จอด รถ ฟรี "
+            },
+            {
+                "engSentence": "Hey, you can't park there.",
+                "id": 48265,
+                "thaiSentence": "เฮ้ คุณจอดตรงนั้นไม่ได้นะ",
+                "thaiSentenceSpaced": " เฮ้  &middot;  คุณ จอด ตรงนั้น ไม่ได้ นะ "
+            },
+            {
+                "engSentence": "Who parked this car here ?",
+                "id": 136520,
+                "thaiSentence": "ใครจอดรถนี่",
+                "thaiSentenceSpaced": " ใคร จอด รถ นี่ "
+            },
+            {
+                "engSentence": "Please stop the car.",
+                "id": 248879,
+                "thaiSentence": "ช่วยจอดรถด้วยค่ะ",
+                "thaiSentenceSpaced": " ช่วย จอด รถ ด้วย ค่ะ "
+            },
+            {
+                "engSentence": "I'll go park the car.",
+                "id": 335354,
+                "thaiSentence": "ผมจะไปจอดรถนะ",
+                "thaiSentenceSpaced": " ผม จะ ไป จอด รถ นะ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1288423,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] park",
+                        "word": "park"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "moor",
+                        "word": "moor"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "stop",
+                        "word": "stop"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 1957,
+                        "corpusScore": 576,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40921,
+                        "legacyWordId": 1323329,
+                        "meaning": "car park ; parking ; parking place",
+                        "parentId": 40921,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ที่ จอด รด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่จอดรถ"
+                    },
+                    {
+                        "childId": 1957,
+                        "corpusScore": 318,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21671,
+                        "legacyWordId": 1395936,
+                        "meaning": "parking lot",
+                        "parentId": 21671,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ลาน จอด รด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลานจอดรถ"
+                    },
+                    {
+                        "childId": 1957,
+                        "corpusScore": 73,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44781,
+                        "legacyWordId": 1395935,
+                        "meaning": "car park",
+                        "parentId": 44781,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ลาน จอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลานจอด"
+                    },
+                    {
+                        "childId": 1957,
+                        "corpusScore": 71,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9280,
+                        "legacyWordId": 1288424,
+                        "meaning": "[to] moor ; park ; anchor",
+                        "parentId": 9280,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จอด เทียบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จอดเทียบ"
+                    },
+                    {
+                        "childId": 1957,
+                        "corpusScore": 15,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28272,
+                        "legacyWordId": 1321989,
+                        "meaning": "harbour ; port ; anchorage",
+                        "parentId": 28272,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ท่า จอด เรือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ท่าจอดเรือ"
+                    },
+                    {
+                        "childId": 1957,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20624,
+                        "legacyWordId": 1288426,
+                        "meaning": "[to] come to the end ; be finished for",
+                        "parentId": 20624,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จอด ไม่ ต้อง แจว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จอดไม่ต้องแจว"
+                    },
+                    {
+                        "childId": 1957,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35233,
+                        "legacyWordId": 1371248,
+                        "meaning": "no-parking sign",
+                        "parentId": 35233,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ป้าย ห้าม จอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ป้ายห้ามจอด"
+                    },
+                    {
+                        "childId": 1957,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 72654,
+                        "legacyWordId": 1271584,
+                        "meaning": "grounding risks",
+                        "parentId": 72654,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน เสี่ยง ไพ ระ-หฺว่าง จอด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การเสี่ยงภัยระหว่างจอด"
+                    },
+                    {
+                        "childId": 1957,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 79159,
+                        "legacyWordId": 1291792,
+                        "meaning": "parking lane",
+                        "parentId": 79159,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ช่อง จอด รด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ช่องจอดรถ"
+                    }
+                ],
+                "explanation": null,
+                "id": 1957,
+                "isUncommon": false,
+                "meaning": "[to] park ; moor ; stop",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "จอด"
+            }
+        ],
+        "t2e": "จอด",
+        "verified": null,
+        "word": "จอด"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,879 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "That's last year's.",
+            "id": 33732,
+            "phonetic": "นั่น มัน ของ ปี ที่ แล้ว",
+            "thaiSentence": "นั่นมันของปีที่แล้ว",
+            "thaiSentenceSpaced": " นั่น มัน ของ ปี ที่แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั่น",
+                    "word": "นั่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "year <i>(ปี is the classifier for years and years of age.)</i>"
+                        }
+                    ],
+                    "phonetic": "ปี",
+                    "word": "ปี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "last ; previous"
+                        }
+                    ],
+                    "phonetic": "ที่ แล้ว",
+                    "word": "ที่แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "What year were you born ?",
+            "id": 46569,
+            "phonetic": "คุน เกิด ปี อะ-ไร",
+            "thaiSentence": "คุณเกิดปีอะไร",
+            "thaiSentenceSpaced": " คุณ เกิด ปี อะไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] happen ; occur ; take place"
+                        },
+                        {
+                            "meaning": "[to] be born ; take birth"
+                        }
+                    ],
+                    "phonetic": "เกิด",
+                    "word": "เกิด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "year <i>(ปี is the classifier for years and years of age.)</i>"
+                        }
+                    ],
+                    "phonetic": "ปี",
+                    "word": "ปี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "Has it been a year already ?",
+            "id": 58696,
+            "phonetic": "ผ่าน ไป หฺนึ่ง ปี แล้ว หฺรือ นี่",
+            "thaiSentence": "ผ่านไปหนึ่งปีแล้วหรือนี่",
+            "thaiSentenceSpaced": " ผ่านไป หนึ่ง ปี แล้ว หรือ นี่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass by"
+                        }
+                    ],
+                    "phonetic": "ผ่าน ไป",
+                    "word": "ผ่านไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "หฺนึ่ง",
+                    "word": "หนึ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "year <i>(ปี is the classifier for years and years of age.)</i>"
+                        }
+                    ],
+                    "phonetic": "ปี",
+                    "word": "ปี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        },
+                        {
+                            "meaning": "or"
+                        }
+                    ],
+                    "phonetic": "หฺรือ",
+                    "word": "หรือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                }
+            ]
+        },
+        {
+            "engSentence": "We had a tough year.",
+            "id": 220276,
+            "phonetic": "เรา เจอ ปี ที่ ลำ-บาก",
+            "thaiSentence": "เราเจอปีที่ลำบาก",
+            "thaiSentenceSpaced": " เรา เจอ ปี ที่ ลำบาก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] meet ; find"
+                        }
+                    ],
+                    "phonetic": "เจอ",
+                    "word": "เจอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "year <i>(ปี is the classifier for years and years of age.)</i>"
+                        }
+                    ],
+                    "phonetic": "ปี",
+                    "word": "ปี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "difficult ; inconvenient ; not easy"
+                        }
+                    ],
+                    "phonetic": "ลำ-บาก",
+                    "word": "ลำบาก"
+                }
+            ]
+        },
+        {
+            "engSentence": "About a year.",
+            "id": 277762,
+            "phonetic": "กะ ว่า ซัก ปี นึง",
+            "thaiSentence": "กะว่าซักปีนึง",
+            "thaiSentenceSpaced": " กะว่า ซัก ปี นึง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] guess about ; reckon about"
+                        }
+                    ],
+                    "phonetic": "กะ ว่า",
+                    "word": "กะว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "just ; about ; around <i>(often implying \"as little as...\")</i>"
+                        }
+                    ],
+                    "phonetic": "ซัก",
+                    "word": "ซัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "year <i>(ปี is the classifier for years and years of age.)</i>"
+                        }
+                    ],
+                    "phonetic": "ปี",
+                    "word": "ปี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "นึง",
+                    "word": "นึง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Two years ago ?",
+            "id": 296007,
+            "phonetic": "สอง ปี แล้ว หฺรือ คะ",
+            "thaiSentence": "สองปีแล้วหรือคะ",
+            "thaiSentenceSpaced": " สอง ปี แล้ว หรือ คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "two"
+                        }
+                    ],
+                    "phonetic": "สอง",
+                    "word": "สอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "year <i>(ปี is the classifier for years and years of age.)</i>"
+                        }
+                    ],
+                    "phonetic": "ปี",
+                    "word": "ปี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        },
+                        {
+                            "meaning": "or"
+                        }
+                    ],
+                    "phonetic": "หฺรือ",
+                    "word": "หรือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 73327,
+        "exampleSentences": [
+            {
+                "engSentence": "That's last year's.",
+                "id": 33732,
+                "thaiSentence": "นั่นมันของปีที่แล้ว",
+                "thaiSentenceSpaced": " นั่น มัน ของ ปี ที่แล้ว "
+            },
+            {
+                "engSentence": "What year were you born ?",
+                "id": 46569,
+                "thaiSentence": "คุณเกิดปีอะไร",
+                "thaiSentenceSpaced": " คุณ เกิด ปี อะไร "
+            },
+            {
+                "engSentence": "Has it been a year already ?",
+                "id": 58696,
+                "thaiSentence": "ผ่านไปหนึ่งปีแล้วหรือนี่",
+                "thaiSentenceSpaced": " ผ่านไป หนึ่ง ปี แล้ว หรือ นี่ "
+            },
+            {
+                "engSentence": "We had a tough year.",
+                "id": 220276,
+                "thaiSentence": "เราเจอปีที่ลำบาก",
+                "thaiSentenceSpaced": " เรา เจอ ปี ที่ ลำบาก "
+            },
+            {
+                "engSentence": "About a year.",
+                "id": 277762,
+                "thaiSentence": "กะว่าซักปีนึง",
+                "thaiSentenceSpaced": " กะว่า ซัก ปี นึง "
+            },
+            {
+                "engSentence": "Two years ago ?",
+                "id": 296007,
+                "thaiSentence": "สองปีแล้วหรือคะ",
+                "thaiSentenceSpaced": " สอง ปี แล้ว หรือ คะ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1371615,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "year",
+                        "word": "year"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 102623,
+                        "corpusScore": 5780,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399148,
+                        "legacyWordId": 1371677,
+                        "meaning": "this year",
+                        "parentId": 399148,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปี นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีนี้"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 3627,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39966,
+                        "legacyWordId": 1371719,
+                        "meaning": "new year",
+                        "parentId": 39966,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปี ไหฺม่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีใหม่"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 3050,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6904,
+                        "legacyWordId": 1323693,
+                        "meaning": "every year ; annual ; annually",
+                        "parentId": 6904,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทุก ปี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกปี"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 2279,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12192,
+                        "legacyWordId": 1367890,
+                        "meaning": "yearly ; annual",
+                        "parentId": 12192,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ปฺระ-จำ ปี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประจำปี"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 1800,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35430,
+                        "legacyWordId": 1371639,
+                        "meaning": "last year ; preceding year",
+                        "parentId": 35430,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปี ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีก่อน"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 1621,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 10966,
+                        "legacyWordId": 1309553,
+                        "meaning": "all the year ; throughout the year",
+                        "parentId": 10966,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ตะ-หฺลอด ปี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตลอดปี"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 1473,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27958,
+                        "legacyWordId": 1321300,
+                        "meaning": "all the year round ; throughout the year",
+                        "parentId": 27958,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทั้ง ปี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทั้งปี"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 1467,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 40279,
+                        "legacyWordId": 1371715,
+                        "meaning": "next year ; coming year",
+                        "parentId": 40279,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ปี น่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีหน้า"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 1072,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35397,
+                        "legacyWordId": 1369740,
+                        "meaning": "end of the year",
+                        "parentId": 35397,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ปฺลาย ปี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลายปี"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 730,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35528,
+                        "legacyWordId": 1309061,
+                        "meaning": "at the start of the year ; early in the year",
+                        "parentId": 35528,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ต้น ปี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ต้นปี"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 549,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3750,
+                        "legacyWordId": 1408269,
+                        "meaning": "end of year",
+                        "parentId": 3750,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิ้น ปี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิ้นปี"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 454,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12411,
+                        "legacyWordId": 1292193,
+                        "meaning": "year",
+                        "parentId": 12411,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชั้น ปี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชั้นปี"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 412,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2585,
+                        "legacyWordId": 1265370,
+                        "meaning": "in the middle of the year",
+                        "parentId": 2585,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "กฺลาง ปี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กลางปี"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 403,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36312,
+                        "legacyWordId": 1371644,
+                        "meaning": "birth year ; year of birth",
+                        "parentId": 36312,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปี เกิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีเกิด"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 360,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25956,
+                        "legacyWordId": 1391975,
+                        "meaning": "yearly ; annual",
+                        "parentId": 25956,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ราย ปี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รายปี"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 331,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47643,
+                        "legacyWordId": 1371697,
+                        "meaning": "year of the snake",
+                        "parentId": 47643,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปี มะ-เส็ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีมะเส็ง"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 274,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23488,
+                        "legacyWordId": 1371704,
+                        "meaning": "year of the monkey",
+                        "parentId": 23488,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปี วอก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีวอก"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 262,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13480,
+                        "legacyWordId": 1371646,
+                        "meaning": "year of the tiger",
+                        "parentId": 13480,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปี ขาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีขาล"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 248,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18329,
+                        "legacyWordId": 1311213,
+                        "meaning": "annually ; yearly ; year round",
+                        "parentId": 18329,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ตา ปี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตาปี"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 244,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 36232,
+                        "legacyWordId": 1371642,
+                        "meaning": "academic year ; school year",
+                        "parentId": 36232,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปี กาน สึก-สา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีการศึกษา"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 204,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 193591,
+                        "legacyWordId": 1371713,
+                        "meaning": "Year of the Tiger",
+                        "parentId": 193591,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปี เสือ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีเสือ"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 199,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13672,
+                        "legacyWordId": 1371648,
+                        "meaning": "fiscal year ; budget year",
+                        "parentId": 13672,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปี งบ ปฺระ-มาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีงบประมาณ"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 182,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35603,
+                        "legacyWordId": 1371652,
+                        "meaning": "year of the dog",
+                        "parentId": 35603,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปี จอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีจอ"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 180,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47652,
+                        "legacyWordId": 1371701,
+                        "meaning": "year of the rooster",
+                        "parentId": 47652,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปี ระ กา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีระกา"
+                    },
+                    {
+                        "childId": 102623,
+                        "corpusScore": 173,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35359,
+                        "legacyWordId": 1371643,
+                        "meaning": "year of the pig",
+                        "parentId": 35359,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปี-กุน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีกุน"
+                    }
+                ],
+                "explanation": "ปี is the classifier for years and years of age.",
+                "id": 102623,
+                "isUncommon": false,
+                "meaning": "year",
+                "partOfSpeech": "Noun ; Classifier",
+                "usage": "",
+                "word": "ปี"
+            }
+        ],
+        "t2e": "ปี",
+        "verified": null,
+        "word": "ปี"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

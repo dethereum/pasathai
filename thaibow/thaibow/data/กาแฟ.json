@@ -1,0 +1,612 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "Want some coffee ?",
+            "id": 1514,
+            "phonetic": "หฺยาก ด้าย กา-แฟ ไหฺม",
+            "thaiSentence": "อยากได้กาแฟไหม",
+            "thaiSentenceSpaced": " อยากได้ กาแฟ ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want to get ; want to have ; want to obtain"
+                        }
+                    ],
+                    "phonetic": "หฺยาก ด้าย",
+                    "word": "อยากได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "coffee"
+                        }
+                    ],
+                    "phonetic": "กา-แฟ",
+                    "word": "กาแฟ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Can I get you some coffee ?",
+            "id": 16865,
+            "phonetic": "รับ กา-แฟ สัก หฺน่อย ไหฺม",
+            "thaiSentence": "รับกาแฟสักหน่อยไหม",
+            "thaiSentenceSpaced": " รับ กาแฟ สักหน่อย ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] receive ; get ; accept"
+                        }
+                    ],
+                    "phonetic": "รับ",
+                    "word": "รับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "coffee"
+                        }
+                    ],
+                    "phonetic": "กา-แฟ",
+                    "word": "กาแฟ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle implying \"just a little bit ; even a little bit\")</i>"
+                        }
+                    ],
+                    "phonetic": "สัก หฺน่อย",
+                    "word": "สักหน่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Coffee and love ?",
+            "id": 27269,
+            "phonetic": "กา-แฟ กับ คฺวาม รัก เหฺรอ",
+            "thaiSentence": "กาแฟกับความรักเหรอ",
+            "thaiSentenceSpaced": " กาแฟ กับ ความรัก เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "coffee"
+                        }
+                    ],
+                    "phonetic": "กา-แฟ",
+                    "word": "กาแฟ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "with ; together with"
+                        }
+                    ],
+                    "phonetic": "กับ",
+                    "word": "กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "love"
+                        }
+                    ],
+                    "phonetic": "คฺวาม รัก",
+                    "word": "ความรัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You want some coffee ?",
+            "id": 32448,
+            "phonetic": "คุน หฺยาก ด้าย กา-แฟ หฺน่อย ไหฺม",
+            "thaiSentence": "คุณอยากได้กาแฟหน่อยไหม",
+            "thaiSentenceSpaced": " คุณ อยากได้ กาแฟ หน่อย ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] want to get ; want to have ; want to obtain"
+                        }
+                    ],
+                    "phonetic": "หฺยาก ด้าย",
+                    "word": "อยากได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "coffee"
+                        }
+                    ],
+                    "phonetic": "กา-แฟ",
+                    "word": "กาแฟ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle added to soften a request or command)</i>"
+                        },
+                        {
+                            "meaning": "a little ; a little bit"
+                        }
+                    ],
+                    "phonetic": "หฺน่อย",
+                    "word": "หน่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Can I offer you a coffee ?",
+            "id": 40536,
+            "phonetic": "รับ กา-แฟ ไหฺม",
+            "thaiSentence": "รับกาแฟไหม",
+            "thaiSentenceSpaced": " รับ กาแฟ ไหม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] receive ; get ; accept"
+                        }
+                    ],
+                    "phonetic": "รับ",
+                    "word": "รับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "coffee"
+                        }
+                    ],
+                    "phonetic": "กา-แฟ",
+                    "word": "กาแฟ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                }
+            ]
+        },
+        {
+            "engSentence": "A cup of coffee ?",
+            "id": 89079,
+            "phonetic": "กา-แฟ สัก แก้ว ไหฺม คฺรับ",
+            "thaiSentence": "กาแฟสักแก้วไหมครับ",
+            "thaiSentenceSpaced": " กาแฟ สัก แก้ว ไหม ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "coffee"
+                        }
+                    ],
+                    "phonetic": "กา-แฟ",
+                    "word": "กาแฟ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "just ; about ; around <i>(often implying \"as little as...\")</i>"
+                        }
+                    ],
+                    "phonetic": "สัก",
+                    "word": "สัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "glass ; cup ; crystal"
+                        }
+                    ],
+                    "phonetic": "แก้ว",
+                    "word": "แก้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to turn a statement into a question, similar to a question mark)</i>"
+                        }
+                    ],
+                    "phonetic": "ไหฺม",
+                    "word": "ไหม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 1565,
+        "exampleSentences": [
+            {
+                "engSentence": "Want some coffee ?",
+                "id": 1514,
+                "thaiSentence": "อยากได้กาแฟไหม",
+                "thaiSentenceSpaced": " อยากได้ กาแฟ ไหม "
+            },
+            {
+                "engSentence": "Can I get you some coffee ?",
+                "id": 16865,
+                "thaiSentence": "รับกาแฟสักหน่อยไหม",
+                "thaiSentenceSpaced": " รับ กาแฟ สักหน่อย ไหม "
+            },
+            {
+                "engSentence": "Coffee and love ?",
+                "id": 27269,
+                "thaiSentence": "กาแฟกับความรักเหรอ",
+                "thaiSentenceSpaced": " กาแฟ กับ ความรัก เหรอ "
+            },
+            {
+                "engSentence": "You want some coffee ?",
+                "id": 32448,
+                "thaiSentence": "คุณอยากได้กาแฟหน่อยไหม",
+                "thaiSentenceSpaced": " คุณ อยากได้ กาแฟ หน่อย ไหม "
+            },
+            {
+                "engSentence": "Can I offer you a coffee ?",
+                "id": 40536,
+                "thaiSentence": "รับกาแฟไหม",
+                "thaiSentenceSpaced": " รับ กาแฟ ไหม "
+            },
+            {
+                "engSentence": "A cup of coffee ?",
+                "id": 89079,
+                "thaiSentence": "กาแฟสักแก้วไหมครับ",
+                "thaiSentenceSpaced": " กาแฟ สัก แก้ว ไหม ครับ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1266922,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "coffee",
+                        "word": "coffee"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 7610,
+                        "corpusScore": 433,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25152,
+                        "legacyWordId": 1391589,
+                        "meaning": "coffee shop ; coffee stall ; coffee house",
+                        "parentId": 25152,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้าน กา-แฟ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้านกาแฟ"
+                    },
+                    {
+                        "childId": 7610,
+                        "corpusScore": 152,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12399,
+                        "legacyWordId": 1291481,
+                        "meaning": "[to] make coffee ; brew",
+                        "parentId": 12399,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ชง กา-แฟ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชงกาแฟ"
+                    },
+                    {
+                        "childId": 7610,
+                        "corpusScore": 125,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34497,
+                        "legacyWordId": 1266929,
+                        "meaning": "fresh coffee ; fresh roasted coffee",
+                        "parentId": 34497,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กา-แฟ สด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กาแฟสด"
+                    },
+                    {
+                        "childId": 7610,
+                        "corpusScore": 55,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27734,
+                        "legacyWordId": 1403010,
+                        "meaning": "coffeehouse forum",
+                        "parentId": 27734,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ-พา กา-แฟ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สภากาแฟ"
+                    },
+                    {
+                        "childId": 7610,
+                        "corpusScore": 53,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 16657,
+                        "legacyWordId": 1319218,
+                        "meaning": "coffee cup",
+                        "parentId": 16657,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ถ้วย กา-แฟ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถ้วยกาแฟ"
+                    },
+                    {
+                        "childId": 7610,
+                        "corpusScore": 40,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23487,
+                        "legacyWordId": 1266925,
+                        "meaning": "iced coffee",
+                        "parentId": 23487,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กา-แฟ เย็น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กาแฟเย็น"
+                    },
+                    {
+                        "childId": 7610,
+                        "corpusScore": 34,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402069,
+                        "legacyWordId": 1274472,
+                        "meaning": "coffee cup",
+                        "parentId": 402069,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แก้ว กา-แฟ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แก้วกาแฟ"
+                    },
+                    {
+                        "childId": 7610,
+                        "corpusScore": 28,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25374,
+                        "legacyWordId": 1291920,
+                        "meaning": "coffee spoon ; teaspoon",
+                        "parentId": 25374,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ช้อน กา-แฟ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ช้อนกาแฟ"
+                    },
+                    {
+                        "childId": 7610,
+                        "corpusScore": 22,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24506,
+                        "legacyWordId": 1266926,
+                        "meaning": "hot coffee",
+                        "parentId": 24506,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กา-แฟ ร้อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กาแฟร้อน"
+                    },
+                    {
+                        "childId": 7610,
+                        "corpusScore": 20,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23177,
+                        "legacyWordId": 1285675,
+                        "meaning": "coffee maker",
+                        "parentId": 23177,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เคฺรื่อง ต้ม กา-แฟ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เครื่องต้มกาแฟ"
+                    },
+                    {
+                        "childId": 7610,
+                        "corpusScore": 8,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400196,
+                        "legacyWordId": 1391591,
+                        "meaning": "coffee shop ; coffee stall ; coffee house",
+                        "parentId": 400196,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ร้าน ขาย กา-แฟ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร้านขายกาแฟ"
+                    },
+                    {
+                        "childId": 7610,
+                        "corpusScore": 7,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6420,
+                        "legacyWordId": 1446657,
+                        "meaning": "straw",
+                        "parentId": 6420,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺลอด กา-แฟ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หลอดกาแฟ"
+                    },
+                    {
+                        "childId": 7610,
+                        "corpusScore": 4,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23258,
+                        "legacyWordId": 1285746,
+                        "meaning": "coffee grinder",
+                        "parentId": 23258,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เคฺรื่อง บด กา-แฟ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เครื่องบดกาแฟ"
+                    },
+                    {
+                        "childId": 7610,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "Scientific Name:Coffea Robusta",
+                        "hasSoundFile": false,
+                        "id": 599471,
+                        "legacyWordId": 1460094,
+                        "meaning": "Robusta Coffee",
+                        "parentId": 599471,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ต้น กา-แฟ ไบ ไหฺย่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ต้นกาแฟใบใหญ่"
+                    }
+                ],
+                "explanation": null,
+                "id": 7610,
+                "isUncommon": false,
+                "meaning": "coffee",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "กาแฟ"
+            }
+        ],
+        "t2e": "กา-แฟ",
+        "verified": null,
+        "word": "กาแฟ"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

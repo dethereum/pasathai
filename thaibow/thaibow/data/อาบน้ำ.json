@@ -1,0 +1,505 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "Were you in the shower ?",
+            "id": 138705,
+            "phonetic": "อาบ น้าม เหฺรอ",
+            "thaiSentence": "อาบน้ำเหรอ",
+            "thaiSentenceSpaced": " อาบน้ำ เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] shower ; take a shower"
+                        }
+                    ],
+                    "phonetic": "อาบ น้าม",
+                    "word": "อาบน้ำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Were you in the shower ?",
+            "id": 139615,
+            "phonetic": "อาบ น้าม หฺยู่ เหฺรอ",
+            "thaiSentence": "อาบน้ำอยู่เหรอ",
+            "thaiSentenceSpaced": " อาบน้ำ อยู่ เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] shower ; take a shower"
+                        }
+                    ],
+                    "phonetic": "อาบ น้าม",
+                    "word": "อาบน้ำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Were you in the shower ?",
+            "id": 151772,
+            "phonetic": "อาบ น้าม มา หฺรือ ไง",
+            "thaiSentence": "อาบน้ำมาหรือไง",
+            "thaiSentenceSpaced": " อาบน้ำ มา หรือไง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] shower ; take a shower"
+                        }
+                    ],
+                    "phonetic": "อาบ น้าม",
+                    "word": "อาบน้ำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or what ; or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ ไง",
+                    "word": "หรือไง"
+                }
+            ]
+        },
+        {
+            "engSentence": "I have to take a shower.",
+            "id": 327387,
+            "phonetic": "ต้อง อาบ น้าม แล้ว สิ",
+            "thaiSentence": "ต้องอาบน้ำแล้วสิ",
+            "thaiSentenceSpaced": " ต้อง อาบน้ำ แล้ว สิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] shower ; take a shower"
+                        }
+                    ],
+                    "phonetic": "อาบ น้าม",
+                    "word": "อาบน้ำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                }
+            ]
+        },
+        {
+            "engSentence": "They are showering together.",
+            "id": 349384,
+            "phonetic": "พวก เขา กำ-ลัง อาบ น้าม ด้วย กัน",
+            "thaiSentence": "พวกเขากำลังอาบน้ำด้วยกัน",
+            "thaiSentenceSpaced": " พวกเขา กำลัง อาบน้ำ ด้วยกัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "they ; them"
+                        }
+                    ],
+                    "phonetic": "พวก เขา",
+                    "word": "พวกเขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "power ; energy ; strength"
+                        },
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense)</i>"
+                        }
+                    ],
+                    "phonetic": "กำ-ลัง",
+                    "word": "กำลัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] shower ; take a shower"
+                        }
+                    ],
+                    "phonetic": "อาบ น้าม",
+                    "word": "อาบน้ำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "together ; in company with ; together with"
+                        }
+                    ],
+                    "phonetic": "ด้วย กัน",
+                    "word": "ด้วยกัน"
+                }
+            ]
+        },
+        {
+            "engSentence": "I'll go take a shower first.",
+            "id": 375522,
+            "phonetic": "ผม อาบ น้าม ก่อน นะ",
+            "thaiSentence": "ผมอาบน้ำก่อนนะ",
+            "thaiSentenceSpaced": " ผม อาบน้ำ ก่อน นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] shower ; take a shower"
+                        }
+                    ],
+                    "phonetic": "อาบ น้าม",
+                    "word": "อาบน้ำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "before ; first ; former"
+                        }
+                    ],
+                    "phonetic": "ก่อน",
+                    "word": "ก่อน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 2180,
+        "exampleSentences": [
+            {
+                "engSentence": "Were you in the shower ?",
+                "id": 138705,
+                "thaiSentence": "อาบน้ำเหรอ",
+                "thaiSentenceSpaced": " อาบน้ำ เหรอ "
+            },
+            {
+                "engSentence": "Were you in the shower ?",
+                "id": 139615,
+                "thaiSentence": "อาบน้ำอยู่เหรอ",
+                "thaiSentenceSpaced": " อาบน้ำ อยู่ เหรอ "
+            },
+            {
+                "engSentence": "Were you in the shower ?",
+                "id": 151772,
+                "thaiSentence": "อาบน้ำมาหรือไง",
+                "thaiSentenceSpaced": " อาบน้ำ มา หรือไง "
+            },
+            {
+                "engSentence": "I have to take a shower.",
+                "id": 327387,
+                "thaiSentence": "ต้องอาบน้ำแล้วสิ",
+                "thaiSentenceSpaced": " ต้อง อาบน้ำ แล้ว สิ "
+            },
+            {
+                "engSentence": "They are showering together.",
+                "id": 349384,
+                "thaiSentence": "พวกเขากำลังอาบน้ำด้วยกัน",
+                "thaiSentenceSpaced": " พวกเขา กำลัง อาบน้ำ ด้วยกัน "
+            },
+            {
+                "engSentence": "I'll go take a shower first.",
+                "id": 375522,
+                "thaiSentence": "ผมอาบน้ำก่อนนะ",
+                "thaiSentenceSpaced": " ผม อาบน้ำ ก่อน นะ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1454145,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 41830,
+                        "corpusScore": 760,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41830,
+                        "legacyWordId": 1454141,
+                        "meaning": "[to] bathe ; immerse",
+                        "parentId": 41374,
+                        "partOfSpeech": "Verb",
+                        "t2e": "อาบ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาบ"
+                    },
+                    {
+                        "childId": 15486,
+                        "corpusScore": 142976,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 15486,
+                        "legacyWordId": 1329399,
+                        "meaning": "water ; fluid ; liquid",
+                        "parentId": 41374,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้าม",
+                        "usage": "",
+                        "verified": "น้าม",
+                        "word": "น้ำ"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] shower",
+                        "word": "shower"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "take a shower",
+                        "word": "take a shower"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 41374,
+                        "corpusScore": 203,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9606,
+                        "legacyWordId": 1271949,
+                        "meaning": "bath ; taking a bath",
+                        "parentId": 9606,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน อาบ น้าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การอาบน้ำ"
+                    },
+                    {
+                        "childId": 41374,
+                        "corpusScore": 99,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2543,
+                        "legacyWordId": 1453934,
+                        "meaning": "bathtub",
+                        "parentId": 2543,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อ่าง อาบ น้าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อ่างอาบน้ำ"
+                    },
+                    {
+                        "childId": 41374,
+                        "corpusScore": 81,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5622,
+                        "legacyWordId": 1448288,
+                        "meaning": "bathroom",
+                        "parentId": 5622,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง อาบ น้าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องอาบน้ำ"
+                    },
+                    {
+                        "childId": 41374,
+                        "corpusScore": 54,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6771,
+                        "legacyWordId": 1323623,
+                        "meaning": "bathroom ; bathing-place ; bath-tub",
+                        "parentId": 6771,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ที่ อาบ น้าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่อาบน้ำ"
+                    },
+                    {
+                        "childId": 41374,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12367,
+                        "legacyWordId": 1293222,
+                        "meaning": "swimming suit ; bathing suit",
+                        "parentId": 12367,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุด อาบ น้าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุดอาบน้ำ"
+                    },
+                    {
+                        "childId": 41374,
+                        "corpusScore": 1,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399367,
+                        "legacyWordId": 1373942,
+                        "meaning": "bathing cloth",
+                        "parentId": 399367,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พ่า ผฺลัด อาบ น้าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผ้าผลัดอาบน้ำ"
+                    },
+                    {
+                        "childId": 41374,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5229,
+                        "legacyWordId": 1410113,
+                        "meaning": "bathing gown ; bathing wrap",
+                        "parentId": 5229,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เสื้อ คฺลุม อาบ น้าม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เสื้อคลุมอาบน้ำ"
+                    }
+                ],
+                "explanation": null,
+                "id": 41374,
+                "isUncommon": false,
+                "meaning": "[to] shower ; take a shower",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "อาบน้ำ"
+            }
+        ],
+        "t2e": "อาบ น้าม",
+        "verified": null,
+        "word": "อาบน้ำ"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

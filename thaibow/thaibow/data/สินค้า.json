@@ -1,0 +1,679 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "There's a freight elevator.",
+            "id": 9476,
+            "phonetic": "นี่ คือ ลิฟ สำ-หฺรับ ขน สิน ค้า",
+            "thaiSentence": "นี่คือลิฟท์สำหรับขนสินค้า",
+            "thaiSentenceSpaced": " นี่ คือ ลิฟท์ สำหรับ ขน สินค้า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be"
+                        }
+                    ],
+                    "phonetic": "คือ",
+                    "word": "คือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "elevator"
+                        }
+                    ],
+                    "phonetic": "ลิฟ",
+                    "word": "ลิฟท์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "for ; to ; on behalf of"
+                        }
+                    ],
+                    "phonetic": "สำ-หฺรับ",
+                    "word": "สำหรับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "hair ; fur ; feather"
+                        },
+                        {
+                            "meaning": "[to] transport ; carry ; remove"
+                        }
+                    ],
+                    "phonetic": "ขน",
+                    "word": "ขน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "wealth ; property ; assets"
+                        },
+                        {
+                            "meaning": "[to] cut ; sever"
+                        }
+                    ],
+                    "phonetic": "สิน",
+                    "word": "สิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] trade ; do business ; deal"
+                        }
+                    ],
+                    "phonetic": "ค้า",
+                    "word": "ค้า"
+                }
+            ]
+        },
+        {
+            "engSentence": "What about the animal cargo ?",
+            "id": 31259,
+            "phonetic": "แล้ว ตู้ สิน ค้า สัด ล่ะ",
+            "thaiSentence": "แล้วตู้สินค้าสัตว์ล่ะ",
+            "thaiSentenceSpaced": " แล้ว ตู้ สินค้า สัตว์ ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "blunt"
+                        },
+                        {
+                            "meaning": "cabinet ; closet"
+                        }
+                    ],
+                    "phonetic": "ตู้",
+                    "word": "ตู้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "goods ; merchandise ; commodity"
+                        }
+                    ],
+                    "phonetic": "สิน ค้า",
+                    "word": "สินค้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "animal ; creature"
+                        }
+                    ],
+                    "phonetic": "สัด",
+                    "word": "สัตว์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 26384,
+        "exampleSentences": [
+            {
+                "engSentence": "There's a freight elevator.",
+                "id": 9476,
+                "thaiSentence": "นี่คือลิฟท์สำหรับขนสินค้า",
+                "thaiSentenceSpaced": " นี่ คือ ลิฟท์ สำหรับ ขน สินค้า "
+            },
+            {
+                "engSentence": "What about the animal cargo ?",
+                "id": 31259,
+                "thaiSentence": "แล้วตู้สินค้าสัตว์ล่ะ",
+                "thaiSentenceSpaced": " แล้ว ตู้ สินค้า สัตว์ ล่ะ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1408200,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 44948,
+                        "corpusScore": 32382,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 44948,
+                        "legacyWordId": 1408197,
+                        "meaning": "wealth ; property ; assets",
+                        "parentId": 27289,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิน"
+                    },
+                    {
+                        "childId": 30411,
+                        "corpusScore": 35261,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 30411,
+                        "legacyWordId": 1283649,
+                        "meaning": "[to] trade ; do business ; deal",
+                        "parentId": 27289,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ค้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ค้า"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "goods",
+                        "word": "goods"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "merchandise",
+                        "word": "merchandise"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "commodity",
+                        "word": "commodity"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 27289,
+                        "corpusScore": 690,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397105,
+                        "legacyWordId": 1276250,
+                        "meaning": "[to] sell goods ; make a sale",
+                        "parentId": 397105,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขาย สิน ค้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขายสินค้า"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 447,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38340,
+                        "legacyWordId": 1404090,
+                        "meaning": "general merchandise",
+                        "parentId": 38340,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สับ สิน ค้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สรรพสินค้า"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 330,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23876,
+                        "legacyWordId": 1408201,
+                        "meaning": "agriculture goods",
+                        "parentId": 23876,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิน ค้า กะ-เสด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สินค้าเกษตร"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 327,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "goods or merchandise",
+                        "hasSoundFile": false,
+                        "id": 47447,
+                        "legacyWordId": 1402301,
+                        "meaning": "[to] transport ; carry",
+                        "parentId": 47447,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ส่ง สิน ค้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ส่งสินค้า"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 311,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6633,
+                        "legacyWordId": 1280695,
+                        "meaning": "warehouse ; storehouse",
+                        "parentId": 6633,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺลัง สิน ค้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คลังสินค้า"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 153,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 3112,
+                        "legacyWordId": 1309479,
+                        "meaning": "trademark ; trade mark",
+                        "parentId": 3112,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตฺรา สิน ค้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตราสินค้า"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 147,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 510371,
+                        "legacyWordId": 1269966,
+                        "meaning": "manufacturing",
+                        "parentId": 510371,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ผะ-หฺลิด สิน ค้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การผลิตสินค้า"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 133,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19316,
+                        "legacyWordId": 1408212,
+                        "meaning": "import",
+                        "parentId": 19316,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิน ค้า นำ เข้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สินค้านำเข้า"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 107,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6077,
+                        "legacyWordId": 1408216,
+                        "meaning": "local product ; native product",
+                        "parentId": 6077,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิน ค้า พื้น เมือง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สินค้าพื้นเมือง"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 101,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44951,
+                        "legacyWordId": 1408223,
+                        "meaning": "an export",
+                        "parentId": 44951,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิน ค้า ออก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สินค้าออก"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 98,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2956,
+                        "legacyWordId": 1405885,
+                        "meaning": "[to] order a purchase",
+                        "parentId": 2956,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สั่ง สิน ค้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สั่งสินค้า"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 95,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 65906,
+                        "legacyWordId": 1408205,
+                        "meaning": "inventory",
+                        "parentId": 65906,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิน ค้า คง คฺลัง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สินค้าคงคลัง"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 85,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22837,
+                        "legacyWordId": 1287610,
+                        "meaning": "expo",
+                        "parentId": 22837,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน สะ-แดง สิน ค้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งานแสดงสินค้า"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 78,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23331,
+                        "legacyWordId": 1274851,
+                        "meaning": "[to] transfer goods ; ship goods",
+                        "parentId": 23331,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขน ถ่าย สิน ค้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขนถ่ายสินค้า"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 55,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48239,
+                        "legacyWordId": 1408204,
+                        "meaning": "import",
+                        "parentId": 48239,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิน ค้า เข้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สินค้าเข้า"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 51,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395302,
+                        "legacyWordId": 1274916,
+                        "meaning": "[to] transfer goods ; ship goods",
+                        "parentId": 395302,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขน สิน ค้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขนสินค้า"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 37,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23257,
+                        "legacyWordId": 1408225,
+                        "meaning": "industrial goods",
+                        "parentId": 23257,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิน ค้า อุด-สา-หะ-กำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สินค้าอุตสาหกรรม"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 29,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1758,
+                        "legacyWordId": 1408222,
+                        "meaning": "principal goods ; main merchandise",
+                        "parentId": 1758,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิน ค้า หฺลัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สินค้าหลัก"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 27,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38582,
+                        "legacyWordId": 1394712,
+                        "meaning": "trade winds",
+                        "parentId": 38582,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ลม สิน ค้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลมสินค้า"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 26,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 597651,
+                        "legacyWordId": 1309031,
+                        "meaning": "product cost",
+                        "parentId": 597651,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ต้น ทุน สิน ค้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ต้นทุนสินค้า"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 26,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 597899,
+                        "legacyWordId": 1408226,
+                        "meaning": "consumer goods",
+                        "parentId": 597899,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิน ค้า อุบ-ปะ-โพก บอ-ริ-โพก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สินค้าอุปโภคบริโภค"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 26,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 589580,
+                        "legacyWordId": 1408203,
+                        "meaning": "export cargo",
+                        "parentId": 589580,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิน ค้า ขา ออก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สินค้าขาออก"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 19,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4583,
+                        "legacyWordId": 1393121,
+                        "meaning": "cargo ship ; freighter",
+                        "parentId": 4583,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เรือ บัน-ทุก สิน ค้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรือบรรทุกสินค้า"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 17,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 189561,
+                        "legacyWordId": 1271062,
+                        "meaning": "barter",
+                        "parentId": 189561,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน แลก เปฺลี่ยน สิน ค้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การแลกเปลี่ยนสินค้า"
+                    },
+                    {
+                        "childId": 27289,
+                        "corpusScore": 17,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 28178,
+                        "legacyWordId": 1310993,
+                        "meaning": "sample",
+                        "parentId": 28178,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตัว หฺย่าง สิน ค้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตัวอย่างสินค้า"
+                    }
+                ],
+                "explanation": null,
+                "id": 27289,
+                "isUncommon": false,
+                "meaning": "goods ; merchandise ; commodity",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "สินค้า"
+            }
+        ],
+        "t2e": "สิน ค้า",
+        "verified": null,
+        "word": "สินค้า"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

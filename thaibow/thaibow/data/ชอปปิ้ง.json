@@ -1,0 +1,38 @@
+{
+    "commonessText": "Rarely",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 187,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1291957,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "shopping",
+                        "word": "shopping"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 177561,
+                "isUncommon": false,
+                "meaning": "shopping",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ชอปปิ้ง"
+            }
+        ],
+        "t2e": "ชอบ-ปิ้ง",
+        "verified": null,
+        "word": "ชอปปิ้ง"
+    },
+    "greenBarCount": 1,
+    "pageUrl": "",
+    "type": "thai-word"
+}

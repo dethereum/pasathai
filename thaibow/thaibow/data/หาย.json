@@ -1,0 +1,1193 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "I lost it.",
+            "id": 79828,
+            "phonetic": "ฉัน ทำ มัน หาย",
+            "thaiSentence": "ฉันทำมันหาย",
+            "thaiSentenceSpaced": " ฉัน ทำ มัน หาย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] recover ; get well ; be cured"
+                        },
+                        {
+                            "meaning": "[to be] lost ; missing"
+                        },
+                        {
+                            "meaning": "[to] disappear ; vanish"
+                        }
+                    ],
+                    "phonetic": "หาย",
+                    "word": "หาย"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am not healed yet.",
+            "id": 127328,
+            "phonetic": "แผฺล ผม ยัง ไม่ หาย ดี",
+            "thaiSentence": "แผลผมยังไม่หายดี",
+            "thaiSentenceSpaced": " แผล ผม ยัง ไม่ หาย ดี ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "wound ; cut"
+                        }
+                    ],
+                    "phonetic": "แผฺล",
+                    "word": "แผล"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "still ; yet"
+                        }
+                    ],
+                    "phonetic": "ยัง",
+                    "word": "ยัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no ; not"
+                        }
+                    ],
+                    "phonetic": "ไม่",
+                    "word": "ไม่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] recover ; get well ; be cured"
+                        },
+                        {
+                            "meaning": "[to be] lost ; missing"
+                        },
+                        {
+                            "meaning": "[to] disappear ; vanish"
+                        }
+                    ],
+                    "phonetic": "หาย",
+                    "word": "หาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                }
+            ]
+        },
+        {
+            "engSentence": "I'll recover no matter what.",
+            "id": 148753,
+            "phonetic": "ฉัน จะ ต้อง หาย ไม่ ว่า จะ ยัง ไง ก้อ ตาม",
+            "thaiSentence": "ฉันจะต้องหายไม่ว่าจะยังไงก็ตาม",
+            "thaiSentenceSpaced": " ฉัน จะ ต้อง หาย ไม่ว่า จะ ยังไง ก็ตาม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] recover ; get well ; be cured"
+                        },
+                        {
+                            "meaning": "[to be] lost ; missing"
+                        },
+                        {
+                            "meaning": "[to] disappear ; vanish"
+                        }
+                    ],
+                    "phonetic": "หาย",
+                    "word": "หาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] not mind ; not object"
+                        },
+                        {
+                            "meaning": "regardless of ; no matter <i>(what/who/where)</i>"
+                        }
+                    ],
+                    "phonetic": "ไม่ ว่า",
+                    "word": "ไม่ว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "ยัง ไง",
+                    "word": "ยังไง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "no matter ; whatever"
+                        }
+                    ],
+                    "phonetic": "ก้อ ตาม",
+                    "word": "ก็ตาม"
+                }
+            ]
+        },
+        {
+            "engSentence": "You are gonna be fine.",
+            "id": 163605,
+            "phonetic": "คุน จะ หาย ดี",
+            "thaiSentence": "คุณจะหายดี",
+            "thaiSentenceSpaced": " คุณ จะ หาย ดี ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] recover ; get well ; be cured"
+                        },
+                        {
+                            "meaning": "[to be] lost ; missing"
+                        },
+                        {
+                            "meaning": "[to] disappear ; vanish"
+                        }
+                    ],
+                    "phonetic": "หาย",
+                    "word": "หาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                }
+            ]
+        },
+        {
+            "engSentence": "How do I make it go away ?",
+            "id": 212594,
+            "phonetic": "จะ ต้อง ทำ ยัง ไง ไห้ มัน หาย",
+            "thaiSentence": "จะต้องทำยังไงให้มันหาย",
+            "thaiSentenceSpaced": " จะ ต้อง ทำ ยังไง ให้ มัน หาย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "have to ; must"
+                        }
+                    ],
+                    "phonetic": "ต้อง",
+                    "word": "ต้อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "ยัง ไง",
+                    "word": "ยังไง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] recover ; get well ; be cured"
+                        },
+                        {
+                            "meaning": "[to be] lost ; missing"
+                        },
+                        {
+                            "meaning": "[to] disappear ; vanish"
+                        }
+                    ],
+                    "phonetic": "หาย",
+                    "word": "หาย"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is all right.",
+            "id": 244346,
+            "phonetic": "หาย แล้ว จ้า",
+            "thaiSentence": "หายแล้วจ้า",
+            "thaiSentenceSpaced": " หาย แล้ว จ้า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] recover ; get well ; be cured"
+                        },
+                        {
+                            "meaning": "[to be] lost ; missing"
+                        },
+                        {
+                            "meaning": "[to] disappear ; vanish"
+                        }
+                    ],
+                    "phonetic": "หาย",
+                    "word": "หาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used at the end of sentences to make them sound more friendly or polite)</i>"
+                        }
+                    ],
+                    "phonetic": "จ้า",
+                    "word": "จ้า"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 23443,
+        "exampleSentences": [
+            {
+                "engSentence": "I lost it.",
+                "id": 79828,
+                "thaiSentence": "ฉันทำมันหาย",
+                "thaiSentenceSpaced": " ฉัน ทำ มัน หาย "
+            },
+            {
+                "engSentence": "I am not healed yet.",
+                "id": 127328,
+                "thaiSentence": "แผลผมยังไม่หายดี",
+                "thaiSentenceSpaced": " แผล ผม ยัง ไม่ หาย ดี "
+            },
+            {
+                "engSentence": "I'll recover no matter what.",
+                "id": 148753,
+                "thaiSentence": "ฉันจะต้องหายไม่ว่าจะยังไงก็ตาม",
+                "thaiSentenceSpaced": " ฉัน จะ ต้อง หาย ไม่ว่า จะ ยังไง ก็ตาม "
+            },
+            {
+                "engSentence": "You are gonna be fine.",
+                "id": 163605,
+                "thaiSentence": "คุณจะหายดี",
+                "thaiSentenceSpaced": " คุณ จะ หาย ดี "
+            },
+            {
+                "engSentence": "How do I make it go away ?",
+                "id": 212594,
+                "thaiSentence": "จะต้องทำยังไงให้มันหาย",
+                "thaiSentenceSpaced": " จะ ต้อง ทำ ยังไง ให้ มัน หาย "
+            },
+            {
+                "engSentence": "It is all right.",
+                "id": 244346,
+                "thaiSentence": "หายแล้วจ้า",
+                "thaiSentenceSpaced": " หาย แล้ว จ้า "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1449199,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] recover",
+                        "word": "recover"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "get well",
+                        "word": "get well"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "be cured",
+                        "word": "be cured"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 40740,
+                        "corpusScore": 391,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7207,
+                        "legacyWordId": 1449205,
+                        "meaning": "[to] completely cured ; entirely cured",
+                        "parentId": 7207,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หาย ขาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หายขาด"
+                    },
+                    {
+                        "childId": 40740,
+                        "corpusScore": 224,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2214,
+                        "legacyWordId": 1449214,
+                        "meaning": "[to] get well ; be cured",
+                        "parentId": 2214,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หาย ป่วย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หายป่วย"
+                    },
+                    {
+                        "childId": 40740,
+                        "corpusScore": 106,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "in the sense of having no further obligations",
+                        "hasSoundFile": false,
+                        "id": 34530,
+                        "legacyWordId": 1449203,
+                        "meaning": "[to] be even (with someone)",
+                        "parentId": 34530,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หาย กัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หายกัน"
+                    },
+                    {
+                        "childId": 40740,
+                        "corpusScore": 64,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46186,
+                        "legacyWordId": 1449217,
+                        "meaning": "get well soon",
+                        "parentId": 46186,
+                        "partOfSpeech": "Phrase",
+                        "t2e": "หาย ไว ไว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หายไวๆ"
+                    },
+                    {
+                        "childId": 40740,
+                        "corpusScore": 51,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27212,
+                        "legacyWordId": 1449219,
+                        "meaning": "[to] be completely healed",
+                        "parentId": 27212,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หาย สะ-หฺนิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หายสนิท"
+                    },
+                    {
+                        "childId": 40740,
+                        "corpusScore": 47,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401026,
+                        "legacyWordId": 1449223,
+                        "meaning": "[to] disappear ; be out of sight ; be unseen",
+                        "parentId": 401026,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หาย น่า หาย ตา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หายหน้าหายตา"
+                    },
+                    {
+                        "childId": 40740,
+                        "corpusScore": 27,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402285,
+                        "legacyWordId": 1450516,
+                        "meaning": "[to] dry up ; be parched",
+                        "parentId": 402285,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แห้ง หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แห้งหาย"
+                    },
+                    {
+                        "childId": 40740,
+                        "corpusScore": 16,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49681,
+                        "legacyWordId": 1282964,
+                        "meaning": "disappearance",
+                        "parentId": 49681,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺวาม หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ความหาย"
+                    },
+                    {
+                        "childId": 40740,
+                        "corpusScore": 14,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395274,
+                        "legacyWordId": 1323138,
+                        "meaning": "[to] slander ; defame ; vilify",
+                        "parentId": 395274,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ ไห้ เสีย หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำให้เสียหาย"
+                    },
+                    {
+                        "childId": 40740,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398710,
+                        "legacyWordId": 1328698,
+                        "meaning": "[to be] chronic",
+                        "parentId": 398710,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "นาน หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นานหาย"
+                    },
+                    {
+                        "childId": 40740,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": "The name of a village in Chon Buri province",
+                        "hasSoundFile": false,
+                        "id": 610439,
+                        "legacyWordId": 1293744,
+                        "meaning": "Chum Chon Nong Pet Hai",
+                        "parentId": 610439,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุม ชน หฺนอง เป็ด หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุมชนหนองเป็ดหาย"
+                    }
+                ],
+                "explanation": null,
+                "id": 40740,
+                "isUncommon": false,
+                "meaning": "[to] recover ; get well ; be cured",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "หาย"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] lost",
+                        "word": "lost"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "missing",
+                        "word": "missing"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 46187,
+                        "corpusScore": 7189,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 45095,
+                        "legacyWordId": 1449215,
+                        "meaning": "[to] disappear ; be missing ; be lost",
+                        "parentId": 45095,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หาย ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หายไป"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 5894,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42707,
+                        "legacyWordId": 1410085,
+                        "meaning": "[to be] damaged ; ruined",
+                        "parentId": 42707,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "เสีย หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เสียหาย"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 1127,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23950,
+                        "legacyWordId": 1409337,
+                        "meaning": "[to] loss ; disappear ; mislay",
+                        "parentId": 23950,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สูน หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สูญหาย"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 1127,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6114,
+                        "legacyWordId": 1409337,
+                        "meaning": "[to] vanish ; disappear ; pass out of existence",
+                        "parentId": 6114,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สูน หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สูญหาย"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 470,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46190,
+                        "legacyWordId": 1291039,
+                        "meaning": "[to] be stunned with fear ; be startled",
+                        "parentId": 46190,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไจ หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใจหาย"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 416,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5534,
+                        "legacyWordId": 1449212,
+                        "meaning": "[to] disappear ; be invisible ; vanish",
+                        "parentId": 5534,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หาย ตัว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หายตัว"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 354,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33857,
+                        "legacyWordId": 1276123,
+                        "meaning": "[to] lose ; be missing",
+                        "parentId": 33857,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขาด หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขาดหาย"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 352,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4022,
+                        "legacyWordId": 1289211,
+                        "meaning": "[to] fade ; fade away ; melt away",
+                        "parentId": 4022,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จาง หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จางหาย"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 232,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4358,
+                        "legacyWordId": 1397346,
+                        "meaning": "[to] fade ; be faint ; vanish",
+                        "parentId": 4358,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เลือน หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เลือนหาย"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 170,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5507,
+                        "legacyWordId": 1449222,
+                        "meaning": "[to] disappear ; be out of sight ; be unseen",
+                        "parentId": 5507,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หาย น่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หายหน้า"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 125,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27538,
+                        "legacyWordId": 1413976,
+                        "meaning": "[to] escape ; flee",
+                        "parentId": 27538,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺนี หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หนีหาย"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 108,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18862,
+                        "legacyWordId": 1410778,
+                        "meaning": "[to] shrink ; recoil ; shrivel",
+                        "parentId": 18862,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หด หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หดหาย"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 100,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34061,
+                        "legacyWordId": 1449204,
+                        "meaning": "[to] thaw ; cease to be angry ; be soothed",
+                        "parentId": 34061,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หาย โกฺรด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หายโกรธ"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 77,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4966,
+                        "legacyWordId": 1449224,
+                        "meaning": "[to] disappear ; be out of sight ; be unseen",
+                        "parentId": 4966,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หาย หัว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หายหัว"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 57,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4747,
+                        "legacyWordId": 1449220,
+                        "meaning": "[to] be missing ; be lost ; disappear",
+                        "parentId": 4747,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หาย สาบ สูน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หายสาบสูญ"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 54,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5081,
+                        "legacyWordId": 1450479,
+                        "meaning": "[to] disappear ; vanish ; be dissipated",
+                        "parentId": 5081,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เหือด หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เหือดหาย"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 36,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37978,
+                        "legacyWordId": 1394722,
+                        "meaning": "[to] pass away ; die",
+                        "parentId": 37978,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ล้ม หาย ตาย จาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ล้มหายตายจาก"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 26,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41471,
+                        "legacyWordId": 1449206,
+                        "meaning": "lost",
+                        "parentId": 41471,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "หาย จ้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หายจ้อย"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 23,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8236,
+                        "legacyWordId": 1275178,
+                        "meaning": "scared ; soul loss ; startled",
+                        "parentId": 8236,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ขฺวัน หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขวัญหาย"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 20,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11134,
+                        "legacyWordId": 1308884,
+                        "meaning": "[to] lose ; miss",
+                        "parentId": 11134,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ตก หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตกหาย"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 17,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26875,
+                        "legacyWordId": 1449221,
+                        "meaning": "[to] be lost ; disappear ; vanish",
+                        "parentId": 26875,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หาย สูน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หายสูญ"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 14,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31729,
+                        "legacyWordId": 1287459,
+                        "meaning": "uncontrollably ; excessively ; extremely",
+                        "parentId": 31729,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "งอ หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งอหาย"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 6,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 73331,
+                        "legacyWordId": 1399280,
+                        "meaning": "lock the stable door after the horse has bolted",
+                        "parentId": 73331,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัว หาย ล้อม คอก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วัวหายล้อมคอก"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 1,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41470,
+                        "legacyWordId": 1449211,
+                        "meaning": "lost",
+                        "parentId": 41470,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "หาย-ต๋อม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หายต๋อม"
+                    },
+                    {
+                        "childId": 46187,
+                        "corpusScore": 0,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 73299,
+                        "legacyWordId": 1397492,
+                        "meaning": "killing the goose that lays the golden egg",
+                        "parentId": 73299,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โลบ นัก มัก ลาบ หาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โลภนักมักลาภหาย"
+                    }
+                ],
+                "explanation": null,
+                "id": 46187,
+                "isUncommon": false,
+                "meaning": "[to be] lost ; missing",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "หาย"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] disappear",
+                        "word": "disappear"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "vanish",
+                        "word": "vanish"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 46188,
+                "isUncommon": false,
+                "meaning": "[to] disappear ; vanish",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "หาย"
+            }
+        ],
+        "t2e": "หาย",
+        "verified": null,
+        "word": "หาย"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

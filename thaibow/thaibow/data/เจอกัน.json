@@ -1,0 +1,417 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "See you tomorrow.",
+            "id": 2100,
+            "phonetic": "เจอ กัน พฺรุ่ง-นี้",
+            "thaiSentence": "เจอกันพรุ่งนี้",
+            "thaiSentenceSpaced": " เจอกัน พรุ่งนี้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] meet ; encounter ; see"
+                        }
+                    ],
+                    "phonetic": "เจอ กัน",
+                    "word": "เจอกัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tomorrow ; the next day"
+                        }
+                    ],
+                    "phonetic": "พฺรุ่ง-นี้",
+                    "word": "พรุ่งนี้"
+                }
+            ]
+        },
+        {
+            "engSentence": "Where should we meet ?",
+            "id": 4617,
+            "phonetic": "เรา จะ เจอ กัน ที่ ไหฺน ดี ค่ะ",
+            "thaiSentence": "เราจะเจอกันที่ไหนดีค่ะ",
+            "thaiSentenceSpaced": " เรา จะ เจอกัน ที่ไหน ดี ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] meet ; encounter ; see"
+                        }
+                    ],
+                    "phonetic": "เจอ กัน",
+                    "word": "เจอกัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        },
+                        {
+                            "meaning": "where ; which place"
+                        }
+                    ],
+                    "phonetic": "ที่ ไหฺน",
+                    "word": "ที่ไหน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "See you next week.",
+            "id": 19638,
+            "phonetic": "เจอ กัน อา-ทิด น่า",
+            "thaiSentence": "เจอกันอาทิตย์หน้า",
+            "thaiSentenceSpaced": " เจอกัน อาทิตย์ หน้า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] meet ; encounter ; see"
+                        }
+                    ],
+                    "phonetic": "เจอ กัน",
+                    "word": "เจอกัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "week"
+                        }
+                    ],
+                    "phonetic": "อา-ทิด",
+                    "word": "อาทิตย์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in front of ; front"
+                        },
+                        {
+                            "meaning": "face ; front ; top"
+                        },
+                        {
+                            "meaning": "next ; following ; upcoming"
+                        }
+                    ],
+                    "phonetic": "น่า",
+                    "word": "หน้า"
+                }
+            ]
+        },
+        {
+            "engSentence": "Meet me in the back.",
+            "id": 19748,
+            "phonetic": "ไป เจอ กัน ข้าง หฺลัง",
+            "thaiSentence": "ไปเจอกันข้างหลัง",
+            "thaiSentenceSpaced": " ไป เจอกัน ข้างหลัง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] meet ; encounter ; see"
+                        }
+                    ],
+                    "phonetic": "เจอ กัน",
+                    "word": "เจอกัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "behind"
+                        },
+                        {
+                            "meaning": "back ; rear ; posterior"
+                        }
+                    ],
+                    "phonetic": "ข้าง หฺลัง",
+                    "word": "ข้างหลัง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Meet me in the back.",
+            "id": 19750,
+            "phonetic": "ไป เจอ กัน ข้าง หฺลัง นะ",
+            "thaiSentence": "ไปเจอกันข้างหลังนะ",
+            "thaiSentenceSpaced": " ไป เจอกัน ข้างหลัง นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] meet ; encounter ; see"
+                        }
+                    ],
+                    "phonetic": "เจอ กัน",
+                    "word": "เจอกัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "behind"
+                        },
+                        {
+                            "meaning": "back ; rear ; posterior"
+                        }
+                    ],
+                    "phonetic": "ข้าง หฺลัง",
+                    "word": "ข้างหลัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "See you in a minute.",
+            "id": 23019,
+            "phonetic": "แล้ว เจอ กัน",
+            "thaiSentence": "แล้วเจอกัน",
+            "thaiSentenceSpaced": " แล้ว เจอกัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] meet ; encounter ; see"
+                        }
+                    ],
+                    "phonetic": "เจอ กัน",
+                    "word": "เจอกัน"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 2948,
+        "exampleSentences": [
+            {
+                "engSentence": "See you tomorrow.",
+                "id": 2100,
+                "thaiSentence": "เจอกันพรุ่งนี้",
+                "thaiSentenceSpaced": " เจอกัน พรุ่งนี้ "
+            },
+            {
+                "engSentence": "Where should we meet ?",
+                "id": 4617,
+                "thaiSentence": "เราจะเจอกันที่ไหนดีค่ะ",
+                "thaiSentenceSpaced": " เรา จะ เจอกัน ที่ไหน ดี ค่ะ "
+            },
+            {
+                "engSentence": "See you next week.",
+                "id": 19638,
+                "thaiSentence": "เจอกันอาทิตย์หน้า",
+                "thaiSentenceSpaced": " เจอกัน อาทิตย์ หน้า "
+            },
+            {
+                "engSentence": "Meet me in the back.",
+                "id": 19748,
+                "thaiSentence": "ไปเจอกันข้างหลัง",
+                "thaiSentenceSpaced": " ไป เจอกัน ข้างหลัง "
+            },
+            {
+                "engSentence": "Meet me in the back.",
+                "id": 19750,
+                "thaiSentence": "ไปเจอกันข้างหลังนะ",
+                "thaiSentenceSpaced": " ไป เจอกัน ข้างหลัง นะ "
+            },
+            {
+                "engSentence": "See you in a minute.",
+                "id": 23019,
+                "thaiSentence": "แล้วเจอกัน",
+                "thaiSentenceSpaced": " แล้ว เจอกัน "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1290393,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 44588,
+                        "corpusScore": 22090,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 44588,
+                        "legacyWordId": 1290390,
+                        "meaning": "[to] meet ; find",
+                        "parentId": 16033,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เจอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เจอ"
+                    },
+                    {
+                        "childId": 7962,
+                        "corpusScore": 266569,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 7962,
+                        "legacyWordId": 1266604,
+                        "meaning": "together ; jointly",
+                        "parentId": 16033,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "กัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กัน"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] meet",
+                        "word": "meet"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "encounter",
+                        "word": "encounter"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "see",
+                        "word": "see"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 16033,
+                        "corpusScore": 11,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 396490,
+                        "legacyWordId": 1268047,
+                        "meaning": "meeting ; seeing ; gathering",
+                        "parentId": 396490,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน เจอ กัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การเจอกัน"
+                    }
+                ],
+                "explanation": null,
+                "id": 16033,
+                "isUncommon": false,
+                "meaning": "[to] meet ; encounter ; see",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "เจอกัน"
+            }
+        ],
+        "t2e": "เจอ กัน",
+        "verified": null,
+        "word": "เจอกัน"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

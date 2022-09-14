@@ -1,0 +1,408 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "I kept digging.",
+            "id": 30263,
+            "phonetic": "ผม ขุด ไป เรื่อย เรื่อย",
+            "thaiSentence": "ผมขุดไปเรื่อยๆ",
+            "thaiSentenceSpaced": " ผม ขุด ไป เรื่อยๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] dig ; excavate ; unearth"
+                        }
+                    ],
+                    "phonetic": "ขุด",
+                    "word": "ขุด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "continuously ; slowly ; unhurriedly"
+                        }
+                    ],
+                    "phonetic": "เรื่อย เรื่อย",
+                    "word": "เรื่อยๆ"
+                }
+            ]
+        },
+        {
+            "engSentence": "It just goes on and on.",
+            "id": 47617,
+            "phonetic": "มี แต่ ทาง ตฺรง ไป เรื่อย เรื่อย",
+            "thaiSentence": "มีแต่ทางตรงไปเรื่อยๆ",
+            "thaiSentenceSpaced": " มีแต่ ทางตรง ไป เรื่อยๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have only"
+                        }
+                    ],
+                    "phonetic": "มี แต่",
+                    "word": "มีแต่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "direct way"
+                        }
+                    ],
+                    "phonetic": "ทาง ตฺรง",
+                    "word": "ทางตรง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "continuously ; slowly ; unhurriedly"
+                        }
+                    ],
+                    "phonetic": "เรื่อย เรื่อย",
+                    "word": "เรื่อยๆ"
+                }
+            ]
+        },
+        {
+            "engSentence": "It just goes on and on.",
+            "id": 47628,
+            "phonetic": "มี แต่ ทาง เดิน ตฺรง ไป เรื่อย เรื่อย",
+            "thaiSentence": "มีแต่ทางเดินตรงไปเรื่อยๆ",
+            "thaiSentenceSpaced": " มีแต่ ทางเดิน ตรงไป เรื่อยๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have only"
+                        }
+                    ],
+                    "phonetic": "มี แต่",
+                    "word": "มีแต่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "footpath ; pavement ; sidewalk"
+                        }
+                    ],
+                    "phonetic": "ทาง เดิน",
+                    "word": "ทางเดิน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "straightly ; preoccupied ; concentrating"
+                        }
+                    ],
+                    "phonetic": "ตฺรง ไป",
+                    "word": "ตรงไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "continuously ; slowly ; unhurriedly"
+                        }
+                    ],
+                    "phonetic": "เรื่อย เรื่อย",
+                    "word": "เรื่อยๆ"
+                }
+            ]
+        },
+        {
+            "engSentence": "We are just looking around.",
+            "id": 52261,
+            "phonetic": "เรา แค่ ดู ไป เรื่อย เรื่อย",
+            "thaiSentence": "เราแค่ดูไปเรื่อยๆ",
+            "thaiSentenceSpaced": " เรา แค่ ดู ไป เรื่อยๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "just ; only"
+                        }
+                    ],
+                    "phonetic": "แค่",
+                    "word": "แค่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] appear ; seem"
+                        },
+                        {
+                            "meaning": "[to] watch ; look ; see"
+                        }
+                    ],
+                    "phonetic": "ดู",
+                    "word": "ดู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "continuously ; slowly ; unhurriedly"
+                        }
+                    ],
+                    "phonetic": "เรื่อย เรื่อย",
+                    "word": "เรื่อยๆ"
+                }
+            ]
+        },
+        {
+            "engSentence": "So I kept on doing it",
+            "id": 662709,
+            "phonetic": "ดัง นั้น ผม จึง ด้าย ทำ ต่อ ไป เรื่อย เรื่อย",
+            "thaiSentence": "ดังนั้นผมจึงได้ทำต่อไปเรื่อยๆ",
+            "thaiSentenceSpaced": " ดังนั้น ผม จึง ได้ ทำต่อไป เรื่อยๆ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "therefore ; in consequence"
+                        }
+                    ],
+                    "phonetic": "ดัง นั้น",
+                    "word": "ดังนั้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "then ; therefore ; consequently"
+                        }
+                    ],
+                    "phonetic": "จึง",
+                    "word": "จึง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "continue"
+                        }
+                    ],
+                    "phonetic": "ทำ ต่อ ไป",
+                    "word": "ทำต่อไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "continuously ; slowly ; unhurriedly"
+                        }
+                    ],
+                    "phonetic": "เรื่อย เรื่อย",
+                    "word": "เรื่อยๆ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 9077,
+        "exampleSentences": [
+            {
+                "engSentence": "I kept digging.",
+                "id": 30263,
+                "thaiSentence": "ผมขุดไปเรื่อยๆ",
+                "thaiSentenceSpaced": " ผม ขุด ไป เรื่อยๆ "
+            },
+            {
+                "engSentence": "It just goes on and on.",
+                "id": 47617,
+                "thaiSentence": "มีแต่ทางตรงไปเรื่อยๆ",
+                "thaiSentenceSpaced": " มีแต่ ทางตรง ไป เรื่อยๆ "
+            },
+            {
+                "engSentence": "It just goes on and on.",
+                "id": 47628,
+                "thaiSentence": "มีแต่ทางเดินตรงไปเรื่อยๆ",
+                "thaiSentenceSpaced": " มีแต่ ทางเดิน ตรงไป เรื่อยๆ "
+            },
+            {
+                "engSentence": "We are just looking around.",
+                "id": 52261,
+                "thaiSentence": "เราแค่ดูไปเรื่อยๆ",
+                "thaiSentenceSpaced": " เรา แค่ ดู ไป เรื่อยๆ "
+            },
+            {
+                "engSentence": "So I kept on doing it",
+                "id": 662709,
+                "thaiSentence": "ดังนั้นผมจึงได้ทำต่อไปเรื่อยๆ",
+                "thaiSentenceSpaced": " ดังนั้น ผม จึง ได้ ทำต่อไป เรื่อยๆ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1393141,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 26260,
+                        "corpusScore": 7010,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26260,
+                        "legacyWordId": 1393135,
+                        "meaning": "always ; continuously ; continually",
+                        "parentId": 35257,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เรื่อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เรื่อย"
+                    },
+                    {
+                        "childId": 47847,
+                        "corpusScore": 285357,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "It's a character used to indicate the previous word is repeated",
+                        "hasSoundFile": false,
+                        "id": 47847,
+                        "legacyWordId": 1458572,
+                        "meaning": "",
+                        "parentId": 35257,
+                        "partOfSpeech": "Repeater",
+                        "t2e": "ๆ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ๆ"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "continuously",
+                        "word": "continuously"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "slowly",
+                        "word": "slowly"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "unhurriedly",
+                        "word": "unhurriedly"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 35257,
+                "isUncommon": false,
+                "meaning": "continuously ; slowly ; unhurriedly",
+                "partOfSpeech": "Adverb",
+                "usage": "",
+                "word": "เรื่อยๆ"
+            }
+        ],
+        "t2e": "เรื่อย เรื่อย",
+        "verified": null,
+        "word": "เรื่อยๆ"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

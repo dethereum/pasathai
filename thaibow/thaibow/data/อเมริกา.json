@@ -1,0 +1,141 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 8108,
+        "exampleSentences": [],
+        "hasSoundFile": true,
+        "legacyWordId": 1452003,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "America",
+                        "word": "America"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 38677,
+                        "corpusScore": 2212,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 23264,
+                        "legacyWordId": 1405169,
+                        "meaning": "United States of America",
+                        "parentId": 23264,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ-หะ รัด อะ-เม-ริ-กา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สหรัฐอเมริกา"
+                    },
+                    {
+                        "childId": 38677,
+                        "corpusScore": 308,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24124,
+                        "legacyWordId": 1320607,
+                        "meaning": "America",
+                        "parentId": 24124,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทะ-วีบ อะ-เม-ริ-กา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทวีปอเมริกา"
+                    },
+                    {
+                        "childId": 38677,
+                        "corpusScore": 1,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 51999,
+                        "legacyWordId": 1269426,
+                        "meaning": "American revolution",
+                        "parentId": 51999,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ปะ-ติ-วัด อะ-เม-ริ-กา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การปฏิวัติอเมริกา"
+                    },
+                    {
+                        "childId": 38677,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 54659,
+                        "legacyWordId": 1269415,
+                        "meaning": "American revolution",
+                        "parentId": 54659,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ปะ-ติ-วัด ของ อะ-เม-ริ-กา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การปฏิวัติของอเมริกา"
+                    },
+                    {
+                        "childId": 38677,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42529,
+                        "legacyWordId": 1263615,
+                        "meaning": "Department of American and South Pacific Affairs",
+                        "parentId": 42529,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺรม อะ-เม-ริ-กา และ แป-ซิ-ฟิก ไต้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กรมอเมริกาและแปซิฟิกใต้"
+                    },
+                    {
+                        "childId": 38677,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 51632,
+                        "legacyWordId": 1402187,
+                        "meaning": "American Civil War",
+                        "parentId": 51632,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สง-คฺราม กฺลาง เมือง อะ-เม-ริ-กา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สงครามกลางเมืองอเมริกา"
+                    }
+                ],
+                "explanation": null,
+                "id": 38677,
+                "isUncommon": false,
+                "meaning": "America",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "อเมริกา"
+            }
+        ],
+        "t2e": "อะ-เม-ริ-กา",
+        "verified": "อะ-เม-ริ-กา",
+        "word": "อเมริกา"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

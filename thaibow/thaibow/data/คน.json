@@ -1,0 +1,961 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Where did that person go ?",
+            "id": 1474,
+            "phonetic": "คน ๆ · นั้น ไป ที่ ไหฺน แล้ว",
+            "thaiSentence": "คนๆ นั้นไปที่ไหนแล้ว",
+            "thaiSentenceSpaced": " คน ๆ  ·  นั้น ไป ที่ไหน แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(character used to indicate the previous word is repeated)</i>"
+                        }
+                    ],
+                    "phonetic": "ๆ",
+                    "word": "ๆ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence, or to show the end of a relative clause)</i>"
+                        },
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั้น",
+                    "word": "นั้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go to"
+                        }
+                    ],
+                    "phonetic": "ไป ที่",
+                    "word": "ไปที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whichever one"
+                        },
+                        {
+                            "meaning": "which"
+                        },
+                        {
+                            "meaning": "where ; which place <i>(a shortened form of ที่ไหน)</i>"
+                        },
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        }
+                    ],
+                    "phonetic": "ไหฺน",
+                    "word": "ไหน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is all over you both.",
+            "id": 2641,
+            "phonetic": "ขึ้น หฺยู่ กับ คุน สอง คน แล้ว นะ",
+            "thaiSentence": "ขึ้นอยู่กับคุณสองคนแล้วนะ",
+            "thaiSentenceSpaced": " ขึ้นอยู่กับ คุณ สอง คน แล้ว นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] depend on ; hinge on ; be decided by"
+                        }
+                    ],
+                    "phonetic": "ขึ้น หฺยู่ กับ",
+                    "word": "ขึ้นอยู่กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "two"
+                        }
+                    ],
+                    "phonetic": "สอง",
+                    "word": "สอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Someone you liked ?",
+            "id": 5741,
+            "phonetic": "มี คน ที่ ชอบ แล้ว เหฺรอ",
+            "thaiSentence": "มีคนที่ชอบแล้วเหรอ",
+            "thaiSentenceSpaced": " มี คน ที่ชอบ แล้ว เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "preferred"
+                        }
+                    ],
+                    "phonetic": "ที่ ชอบ",
+                    "word": "ที่ชอบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "What was he like ?",
+            "id": 5744,
+            "phonetic": "เขา เป็น คน แบบ ไหฺน",
+            "thaiSentence": "เขาเป็นคนแบบไหน",
+            "thaiSentenceSpaced": " เขา เป็น คน แบบ ไหน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "is ; [to] be"
+                        },
+                        {
+                            "meaning": "to ; into ; as ; for ; of <i>(เป็น  is used when describing the manner or result of a verb, and before expressions of quantity or periods of time. The translation varies depending on the context, and it may not need to be translated into English at all. For instance:  (translation of เป็น in italics) ตัดเป็นชิน - Cut <i>into</i> pieces รอเป็นชั่วโมง - Wait <i>for</i> hours แปลไทยเป็นอังกฤษ - Translate Thai <i>to</i> English คนเป็นล้าน - Millions <i>of</i> people เช่าเป็นเดือน - Monthly hire  (เป็น not translated))</i>"
+                        }
+                    ],
+                    "phonetic": "เป็น",
+                    "word": "เป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "model ; style ; way"
+                        },
+                        {
+                            "meaning": "like ; as ; in the same way as"
+                        }
+                    ],
+                    "phonetic": "แบบ",
+                    "word": "แบบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whichever one"
+                        },
+                        {
+                            "meaning": "which"
+                        },
+                        {
+                            "meaning": "where ; which place <i>(a shortened form of ที่ไหน)</i>"
+                        },
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        }
+                    ],
+                    "phonetic": "ไหฺน",
+                    "word": "ไหน"
+                }
+            ]
+        },
+        {
+            "engSentence": "You like smart guys ?",
+            "id": 5746,
+            "phonetic": "คุน ชอบ คน สะ-หฺมาด เหฺรอ",
+            "thaiSentence": "คุณชอบคนสมาร์ทเหรอ",
+            "thaiSentenceSpaced": " คุณ ชอบ คน สมาร์ท เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] like"
+                        }
+                    ],
+                    "phonetic": "ชอบ",
+                    "word": "ชอบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] smart ; elegant ; stylish"
+                        }
+                    ],
+                    "phonetic": "สะ-หฺมาด",
+                    "word": "สมาร์ท"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Like someone I know.",
+            "id": 6757,
+            "phonetic": "ของ คน ที่ ฉัน รู้ จัก แน่ เลย",
+            "thaiSentence": "ของคนที่ฉันรู้จักแน่เลย",
+            "thaiSentenceSpaced": " ของ คน ที่ ฉัน รู้จัก แน่เลย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; at"
+                        },
+                        {
+                            "meaning": "that ; which ; who"
+                        }
+                    ],
+                    "phonetic": "ที่",
+                    "word": "ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] know <i>(someone)</i>"
+                        }
+                    ],
+                    "phonetic": "รู้ จัก",
+                    "word": "รู้จัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "for sure"
+                        }
+                    ],
+                    "phonetic": "แน่ เลย",
+                    "word": "แน่เลย"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 258556,
+        "exampleSentences": [
+            {
+                "engSentence": "Where did that person go ?",
+                "id": 1474,
+                "thaiSentence": "คนๆ นั้นไปที่ไหนแล้ว",
+                "thaiSentenceSpaced": " คน ๆ  &middot;  นั้น ไป ที่ไหน แล้ว "
+            },
+            {
+                "engSentence": "It is all over you both.",
+                "id": 2641,
+                "thaiSentence": "ขึ้นอยู่กับคุณสองคนแล้วนะ",
+                "thaiSentenceSpaced": " ขึ้นอยู่กับ คุณ สอง คน แล้ว นะ "
+            },
+            {
+                "engSentence": "Someone you liked ?",
+                "id": 5741,
+                "thaiSentence": "มีคนที่ชอบแล้วเหรอ",
+                "thaiSentenceSpaced": " มี คน ที่ชอบ แล้ว เหรอ "
+            },
+            {
+                "engSentence": "What was he like ?",
+                "id": 5744,
+                "thaiSentence": "เขาเป็นคนแบบไหน",
+                "thaiSentenceSpaced": " เขา เป็น คน แบบ ไหน "
+            },
+            {
+                "engSentence": "You like smart guys ?",
+                "id": 5746,
+                "thaiSentence": "คุณชอบคนสมาร์ทเหรอ",
+                "thaiSentenceSpaced": " คุณ ชอบ คน สมาร์ท เหรอ "
+            },
+            {
+                "engSentence": "Like someone I know.",
+                "id": 6757,
+                "thaiSentence": "ของคนที่ฉันรู้จักแน่เลย",
+                "thaiSentenceSpaced": " ของ คน ที่ ฉัน รู้จัก แน่เลย "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1278680,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 1,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "person",
+                        "word": "person"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "people",
+                        "word": "people"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 102634,
+                        "corpusScore": 21647,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 44583,
+                        "legacyWordId": 1323677,
+                        "meaning": "everyone ; everybody",
+                        "parentId": 44583,
+                        "partOfSpeech": "IndefinitePronoun",
+                        "t2e": "ทุก คน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกคน"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 12432,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 9134,
+                        "legacyWordId": 1278891,
+                        "meaning": "Thai ; Thai people",
+                        "parentId": 9134,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน ไท",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนไทย"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 11380,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 44457,
+                        "legacyWordId": 1279099,
+                        "meaning": "someone else ; others",
+                        "parentId": 44457,
+                        "partOfSpeech": "Pronoun",
+                        "t2e": "คน อื่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนอื่น"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 9259,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 15229,
+                        "legacyWordId": 1333247,
+                        "meaning": "someone ; somebody ; some",
+                        "parentId": 15229,
+                        "partOfSpeech": "IndefinitePronoun",
+                        "t2e": "บาง คน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บางคน"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 7234,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42597,
+                        "legacyWordId": 1374263,
+                        "meaning": "",
+                        "parentId": 42597,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ คน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้คน"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 6444,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 9744,
+                        "legacyWordId": 1278821,
+                        "meaning": "alone ; by oneself",
+                        "parentId": 9744,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "คน เดียว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนเดียว"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 6444,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 722,
+                        "legacyWordId": 1278821,
+                        "meaning": "one person ; only person",
+                        "parentId": 722,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน เดียว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนเดียว"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 3852,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 9106,
+                        "legacyWordId": 1278991,
+                        "meaning": "lover ; darling ; sweetheart",
+                        "parentId": 9106,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน รัก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนรัก"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 3609,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "in the sense of human beings generally",
+                        "hasSoundFile": false,
+                        "id": 399653,
+                        "legacyWordId": 1279009,
+                        "meaning": "we ; us",
+                        "parentId": 399653,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน เรา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนเรา"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 3126,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4494,
+                        "legacyWordId": 1318384,
+                        "meaning": "each person ; each one",
+                        "parentId": 4494,
+                        "partOfSpeech": "Pronoun",
+                        "t2e": "แต่ ละ คน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่ละคน"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 3087,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42184,
+                        "legacyWordId": 1278811,
+                        "meaning": "good person ; good guy",
+                        "parentId": 42184,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนดี"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 3087,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42185,
+                        "legacyWordId": 1278811,
+                        "meaning": "darling ; dear ; honey",
+                        "parentId": 42185,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน ดี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนดี"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 2489,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29889,
+                        "legacyWordId": 1278732,
+                        "meaning": "patient ; sick person",
+                        "parentId": 29889,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน ไข้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนไข้"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 2342,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30083,
+                        "legacyWordId": 1265500,
+                        "meaning": "crowd ; throng ; group",
+                        "parentId": 30083,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺลุ่ม คน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กลุ่มคน"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 2183,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 33150,
+                        "legacyWordId": 1278998,
+                        "meaning": "criminal ; culprit ; offender",
+                        "parentId": 33150,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน ร้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนร้าย"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 1701,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9347,
+                        "legacyWordId": 1278813,
+                        "meaning": "audience ; spectator ; onlooker",
+                        "parentId": 9347,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน ดู",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนดู"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 1601,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31387,
+                        "legacyWordId": 1278761,
+                        "meaning": "poor ; poor people ; poor person",
+                        "parentId": 31387,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน จน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนจน"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 1387,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402795,
+                        "legacyWordId": 1279087,
+                        "meaning": "new one ; new person",
+                        "parentId": 402795,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "คน ไหฺม่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนใหม่"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 1375,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29292,
+                        "legacyWordId": 1278751,
+                        "meaning": "employee ; worker",
+                        "parentId": 29292,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนงาน"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 1324,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44981,
+                        "legacyWordId": 1405699,
+                        "meaning": "just one person",
+                        "parentId": 44981,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สัก คน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สักคน"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 1254,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397214,
+                        "legacyWordId": 1278706,
+                        "meaning": "driver ; chauffeur",
+                        "parentId": 397214,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน ขับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนขับ"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 1104,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30939,
+                        "legacyWordId": 1278698,
+                        "meaning": "old people",
+                        "parentId": 30939,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน แก่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนแก่"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 1023,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9666,
+                        "legacyWordId": 1278850,
+                        "meaning": "the dead",
+                        "parentId": 9666,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน ตาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนตาย"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 904,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9668,
+                        "legacyWordId": 1278947,
+                        "meaning": "disabled ; cripple",
+                        "parentId": 9668,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน พิ-กาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนพิการ"
+                    },
+                    {
+                        "childId": 102634,
+                        "corpusScore": 884,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42155,
+                        "legacyWordId": 1278826,
+                        "meaning": "someone ; anyone",
+                        "parentId": 42155,
+                        "partOfSpeech": "IndefinitePronoun",
+                        "t2e": "คน ได",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนใด"
+                    }
+                ],
+                "explanation": "คน is the classifier for nouns referring to people.",
+                "id": 102634,
+                "isUncommon": false,
+                "meaning": "person ; people",
+                "partOfSpeech": "Noun ; Classifier",
+                "usage": "",
+                "word": "คน"
+            },
+            {
+                "components": [],
+                "displayOrder": 2,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] stir",
+                        "word": "stir"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "mix",
+                        "word": "mix"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 810287,
+                "isUncommon": true,
+                "meaning": "[to] stir ; mix",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "คน"
+            }
+        ],
+        "t2e": "คน",
+        "verified": null,
+        "word": "คน"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,540 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "I am going to die soon.",
+            "id": 16689,
+            "phonetic": "ฉัน กำ-ลัง จะ ตาย เร็วๆ นี้",
+            "thaiSentence": "ฉันกำลังจะตายเร็วๆ นี้",
+            "thaiSentenceSpaced": " ฉัน กำลังจะ ตาย เร็วๆ นี้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "power ; energy ; strength"
+                        },
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense)</i>"
+                        }
+                    ],
+                    "phonetic": "กำ-ลัง",
+                    "word": "กำลัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "so much ; to death"
+                        },
+                        {
+                            "meaning": "will die ; will suffer"
+                        }
+                    ],
+                    "phonetic": "จะ ตาย",
+                    "word": "จะตาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "recently"
+                        }
+                    ],
+                    "phonetic": "เร็วๆ นี้",
+                    "word": "เร็วๆ นี้"
+                }
+            ]
+        },
+        {
+            "engSentence": "I'll be a father soon.",
+            "id": 24345,
+            "phonetic": "ฉัน จะ เป็น พ่อ คน เร็วๆ นี้",
+            "thaiSentence": "ฉันจะเป็นพ่อคนเร็วๆ นี้",
+            "thaiSentenceSpaced": " ฉัน จะเป็น พ่อ คน เร็วๆ นี้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will be"
+                        }
+                    ],
+                    "phonetic": "จะ เป็น",
+                    "word": "จะเป็น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I <i>(used by a father when talking to his children)</i>"
+                        },
+                        {
+                            "meaning": "you <i>(used by children when addressing their father)</i>"
+                        },
+                        {
+                            "meaning": "father ; dad ; daddy"
+                        }
+                    ],
+                    "phonetic": "พ่อ",
+                    "word": "พ่อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "recently"
+                        }
+                    ],
+                    "phonetic": "เร็วๆ นี้",
+                    "word": "เร็วๆ นี้"
+                }
+            ]
+        },
+        {
+            "engSentence": "Do it quick.",
+            "id": 25349,
+            "phonetic": "เร็ว เร็ว · ด้วย ล่ะ",
+            "thaiSentence": "เร็วๆ ด้วยล่ะ",
+            "thaiSentenceSpaced": " เร็วๆ ด้วย ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] fast ; very fast"
+                        }
+                    ],
+                    "phonetic": "เร็ว เร็ว",
+                    "word": "เร็วๆ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I'll be a father soon.",
+            "id": 30679,
+            "phonetic": "ฉัน จะ ด้าย เป็น คุน พ่อ · เร็วๆ นี้",
+            "thaiSentence": "ฉันจะได้เป็นคุณพ่อ เร็วๆ นี้",
+            "thaiSentenceSpaced": " ฉัน จะ ได้ เป็นคุณ พ่อ  ·  เร็วๆ นี้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be beneficial ; be good to ; be advantageous"
+                        }
+                    ],
+                    "phonetic": "เป็น คุน",
+                    "word": "เป็นคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I <i>(used by a father when talking to his children)</i>"
+                        },
+                        {
+                            "meaning": "you <i>(used by children when addressing their father)</i>"
+                        },
+                        {
+                            "meaning": "father ; dad ; daddy"
+                        }
+                    ],
+                    "phonetic": "พ่อ",
+                    "word": "พ่อ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "recently"
+                        }
+                    ],
+                    "phonetic": "เร็วๆ นี้",
+                    "word": "เร็วๆ นี้"
+                }
+            ]
+        },
+        {
+            "engSentence": "It won't be anytime soon.",
+            "id": 68117,
+            "phonetic": "คง ไม่ ไช่ เร็วๆ นี้ หฺรอก นะ",
+            "thaiSentence": "คงไม่ใช่เร็วๆ นี้หรอกนะ",
+            "thaiSentenceSpaced": " คง ไม่ใช่ เร็วๆ นี้ หรอก นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "may ; will probably ; might"
+                        }
+                    ],
+                    "phonetic": "คง",
+                    "word": "คง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be not ; no"
+                        }
+                    ],
+                    "phonetic": "ไม่ ไช่",
+                    "word": "ไม่ใช่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "recently"
+                        }
+                    ],
+                    "phonetic": "เร็วๆ นี้",
+                    "word": "เร็วๆ นี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in the negative when making a contradiction)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺรอก",
+                    "word": "หรอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "The ordination is due soon.",
+            "id": 88734,
+            "phonetic": "พิ-ที บวด กำ-ลัง จะ มา ถึง ไน เร็วๆ นี้ แล้ว",
+            "thaiSentence": "พิธีบวชกำลังจะมาถึงในเร็วๆ นี้แล้ว",
+            "thaiSentenceSpaced": " พิธีบวช กำลังจะ มาถึง ใน เร็วๆ นี้ แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "ordination ceremony"
+                        }
+                    ],
+                    "phonetic": "พิ-ที บวด",
+                    "word": "พิธีบวช"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "be about to ; be on the verge of"
+                        }
+                    ],
+                    "phonetic": "กำ-ลัง จะ",
+                    "word": "กำลังจะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] reach at ; arrive at"
+                        }
+                    ],
+                    "phonetic": "มา ถึง",
+                    "word": "มาถึง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "recently"
+                        }
+                    ],
+                    "phonetic": "เร็วๆ นี้",
+                    "word": "เร็วๆ นี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 2354,
+        "exampleSentences": [
+            {
+                "engSentence": "I am going to die soon.",
+                "id": 16689,
+                "thaiSentence": "ฉันกำลังจะตายเร็วๆ นี้",
+                "thaiSentenceSpaced": " ฉัน กำลังจะ ตาย เร็วๆ นี้ "
+            },
+            {
+                "engSentence": "I'll be a father soon.",
+                "id": 24345,
+                "thaiSentence": "ฉันจะเป็นพ่อคนเร็วๆ นี้",
+                "thaiSentenceSpaced": " ฉัน จะเป็น พ่อ คน เร็วๆ นี้ "
+            },
+            {
+                "engSentence": "Do it quick.",
+                "id": 25349,
+                "thaiSentence": "เร็วๆ ด้วยล่ะ",
+                "thaiSentenceSpaced": " เร็วๆ ด้วย ล่ะ "
+            },
+            {
+                "engSentence": "I'll be a father soon.",
+                "id": 30679,
+                "thaiSentence": "ฉันจะได้เป็นคุณพ่อ เร็วๆ นี้",
+                "thaiSentenceSpaced": " ฉัน จะ ได้ เป็นคุณ พ่อ  &middot;  เร็วๆ นี้ "
+            },
+            {
+                "engSentence": "It won't be anytime soon.",
+                "id": 68117,
+                "thaiSentence": "คงไม่ใช่เร็วๆ นี้หรอกนะ",
+                "thaiSentenceSpaced": " คง ไม่ใช่ เร็วๆ นี้ หรอก นะ "
+            },
+            {
+                "engSentence": "The ordination is due soon.",
+                "id": 88734,
+                "thaiSentence": "พิธีบวชกำลังจะมาถึงในเร็วๆ นี้แล้ว",
+                "thaiSentenceSpaced": " พิธีบวช กำลังจะ มาถึง ใน เร็วๆ นี้ แล้ว "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1392828,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 42135,
+                        "corpusScore": 18325,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42135,
+                        "legacyWordId": 1392817,
+                        "meaning": "[to be] quick ; fast ; speedy",
+                        "parentId": 46559,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "เร็ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เร็ว"
+                    },
+                    {
+                        "childId": 47847,
+                        "corpusScore": 285357,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "It's a character used to indicate the previous word is repeated",
+                        "hasSoundFile": false,
+                        "id": 47847,
+                        "legacyWordId": 1458572,
+                        "meaning": "",
+                        "parentId": 46559,
+                        "partOfSpeech": "Repeater",
+                        "t2e": "ๆ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ๆ"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to be] fast",
+                        "word": "fast"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "very fast",
+                        "word": "very fast"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 46559,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22635,
+                        "legacyWordId": 1392829,
+                        "meaning": "[to] come on",
+                        "parentId": 22635,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เร็ว เร็ว เข้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เร็วๆ เข้า"
+                    },
+                    {
+                        "childId": 46559,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395509,
+                        "legacyWordId": 1385556,
+                        "meaning": "recently",
+                        "parentId": 395509,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เมื่อ เร็ว เร็ว นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เมื่อเร็วๆ นี้"
+                    }
+                ],
+                "explanation": null,
+                "id": 46559,
+                "isUncommon": false,
+                "meaning": "[to be] fast ; very fast",
+                "partOfSpeech": "StativeVerb ; Adjective",
+                "usage": "",
+                "word": "เร็วๆ"
+            }
+        ],
+        "t2e": "เร็ว เร็ว",
+        "verified": null,
+        "word": "เร็วๆ"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

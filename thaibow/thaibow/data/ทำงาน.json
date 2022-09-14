@@ -1,0 +1,926 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "I work here.",
+            "id": 25274,
+            "phonetic": "ผม ทำ งาน ที่ นี่",
+            "thaiSentence": "ผมทำงานที่นี่",
+            "thaiSentenceSpaced": " ผม ทำงาน ที่นี่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me <i>(used by men only)</i>"
+                        }
+                    ],
+                    "phonetic": "ผม",
+                    "word": "ผม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] work"
+                        }
+                    ],
+                    "phonetic": "ทำ งาน",
+                    "word": "ทำงาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "here"
+                        }
+                    ],
+                    "phonetic": "ที่ นี่",
+                    "word": "ที่นี่"
+                }
+            ]
+        },
+        {
+            "engSentence": "You really don't work ?",
+            "id": 27332,
+            "phonetic": "คุน ไม่ ด้าย ทำ งาน จิง จิง · น่ะ เหฺรอ",
+            "thaiSentence": "คุณไม่ได้ทำงานจริงๆ น่ะเหรอ",
+            "thaiSentenceSpaced": " คุณ ไม่ได้ ทำงาน จริงๆ น่ะ เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "didn't ; did not"
+                        },
+                        {
+                            "meaning": "can't ; cannot"
+                        }
+                    ],
+                    "phonetic": "ไม่ ด้าย",
+                    "word": "ไม่ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] work"
+                        }
+                    ],
+                    "phonetic": "ทำ งาน",
+                    "word": "ทำงาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "really ; honestly ; truly"
+                        }
+                    ],
+                    "phonetic": "จิง จิง",
+                    "word": "จริงๆ"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to after a noun to highlight it as the subject of the sentence, or to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "น่ะ",
+                    "word": "น่ะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You work here ?",
+            "id": 32926,
+            "phonetic": "ทำ งาน หฺยู่ ที่ นี่ เหฺรอ",
+            "thaiSentence": "ทำงานอยู่ที่นี่เหรอ",
+            "thaiSentenceSpaced": " ทำงาน อยู่ ที่นี่ เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] work"
+                        }
+                    ],
+                    "phonetic": "ทำ งาน",
+                    "word": "ทำงาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be at ; stay at ; live at"
+                        }
+                    ],
+                    "phonetic": "หฺยู่ ที่",
+                    "word": "อยู่ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Or you'll be late for work.",
+            "id": 50300,
+            "phonetic": "เดี๋ยว ก้อ ไป ทำ งาน สาย หฺรอก",
+            "thaiSentence": "เดี๋ยวก็ไปทำงานสายหรอก",
+            "thaiSentenceSpaced": " เดี๋ยว ก็ ไป ทำงาน สาย หรอก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "moment"
+                        },
+                        {
+                            "meaning": "in just a minute ; in just a moment"
+                        }
+                    ],
+                    "phonetic": "เดี๋ยว",
+                    "word": "เดี๋ยว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] work"
+                        }
+                    ],
+                    "phonetic": "ทำ งาน",
+                    "word": "ทำงาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] late"
+                        }
+                    ],
+                    "phonetic": "สาย",
+                    "word": "สาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in the negative when making a contradiction)</i>"
+                        }
+                    ],
+                    "phonetic": "หฺรอก",
+                    "word": "หรอก"
+                }
+            ]
+        },
+        {
+            "engSentence": "I used to work for them.",
+            "id": 50682,
+            "phonetic": "ฉัน เคย ทำ งาน ไห้ พวก เขา",
+            "thaiSentence": "ฉันเคยทำงานให้พวกเขา",
+            "thaiSentenceSpaced": " ฉัน เคย ทำงาน ให้ พวกเขา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "once ; ever ; used to"
+                        }
+                    ],
+                    "phonetic": "เคย",
+                    "word": "เคย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] work"
+                        }
+                    ],
+                    "phonetic": "ทำ งาน",
+                    "word": "ทำงาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "they ; them"
+                        }
+                    ],
+                    "phonetic": "พวก เขา",
+                    "word": "พวกเขา"
+                }
+            ]
+        },
+        {
+            "engSentence": "You going back to work.",
+            "id": 51228,
+            "phonetic": "คุน กฺลับ ไป ทำ งาน ไง",
+            "thaiSentence": "คุณกลับไปทำงานไง",
+            "thaiSentenceSpaced": " คุณ กลับ ไป ทำงาน ไง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] return ; go back ; reverse"
+                        }
+                    ],
+                    "phonetic": "กฺลับ",
+                    "word": "กลับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] work"
+                        }
+                    ],
+                    "phonetic": "ทำ งาน",
+                    "word": "ทำงาน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle showing the preceding statement is self-evident)</i>"
+                        },
+                        {
+                            "meaning": "how"
+                        }
+                    ],
+                    "phonetic": "ไง",
+                    "word": "ไง"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 33000,
+        "exampleSentences": [
+            {
+                "engSentence": "I work here.",
+                "id": 25274,
+                "thaiSentence": "ผมทำงานที่นี่",
+                "thaiSentenceSpaced": " ผม ทำงาน ที่นี่ "
+            },
+            {
+                "engSentence": "You really don't work ?",
+                "id": 27332,
+                "thaiSentence": "คุณไม่ได้ทำงานจริงๆ น่ะเหรอ",
+                "thaiSentenceSpaced": " คุณ ไม่ได้ ทำงาน จริงๆ น่ะ เหรอ "
+            },
+            {
+                "engSentence": "You work here ?",
+                "id": 32926,
+                "thaiSentence": "ทำงานอยู่ที่นี่เหรอ",
+                "thaiSentenceSpaced": " ทำงาน อยู่ ที่นี่ เหรอ "
+            },
+            {
+                "engSentence": "Or you'll be late for work.",
+                "id": 50300,
+                "thaiSentence": "เดี๋ยวก็ไปทำงานสายหรอก",
+                "thaiSentenceSpaced": " เดี๋ยว ก็ ไป ทำงาน สาย หรอก "
+            },
+            {
+                "engSentence": "I used to work for them.",
+                "id": 50682,
+                "thaiSentence": "ฉันเคยทำงานให้พวกเขา",
+                "thaiSentenceSpaced": " ฉัน เคย ทำงาน ให้ พวกเขา "
+            },
+            {
+                "engSentence": "You going back to work.",
+                "id": 51228,
+                "thaiSentence": "คุณกลับไปทำงานไง",
+                "thaiSentenceSpaced": " คุณ กลับ ไป ทำงาน ไง "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1322905,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 397298,
+                        "corpusScore": 250399,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 397298,
+                        "legacyWordId": 1322852,
+                        "meaning": "[to] do ; make",
+                        "parentId": 416279,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำ"
+                    },
+                    {
+                        "childId": 35427,
+                        "corpusScore": 167498,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 35427,
+                        "legacyWordId": 1287486,
+                        "meaning": "work ; job ; task",
+                        "parentId": 416279,
+                        "partOfSpeech": "Noun",
+                        "t2e": "งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "งาน"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] work",
+                        "word": "work"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 416279,
+                        "corpusScore": 7075,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 49921,
+                        "legacyWordId": 1268913,
+                        "meaning": "working",
+                        "parentId": 49921,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การทำงาน"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 1578,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15357,
+                        "legacyWordId": 1323390,
+                        "meaning": "workplace ; office",
+                        "parentId": 15357,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ที่ ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ที่ทำงาน"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 412,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30462,
+                        "legacyWordId": 1278484,
+                        "meaning": "working group",
+                        "parentId": 30462,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คะ-นะ ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คณะทำงาน"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 189,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22623,
+                        "legacyWordId": 1277483,
+                        "meaning": "[to] start work ; commence work ; begin work",
+                        "parentId": 22623,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เข้า ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้าทำงาน"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 178,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21030,
+                        "legacyWordId": 1386911,
+                        "meaning": "[to] inoperative",
+                        "parentId": 21030,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไม่ ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่ทำงาน"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 158,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34430,
+                        "legacyWordId": 1322907,
+                        "meaning": "[to] continue working ; go on working",
+                        "parentId": 34430,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ งาน ต่อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำงานต่อ"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 151,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7133,
+                        "legacyWordId": 1400468,
+                        "meaning": "office hours ; working hours",
+                        "parentId": 7133,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เว-ลา ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เวลาทำงาน"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 146,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37015,
+                        "legacyWordId": 1399240,
+                        "meaning": "working age",
+                        "parentId": 37015,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไว ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วัยทำงาน"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 119,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25233,
+                        "legacyWordId": 1448242,
+                        "meaning": "office ; studio",
+                        "parentId": 25233,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ห้อง ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้องทำงาน"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 111,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24977,
+                        "legacyWordId": 1318486,
+                        "meaning": "office desk ; desk",
+                        "parentId": 24977,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โต๊ะ ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โต๊ะทำงาน"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 77,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44160,
+                        "legacyWordId": 1374548,
+                        "meaning": "worker",
+                        "parentId": 44160,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้ทำงาน"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 53,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394978,
+                        "legacyWordId": 1322910,
+                        "meaning": "[to] work hard ; work strenuously",
+                        "parentId": 394978,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ งาน มาก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำงานมาก"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 47,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22940,
+                        "legacyWordId": 1399117,
+                        "meaning": "workday",
+                        "parentId": 22940,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วันทำงาน"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 43,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 93134,
+                        "legacyWordId": 1274821,
+                        "meaning": "on action",
+                        "parentId": 93134,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ขะ-หฺนะ ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขณะทำงาน"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 29,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 416280,
+                        "legacyWordId": 1293187,
+                        "meaning": "work clothes ; work uniform",
+                        "parentId": 416280,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชุด ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชุดทำงาน"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 5,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8148,
+                        "legacyWordId": 1265588,
+                        "meaning": "working group",
+                        "parentId": 8148,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺลุ่ม ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กลุ่มทำงาน"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 2,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25841,
+                        "legacyWordId": 1402522,
+                        "meaning": "work status",
+                        "parentId": 25841,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ-ถาน พาบ กาน ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สถานภาพการทำงาน"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 1,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 416276,
+                        "legacyWordId": 1392880,
+                        "meaning": "[to] resume work",
+                        "parentId": 416276,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เริ่ม ต้น ทำ งาน ไหฺม่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เริ่มต้นทำงานใหม่"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 1,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 416278,
+                        "legacyWordId": 1322912,
+                        "meaning": "[to] work offline ; operate offline",
+                        "parentId": 416278,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทำ งาน ออฟ-ไล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำงานออฟไลน์"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 96939,
+                        "legacyWordId": 1278873,
+                        "meaning": "service worker",
+                        "parentId": 96939,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คน ทำ งาน บอ-ริ-กาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คนทำงานบริการ"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 97154,
+                        "legacyWordId": 1374787,
+                        "meaning": "unemployable",
+                        "parentId": 97154,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ ไม่ สา-มาด ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้ไม่สามารถทำงาน"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 87710,
+                        "legacyWordId": 1332005,
+                        "meaning": "load-and-go",
+                        "parentId": 87710,
+                        "partOfSpeech": "Noun",
+                        "t2e": "บัน-จุ แล้ว ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บรรจุแล้วทำงาน"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 0,
+                        "displayOrder": 4,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 190520,
+                        "legacyWordId": 1399907,
+                        "meaning": "lease system",
+                        "parentId": 190520,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วิ-ที กาน จ้าง นัก โทด ไป ทำ งาน ข้าง นอก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วิธีการจ้างนักโทษไปทำงานข้างนอก"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 92054,
+                        "legacyWordId": 1323142,
+                        "meaning": "deactivate",
+                        "parentId": 92054,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทำ ไห้ หฺยุด ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทำให้หยุดทำงาน"
+                    },
+                    {
+                        "childId": 416279,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 70927,
+                        "legacyWordId": 1310660,
+                        "meaning": "run capacitor",
+                        "parentId": 70927,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตัว เก็บ ปฺระ-จุ ขะ-หฺนะ ทำ งาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตัวเก็บประจุขณะทำงาน"
+                    }
+                ],
+                "explanation": null,
+                "id": 416279,
+                "isUncommon": false,
+                "meaning": "[to] work",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ทำงาน"
+            }
+        ],
+        "t2e": "ทำ งาน",
+        "verified": null,
+        "word": "ทำงาน"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,38 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 1820,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1378001,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "Pattaya",
+                        "word": "Pattaya"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 41541,
+                "isUncommon": false,
+                "meaning": "Pattaya",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "พัทยา"
+            }
+        ],
+        "t2e": "พัด-ทะ-ยา",
+        "verified": null,
+        "word": "พัทยา"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

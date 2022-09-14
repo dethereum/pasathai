@@ -1,0 +1,956 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "All his furniture is padded.",
+            "id": 14620,
+            "phonetic": "เฟอ-นิ-เจอ ทุก ชิ้น ของ เขา ถูก บุ ด้วย เบาะ นิ่ม",
+            "thaiSentence": "เฟอร์นิเจอร์ทุกชิ้นของเขาถูกบุด้วยเบาะนิ่ม",
+            "thaiSentenceSpaced": " เฟอร์นิเจอร์ ทุก ชิ้น ของ เขา ถูก บุ ด้วย เบาะ นิ่ม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "furniture"
+                        }
+                    ],
+                    "phonetic": "เฟอ-นิ-เจอ",
+                    "word": "เฟอร์นิเจอร์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "every ; each"
+                        }
+                    ],
+                    "phonetic": "ทุก",
+                    "word": "ทุก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "piece ; part ; fragment <i>(ชิ้น is the classifier for a piece of something - cloth, meat, fruit etc.)</i>"
+                        }
+                    ],
+                    "phonetic": "ชิ้น",
+                    "word": "ชิ้น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] cheap ; inexpensive"
+                        },
+                        {
+                            "meaning": "[to be] correct ; right"
+                        }
+                    ],
+                    "phonetic": "ถูก",
+                    "word": "ถูก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] line ; put in a lining"
+                        }
+                    ],
+                    "phonetic": "บุ",
+                    "word": "บุ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "cushion ; pad ; mattress"
+                        }
+                    ],
+                    "phonetic": "เบาะ",
+                    "word": "เบาะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be soft ; be delicate ; be fragile"
+                        }
+                    ],
+                    "phonetic": "นิ่ม",
+                    "word": "นิ่ม"
+                }
+            ]
+        },
+        {
+            "engSentence": "It was worth every penny.",
+            "id": 19319,
+            "phonetic": "มัน คุ้ม ทุก บาด ทุก สะ-ตาง เลย แหฺละ",
+            "thaiSentence": "มันคุ้มทุกบาททุกสตางค์เลยแหละ",
+            "thaiSentenceSpaced": " มัน คุ้ม ทุก บาท ทุก สตางค์ เลย แหละ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] worthwhile"
+                        }
+                    ],
+                    "phonetic": "คุ้ม",
+                    "word": "คุ้ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "every ; each"
+                        }
+                    ],
+                    "phonetic": "ทุก",
+                    "word": "ทุก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "baht <i>(the Thai currency, Baht is also a unit of measurement for gold equal to 15.16 grams)</i>"
+                        }
+                    ],
+                    "phonetic": "บาด",
+                    "word": "บาท"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "every ; each"
+                        }
+                    ],
+                    "phonetic": "ทุก",
+                    "word": "ทุก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "money"
+                        },
+                        {
+                            "meaning": "stang"
+                        }
+                    ],
+                    "phonetic": "สะ-ตาง",
+                    "word": "สตางค์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle giving a sense of \"this/that very one ; exactly this/that one ; this/that one in particular \")</i>"
+                        }
+                    ],
+                    "phonetic": "แหฺละ",
+                    "word": "แหละ"
+                }
+            ]
+        },
+        {
+            "engSentence": "It was worth every penny.",
+            "id": 19319,
+            "phonetic": "มัน คุ้ม ทุก บาด ทุก สะ-ตาง เลย แหฺละ",
+            "thaiSentence": "มันคุ้มทุกบาททุกสตางค์เลยแหละ",
+            "thaiSentenceSpaced": " มัน คุ้ม ทุก บาท ทุก สตางค์ เลย แหละ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] worthwhile"
+                        }
+                    ],
+                    "phonetic": "คุ้ม",
+                    "word": "คุ้ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "every ; each"
+                        }
+                    ],
+                    "phonetic": "ทุก",
+                    "word": "ทุก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "baht <i>(the Thai currency, Baht is also a unit of measurement for gold equal to 15.16 grams)</i>"
+                        }
+                    ],
+                    "phonetic": "บาด",
+                    "word": "บาท"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "every ; each"
+                        }
+                    ],
+                    "phonetic": "ทุก",
+                    "word": "ทุก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "money"
+                        },
+                        {
+                            "meaning": "stang"
+                        }
+                    ],
+                    "phonetic": "สะ-ตาง",
+                    "word": "สตางค์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass ; go through ; pass through"
+                        },
+                        {
+                            "meaning": "so ; therefore"
+                        },
+                        {
+                            "meaning": " <i>(เลย is very commonly used as an intensifier in Thai, but can be difficult to translate directly into English. If it appears in combinations with abverbs such as มาก or จัง, which themselves serve to add emphasis to the sentence, then there's little need for a direct translation. If not, then a translation of \"completely\" or \"totally\" can work, or it might evade a direct translation and require a re-wording in English. In a negative sense, a ไม่....เลย combination can be translated as \"not....at all\" into English.)</i>"
+                        }
+                    ],
+                    "phonetic": "เลย",
+                    "word": "เลย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle giving a sense of \"this/that very one ; exactly this/that one ; this/that one in particular \")</i>"
+                        }
+                    ],
+                    "phonetic": "แหฺละ",
+                    "word": "แหละ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Every thing is ready.",
+            "id": 47364,
+            "phonetic": "ทุก หฺย่าง เรียบ ร้อย แล้ว คฺรับ ผม",
+            "thaiSentence": "ทุกอย่างเรียบร้อยแล้วครับผม",
+            "thaiSentenceSpaced": " ทุก อย่างเรียบร้อย แล้ว ครับผม ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "everything ; every kind ; every thing"
+                        }
+                    ],
+                    "phonetic": "ทุก หฺย่าง",
+                    "word": "ทุกอย่าง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(of a task)</i> [to be] ready ; finish ; completed"
+                        }
+                    ],
+                    "phonetic": "เรียบ ร้อย แล้ว",
+                    "word": "เรียบร้อยแล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers to sound polite and deferential, sometimes corresponding to \"Sir\" or \"Yes, sir\")</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ ผม",
+                    "word": "ครับผม"
+                }
+            ]
+        },
+        {
+            "engSentence": "Everything is all right.",
+            "id": 50474,
+            "phonetic": "ทุก หฺย่าง เรียบ ร้อย",
+            "thaiSentence": "ทุกอย่างเรียบร้อย",
+            "thaiSentenceSpaced": " ทุก อย่างเรียบร้อย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "every ; each"
+                        }
+                    ],
+                    "phonetic": "ทุก",
+                    "word": "ทุก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "neatly ; tidily ; orderly"
+                        }
+                    ],
+                    "phonetic": "หฺย่าง เรียบ ร้อย",
+                    "word": "อย่างเรียบร้อย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Is everyone all right ?",
+            "id": 54922,
+            "phonetic": "ทุก คน · ปฺลอด ไพ ดี หฺรือ เปฺล่า",
+            "thaiSentence": "ทุกคน ปลอดภัยดีหรือเปล่า",
+            "thaiSentenceSpaced": " ทุก คน  ·  ปลอดภัย ดี หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "everyone ; everybody"
+                        }
+                    ],
+                    "phonetic": "ทุก คน",
+                    "word": "ทุกคน"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be safe ; be out of danger ; be free from harm"
+                        }
+                    ],
+                    "phonetic": "ปฺลอด ไพ",
+                    "word": "ปลอดภัย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] good ; nice"
+                        }
+                    ],
+                    "phonetic": "ดี",
+                    "word": "ดี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 83731,
+        "exampleSentences": [
+            {
+                "engSentence": "All his furniture is padded.",
+                "id": 14620,
+                "thaiSentence": "เฟอร์นิเจอร์ทุกชิ้นของเขาถูกบุด้วยเบาะนิ่ม",
+                "thaiSentenceSpaced": " เฟอร์นิเจอร์ ทุก ชิ้น ของ เขา ถูก บุ ด้วย เบาะ นิ่ม "
+            },
+            {
+                "engSentence": "It was worth every penny.",
+                "id": 19319,
+                "thaiSentence": "มันคุ้มทุกบาททุกสตางค์เลยแหละ",
+                "thaiSentenceSpaced": " มัน คุ้ม ทุก บาท ทุก สตางค์ เลย แหละ "
+            },
+            {
+                "engSentence": "It was worth every penny.",
+                "id": 19319,
+                "thaiSentence": "มันคุ้มทุกบาททุกสตางค์เลยแหละ",
+                "thaiSentenceSpaced": " มัน คุ้ม ทุก บาท ทุก สตางค์ เลย แหละ "
+            },
+            {
+                "engSentence": "Every thing is ready.",
+                "id": 47364,
+                "thaiSentence": "ทุกอย่างเรียบร้อยแล้วครับผม",
+                "thaiSentenceSpaced": " ทุก อย่างเรียบร้อย แล้ว ครับผม "
+            },
+            {
+                "engSentence": "Everything is all right.",
+                "id": 50474,
+                "thaiSentence": "ทุกอย่างเรียบร้อย",
+                "thaiSentenceSpaced": " ทุก อย่างเรียบร้อย "
+            },
+            {
+                "engSentence": "Is everyone all right ?",
+                "id": 54922,
+                "thaiSentence": "ทุกคน ปลอดภัยดีหรือเปล่า",
+                "thaiSentenceSpaced": " ทุก คน  &middot;  ปลอดภัย ดี หรือเปล่า "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1323653,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "every",
+                        "word": "every"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "each",
+                        "word": "each"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 191406,
+                        "corpusScore": 21647,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 44583,
+                        "legacyWordId": 1323677,
+                        "meaning": "everyone ; everybody",
+                        "parentId": 44583,
+                        "partOfSpeech": "IndefinitePronoun",
+                        "t2e": "ทุก คน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกคน"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 9628,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 6539,
+                        "legacyWordId": 1323702,
+                        "meaning": "everyday ; always ; all the times",
+                        "parentId": 6539,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทุก วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกวัน"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 8995,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 33920,
+                        "legacyWordId": 1323715,
+                        "meaning": "everything ; every kind ; every thing",
+                        "parentId": 33920,
+                        "partOfSpeech": "IndefinitePronoun",
+                        "t2e": "ทุก หฺย่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกอย่าง"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 6708,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6716,
+                        "legacyWordId": 1323716,
+                        "meaning": "every ; each ; each one ; all",
+                        "parentId": 6716,
+                        "partOfSpeech": "Quantifier",
+                        "t2e": "ทุก ทุก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกๆ"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 6452,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6497,
+                        "legacyWordId": 1323678,
+                        "meaning": "always ; every time ; at all times",
+                        "parentId": 6497,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทุก คฺรั้ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกครั้ง"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 5915,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6063,
+                        "legacyWordId": 1323687,
+                        "meaning": "everyone ; everybody ; every person",
+                        "parentId": 6063,
+                        "partOfSpeech": "IndefinitePronoun",
+                        "t2e": "ทุก ทั่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกท่าน"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 4106,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 421,
+                        "legacyWordId": 1323683,
+                        "meaning": "every kind ; all kinds ; all types",
+                        "parentId": 421,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทุก ชะ-นิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกชนิด"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 3050,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6904,
+                        "legacyWordId": 1323693,
+                        "meaning": "every year ; annual ; annually",
+                        "parentId": 6904,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทุก ปี",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกปี"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 2438,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7640,
+                        "legacyWordId": 1323703,
+                        "meaning": "nowadays ; at present ; now",
+                        "parentId": 7640,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทุก วัน นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกวันนี้"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 2114,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8384,
+                        "legacyWordId": 1323690,
+                        "meaning": "always ; regularly ; every time",
+                        "parentId": 8384,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทุก ที",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกที"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 1787,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39065,
+                        "legacyWordId": 1323706,
+                        "meaning": "everything ; every thing ; all things",
+                        "parentId": 39065,
+                        "partOfSpeech": "IndefinitePronoun",
+                        "t2e": "ทุก สิ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกสิ่ง"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 1321,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 607,
+                        "legacyWordId": 1323695,
+                        "meaning": "every side ; all sides ; all parties",
+                        "parentId": 607,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทุก ฝ่าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกฝ่าย"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 944,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7524,
+                        "legacyWordId": 1323714,
+                        "meaning": "everywhere ; every place ; here and there",
+                        "parentId": 7524,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทุก แห่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกแห่ง"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 940,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2,
+                        "legacyWordId": 1323691,
+                        "meaning": "everywhere",
+                        "parentId": 2,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทุก ที่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกที่"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 650,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398568,
+                        "legacyWordId": 1323685,
+                        "meaning": "monthly",
+                        "parentId": 398568,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ทุก เดือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกเดือน"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 505,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6734,
+                        "legacyWordId": 1323681,
+                        "meaning": "every night ; nightly",
+                        "parentId": 6734,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทุก คืน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกคืน"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 496,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7330,
+                        "legacyWordId": 1323707,
+                        "meaning": "everything ; every thing ; all things",
+                        "parentId": 7330,
+                        "partOfSpeech": "IndefinitePronoun",
+                        "t2e": "ทุก สิ่ง ทุก หฺย่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกสิ่งทุกอย่าง"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 496,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7330,
+                        "legacyWordId": 1323707,
+                        "meaning": "everything ; every thing ; all things",
+                        "parentId": 7330,
+                        "partOfSpeech": "IndefinitePronoun",
+                        "t2e": "ทุก สิ่ง ทุก หฺย่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกสิ่งทุกอย่าง"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 448,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7266,
+                        "legacyWordId": 1323705,
+                        "meaning": "anytime ; all the time ; at any time",
+                        "parentId": 7266,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทุก เว-ลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกเวลา"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 406,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6867,
+                        "legacyWordId": 1323697,
+                        "meaning": "every time ; at all time ; at all hours",
+                        "parentId": 6867,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทุก เมื่อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกเมื่อ"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 363,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 500,
+                        "legacyWordId": 1323701,
+                        "meaning": "everyone ; all individuals",
+                        "parentId": 500,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทุก ราย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกราย"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 322,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 6927,
+                        "legacyWordId": 1323658,
+                        "meaning": "all the time ; all time ; at all time",
+                        "parentId": 6927,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทุก ขะ-หฺนะ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกขณะ"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 239,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42456,
+                        "legacyWordId": 1323709,
+                        "meaning": "every time",
+                        "parentId": 42456,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทุก หน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกหน"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 239,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42457,
+                        "legacyWordId": 1323709,
+                        "meaning": "everywhere ; all over ; all around",
+                        "parentId": 42457,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทุก หน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกหน"
+                    },
+                    {
+                        "childId": 191406,
+                        "corpusScore": 189,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398565,
+                        "legacyWordId": 1323686,
+                        "meaning": "totally ; completely ; entirely",
+                        "parentId": 398565,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ทุก ทาง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกทาง"
+                    }
+                ],
+                "explanation": null,
+                "id": 191406,
+                "isUncommon": false,
+                "meaning": "every ; each",
+                "partOfSpeech": "Quantifier",
+                "usage": "",
+                "word": "ทุก"
+            }
+        ],
+        "t2e": "ทุก",
+        "verified": null,
+        "word": "ทุก"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,1010 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "You were the closest to him.",
+            "id": 1430,
+            "phonetic": "คุน สะ-หฺนิด กับ เขา ที่ สุด",
+            "thaiSentence": "คุณสนิทกับเขาที่สุด",
+            "thaiSentenceSpaced": " คุณ สนิท กับ เขา ที่สุด ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "tight ; closely"
+                        },
+                        {
+                            "meaning": "[to be] close ; intimate"
+                        },
+                        {
+                            "meaning": "[to] be close to ; be on very familiar terms with"
+                        }
+                    ],
+                    "phonetic": "สะ-หฺนิด",
+                    "word": "สนิท"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "with ; together with"
+                        }
+                    ],
+                    "phonetic": "กับ",
+                    "word": "กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "most ; maximally ; greatest"
+                        },
+                        {
+                            "meaning": "most ; maximum ; greatest"
+                        }
+                    ],
+                    "phonetic": "ที่ สุด",
+                    "word": "ที่สุด"
+                }
+            ]
+        },
+        {
+            "engSentence": "Why did you give me this ?",
+            "id": 1517,
+            "phonetic": "ทำ-ไม คุน ถึง ไห้ · นี่ กับ ฉัน",
+            "thaiSentence": "ทำไมคุณถึงให้ นี่กับฉัน",
+            "thaiSentenceSpaced": " ทำไม คุณ ถึง ให้  ·  นี่ กับ ฉัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "why"
+                        }
+                    ],
+                    "phonetic": "ทำ-ไม",
+                    "word": "ทำไม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] reach ; arrive ; get to"
+                        },
+                        {
+                            "meaning": "even though ; even if"
+                        },
+                        {
+                            "meaning": "about ; of"
+                        }
+                    ],
+                    "phonetic": "ถึง",
+                    "word": "ถึง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "with ; together with"
+                        }
+                    ],
+                    "phonetic": "กับ",
+                    "word": "กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                }
+            ]
+        },
+        {
+            "engSentence": "How could you do this to me ?",
+            "id": 3975,
+            "phonetic": "คุน มา ทำ กับ ฉัน แบบ นี้ ด้าย ยัง ไง",
+            "thaiSentence": "คุณมาทำกับฉันแบบนี้ได้ยังไง",
+            "thaiSentenceSpaced": " คุณ มา ทำ กับ ฉัน แบบนี้ ได้ ยังไง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "with ; together with"
+                        }
+                    ],
+                    "phonetic": "กับ",
+                    "word": "กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "model ; style ; way"
+                        },
+                        {
+                            "meaning": "like ; as ; in the same way as"
+                        }
+                    ],
+                    "phonetic": "แบบ",
+                    "word": "แบบ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "this"
+                        }
+                    ],
+                    "phonetic": "นี้",
+                    "word": "นี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "how ; what"
+                        },
+                        {
+                            "meaning": "any way ; whichever way"
+                        }
+                    ],
+                    "phonetic": "ยัง ไง",
+                    "word": "ยังไง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Please come with us.",
+            "id": 9567,
+            "phonetic": "กะ-รุ-นา มา กับ เรา",
+            "thaiSentence": "กรุณามากับเรา",
+            "thaiSentenceSpaced": " กรุณา มา กับ เรา ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "please ; kindly"
+                        }
+                    ],
+                    "phonetic": "กะ-รุ-นา",
+                    "word": "กรุณา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "with ; together with"
+                        }
+                    ],
+                    "phonetic": "กับ",
+                    "word": "กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                }
+            ]
+        },
+        {
+            "engSentence": "I can hook you up.",
+            "id": 13306,
+            "phonetic": "ฉัน ต่อ รอง กับ คุน ด้าย นะ",
+            "thaiSentence": "ฉันต่อรองกับคุณได้นะ",
+            "thaiSentenceSpaced": " ฉัน ต่อรอง กับ คุณ ได้ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] bargain ; bet ; wager"
+                        }
+                    ],
+                    "phonetic": "ต่อ รอง",
+                    "word": "ต่อรอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "with ; together with"
+                        }
+                    ],
+                    "phonetic": "กับ",
+                    "word": "กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I know what you did to her.",
+            "id": 13510,
+            "phonetic": "ฉัน รู้ ว่า คุน ทำ อะ-ไร กับ เทอ",
+            "thaiSentence": "ฉันรู้ว่าคุณทำอะไรกับเธอ",
+            "thaiSentenceSpaced": " ฉัน รู้ว่า คุณ ทำ อะไร กับ เธอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] know that"
+                        }
+                    ],
+                    "phonetic": "รู้ ว่า",
+                    "word": "รู้ว่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "with ; together with"
+                        }
+                    ],
+                    "phonetic": "กับ",
+                    "word": "กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "เทอ",
+                    "word": "เธอ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 295256,
+        "exampleSentences": [
+            {
+                "engSentence": "You were the closest to him.",
+                "id": 1430,
+                "thaiSentence": "คุณสนิทกับเขาที่สุด",
+                "thaiSentenceSpaced": " คุณ สนิท กับ เขา ที่สุด "
+            },
+            {
+                "engSentence": "Why did you give me this ?",
+                "id": 1517,
+                "thaiSentence": "ทำไมคุณถึงให้ นี่กับฉัน",
+                "thaiSentenceSpaced": " ทำไม คุณ ถึง ให้  &middot;  นี่ กับ ฉัน "
+            },
+            {
+                "engSentence": "How could you do this to me ?",
+                "id": 3975,
+                "thaiSentence": "คุณมาทำกับฉันแบบนี้ได้ยังไง",
+                "thaiSentenceSpaced": " คุณ มา ทำ กับ ฉัน แบบนี้ ได้ ยังไง "
+            },
+            {
+                "engSentence": "Please come with us.",
+                "id": 9567,
+                "thaiSentence": "กรุณามากับเรา",
+                "thaiSentenceSpaced": " กรุณา มา กับ เรา "
+            },
+            {
+                "engSentence": "I can hook you up.",
+                "id": 13306,
+                "thaiSentence": "ฉันต่อรองกับคุณได้นะ",
+                "thaiSentenceSpaced": " ฉัน ต่อรอง กับ คุณ ได้ นะ "
+            },
+            {
+                "engSentence": "I know what you did to her.",
+                "id": 13510,
+                "thaiSentence": "ฉันรู้ว่าคุณทำอะไรกับเธอ",
+                "thaiSentenceSpaced": " ฉัน รู้ว่า คุณ ทำ อะไร กับ เธอ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1266694,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "with",
+                        "word": "with"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "together with",
+                        "word": "together with"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 416306,
+                        "corpusScore": 32492,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 29108,
+                        "legacyWordId": 1274126,
+                        "meaning": "about ; regarding ; concerning",
+                        "parentId": 29108,
+                        "partOfSpeech": "Preposition",
+                        "t2e": "เกี่ยว กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกี่ยวกับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 9849,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 41218,
+                        "legacyWordId": 1452222,
+                        "meaning": "[to] live with ; stay with ; be with",
+                        "parentId": 41218,
+                        "partOfSpeech": "Verb",
+                        "t2e": "หฺยู่ กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อยู่กับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 6617,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45366,
+                        "legacyWordId": 1308334,
+                        "meaning": "the same as",
+                        "parentId": 45366,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "เดียว กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดียวกับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 6078,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 34024,
+                        "legacyWordId": 1389182,
+                        "meaning": "[to] cooperate ; work together with ; collaborate",
+                        "parentId": 34024,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ร่วม กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ร่วมกับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 5464,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 1942,
+                        "legacyWordId": 1449922,
+                        "meaning": "like ; as ; such as ; as if",
+                        "parentId": 1942,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "เหฺมือน กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เหมือนกับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 5167,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27850,
+                        "legacyWordId": 1325085,
+                        "meaning": "[to] be equal to ; be equivalent to ; be comparable",
+                        "parentId": 27850,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เท่า กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เท่ากับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 5167,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14981,
+                        "legacyWordId": 1325085,
+                        "meaning": "[to] mean ; indicate ; signify",
+                        "parentId": 14981,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เท่า กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เท่ากับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 5131,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 21035,
+                        "legacyWordId": 1376464,
+                        "meaning": "together with",
+                        "parentId": 21035,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "พฺร้อม กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "พร้อมกับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 4757,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 46885,
+                        "legacyWordId": 1373263,
+                        "meaning": "[to] go with ; accompany",
+                        "parentId": 46885,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไป กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไปกับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 3559,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401570,
+                        "legacyWordId": 1325211,
+                        "meaning": "[to] compare with ; be comparable to",
+                        "parentId": 401570,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เทียบ กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เทียบกับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 3470,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 41260,
+                        "legacyWordId": 1309233,
+                        "meaning": "the same as",
+                        "parentId": 41260,
+                        "partOfSpeech": "None",
+                        "t2e": "ตฺรง กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตรงกับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 3297,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 29423,
+                        "legacyWordId": 1277262,
+                        "meaning": "with",
+                        "parentId": 29423,
+                        "partOfSpeech": "Preposition",
+                        "t2e": "เข้า กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เข้ากับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 3249,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17956,
+                        "legacyWordId": 1317437,
+                        "meaning": "adjoin ; be contiguous ; close to ; connect",
+                        "parentId": 17956,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ติด กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ติดกับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 2718,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32847,
+                        "legacyWordId": 1319663,
+                        "meaning": "so as ; so that ; as the result",
+                        "parentId": 32847,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ถึง กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ถึงกับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 2662,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23027,
+                        "legacyWordId": 1449851,
+                        "meaning": "[to] be appropriate ; proper ; be compatible with",
+                        "parentId": 23027,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เหฺมาะ กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เหมาะกับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 2644,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 27948,
+                        "legacyWordId": 1276681,
+                        "meaning": "[to] depend on ; hinge on ; be decided by",
+                        "parentId": 27948,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขึ้น หฺยู่ กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขึ้นอยู่กับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 2534,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22403,
+                        "legacyWordId": 1294403,
+                        "meaning": "[to] apply to",
+                        "parentId": 22403,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ไช้ กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใช้กับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 2525,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1207,
+                        "legacyWordId": 1276631,
+                        "meaning": "[to] be under ; be up to ; report to",
+                        "parentId": 1207,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ขึ้น กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขึ้นกับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 1881,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11177,
+                        "legacyWordId": 1293957,
+                        "meaning": "like ; as",
+                        "parentId": 11177,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "เช่น เดียว กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เช่นเดียวกับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 1320,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8950,
+                        "legacyWordId": 1266698,
+                        "meaning": "dishes ; course eaten with rice",
+                        "parentId": 8950,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กับ ข้าว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กับข้าว"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 1288,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402431,
+                        "legacyWordId": 1274701,
+                        "meaning": "adjoin ; be contiguous ; close to ; connect",
+                        "parentId": 402431,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ไกฺล้ กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ใกล้กับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 1225,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400601,
+                        "legacyWordId": 1405268,
+                        "meaning": "[to] correspond",
+                        "parentId": 400601,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สอด คฺล้อง กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สอดคล้องกับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 1008,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1814,
+                        "legacyWordId": 1392007,
+                        "meaning": "like ; as ; as if ; as though",
+                        "parentId": 1814,
+                        "partOfSpeech": "Preposition",
+                        "t2e": "ราว กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ราวกับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 515,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397740,
+                        "legacyWordId": 1292946,
+                        "meaning": "adjoin ; be contiguous ; close to ; connect",
+                        "parentId": 397740,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ชิด กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชิดกับ"
+                    },
+                    {
+                        "childId": 416306,
+                        "corpusScore": 512,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46686,
+                        "legacyWordId": 1318310,
+                        "meaning": "[to] marry",
+                        "parentId": 46686,
+                        "partOfSpeech": "Verb",
+                        "t2e": "แต่ง งาน กับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แต่งงานกับ"
+                    }
+                ],
+                "explanation": null,
+                "id": 416306,
+                "isUncommon": false,
+                "meaning": "with ; together with",
+                "partOfSpeech": "Preposition",
+                "usage": "",
+                "word": "กับ"
+            }
+        ],
+        "t2e": "กับ",
+        "verified": null,
+        "word": "กับ"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

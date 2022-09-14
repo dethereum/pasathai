@@ -1,0 +1,501 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "What are you doing here ?",
+            "id": 11901,
+            "phonetic": "แล้ว คุน มา ทำ อะ-ไร ตฺรง นี้",
+            "thaiSentence": "แล้วคุณมาทำอะไรตรงนี้",
+            "thaiSentenceSpaced": " แล้ว คุณ มา ทำ อะไร ตรงนี้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be in accordance (with) ; be consistent (with)"
+                        },
+                        {
+                            "meaning": "[to be] straight ; direct"
+                        },
+                        {
+                            "meaning": "directly ; straightforwardly"
+                        },
+                        {
+                            "meaning": "at"
+                        },
+                        {
+                            "meaning": "[to] be precise at ; be exact ; be accurate"
+                        }
+                    ],
+                    "phonetic": "ตฺรง",
+                    "word": "ตรง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "this"
+                        }
+                    ],
+                    "phonetic": "นี้",
+                    "word": "นี้"
+                }
+            ]
+        },
+        {
+            "engSentence": "What are you doing here ?",
+            "id": 12239,
+            "phonetic": "ทำ อะ-ไร หฺยู่ ตฺรง นี้",
+            "thaiSentence": "ทำอะไรอยู่ตรงนี้",
+            "thaiSentenceSpaced": " ทำ อะไร อยู่ ตรงนี้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] do ; make"
+                        }
+                    ],
+                    "phonetic": "ทำ",
+                    "word": "ทำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "here ; this place"
+                        }
+                    ],
+                    "phonetic": "ตฺรง นี้",
+                    "word": "ตรงนี้"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is all right here.",
+            "id": 18692,
+            "phonetic": "มัน หฺยู่ ตฺรง นี้ แล้ว",
+            "thaiSentence": "มันอยู่ตรงนี้แล้ว",
+            "thaiSentenceSpaced": " มัน อยู่ ตรงนี้ แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "here ; this place"
+                        }
+                    ],
+                    "phonetic": "ตฺรง นี้",
+                    "word": "ตรงนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "You two wait here.",
+            "id": 23952,
+            "phonetic": "คุน สอง คน รอ ตฺรง นี้ นะ",
+            "thaiSentence": "คุณสองคนรอตรงนี้นะ",
+            "thaiSentenceSpaced": " คุณ สอง คน รอ ตรงนี้ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "two"
+                        }
+                    ],
+                    "phonetic": "สอง",
+                    "word": "สอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] wait (for)"
+                        }
+                    ],
+                    "phonetic": "รอ",
+                    "word": "รอ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "here ; this place"
+                        }
+                    ],
+                    "phonetic": "ตฺรง นี้",
+                    "word": "ตรงนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Take a look at this.",
+            "id": 25495,
+            "phonetic": "ดู ตฺรง นี้ สิ",
+            "thaiSentence": "ดูตรงนี้สิ",
+            "thaiSentenceSpaced": " ดู ตรงนี้ สิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] appear ; seem"
+                        },
+                        {
+                            "meaning": "[to] watch ; look ; see"
+                        }
+                    ],
+                    "phonetic": "ดู",
+                    "word": "ดู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "here ; this place"
+                        }
+                    ],
+                    "phonetic": "ตฺรง นี้",
+                    "word": "ตรงนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                }
+            ]
+        },
+        {
+            "engSentence": "You can sleep here.",
+            "id": 32674,
+            "phonetic": "คุน นอน ตฺรง นี้ ด้าย",
+            "thaiSentence": "คุณนอนตรงนี้ได้",
+            "thaiSentenceSpaced": " คุณ นอน ตรงนี้ ได้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] sleep ; lie down"
+                        }
+                    ],
+                    "phonetic": "นอน",
+                    "word": "นอน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "here ; this place"
+                        }
+                    ],
+                    "phonetic": "ตฺรง นี้",
+                    "word": "ตรงนี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 4671,
+        "exampleSentences": [
+            {
+                "engSentence": "What are you doing here ?",
+                "id": 11901,
+                "thaiSentence": "แล้วคุณมาทำอะไรตรงนี้",
+                "thaiSentenceSpaced": " แล้ว คุณ มา ทำ อะไร ตรงนี้ "
+            },
+            {
+                "engSentence": "What are you doing here ?",
+                "id": 12239,
+                "thaiSentence": "ทำอะไรอยู่ตรงนี้",
+                "thaiSentenceSpaced": " ทำ อะไร อยู่ ตรงนี้ "
+            },
+            {
+                "engSentence": "It is all right here.",
+                "id": 18692,
+                "thaiSentence": "มันอยู่ตรงนี้แล้ว",
+                "thaiSentenceSpaced": " มัน อยู่ ตรงนี้ แล้ว "
+            },
+            {
+                "engSentence": "You two wait here.",
+                "id": 23952,
+                "thaiSentence": "คุณสองคนรอตรงนี้นะ",
+                "thaiSentenceSpaced": " คุณ สอง คน รอ ตรงนี้ นะ "
+            },
+            {
+                "engSentence": "Take a look at this.",
+                "id": 25495,
+                "thaiSentence": "ดูตรงนี้สิ",
+                "thaiSentenceSpaced": " ดู ตรงนี้ สิ "
+            },
+            {
+                "engSentence": "You can sleep here.",
+                "id": 32674,
+                "thaiSentence": "คุณนอนตรงนี้ได้",
+                "thaiSentenceSpaced": " คุณ นอน ตรงนี้ ได้ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1309248,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 7377,
+                        "corpusScore": 33725,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 7377,
+                        "legacyWordId": 1309224,
+                        "meaning": "at",
+                        "parentId": 5806,
+                        "partOfSpeech": "Preposition",
+                        "t2e": "ตฺรง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตรง"
+                    },
+                    {
+                        "childId": 42145,
+                        "corpusScore": 314016,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42145,
+                        "legacyWordId": 1330353,
+                        "meaning": "this",
+                        "parentId": 5806,
+                        "partOfSpeech": "DemonstrativeAdjective",
+                        "t2e": "นี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นี้"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "here",
+                        "word": "here"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "this place",
+                        "word": "this place"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 5806,
+                "isUncommon": false,
+                "meaning": "here ; this place",
+                "partOfSpeech": "Adverb",
+                "usage": "",
+                "word": "ตรงนี้"
+            }
+        ],
+        "t2e": "ตฺรง นี้",
+        "verified": null,
+        "word": "ตรงนี้"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

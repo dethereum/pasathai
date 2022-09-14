@@ -1,0 +1,91 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 1228,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1384370,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 47581,
+                        "corpusScore": 28,
+                        "displayOrder": 0,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": "the symbol of the Zodiac sign Gemini",
+                        "hasSoundFile": false,
+                        "id": 47581,
+                        "legacyWordId": 1384368,
+                        "meaning": "twins",
+                        "parentId": 23197,
+                        "partOfSpeech": "Noun",
+                        "t2e": "มิ-ถุน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "มิถุน"
+                    },
+                    {
+                        "childId": 47576,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 47576,
+                        "legacyWordId": 1454200,
+                        "meaning": "the arrival of ; the coming of",
+                        "parentId": 23197,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-ยน",
+                        "usage": "",
+                        "verified": "อา-ยน",
+                        "word": "อายน"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "June",
+                        "word": "June"
+                    }
+                ],
+                "etymology": "Pali/Sanskrit",
+                "examples": [
+                    {
+                        "childId": 23197,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45295,
+                        "legacyWordId": 1308379,
+                        "meaning": "June",
+                        "parentId": 45295,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน มิ-ถุ-นา-ยน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนมิถุนายน"
+                    }
+                ],
+                "explanation": null,
+                "id": 23197,
+                "isUncommon": false,
+                "meaning": "June",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "มิถุนายน"
+            }
+        ],
+        "t2e": "มิ-ถุ-นา-ยน",
+        "verified": null,
+        "word": "มิถุนายน"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

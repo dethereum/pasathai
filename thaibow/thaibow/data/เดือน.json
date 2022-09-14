@@ -1,0 +1,1083 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "A couple of months.",
+            "id": 56880,
+            "phonetic": "สอง เดือน ด้าย",
+            "thaiSentence": "สองเดือนได้",
+            "thaiSentenceSpaced": " สอง เดือน ได้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "two"
+                        }
+                    ],
+                    "phonetic": "สอง",
+                    "word": "สอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "month"
+                        }
+                    ],
+                    "phonetic": "เดือน",
+                    "word": "เดือน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get ; receive ; obtain"
+                        },
+                        {
+                            "meaning": "can ; be able to"
+                        },
+                        {
+                            "meaning": "got to ; did ; get to"
+                        }
+                    ],
+                    "phonetic": "ด้าย",
+                    "word": "ได้"
+                }
+            ]
+        },
+        {
+            "engSentence": "That was five months ago.",
+            "id": 58175,
+            "phonetic": "นั่น มัน ผ่าน มา ห้า เดือน แล้ว",
+            "thaiSentence": "นั่นมันผ่านมาห้าเดือนแล้ว",
+            "thaiSentenceSpaced": " นั่น มัน ผ่านมา ห้า เดือน แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั่น",
+                    "word": "นั่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] pass by ; pass through ; pass"
+                        }
+                    ],
+                    "phonetic": "ผ่าน มา",
+                    "word": "ผ่านมา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "five"
+                        }
+                    ],
+                    "phonetic": "ห้า",
+                    "word": "ห้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "month"
+                        }
+                    ],
+                    "phonetic": "เดือน",
+                    "word": "เดือน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "About a month ago.",
+            "id": 69556,
+            "phonetic": "ปฺระ-มาน เดือน นึง แล้ว คฺรับ",
+            "thaiSentence": "ประมาณเดือนนึงแล้วครับ",
+            "thaiSentenceSpaced": " ประมาณ เดือน นึง แล้ว ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "about ; around ; approximately"
+                        }
+                    ],
+                    "phonetic": "ปฺระ-มาน",
+                    "word": "ประมาณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "month"
+                        }
+                    ],
+                    "phonetic": "เดือน",
+                    "word": "เดือน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "นึง",
+                    "word": "นึง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        },
+        {
+            "engSentence": "One month ago.",
+            "id": 124623,
+            "phonetic": "เดือน หฺนึ่ง แล้ว",
+            "thaiSentence": "เดือนหนึ่งแล้ว",
+            "thaiSentenceSpaced": " เดือน หนึ่ง แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "month"
+                        }
+                    ],
+                    "phonetic": "เดือน",
+                    "word": "เดือน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "หฺนึ่ง",
+                    "word": "หนึ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "It was three months ago.",
+            "id": 278756,
+            "phonetic": "มัน ตั้ง สาม เดือน แล้ว นะ คะ",
+            "thaiSentence": "มันตั้งสามเดือนแล้วนะคะ",
+            "thaiSentenceSpaced": " มัน ตั้ง สาม เดือน แล้ว นะ คะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "up to ; as much as"
+                        },
+                        {
+                            "meaning": "[to] set ; set up ; establish"
+                        }
+                    ],
+                    "phonetic": "ตั้ง",
+                    "word": "ตั้ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "three"
+                        }
+                    ],
+                    "phonetic": "สาม",
+                    "word": "สาม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "month"
+                        }
+                    ],
+                    "phonetic": "เดือน",
+                    "word": "เดือน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of questions to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คะ",
+                    "word": "คะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Make it a month.",
+            "id": 40939,
+            "phonetic": "หฺนึ่ง เดือน แล้ว กัน",
+            "thaiSentence": "หนึ่งเดือนแล้วกัน",
+            "thaiSentenceSpaced": " หนึ่ง เดือน แล้ว กัน ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "หฺนึ่ง",
+                    "word": "หนึ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "month"
+                        }
+                    ],
+                    "phonetic": "เดือน",
+                    "word": "เดือน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one another ; each other"
+                        },
+                        {
+                            "meaning": "together ; jointly"
+                        }
+                    ],
+                    "phonetic": "กัน",
+                    "word": "กัน"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 31411,
+        "exampleSentences": [
+            {
+                "engSentence": "A couple of months.",
+                "id": 56880,
+                "thaiSentence": "สองเดือนได้",
+                "thaiSentenceSpaced": " สอง เดือน ได้ "
+            },
+            {
+                "engSentence": "That was five months ago.",
+                "id": 58175,
+                "thaiSentence": "นั่นมันผ่านมาห้าเดือนแล้ว",
+                "thaiSentenceSpaced": " นั่น มัน ผ่านมา ห้า เดือน แล้ว "
+            },
+            {
+                "engSentence": "About a month ago.",
+                "id": 69556,
+                "thaiSentence": "ประมาณเดือนนึงแล้วครับ",
+                "thaiSentenceSpaced": " ประมาณ เดือน นึง แล้ว ครับ "
+            },
+            {
+                "engSentence": "One month ago.",
+                "id": 124623,
+                "thaiSentence": "เดือนหนึ่งแล้ว",
+                "thaiSentenceSpaced": " เดือน หนึ่ง แล้ว "
+            },
+            {
+                "engSentence": "It was three months ago.",
+                "id": 278756,
+                "thaiSentence": "มันตั้งสามเดือนแล้วนะคะ",
+                "thaiSentenceSpaced": " มัน ตั้ง สาม เดือน แล้ว นะ คะ "
+            },
+            {
+                "engSentence": "Make it a month.",
+                "id": 40939,
+                "thaiSentence": "หนึ่งเดือนแล้วกัน",
+                "thaiSentenceSpaced": " หนึ่ง เดือน แล้ว กัน "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1308353,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "month",
+                        "word": "month"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 102678,
+                        "corpusScore": 2523,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35461,
+                        "legacyWordId": 1287820,
+                        "meaning": "salary ; monthly wage ; pay",
+                        "parentId": 35461,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เงิน เดือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เงินเดือน"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 1598,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 13966,
+                        "legacyWordId": 1367883,
+                        "meaning": "monthly",
+                        "parentId": 13966,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ปฺระ-จำ เดือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประจำเดือน"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 1598,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "Refers to a menstrual period",
+                        "hasSoundFile": false,
+                        "id": 45699,
+                        "legacyWordId": 1367883,
+                        "meaning": "period",
+                        "parentId": 45699,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺระ-จำ เดือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ประจำเดือน"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 899,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45300,
+                        "legacyWordId": 1308371,
+                        "meaning": "October",
+                        "parentId": 45300,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน ตุ-ลา คม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนตุลาคม"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 774,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 35608,
+                        "legacyWordId": 1369718,
+                        "meaning": "end of the month",
+                        "parentId": 35608,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปฺลาย เดือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปลายเดือน"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 736,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4879,
+                        "legacyWordId": 1308983,
+                        "meaning": "start of the month",
+                        "parentId": 4879,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ต้น เดือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ต้นเดือน"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 731,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 30936,
+                        "legacyWordId": 1391955,
+                        "meaning": "monthly",
+                        "parentId": 30936,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ราย เดือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รายเดือน"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 684,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45296,
+                        "legacyWordId": 1308378,
+                        "meaning": "January",
+                        "parentId": 45296,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน มก-กะ-รา คม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนมกราคม"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 552,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 48351,
+                        "legacyWordId": 1265357,
+                        "meaning": "the middle of the month",
+                        "parentId": 48351,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺลาง เดือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กลางเดือน"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 475,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45292,
+                        "legacyWordId": 1308382,
+                        "meaning": "April",
+                        "parentId": 45292,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน เม-สา-ยน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนเมษายน"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 393,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45302,
+                        "legacyWordId": 1308359,
+                        "meaning": "September",
+                        "parentId": 45302,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน กัน-ยา-ยน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนกันยายน"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 388,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45301,
+                        "legacyWordId": 1308360,
+                        "meaning": "February",
+                        "parentId": 45301,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน กุม-พา พัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนกุมภาพันธ์"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 323,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45299,
+                        "legacyWordId": 1308375,
+                        "meaning": "December",
+                        "parentId": 45299,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน ทัน-วา คม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนธันวาคม"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 287,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18289,
+                        "legacyWordId": 1308358,
+                        "meaning": "last month ; previous month",
+                        "parentId": 18289,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน ก่อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนก่อน"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 253,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45293,
+                        "legacyWordId": 1308385,
+                        "meaning": "August",
+                        "parentId": 45293,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน สิง-หา คม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนสิงหาคม"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 189,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400016,
+                        "legacyWordId": 1389783,
+                        "meaning": "menses ; menstruation",
+                        "parentId": 400016,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รอบ เดือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "รอบเดือน"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 152,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19227,
+                        "legacyWordId": 1308384,
+                        "meaning": "summer",
+                        "parentId": 19227,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน ร้อน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนร้อน"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 90,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397363,
+                        "legacyWordId": 1279410,
+                        "meaning": "fortnight ; every two weeks ; semimonthly",
+                        "parentId": 397363,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คฺรึ่ง เดือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครึ่งเดือน"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 60,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 38041,
+                        "legacyWordId": 1393277,
+                        "meaning": "for a month",
+                        "parentId": 38041,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แรม เดือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แรมเดือน"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 55,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5684,
+                        "legacyWordId": 1385539,
+                        "meaning": "last month",
+                        "parentId": 5684,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เมื่อ เดือน ที่ แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เมื่อเดือนที่แล้ว"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 42,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18242,
+                        "legacyWordId": 1308390,
+                        "meaning": "first lunar month ; December",
+                        "parentId": 18242,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน-อ้าย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนอ้าย"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 26,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31862,
+                        "legacyWordId": 1308362,
+                        "meaning": "lunar month with only 29",
+                        "parentId": 31862,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน ขาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนขาด"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 25,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400689,
+                        "legacyWordId": 1408332,
+                        "meaning": "twelve months ; year",
+                        "parentId": 400689,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิบ สอง เดือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิบสองเดือน"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 20,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 39403,
+                        "legacyWordId": 1308367,
+                        "meaning": "lunar month",
+                        "parentId": 39403,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน จัน-ทะ-ระ-คะ-ติ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนจันทรคติ"
+                    },
+                    {
+                        "childId": 102678,
+                        "corpusScore": 12,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18729,
+                        "legacyWordId": 1308366,
+                        "meaning": "month of even number",
+                        "parentId": 18729,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน คู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนคู่"
+                    }
+                ],
+                "explanation": null,
+                "id": 102678,
+                "isUncommon": false,
+                "meaning": "month",
+                "partOfSpeech": "Noun ; Classifier",
+                "usage": "",
+                "word": "เดือน"
+            },
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "moon",
+                        "word": "moon"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 18602,
+                        "corpusScore": 650,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398568,
+                        "legacyWordId": 1323685,
+                        "meaning": "monthly",
+                        "parentId": 398568,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ทุก เดือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทุกเดือน"
+                    },
+                    {
+                        "childId": 18602,
+                        "corpusScore": 304,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18556,
+                        "legacyWordId": 1410571,
+                        "meaning": "earthworm ; angleworm ; dewworm",
+                        "parentId": 18556,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไส้ เดือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไส้เดือน"
+                    },
+                    {
+                        "childId": 18602,
+                        "corpusScore": 127,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18091,
+                        "legacyWordId": 1308363,
+                        "meaning": "crescent moon",
+                        "parentId": 18091,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน ขึ้น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนขึ้น"
+                    },
+                    {
+                        "childId": 18602,
+                        "corpusScore": 110,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19709,
+                        "legacyWordId": 1410190,
+                        "meaning": "moonlight ; moonshine",
+                        "parentId": 19709,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แสง เดือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แสงเดือน"
+                    },
+                    {
+                        "childId": 18602,
+                        "corpusScore": 83,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18623,
+                        "legacyWordId": 1308381,
+                        "meaning": "waning moon ; moonless night ; dark night",
+                        "parentId": 18623,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน มืด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนมืด"
+                    },
+                    {
+                        "childId": 18602,
+                        "corpusScore": 76,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 9817,
+                        "legacyWordId": 1306097,
+                        "meaning": "moon",
+                        "parentId": 9817,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ดวง เดือน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ดวงเดือน"
+                    },
+                    {
+                        "childId": 18602,
+                        "corpusScore": 65,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17940,
+                        "legacyWordId": 1308372,
+                        "meaning": "full moon",
+                        "parentId": 17940,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน เต็ม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนเต็ม"
+                    },
+                    {
+                        "childId": 18602,
+                        "corpusScore": 50,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19416,
+                        "legacyWordId": 1308387,
+                        "meaning": "waxing moon ; moonlit night",
+                        "parentId": 19416,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน หฺงาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนหงาย"
+                    },
+                    {
+                        "childId": 18602,
+                        "corpusScore": 21,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18810,
+                        "legacyWordId": 1308369,
+                        "meaning": "moonset ; setting moon",
+                        "parentId": 18810,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน ดับ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนดับ"
+                    },
+                    {
+                        "childId": 18602,
+                        "corpusScore": 14,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19195,
+                        "legacyWordId": 1308386,
+                        "meaning": "crescent moon",
+                        "parentId": 19195,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน เสี้ยว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนเสี้ยว"
+                    },
+                    {
+                        "childId": 18602,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19285,
+                        "legacyWordId": 1308364,
+                        "meaning": "moon that can be seen in",
+                        "parentId": 19285,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เดือน ค้าง ฟ้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เดือนค้างฟ้า"
+                    }
+                ],
+                "explanation": null,
+                "id": 18602,
+                "isUncommon": true,
+                "meaning": "moon",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "เดือน"
+            }
+        ],
+        "t2e": "เดือน",
+        "verified": null,
+        "word": "เดือน"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

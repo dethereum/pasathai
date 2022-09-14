@@ -1,0 +1,742 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "He's with some girl.",
+            "id": 1336,
+            "phonetic": "หฺยู่ กับ พู่ หฺยิง ด้วย",
+            "thaiSentence": "อยู่กับผู้หญิงด้วย",
+            "thaiSentenceSpaced": " อยู่กับ ผู้หญิง ด้วย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] live with ; stay with ; be with"
+                        }
+                    ],
+                    "phonetic": "หฺยู่ กับ",
+                    "word": "อยู่กับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "woman ; lady ; female"
+                        }
+                    ],
+                    "phonetic": "พู่ หฺยิง",
+                    "word": "ผู้หญิง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "by ; with ; through"
+                        },
+                        {
+                            "meaning": "as well ; also ; too"
+                        },
+                        {
+                            "meaning": " <i>(polite particle used in requests, and expressions of congratulation or condolence)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้วย",
+                    "word": "ด้วย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Is this a girl or a chicken ?",
+            "id": 16424,
+            "phonetic": "นี่ มัน พู่ หฺยิง หฺรือ ไก่ เนี่ย",
+            "thaiSentence": "นี่มันผู้หญิงหรือไก่เนี่ย",
+            "thaiSentenceSpaced": " นี่ มัน ผู้หญิง หรือ ไก่ เนี่ย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "woman ; lady ; female"
+                        }
+                    ],
+                    "phonetic": "พู่ หฺยิง",
+                    "word": "ผู้หญิง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        },
+                        {
+                            "meaning": "or"
+                        }
+                    ],
+                    "phonetic": "หฺรือ",
+                    "word": "หรือ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "chicken ; hen ; cock"
+                        }
+                    ],
+                    "phonetic": "ไก่",
+                    "word": "ไก่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(ending particle, sometimes showing suprise or confusion)</i>"
+                        }
+                    ],
+                    "phonetic": "เนี่ย",
+                    "word": "เนี่ย"
+                }
+            ]
+        },
+        {
+            "engSentence": "It is not a woman.",
+            "id": 24344,
+            "phonetic": "ไม่ ไช่ เรื่อง พู่ หฺยิง",
+            "thaiSentence": "ไม่ใช่เรื่องผู้หญิง",
+            "thaiSentenceSpaced": " ไม่ใช่ เรื่อง ผู้หญิง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be not ; no"
+                        }
+                    ],
+                    "phonetic": "ไม่ ไช่",
+                    "word": "ไม่ใช่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "matter ; affair ; thing <i>(เรื่อง is the classifier for a movie, story or tale.)</i>"
+                        },
+                        {
+                            "meaning": "about ; regarding ; concerning"
+                        },
+                        {
+                            "meaning": "problem ; trouble"
+                        }
+                    ],
+                    "phonetic": "เรื่อง",
+                    "word": "เรื่อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "woman ; lady ; female"
+                        }
+                    ],
+                    "phonetic": "พู่ หฺยิง",
+                    "word": "ผู้หญิง"
+                }
+            ]
+        },
+        {
+            "engSentence": "Are you really a girl ?",
+            "id": 24355,
+            "phonetic": "คุน ไช่ พู่ หฺยิง หฺรือ เปฺล่า เนี่ย",
+            "thaiSentence": "คุณใช่ผู้หญิงหรือเปล่าเนี่ย",
+            "thaiSentenceSpaced": " คุณ ใช่ ผู้หญิง หรือเปล่า เนี่ย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yes"
+                        }
+                    ],
+                    "phonetic": "ไช่",
+                    "word": "ใช่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "woman ; lady ; female"
+                        }
+                    ],
+                    "phonetic": "พู่ หฺยิง",
+                    "word": "ผู้หญิง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(ending particle, sometimes showing suprise or confusion)</i>"
+                        }
+                    ],
+                    "phonetic": "เนี่ย",
+                    "word": "เนี่ย"
+                }
+            ]
+        },
+        {
+            "engSentence": "The girl who lives there.",
+            "id": 24873,
+            "phonetic": "พู่ หฺยิง ที่ หฺยู่ ที่ นั่น",
+            "thaiSentence": "ผู้หญิงที่อยู่ที่นั่น",
+            "thaiSentenceSpaced": " ผู้หญิง ที่อยู่ ที่นั่น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "woman ; lady ; female"
+                        }
+                    ],
+                    "phonetic": "พู่ หฺยิง",
+                    "word": "ผู้หญิง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "address ; location"
+                        }
+                    ],
+                    "phonetic": "ที่ หฺยู่",
+                    "word": "ที่อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "there ; that place"
+                        }
+                    ],
+                    "phonetic": "ที่ นั่น",
+                    "word": "ที่นั่น"
+                }
+            ]
+        },
+        {
+            "engSentence": "I know a woman.",
+            "id": 25640,
+            "phonetic": "ฉัน รู้ จัก พู่ หฺยิง คน นึง",
+            "thaiSentence": "ฉันรู้จักผู้หญิงคนนึง",
+            "thaiSentenceSpaced": " ฉัน รู้จัก ผู้หญิง คน นึง ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] know <i>(someone)</i>"
+                        }
+                    ],
+                    "phonetic": "รู้ จัก",
+                    "word": "รู้จัก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "woman ; lady ; female"
+                        }
+                    ],
+                    "phonetic": "พู่ หฺยิง",
+                    "word": "ผู้หญิง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "person ; people <i>(คน is the classifier for nouns referring to people.)</i>"
+                        }
+                    ],
+                    "phonetic": "คน",
+                    "word": "คน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "one"
+                        }
+                    ],
+                    "phonetic": "นึง",
+                    "word": "นึง"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 12817,
+        "exampleSentences": [
+            {
+                "engSentence": "He's with some girl.",
+                "id": 1336,
+                "thaiSentence": "อยู่กับผู้หญิงด้วย",
+                "thaiSentenceSpaced": " อยู่กับ ผู้หญิง ด้วย "
+            },
+            {
+                "engSentence": "Is this a girl or a chicken ?",
+                "id": 16424,
+                "thaiSentence": "นี่มันผู้หญิงหรือไก่เนี่ย",
+                "thaiSentenceSpaced": " นี่ มัน ผู้หญิง หรือ ไก่ เนี่ย "
+            },
+            {
+                "engSentence": "It is not a woman.",
+                "id": 24344,
+                "thaiSentence": "ไม่ใช่เรื่องผู้หญิง",
+                "thaiSentenceSpaced": " ไม่ใช่ เรื่อง ผู้หญิง "
+            },
+            {
+                "engSentence": "Are you really a girl ?",
+                "id": 24355,
+                "thaiSentence": "คุณใช่ผู้หญิงหรือเปล่าเนี่ย",
+                "thaiSentenceSpaced": " คุณ ใช่ ผู้หญิง หรือเปล่า เนี่ย "
+            },
+            {
+                "engSentence": "The girl who lives there.",
+                "id": 24873,
+                "thaiSentence": "ผู้หญิงที่อยู่ที่นั่น",
+                "thaiSentenceSpaced": " ผู้หญิง ที่อยู่ ที่นั่น "
+            },
+            {
+                "engSentence": "I know a woman.",
+                "id": 25640,
+                "thaiSentence": "ฉันรู้จักผู้หญิงคนนึง",
+                "thaiSentenceSpaced": " ฉัน รู้จัก ผู้หญิง คน นึง "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1375029,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 48278,
+                        "corpusScore": 190914,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 48278,
+                        "legacyWordId": 1374174,
+                        "meaning": "person ; people",
+                        "parentId": 191415,
+                        "partOfSpeech": "Noun ; Classifier",
+                        "t2e": "พู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้"
+                    },
+                    {
+                        "childId": 47867,
+                        "corpusScore": 24103,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 47867,
+                        "legacyWordId": 1410754,
+                        "meaning": "female ; woman",
+                        "parentId": 191415,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺยิง",
+                        "usage": "",
+                        "verified": "หฺยิง",
+                        "word": "หญิง"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "woman",
+                        "word": "woman"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "lady",
+                        "word": "lady"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "female",
+                        "word": "female"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 191415,
+                        "corpusScore": 485,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41976,
+                        "legacyWordId": 1372199,
+                        "meaning": "[to] be a woman ; be a lady ; be female",
+                        "parentId": 41976,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เป็น พู่ หฺยิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เป็นผู้หญิง"
+                    },
+                    {
+                        "childId": 191415,
+                        "corpusScore": 199,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 384071,
+                        "legacyWordId": 1308043,
+                        "meaning": "girl",
+                        "parentId": 384071,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เด็ก พู่ หฺยิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เด็กผู้หญิง"
+                    },
+                    {
+                        "childId": 191415,
+                        "corpusScore": 163,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 31716,
+                        "legacyWordId": 1285052,
+                        "meaning": "madam ; madame ; lady",
+                        "parentId": 31716,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คุน พู่ หฺยิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คุณผู้หญิง"
+                    },
+                    {
+                        "childId": 191415,
+                        "corpusScore": 107,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 191360,
+                        "legacyWordId": 1375032,
+                        "meaning": "Thai women ; Thai girls",
+                        "parentId": 191360,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ หฺยิง ไท",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้หญิงไทย"
+                    },
+                    {
+                        "childId": 191415,
+                        "corpusScore": 77,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "a title conferred to woman of the highest rank, such as the wife of the Prime Minister; a rough equivalent of the titles \"Lady\" or \"Dame\"",
+                        "hasSoundFile": false,
+                        "id": 47956,
+                        "legacyWordId": 1322217,
+                        "meaning": "Than Phuying",
+                        "parentId": 47956,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ทั่น พู่ หฺยิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ท่านผู้หญิง"
+                    },
+                    {
+                        "childId": 191415,
+                        "corpusScore": 42,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22721,
+                        "legacyWordId": 1396731,
+                        "meaning": "daughter",
+                        "parentId": 22721,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ลูก พู่ หฺยิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลูกผู้หญิง"
+                    },
+                    {
+                        "childId": 191415,
+                        "corpusScore": 42,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22830,
+                        "legacyWordId": 1396731,
+                        "meaning": "woman",
+                        "parentId": 22830,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ลูก พู่ หฺยิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ลูกผู้หญิง"
+                    },
+                    {
+                        "childId": 191415,
+                        "corpusScore": 6,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7900,
+                        "legacyWordId": 1325253,
+                        "meaning": "[to] visit a prostitute",
+                        "parentId": 7900,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เที่ยว พู่ หฺยิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เที่ยวผู้หญิง"
+                    },
+                    {
+                        "childId": 191415,
+                        "corpusScore": 3,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 21901,
+                        "legacyWordId": 1410139,
+                        "meaning": "lecher ; fox",
+                        "parentId": 21901,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เสือ พู่ หฺยิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เสือผู้หญิง"
+                    },
+                    {
+                        "childId": 191415,
+                        "corpusScore": 1,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24235,
+                        "legacyWordId": 1327914,
+                        "meaning": "connoisseur of women",
+                        "parentId": 24235,
+                        "partOfSpeech": "Noun",
+                        "t2e": "นัก-เลง พู่ หฺยิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นักเลงผู้หญิง"
+                    },
+                    {
+                        "childId": 191415,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401557,
+                        "legacyWordId": 1319904,
+                        "meaning": "Buddhist nun who has atta",
+                        "parentId": 401557,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เถ-ระ พู่ หฺยิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เถระผู้หญิง"
+                    },
+                    {
+                        "childId": 191415,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402382,
+                        "legacyWordId": 1393665,
+                        "meaning": "venereal disease",
+                        "parentId": 402382,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โรก พู่ หฺยิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โรคผู้หญิง"
+                    },
+                    {
+                        "childId": 191415,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 190509,
+                        "legacyWordId": 1408195,
+                        "meaning": "woman suffrage",
+                        "parentId": 190509,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สิด-ทิ ออก เสียง เลือก ตั้ง ของ พู่ หฺยิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สิทธิออกเสียงเลือกตั้งของผู้หญิง"
+                    },
+                    {
+                        "childId": 191415,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 399318,
+                        "legacyWordId": 1375030,
+                        "meaning": "ill-mannered woman ; girl of impolite manner",
+                        "parentId": 399318,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ หฺยิง แก่น",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้หญิงแก่น"
+                    },
+                    {
+                        "childId": 191415,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398922,
+                        "legacyWordId": 1365817,
+                        "meaning": "[to] paint",
+                        "parentId": 398922,
+                        "partOfSpeech": "Verb",
+                        "t2e": "บ่าว พู่ หฺยิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "บ่าวผู้หญิง"
+                    },
+                    {
+                        "childId": 191415,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398802,
+                        "legacyWordId": 1328808,
+                        "meaning": "aunt ; mother's sister",
+                        "parentId": 398802,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้า พู่ หฺยิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "น้าผู้หญิง"
+                    },
+                    {
+                        "childId": 191415,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 398431,
+                        "legacyWordId": 1322631,
+                        "meaning": "[to] paint",
+                        "parentId": 398431,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ทาด พู่ หฺยิง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ทาสผู้หญิง"
+                    }
+                ],
+                "explanation": null,
+                "id": 191415,
+                "isUncommon": false,
+                "meaning": "woman ; lady ; female",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ผู้หญิง"
+            }
+        ],
+        "t2e": "พู่ หฺยิง",
+        "verified": null,
+        "word": "ผู้หญิง"
+    },
+    "greenBarCount": 5,
+    "pageUrl": "",
+    "type": "thai-word"
+}

@@ -1,0 +1,265 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Is the market closed ?",
+            "id": 405178,
+            "phonetic": "ตะ-หฺลาด ปิด แล้ว เหฺรอ",
+            "thaiSentence": "ตลาดปิดแล้วเหรอ",
+            "thaiSentenceSpaced": " ตลาด ปิด แล้ว เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "market"
+                        }
+                    ],
+                    "phonetic": "ตะ-หฺลาด",
+                    "word": "ตลาด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] close ; switch off ; turn off"
+                        },
+                        {
+                            "meaning": "[to be] closed ; off ; shut"
+                        }
+                    ],
+                    "phonetic": "ปิด",
+                    "word": "ปิด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "The new market forms.",
+            "id": 437283,
+            "phonetic": "ผะ-แหน-กาน ตะ-หฺลาด อัน ไหฺม่",
+            "thaiSentence": "แผนการตลาดอันใหม่",
+            "thaiSentenceSpaced": " แผนการ ตลาด อัน ใหม่ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "plan ; scheme ; method"
+                        }
+                    ],
+                    "phonetic": "ผะ-แหน-กาน",
+                    "word": "แผนการ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "market"
+                        }
+                    ],
+                    "phonetic": "ตะ-หฺลาด",
+                    "word": "ตลาด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "piece ; slice ; part <i>(อัน is a classifier used for many small objects.)</i>"
+                        }
+                    ],
+                    "phonetic": "อัน",
+                    "word": "อัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "again ; once more"
+                        },
+                        {
+                            "meaning": "[to be] new ; recent ; the latest"
+                        }
+                    ],
+                    "phonetic": "ไหฺม่",
+                    "word": "ใหม่"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am going to the market.",
+            "id": 499639,
+            "phonetic": "ฉัน กำ-ลัง ไป ตะ-หฺลาด ค่ะ",
+            "thaiSentence": "ฉันกำลังไปตลาดค่ะ",
+            "thaiSentenceSpaced": " ฉัน กำลัง ไป ตลาด ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "power ; energy ; strength"
+                        },
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense)</i>"
+                        }
+                    ],
+                    "phonetic": "กำ-ลัง",
+                    "word": "กำลัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "market"
+                        }
+                    ],
+                    "phonetic": "ตะ-หฺลาด",
+                    "word": "ตลาด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 24965,
+        "exampleSentences": [
+            {
+                "engSentence": "Is the market closed ?",
+                "id": 405178,
+                "thaiSentence": "ตลาดปิดแล้วเหรอ",
+                "thaiSentenceSpaced": " ตลาด ปิด แล้ว เหรอ "
+            },
+            {
+                "engSentence": "The new market forms.",
+                "id": 437283,
+                "thaiSentence": "แผนการตลาดอันใหม่",
+                "thaiSentenceSpaced": " แผนการ ตลาด อัน ใหม่ "
+            },
+            {
+                "engSentence": "I am going to the market.",
+                "id": 499639,
+                "thaiSentence": "ฉันกำลังไปตลาดค่ะ",
+                "thaiSentenceSpaced": " ฉัน กำลัง ไป ตลาด ค่ะ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1463136,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "market",
+                        "word": "market"
+                    }
+                ],
+                "etymology": "Thai",
+                "examples": [
+                    {
+                        "childId": 384057,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "Thai",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 52824,
+                        "legacyWordId": 1463137,
+                        "meaning": "Talad Chaiya Town",
+                        "parentId": 52824,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ตะ-หฺลาด ไช ยา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ตลาดไชยา"
+                    },
+                    {
+                        "childId": 384057,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "The name of a village in Nakhon Pathom province",
+                        "hasSoundFile": false,
+                        "id": 668877,
+                        "legacyWordId": 1414559,
+                        "meaning": "Mu Talat",
+                        "parentId": 668877,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺมู่ ตะ-หฺลาด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หมู่ตลาด"
+                    }
+                ],
+                "explanation": null,
+                "id": 384057,
+                "isUncommon": false,
+                "meaning": "market",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ตลาด"
+            }
+        ],
+        "t2e": "ตะ-หฺลาด",
+        "verified": "ตะ-หฺลาด",
+        "word": "ตลาด"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

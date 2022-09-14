@@ -1,0 +1,91 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 2247,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1399210,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 362198,
+                        "corpusScore": 106774,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 362198,
+                        "legacyWordId": 1399065,
+                        "meaning": "day",
+                        "parentId": 44835,
+                        "partOfSpeech": "Noun",
+                        "t2e": "วัน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "วัน"
+                    },
+                    {
+                        "childId": 41054,
+                        "corpusScore": 10221,
+                        "displayOrder": 1,
+                        "etymology": "Pali/Sanskrit",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41054,
+                        "legacyWordId": 1454085,
+                        "meaning": "sun",
+                        "parentId": 44835,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อา-ทิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อาทิตย์"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "Sunday",
+                        "word": "Sunday"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 44835,
+                        "corpusScore": 25,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 103131,
+                        "legacyWordId": 1284975,
+                        "meaning": "Sunday night",
+                        "parentId": 103131,
+                        "partOfSpeech": "Noun",
+                        "t2e": "คืน วัน อา-ทิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "คืนวันอาทิตย์"
+                    }
+                ],
+                "explanation": null,
+                "id": 44835,
+                "isUncommon": false,
+                "meaning": "Sunday",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "วันอาทิตย์"
+            }
+        ],
+        "t2e": "วัน อา-ทิด",
+        "verified": null,
+        "word": "วันอาทิตย์"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

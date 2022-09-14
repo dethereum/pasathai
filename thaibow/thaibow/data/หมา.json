@@ -1,0 +1,780 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "What's the dog for ?",
+            "id": 863,
+            "phonetic": "หฺมา นี่ มัน อะ-ไร",
+            "thaiSentence": "หมานี่มันอะไร",
+            "thaiSentenceSpaced": " หมา นี่ มัน อะไร ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "dog"
+                        }
+                    ],
+                    "phonetic": "หฺมา",
+                    "word": "หมา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                }
+            ]
+        },
+        {
+            "engSentence": "Is this our dog ?",
+            "id": 867,
+            "phonetic": "หฺมา ของ เรา เหฺรอ",
+            "thaiSentence": "หมาของเราเหรอ",
+            "thaiSentenceSpaced": " หมา ของ เรา เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "dog"
+                        }
+                    ],
+                    "phonetic": "หฺมา",
+                    "word": "หมา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "we ; us"
+                        }
+                    ],
+                    "phonetic": "เรา",
+                    "word": "เรา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Where is that silly dog ?",
+            "id": 40362,
+            "phonetic": "เจ้า หฺมา โง่ หฺยู่ ที่ ไหฺน แล้ว",
+            "thaiSentence": "เจ้าหมาโง่อยู่ที่ไหนแล้ว",
+            "thaiSentenceSpaced": " เจ้า หมา โง่ อยู่ ที่ไหน แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "prince ; princess ; lord"
+                        },
+                        {
+                            "meaning": "owner ; possessor"
+                        },
+                        {
+                            "meaning": " <i>(prefix used before names of children, inferiors or subordinates)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a prefix showing something someone does skillfully or has frequently)</i>"
+                        }
+                    ],
+                    "phonetic": "เจ้า",
+                    "word": "เจ้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "dog"
+                        }
+                    ],
+                    "phonetic": "หฺมา",
+                    "word": "หมา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be foolish ; be stupid ; be silly"
+                        }
+                    ],
+                    "phonetic": "โง่",
+                    "word": "โง่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be at ; stay at ; live at"
+                        }
+                    ],
+                    "phonetic": "หฺยู่ ที่",
+                    "word": "อยู่ที่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "whichever one"
+                        },
+                        {
+                            "meaning": "which"
+                        },
+                        {
+                            "meaning": "where ; which place <i>(a shortened form of ที่ไหน)</i>"
+                        },
+                        {
+                            "meaning": "somewhere ; anywhere"
+                        }
+                    ],
+                    "phonetic": "ไหฺน",
+                    "word": "ไหน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "That dog can't come in here.",
+            "id": 48559,
+            "phonetic": "ห้าม พา หฺมา เข้า มา ไน นี้",
+            "thaiSentence": "ห้ามพาหมาเข้ามาในนี้",
+            "thaiSentenceSpaced": " ห้าม พา หมา เข้ามา ใน นี้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] forbid ; prohibit ; disallow"
+                        }
+                    ],
+                    "phonetic": "ห้าม",
+                    "word": "ห้าม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] bring ; lead ; guide"
+                        }
+                    ],
+                    "phonetic": "พา",
+                    "word": "พา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "dog"
+                        }
+                    ],
+                    "phonetic": "หฺมา",
+                    "word": "หมา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] enter ; get in"
+                        }
+                    ],
+                    "phonetic": "เข้า มา",
+                    "word": "เข้ามา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "this"
+                        }
+                    ],
+                    "phonetic": "นี้",
+                    "word": "นี้"
+                }
+            ]
+        },
+        {
+            "engSentence": "Is that your dog ?",
+            "id": 94194,
+            "phonetic": "นั่น หฺมา ของ คุน หฺรือ",
+            "thaiSentence": "นั่นหมาของคุณหรือ",
+            "thaiSentenceSpaced": " นั่น หมา ของคุณ หรือ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั่น",
+                    "word": "นั่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "dog"
+                        }
+                    ],
+                    "phonetic": "หฺมา",
+                    "word": "หมา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "your ; of you"
+                        }
+                    ],
+                    "phonetic": "ของ คุน",
+                    "word": "ของคุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        },
+                        {
+                            "meaning": "or"
+                        }
+                    ],
+                    "phonetic": "หฺรือ",
+                    "word": "หรือ"
+                }
+            ]
+        },
+        {
+            "engSentence": "A stray dog, huh ?",
+            "id": 94195,
+            "phonetic": "หฺมา จอน จัด เหฺรอ",
+            "thaiSentence": "หมาจรจัดเหรอ",
+            "thaiSentenceSpaced": " หมา จรจัด เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "dog"
+                        }
+                    ],
+                    "phonetic": "หฺมา",
+                    "word": "หมา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to be] stray ; homeless"
+                        }
+                    ],
+                    "phonetic": "จอน จัด",
+                    "word": "จรจัด"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 6236,
+        "exampleSentences": [
+            {
+                "engSentence": "What's the dog for ?",
+                "id": 863,
+                "thaiSentence": "หมานี่มันอะไร",
+                "thaiSentenceSpaced": " หมา นี่ มัน อะไร "
+            },
+            {
+                "engSentence": "Is this our dog ?",
+                "id": 867,
+                "thaiSentence": "หมาของเราเหรอ",
+                "thaiSentenceSpaced": " หมา ของ เรา เหรอ "
+            },
+            {
+                "engSentence": "Where is that silly dog ?",
+                "id": 40362,
+                "thaiSentence": "เจ้าหมาโง่อยู่ที่ไหนแล้ว",
+                "thaiSentenceSpaced": " เจ้า หมา โง่ อยู่ ที่ไหน แล้ว "
+            },
+            {
+                "engSentence": "That dog can't come in here.",
+                "id": 48559,
+                "thaiSentence": "ห้ามพาหมาเข้ามาในนี้",
+                "thaiSentenceSpaced": " ห้าม พา หมา เข้ามา ใน นี้ "
+            },
+            {
+                "engSentence": "Is that your dog ?",
+                "id": 94194,
+                "thaiSentence": "นั่นหมาของคุณหรือ",
+                "thaiSentenceSpaced": " นั่น หมา ของคุณ หรือ "
+            },
+            {
+                "engSentence": "A stray dog, huh ?",
+                "id": 94195,
+                "thaiSentence": "หมาจรจัดเหรอ",
+                "thaiSentenceSpaced": " หมา จรจัด เหรอ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1414285,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "dog",
+                        "word": "dog"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 18649,
+                        "corpusScore": 435,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18690,
+                        "legacyWordId": 1414382,
+                        "meaning": "wolf",
+                        "parentId": 18690,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺมา ป่า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หมาป่า"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 196,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 402818,
+                        "legacyWordId": 1414380,
+                        "meaning": "little dog ; doggy",
+                        "parentId": 402818,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺมา น้อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หมาน้อย"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 102,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397124,
+                        "legacyWordId": 1276576,
+                        "meaning": "dogs mess",
+                        "parentId": 397124,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ขี้ หฺมา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ขี้หมา"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 86,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 42627,
+                        "legacyWordId": 1370677,
+                        "meaning": "[to be] abusive ; reproaching",
+                        "parentId": 42627,
+                        "partOfSpeech": "StativeVerb ; Adjective",
+                        "t2e": "ปาก หฺมา",
+                        "usage": "Offensive",
+                        "verified": null,
+                        "word": "ปากหมา"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 40,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 32275,
+                        "legacyWordId": 1414374,
+                        "meaning": "fox",
+                        "parentId": 32275,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺมา จิ้ง-จอก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หมาจิ้งจอก"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 37,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 19190,
+                        "legacyWordId": 1414381,
+                        "meaning": "hyena",
+                        "parentId": 19190,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺมา ไน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หมาใน"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 24,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 12430,
+                        "legacyWordId": 1292613,
+                        "meaning": "wicked person ; bad person ; bastard",
+                        "parentId": 12430,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชา-ติ-หะ-มา",
+                        "usage": "",
+                        "verified": "ชา-ติ-หะ-มา",
+                        "word": "ชาติหมา"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 24,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33076,
+                        "legacyWordId": 1292613,
+                        "meaning": "bad ; base ; vile",
+                        "parentId": 33076,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "ชา-ติ-หะ-มา",
+                        "usage": "",
+                        "verified": "ชา-ติ-หะ-มา",
+                        "word": "ชาติหมา"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 14,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1999,
+                        "legacyWordId": 1379730,
+                        "meaning": "shed ; shack",
+                        "parentId": 1999,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เพิง หฺมา แหฺงน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เพิงหมาแหงน"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 5,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 193600,
+                        "legacyWordId": 1371717,
+                        "meaning": "Year of the Dog",
+                        "parentId": 193600,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ปี หฺมา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ปีหมา"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 2,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400905,
+                        "legacyWordId": 1414377,
+                        "meaning": "police dog",
+                        "parentId": 400905,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺมา ตำ-หฺรวด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หมาตำรวจ"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 1,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 100838,
+                        "legacyWordId": 1266214,
+                        "meaning": "dogs mess",
+                        "parentId": 100838,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ก้อน ขี้ หฺมา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ก้อนขี้หมา"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 1,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 51696,
+                        "legacyWordId": 1265576,
+                        "meaning": "Canis Major",
+                        "parentId": 51696,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺลุ่ม ดาว หฺมา ไหฺย่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กลุ่มดาวหมาใหญ่"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 73320,
+                        "legacyWordId": 1387037,
+                        "meaning": "there is no smoke without fire",
+                        "parentId": 73320,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ไม่ มี มูน ฝอย หฺมา ไม่ ขี้",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ไม่มีมูลฝอยหมาไม่ขี้"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 0,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 18043,
+                        "legacyWordId": 1309961,
+                        "meaning": "pterygium",
+                        "parentId": 18043,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ต้อ ลิ้น หฺมา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ต้อลิ้นหมา"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 55383,
+                        "legacyWordId": 1265574,
+                        "meaning": "Canes Venatici",
+                        "parentId": 55383,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺลุ่ม ดาว หฺมา ล่า เนื้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กลุ่มดาวหมาล่าเนื้อ"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 15295,
+                        "legacyWordId": 1320863,
+                        "meaning": "deflated belly",
+                        "parentId": 15295,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ท้อง หฺมา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ท้องหมา"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 51697,
+                        "legacyWordId": 1265575,
+                        "meaning": "Canis Minor",
+                        "parentId": 51697,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กฺลุ่ม ดาว หฺมา เล็ก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กลุ่มดาวหมาเล็ก"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400899,
+                        "legacyWordId": 1414274,
+                        "meaning": "dog flea",
+                        "parentId": 400899,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺมัด หฺมา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หมัดหมา"
+                    },
+                    {
+                        "childId": 18649,
+                        "corpusScore": 0,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 589688,
+                        "legacyWordId": 1414446,
+                        "meaning": "melogale personata",
+                        "parentId": 589688,
+                        "partOfSpeech": "Noun",
+                        "t2e": "หฺมา หฺริ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "หมาหริ่ง"
+                    }
+                ],
+                "explanation": null,
+                "id": 18649,
+                "isUncommon": false,
+                "meaning": "dog",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "หมา"
+            }
+        ],
+        "t2e": "หฺมา",
+        "verified": null,
+        "word": "หมา"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

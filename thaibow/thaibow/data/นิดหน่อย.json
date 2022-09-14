@@ -1,0 +1,464 @@
+{
+    "commonessText": "Sometimes",
+    "exampleSentences": [
+        {
+            "engSentence": "I am a bit sick.",
+            "id": 31029,
+            "phonetic": "ฉัน ไม่ สะ-บาย นิด หฺน่อย",
+            "thaiSentence": "ฉันไม่สบายนิดหน่อย",
+            "thaiSentenceSpaced": " ฉัน ไม่สบาย นิดหน่อย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] be ill ; be unwell"
+                        }
+                    ],
+                    "phonetic": "ไม่ สะ-บาย",
+                    "word": "ไม่สบาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "a little bit ; just a little ; a tiny bit"
+                        }
+                    ],
+                    "phonetic": "นิด หฺน่อย",
+                    "word": "นิดหน่อย"
+                }
+            ]
+        },
+        {
+            "engSentence": "Yes, I drank a little.",
+            "id": 46921,
+            "phonetic": "ไช่ · ฉัน ดื่ม มา นิด หฺน่อย",
+            "thaiSentence": "ใช่ ฉันดื่มมานิดหน่อย",
+            "thaiSentenceSpaced": " ใช่  ·  ฉัน ดื่ม มา นิดหน่อย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yes"
+                        }
+                    ],
+                    "phonetic": "ไช่",
+                    "word": "ใช่"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] drink"
+                        }
+                    ],
+                    "phonetic": "ดื่ม",
+                    "word": "ดื่ม"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "a little bit ; just a little ; a tiny bit"
+                        }
+                    ],
+                    "phonetic": "นิด หฺน่อย",
+                    "word": "นิดหน่อย"
+                }
+            ]
+        },
+        {
+            "engSentence": "He's a little late.",
+            "id": 77034,
+            "phonetic": "เขา คง มา สาย นิด หฺน่อย น่ะ ค่ะ",
+            "thaiSentence": "เขาคงมาสายนิดหน่อยน่ะค่ะ",
+            "thaiSentenceSpaced": " เขา คง มาสาย นิดหน่อย น่ะ ค่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "may ; will probably ; might"
+                        }
+                    ],
+                    "phonetic": "คง",
+                    "word": "คง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] arrive late ; come late"
+                        }
+                    ],
+                    "phonetic": "มา สาย",
+                    "word": "มาสาย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "a little bit ; just a little ; a tiny bit"
+                        }
+                    ],
+                    "phonetic": "นิด หฺน่อย",
+                    "word": "นิดหน่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to after a noun to highlight it as the subject of the sentence, or to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "น่ะ",
+                    "word": "น่ะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by female speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "ค่ะ",
+                    "word": "ค่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I went to check up.",
+            "id": 82295,
+            "phonetic": "ไป เช็ก มา นิด หฺน่อย",
+            "thaiSentence": "ไปเช็คมานิดหน่อย",
+            "thaiSentenceSpaced": " ไป เช็ค มา นิดหน่อย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] check ; inspect ; examine"
+                        },
+                        {
+                            "meaning": "cheque ; check ; draft"
+                        }
+                    ],
+                    "phonetic": "เช็ก",
+                    "word": "เช็ค"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "to ; in ; into ; towards <i>(The translation of มา in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        },
+                        {
+                            "meaning": "[to] come ; arrive"
+                        },
+                        {
+                            "meaning": " <i>(a marker that puts the main verb in the present perfect tense)</i>"
+                        }
+                    ],
+                    "phonetic": "มา",
+                    "word": "มา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "a little bit ; just a little ; a tiny bit"
+                        }
+                    ],
+                    "phonetic": "นิด หฺน่อย",
+                    "word": "นิดหน่อย"
+                }
+            ]
+        },
+        {
+            "engSentence": "She got a little lost.",
+            "id": 94693,
+            "phonetic": "เขา มี เรื่อง นิด หฺน่อย นะ",
+            "thaiSentence": "เขามีเรื่องนิดหน่อยนะ",
+            "thaiSentenceSpaced": " เขา มีเรื่อง นิดหน่อย นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get into trouble ; quarrel with somebody"
+                        }
+                    ],
+                    "phonetic": "มี เรื่อง",
+                    "word": "มีเรื่อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "a little bit ; just a little ; a tiny bit"
+                        }
+                    ],
+                    "phonetic": "นิด หฺน่อย",
+                    "word": "นิดหน่อย"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Yeah, a little.",
+            "id": 106663,
+            "phonetic": "อืม · ก้อ นิด หฺน่อย",
+            "thaiSentence": "อืม ก็นิดหน่อย",
+            "thaiSentenceSpaced": " อืม  ·  ก็ นิดหน่อย ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "yeah ; erm"
+                        }
+                    ],
+                    "phonetic": "อืม",
+                    "word": "อืม"
+                },
+                {
+                    "isThai": false,
+                    "meanings": [],
+                    "phonetic": "&middot;",
+                    "word": " &middot; "
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "a little bit ; just a little ; a tiny bit"
+                        }
+                    ],
+                    "phonetic": "นิด หฺน่อย",
+                    "word": "นิดหน่อย"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 1865,
+        "exampleSentences": [
+            {
+                "engSentence": "I am a bit sick.",
+                "id": 31029,
+                "thaiSentence": "ฉันไม่สบายนิดหน่อย",
+                "thaiSentenceSpaced": " ฉัน ไม่สบาย นิดหน่อย "
+            },
+            {
+                "engSentence": "Yes, I drank a little.",
+                "id": 46921,
+                "thaiSentence": "ใช่ ฉันดื่มมานิดหน่อย",
+                "thaiSentenceSpaced": " ใช่  &middot;  ฉัน ดื่ม มา นิดหน่อย "
+            },
+            {
+                "engSentence": "He's a little late.",
+                "id": 77034,
+                "thaiSentence": "เขาคงมาสายนิดหน่อยน่ะค่ะ",
+                "thaiSentenceSpaced": " เขา คง มาสาย นิดหน่อย น่ะ ค่ะ "
+            },
+            {
+                "engSentence": "I went to check up.",
+                "id": 82295,
+                "thaiSentence": "ไปเช็คมานิดหน่อย",
+                "thaiSentenceSpaced": " ไป เช็ค มา นิดหน่อย "
+            },
+            {
+                "engSentence": "She got a little lost.",
+                "id": 94693,
+                "thaiSentence": "เขามีเรื่องนิดหน่อยนะ",
+                "thaiSentenceSpaced": " เขา มีเรื่อง นิดหน่อย นะ "
+            },
+            {
+                "engSentence": "Yeah, a little.",
+                "id": 106663,
+                "thaiSentence": "อืม ก็นิดหน่อย",
+                "thaiSentenceSpaced": " อืม  &middot;  ก็ นิดหน่อย "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1330138,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 34536,
+                        "corpusScore": 3499,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 34536,
+                        "legacyWordId": 1330134,
+                        "meaning": "small ; a little ; a bit",
+                        "parentId": 14743,
+                        "partOfSpeech": "Adjective",
+                        "t2e": "นิด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "นิด"
+                    },
+                    {
+                        "childId": 48183,
+                        "corpusScore": 21768,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 48183,
+                        "legacyWordId": 1413568,
+                        "meaning": "a little ; a little bit",
+                        "parentId": 14743,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "หฺน่อย",
+                        "usage": "",
+                        "verified": "หฺน่อย",
+                        "word": "หน่อย"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "a little bit",
+                        "word": "a little bit"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "just a little",
+                        "word": "just a little"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "a tiny bit",
+                        "word": "a tiny bit"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 14743,
+                "isUncommon": false,
+                "meaning": "a little bit ; just a little ; a tiny bit",
+                "partOfSpeech": "Adverb",
+                "usage": "",
+                "word": "นิดหน่อย"
+            }
+        ],
+        "t2e": "นิด หฺน่อย",
+        "verified": null,
+        "word": "นิดหน่อย"
+    },
+    "greenBarCount": 3,
+    "pageUrl": "",
+    "type": "thai-word"
+}

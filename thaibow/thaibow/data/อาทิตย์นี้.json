@@ -1,0 +1,32 @@
+{
+    "thaiTranslationLines": [
+        {
+            "isWordBreakdownShown": true,
+            "phonetic": "อา-ทิด นี้",
+            "unspacedText": "อาทิตย์นี้",
+            "wordObjects": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "week"
+                        }
+                    ],
+                    "phonetic": "อา-ทิด",
+                    "word": "อาทิตย์"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "this"
+                        }
+                    ],
+                    "phonetic": "นี้",
+                    "word": "นี้"
+                }
+            ]
+        }
+    ],
+    "type": "translation"
+}

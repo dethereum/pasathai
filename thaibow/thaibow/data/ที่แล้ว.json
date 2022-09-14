@@ -1,0 +1,495 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "That's last year's.",
+            "id": 33732,
+            "phonetic": "นั่น มัน ของ ปี ที่ แล้ว",
+            "thaiSentence": "นั่นมันของปีที่แล้ว",
+            "thaiSentenceSpaced": " นั่น มัน ของ ปี ที่แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that ; those"
+                        }
+                    ],
+                    "phonetic": "นั่น",
+                    "word": "นั่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "of"
+                        }
+                    ],
+                    "phonetic": "ของ",
+                    "word": "ของ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "year <i>(ปี is the classifier for years and years of age.)</i>"
+                        }
+                    ],
+                    "phonetic": "ปี",
+                    "word": "ปี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "last ; previous"
+                        }
+                    ],
+                    "phonetic": "ที่ แล้ว",
+                    "word": "ที่แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "Last year was last year.",
+            "id": 405542,
+            "phonetic": "ปี ที่ แล้ว ก้อ ส่วน ปี ที่ แล้ว สิ",
+            "thaiSentence": "ปีที่แล้วก็ส่วนปีที่แล้วสิ",
+            "thaiSentenceSpaced": " ปี ที่แล้ว ก็ ส่วน ปี ที่แล้ว สิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "year <i>(ปี is the classifier for years and years of age.)</i>"
+                        }
+                    ],
+                    "phonetic": "ปี",
+                    "word": "ปี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "last ; previous"
+                        }
+                    ],
+                    "phonetic": "ที่ แล้ว",
+                    "word": "ที่แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "as for ; for"
+                        },
+                        {
+                            "meaning": "part ; portion ; component"
+                        }
+                    ],
+                    "phonetic": "ส่วน",
+                    "word": "ส่วน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "year <i>(ปี is the classifier for years and years of age.)</i>"
+                        }
+                    ],
+                    "phonetic": "ปี",
+                    "word": "ปี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "last ; previous"
+                        }
+                    ],
+                    "phonetic": "ที่ แล้ว",
+                    "word": "ที่แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Last year was last year.",
+            "id": 405542,
+            "phonetic": "ปี ที่ แล้ว ก้อ ส่วน ปี ที่ แล้ว สิ",
+            "thaiSentence": "ปีที่แล้วก็ส่วนปีที่แล้วสิ",
+            "thaiSentenceSpaced": " ปี ที่แล้ว ก็ ส่วน ปี ที่แล้ว สิ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "year <i>(ปี is the classifier for years and years of age.)</i>"
+                        }
+                    ],
+                    "phonetic": "ปี",
+                    "word": "ปี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "last ; previous"
+                        }
+                    ],
+                    "phonetic": "ที่ แล้ว",
+                    "word": "ที่แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "as for ; for"
+                        },
+                        {
+                            "meaning": "part ; portion ; component"
+                        }
+                    ],
+                    "phonetic": "ส่วน",
+                    "word": "ส่วน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "year <i>(ปี is the classifier for years and years of age.)</i>"
+                        }
+                    ],
+                    "phonetic": "ปี",
+                    "word": "ปี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "last ; previous"
+                        }
+                    ],
+                    "phonetic": "ที่ แล้ว",
+                    "word": "ที่แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to show emphasis)</i>"
+                        }
+                    ],
+                    "phonetic": "สิ",
+                    "word": "สิ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Isn't this from last year ?",
+            "id": 533115,
+            "phonetic": "นี้ มัน จาก ปี ที่ แล้ว ไม่ ไช่ เหฺรอ",
+            "thaiSentence": "นี้มันจากปีที่แล้วไม่ใช่เหรอ",
+            "thaiSentenceSpaced": " นี้ มัน จาก ปี ที่แล้ว ไม่ใช่เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "this"
+                        }
+                    ],
+                    "phonetic": "นี้",
+                    "word": "นี้"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "from ; depart ; leave ; go away from"
+                        }
+                    ],
+                    "phonetic": "จาก",
+                    "word": "จาก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "year <i>(ปี is the classifier for years and years of age.)</i>"
+                        }
+                    ],
+                    "phonetic": "ปี",
+                    "word": "ปี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "last ; previous"
+                        }
+                    ],
+                    "phonetic": "ที่ แล้ว",
+                    "word": "ที่แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "isn't that so ? ; isn't that the case ? <i>(question particle used when seeking confirmation of something doubted)</i>"
+                        }
+                    ],
+                    "phonetic": "ไม่ ไช่ เหฺรอ",
+                    "word": "ไม่ใช่เหรอ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 5526,
+        "exampleSentences": [
+            {
+                "engSentence": "That's last year's.",
+                "id": 33732,
+                "thaiSentence": "นั่นมันของปีที่แล้ว",
+                "thaiSentenceSpaced": " นั่น มัน ของ ปี ที่แล้ว "
+            },
+            {
+                "engSentence": "Last year was last year.",
+                "id": 405542,
+                "thaiSentence": "ปีที่แล้วก็ส่วนปีที่แล้วสิ",
+                "thaiSentenceSpaced": " ปี ที่แล้ว ก็ ส่วน ปี ที่แล้ว สิ "
+            },
+            {
+                "engSentence": "Last year was last year.",
+                "id": 405542,
+                "thaiSentence": "ปีที่แล้วก็ส่วนปีที่แล้วสิ",
+                "thaiSentenceSpaced": " ปี ที่แล้ว ก็ ส่วน ปี ที่แล้ว สิ "
+            },
+            {
+                "engSentence": "Isn't this from last year ?",
+                "id": 533115,
+                "thaiSentence": "นี้มันจากปีที่แล้วไม่ใช่เหรอ",
+                "thaiSentenceSpaced": " นี้ มัน จาก ปี ที่แล้ว ไม่ใช่เหรอ "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1323555,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 416301,
+                        "corpusScore": 1264179,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 416301,
+                        "legacyWordId": 1323286,
+                        "meaning": "that ; which ; who",
+                        "parentId": 48110,
+                        "partOfSpeech": "RelativePronoun",
+                        "t2e": "ที่",
+                        "usage": "",
+                        "verified": "ที่",
+                        "word": "ที่"
+                    },
+                    {
+                        "childId": 702074,
+                        "corpusScore": 295683,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "used a general marker that indicates a specified action has happened or state has been attained",
+                        "hasSoundFile": true,
+                        "id": 702074,
+                        "legacyWordId": 1397403,
+                        "meaning": "already",
+                        "parentId": 48110,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แล้ว"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "last",
+                        "word": "last"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "previous",
+                        "word": "previous"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 48110,
+                        "corpusScore": 212,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 46480,
+                        "legacyWordId": 1385549,
+                        "meaning": "last year",
+                        "parentId": 46480,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "เมื่อ ปี ที่ แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เมื่อปีที่แล้ว"
+                    },
+                    {
+                        "childId": 48110,
+                        "corpusScore": 113,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397350,
+                        "legacyWordId": 1279246,
+                        "meaning": "the last time ; the time before",
+                        "parentId": 397350,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "คฺรั้ง ที่ แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ครั้งที่แล้ว"
+                    },
+                    {
+                        "childId": 48110,
+                        "corpusScore": 55,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5684,
+                        "legacyWordId": 1385539,
+                        "meaning": "last month",
+                        "parentId": 5684,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เมื่อ เดือน ที่ แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เมื่อเดือนที่แล้ว"
+                    },
+                    {
+                        "childId": 48110,
+                        "corpusScore": 34,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2175,
+                        "legacyWordId": 1292590,
+                        "meaning": "previous life ; former life",
+                        "parentId": 2175,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ชาด ที่ แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ชาติที่แล้ว"
+                    }
+                ],
+                "explanation": null,
+                "id": 48110,
+                "isUncommon": false,
+                "meaning": "last ; previous",
+                "partOfSpeech": "Adjective",
+                "usage": "",
+                "word": "ที่แล้ว"
+            }
+        ],
+        "t2e": "ที่ แล้ว",
+        "verified": null,
+        "word": "ที่แล้ว"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

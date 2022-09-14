@@ -1,0 +1,74 @@
+{
+    "commonessText": "Rarely",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 189,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1373136,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 102606,
+                        "corpusScore": 13292,
+                        "displayOrder": 0,
+                        "etymology": "English",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 102606,
+                        "legacyWordId": 1373096,
+                        "meaning": "program",
+                        "parentId": 38268,
+                        "partOfSpeech": "Noun",
+                        "t2e": "โปฺร-แกฺรม",
+                        "usage": "",
+                        "verified": null,
+                        "word": "โปรแกรม"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "programmer",
+                        "word": "programmer"
+                    }
+                ],
+                "etymology": "English",
+                "examples": [
+                    {
+                        "childId": 38268,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 87028,
+                        "legacyWordId": 1456027,
+                        "meaning": "EPROM programmer",
+                        "parentId": 87028,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อี-พฺร็อม โปฺร-แกฺรม-เมอ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีพร็อมโปรแกรมเมอร์"
+                    }
+                ],
+                "explanation": null,
+                "id": 38268,
+                "isUncommon": false,
+                "meaning": "programmer",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "โปรแกรมเมอร์"
+            }
+        ],
+        "t2e": "โปฺร-แกฺรม-เมอ",
+        "verified": null,
+        "word": "โปรแกรมเมอร์"
+    },
+    "greenBarCount": 1,
+    "pageUrl": "",
+    "type": "thai-word"
+}

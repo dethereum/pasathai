@@ -1,0 +1,889 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "What did you buy ?",
+            "id": 89068,
+            "phonetic": "คุน ไป ซื้อ อะ-ไร คฺรับ",
+            "thaiSentence": "คุณไปซื้ออะไรครับ",
+            "thaiSentenceSpaced": " คุณ ไป ซื้อ อะไร ครับ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] buy ; purchase ; pay for"
+                        }
+                    ],
+                    "phonetic": "ซื้อ",
+                    "word": "ซื้อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used by male speakers at the end of sentences to make them more polite)</i>"
+                        }
+                    ],
+                    "phonetic": "คฺรับ",
+                    "word": "ครับ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am going to buy a pen.",
+            "id": 95004,
+            "phonetic": "จะ ไป ซื้อ ปาก กา นะ",
+            "thaiSentence": "จะไปซื้อปากกานะ",
+            "thaiSentenceSpaced": " จะ ไป ซื้อ ปากกา นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] buy ; purchase ; pay for"
+                        }
+                    ],
+                    "phonetic": "ซื้อ",
+                    "word": "ซื้อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "pen"
+                        }
+                    ],
+                    "phonetic": "ปาก กา",
+                    "word": "ปากกา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "So are you buying it or not ?",
+            "id": 99820,
+            "phonetic": "แล้ว คุน จะ ซื้อ หฺรือ เปฺล่า ล่ะ",
+            "thaiSentence": "แล้วคุณจะซื้อหรือเปล่าล่ะ",
+            "thaiSentenceSpaced": " แล้ว คุณ จะ ซื้อ หรือเปล่า ล่ะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] buy ; purchase ; pay for"
+                        }
+                    ],
+                    "phonetic": "ซื้อ",
+                    "word": "ซื้อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used in questions or to show a change of state)</i>"
+                        }
+                    ],
+                    "phonetic": "ล่ะ",
+                    "word": "ล่ะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Did you buy it yourself ?",
+            "id": 100365,
+            "phonetic": "คุน ซื้อ เอง เหฺรอ",
+            "thaiSentence": "คุณซื้อเองเหรอ",
+            "thaiSentenceSpaced": " คุณ ซื้อ เอง เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] buy ; purchase ; pay for"
+                        }
+                    ],
+                    "phonetic": "ซื้อ",
+                    "word": "ซื้อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "only ; alone ; just"
+                        }
+                    ],
+                    "phonetic": "เอง",
+                    "word": "เอง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Are you going to buy it ?",
+            "id": 100378,
+            "phonetic": "คุน จะ ซื้อ มัน เหฺรอ",
+            "thaiSentence": "คุณจะซื้อมันเหรอ",
+            "thaiSentenceSpaced": " คุณ จะ ซื้อ มัน เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "you"
+                        }
+                    ],
+                    "phonetic": "คุน",
+                    "word": "คุณ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] buy ; purchase ; pay for"
+                        }
+                    ],
+                    "phonetic": "ซื้อ",
+                    "word": "ซื้อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her <i>(using มัน to mean he/she is regarded as being insulting, unless used by close friends)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used after a noun or pronoun to emphasize it as the subject of the sentence)</i>"
+                        },
+                        {
+                            "meaning": "it"
+                        }
+                    ],
+                    "phonetic": "มัน",
+                    "word": "มัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Who bought what ?",
+            "id": 100382,
+            "phonetic": "ไคฺร ซื้อ อะ-ไร ไห้",
+            "thaiSentence": "ใครซื้ออะไรให้",
+            "thaiSentenceSpaced": " ใคร ซื้อ อะไร ให้ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "who"
+                        },
+                        {
+                            "meaning": "someone ; anyone"
+                        }
+                    ],
+                    "phonetic": "ไคฺร",
+                    "word": "ใคร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] buy ; purchase ; pay for"
+                        }
+                    ],
+                    "phonetic": "ซื้อ",
+                    "word": "ซื้อ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] give ; offer"
+                        },
+                        {
+                            "meaning": "[to] let ; have <i>(someone to do something)</i>"
+                        },
+                        {
+                            "meaning": " <i>(marker that makes the following adjective into an adverb)</i>"
+                        },
+                        {
+                            "meaning": "to ; for ; so that"
+                        }
+                    ],
+                    "phonetic": "ไห้",
+                    "word": "ให้"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 36520,
+        "exampleSentences": [
+            {
+                "engSentence": "What did you buy ?",
+                "id": 89068,
+                "thaiSentence": "คุณไปซื้ออะไรครับ",
+                "thaiSentenceSpaced": " คุณ ไป ซื้อ อะไร ครับ "
+            },
+            {
+                "engSentence": "I am going to buy a pen.",
+                "id": 95004,
+                "thaiSentence": "จะไปซื้อปากกานะ",
+                "thaiSentenceSpaced": " จะ ไป ซื้อ ปากกา นะ "
+            },
+            {
+                "engSentence": "So are you buying it or not ?",
+                "id": 99820,
+                "thaiSentence": "แล้วคุณจะซื้อหรือเปล่าล่ะ",
+                "thaiSentenceSpaced": " แล้ว คุณ จะ ซื้อ หรือเปล่า ล่ะ "
+            },
+            {
+                "engSentence": "Did you buy it yourself ?",
+                "id": 100365,
+                "thaiSentence": "คุณซื้อเองเหรอ",
+                "thaiSentenceSpaced": " คุณ ซื้อ เอง เหรอ "
+            },
+            {
+                "engSentence": "Are you going to buy it ?",
+                "id": 100378,
+                "thaiSentence": "คุณจะซื้อมันเหรอ",
+                "thaiSentenceSpaced": " คุณ จะ ซื้อ มัน เหรอ "
+            },
+            {
+                "engSentence": "Who bought what ?",
+                "id": 100382,
+                "thaiSentence": "ใครซื้ออะไรให้",
+                "thaiSentenceSpaced": " ใคร ซื้อ อะไร ให้ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1305017,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "[to] buy",
+                        "word": "buy"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "purchase",
+                        "word": "purchase"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "pay for",
+                        "word": "pay for"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 33021,
+                        "corpusScore": 2424,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 33103,
+                        "legacyWordId": 1305021,
+                        "meaning": "[to] trade ; buy and sell ; merchandise",
+                        "parentId": 33103,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ซื้อ ขาย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซื้อขาย"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 2130,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11975,
+                        "legacyWordId": 1305020,
+                        "meaning": "[to] shop for ; do shopping ; go shopping",
+                        "parentId": 11975,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ซื้อ ของ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซื้อของ"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 1990,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23818,
+                        "legacyWordId": 1405854,
+                        "meaning": "[to] order ; request ; direct",
+                        "parentId": 23818,
+                        "partOfSpeech": "Verb",
+                        "t2e": "สั่ง ซื้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สั่งซื้อ"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 1112,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 44176,
+                        "legacyWordId": 1374438,
+                        "meaning": "buyer ; purchaser",
+                        "parentId": 44176,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พู่ ซื้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ผู้ซื้อ"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 876,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 7482,
+                        "legacyWordId": 1288924,
+                        "meaning": "[to] purchase ; procure",
+                        "parentId": 7482,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จัด ซื้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จัดซื้อ"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 700,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395522,
+                        "legacyWordId": 1305031,
+                        "meaning": "[to] buy a car",
+                        "parentId": 395522,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ซื้อ รด",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซื้อรถ"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 433,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 11480,
+                        "legacyWordId": 1305040,
+                        "meaning": "[to] buy ; purchase",
+                        "parentId": 11480,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ซื้อ หา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซื้อหา"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 325,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397821,
+                        "legacyWordId": 1305026,
+                        "meaning": "[to] buy a ticket",
+                        "parentId": 397821,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ซื้อ ตั๋ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซื้อตั๋ว"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 324,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8514,
+                        "legacyWordId": 1272300,
+                        "meaning": "purchasing power",
+                        "parentId": 8514,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กำ-ลัง ซื้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กำลังซื้อ"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 302,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397822,
+                        "legacyWordId": 1305030,
+                        "meaning": "[to] buy a herbal medicine ; purchase",
+                        "parentId": 397822,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ซื้อ ยา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซื้อยา"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 283,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4056,
+                        "legacyWordId": 1294000,
+                        "meaning": "[to] hire-purchase ; purchase by installment",
+                        "parentId": 4056,
+                        "partOfSpeech": "Verb",
+                        "t2e": "เช่า ซื้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เช่าซื้อ"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 244,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 400103,
+                        "legacyWordId": 1391192,
+                        "meaning": "cost price",
+                        "parentId": 400103,
+                        "partOfSpeech": "Noun",
+                        "t2e": "รา-คา ซื้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ราคาซื้อ"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 217,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 1390,
+                        "legacyWordId": 1305039,
+                        "meaning": "[to] buy votes",
+                        "parentId": 1390,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ซื้อ เสียง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซื้อเสียง"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 144,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 37147,
+                        "legacyWordId": 1385829,
+                        "meaning": "guardian spirit of infants",
+                        "parentId": 37147,
+                        "partOfSpeech": "Noun",
+                        "t2e": "แม่ ซื้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "แม่ซื้อ"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 141,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 23886,
+                        "legacyWordId": 1288925,
+                        "meaning": "[to] procure ; purchase",
+                        "parentId": 23886,
+                        "partOfSpeech": "Verb",
+                        "t2e": "จัด ซื้อ จัด จ้าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "จัดซื้อจัดจ้าง"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 79,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 8983,
+                        "legacyWordId": 1265770,
+                        "meaning": "[to] corner ; buy up ; make a rush-purchase of",
+                        "parentId": 8983,
+                        "partOfSpeech": "Verb",
+                        "t2e": "กฺว้าน ซื้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "กว้านซื้อ"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 64,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 74345,
+                        "legacyWordId": 1382050,
+                        "meaning": "input tax",
+                        "parentId": 74345,
+                        "partOfSpeech": "Noun",
+                        "t2e": "พา-สี ซื้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ภาษีซื้อ"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 63,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 4645,
+                        "legacyWordId": 1305034,
+                        "meaning": "[to] buy some time",
+                        "parentId": 4645,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ซื้อ เว-ลา",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซื้อเวลา"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 37,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 397820,
+                        "legacyWordId": 1305018,
+                        "meaning": "[to] go shopping",
+                        "parentId": 397820,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ซื้อ กับ ข้าว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซื้อกับข้าว"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 34,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 74590,
+                        "legacyWordId": 1305038,
+                        "meaning": "net purchase",
+                        "parentId": 74590,
+                        "partOfSpeech": "Noun",
+                        "t2e": "ซื้อ สุด-ทิ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซื้อสุทธิ"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 33,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 22407,
+                        "legacyWordId": 1305023,
+                        "meaning": "[to] buy popular support",
+                        "parentId": 22407,
+                        "partOfSpeech": "Verb",
+                        "t2e": "ซื้อ ไจ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซื้อใจ"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 26,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24493,
+                        "legacyWordId": 1454581,
+                        "meaning": "buying power",
+                        "parentId": 24493,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อำ-นาด ซื้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อำนาจซื้อ"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 4,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 73648,
+                        "legacyWordId": 1403986,
+                        "meaning": "bought day book",
+                        "parentId": 73648,
+                        "partOfSpeech": "Noun",
+                        "t2e": "สะ-หฺมุด ราย วัน ซื้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "สมุดรายวันซื้อ"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 1,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 100787,
+                        "legacyWordId": 1271897,
+                        "meaning": "placing the order",
+                        "parentId": 100787,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน ออก คำ สั่ง ซื้อ",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การออกคำสั่งซื้อ"
+                    },
+                    {
+                        "childId": 33021,
+                        "corpusScore": 0,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 510402,
+                        "legacyWordId": 1271018,
+                        "meaning": "teleshopping",
+                        "parentId": 510402,
+                        "partOfSpeech": "Noun",
+                        "t2e": "กาน เลือก ซื้อ ทาง ไกฺล",
+                        "usage": "",
+                        "verified": null,
+                        "word": "การเลือกซื้อทางไกล"
+                    }
+                ],
+                "explanation": null,
+                "id": 33021,
+                "isUncommon": false,
+                "meaning": "[to] buy ; purchase ; pay for",
+                "partOfSpeech": "Verb",
+                "usage": "",
+                "word": "ซื้อ"
+            }
+        ],
+        "t2e": "ซื้อ",
+        "verified": null,
+        "word": "ซื้อ"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

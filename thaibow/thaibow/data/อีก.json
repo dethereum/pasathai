@@ -1,0 +1,899 @@
+{
+    "commonessText": "Very commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Did he say anything else ?",
+            "id": 462,
+            "phonetic": "เขา บอก อะ-ไร อีก หฺรือ เปฺล่า",
+            "thaiSentence": "เขาบอกอะไรอีกหรือเปล่า",
+            "thaiSentenceSpaced": " เขา บอก อะไร อีก หรือเปล่า ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "he ; she ; him ; her ; they ; them"
+                        }
+                    ],
+                    "phonetic": "เขา",
+                    "word": "เขา"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] tell ; say ; describe"
+                        }
+                    ],
+                    "phonetic": "บอก",
+                    "word": "บอก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "again ; once more ; more"
+                        }
+                    ],
+                    "phonetic": "อีก",
+                    "word": "อีก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "or not"
+                        }
+                    ],
+                    "phonetic": "หฺรือ เปฺล่า",
+                    "word": "หรือเปล่า"
+                }
+            ]
+        },
+        {
+            "engSentence": "I am more worried about you.",
+            "id": 934,
+            "phonetic": "ฉัน ยิ่ง กัง-วน มาก ขึ้น ไป อีก",
+            "thaiSentence": "ฉันยิ่งกังวลมากขึ้นไปอีก",
+            "thaiSentenceSpaced": " ฉัน ยิ่ง กังวล มากขึ้นไป อีก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "extremely ; greatly ; much"
+                        },
+                        {
+                            "meaning": "[to be] extreme ; excessive"
+                        }
+                    ],
+                    "phonetic": "ยิ่ง",
+                    "word": "ยิ่ง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] worry (about) ; feel anxious (about)"
+                        }
+                    ],
+                    "phonetic": "กัง-วน",
+                    "word": "กังวล"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "increasingly"
+                        }
+                    ],
+                    "phonetic": "มาก ขึ้น ไป",
+                    "word": "มากขึ้นไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "again ; once more ; more"
+                        }
+                    ],
+                    "phonetic": "อีก",
+                    "word": "อีก"
+                }
+            ]
+        },
+        {
+            "engSentence": "There's something else.",
+            "id": 1424,
+            "phonetic": "มี เรื่อง อื่น อีก",
+            "thaiSentence": "มีเรื่องอื่นอีก",
+            "thaiSentenceSpaced": " มีเรื่อง อื่น อีก ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] get into trouble ; quarrel with somebody"
+                        }
+                    ],
+                    "phonetic": "มี เรื่อง",
+                    "word": "มีเรื่อง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "another ; other ; others"
+                        }
+                    ],
+                    "phonetic": "อื่น",
+                    "word": "อื่น"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "again ; once more ; more"
+                        }
+                    ],
+                    "phonetic": "อีก",
+                    "word": "อีก"
+                }
+            ]
+        },
+        {
+            "engSentence": "Still can't sleep ?",
+            "id": 2114,
+            "phonetic": "ยัง นอน ไม่ หฺลับ หฺยู่ อีก เหฺรอ",
+            "thaiSentence": "ยังนอนไม่หลับอยู่อีกเหรอ",
+            "thaiSentenceSpaced": " ยัง นอนไม่หลับ อยู่ อีก เหรอ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "still ; yet"
+                        }
+                    ],
+                    "phonetic": "ยัง",
+                    "word": "ยัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] not be able to sleep ; be sleepless"
+                        }
+                    ],
+                    "phonetic": "นอน ไม่ หฺลับ",
+                    "word": "นอนไม่หลับ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "again ; once more ; more"
+                        }
+                    ],
+                    "phonetic": "อีก",
+                    "word": "อีก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        }
+                    ],
+                    "phonetic": "เหฺรอ",
+                    "word": "เหรอ"
+                }
+            ]
+        },
+        {
+            "engSentence": "One more station to go.",
+            "id": 7424,
+            "phonetic": "อีก สะ-ถา-นี เดียว ก้อ จะ ถึง แล้ว",
+            "thaiSentence": "อีกสถานีเดียวก็จะถึงแล้ว",
+            "thaiSentenceSpaced": " อีก สถานี เดียว ก็ จะ ถึง แล้ว ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "again ; once more ; more"
+                        }
+                    ],
+                    "phonetic": "อีก",
+                    "word": "อีก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "station"
+                        }
+                    ],
+                    "phonetic": "สะ-ถา-นี",
+                    "word": "สถานี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "only ; sole"
+                        }
+                    ],
+                    "phonetic": "เดียว",
+                    "word": "เดียว"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "also ; likewise"
+                        },
+                        {
+                            "meaning": "then ; so ; therefore"
+                        },
+                        {
+                            "meaning": "well ; umm ; err <i>(often used when trying to think what to say)</i>"
+                        },
+                        {
+                            "meaning": " <i>(a marker used when joining clauses of a sentence together)</i>"
+                        }
+                    ],
+                    "phonetic": "ก้อ",
+                    "word": "ก็"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] reach ; arrive ; get to"
+                        },
+                        {
+                            "meaning": "even though ; even if"
+                        },
+                        {
+                            "meaning": "about ; of"
+                        }
+                    ],
+                    "phonetic": "ถึง",
+                    "word": "ถึง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "and ; and then ; and after that"
+                        },
+                        {
+                            "meaning": "already <i>(used a general marker that indicates a specified action has happened or state has been attained)</i>"
+                        }
+                    ],
+                    "phonetic": "แล้ว",
+                    "word": "แล้ว"
+                }
+            ]
+        },
+        {
+            "engSentence": "There's something else ?",
+            "id": 10848,
+            "phonetic": "ยัง มี อะ-ไร อีก หฺรือ",
+            "thaiSentence": "ยังมีอะไรอีกหรือ",
+            "thaiSentenceSpaced": " ยัง มี อะไร อีก หรือ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "still ; yet"
+                        }
+                    ],
+                    "phonetic": "ยัง",
+                    "word": "ยัง"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] have ; there is"
+                        }
+                    ],
+                    "phonetic": "มี",
+                    "word": "มี"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "what"
+                        },
+                        {
+                            "meaning": "something ; anything ; whatever"
+                        }
+                    ],
+                    "phonetic": "อะ-ไร",
+                    "word": "อะไร"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "again ; once more ; more"
+                        }
+                    ],
+                    "phonetic": "อีก",
+                    "word": "อีก"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(question particle used when seeking confirmation of something thought to be true, or to make a question sound softer)</i>"
+                        },
+                        {
+                            "meaning": "or"
+                        }
+                    ],
+                    "phonetic": "หฺรือ",
+                    "word": "หรือ"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 113226,
+        "exampleSentences": [
+            {
+                "engSentence": "Did he say anything else ?",
+                "id": 462,
+                "thaiSentence": "เขาบอกอะไรอีกหรือเปล่า",
+                "thaiSentenceSpaced": " เขา บอก อะไร อีก หรือเปล่า "
+            },
+            {
+                "engSentence": "I am more worried about you.",
+                "id": 934,
+                "thaiSentence": "ฉันยิ่งกังวลมากขึ้นไปอีก",
+                "thaiSentenceSpaced": " ฉัน ยิ่ง กังวล มากขึ้นไป อีก "
+            },
+            {
+                "engSentence": "There's something else.",
+                "id": 1424,
+                "thaiSentence": "มีเรื่องอื่นอีก",
+                "thaiSentenceSpaced": " มีเรื่อง อื่น อีก "
+            },
+            {
+                "engSentence": "Still can't sleep ?",
+                "id": 2114,
+                "thaiSentence": "ยังนอนไม่หลับอยู่อีกเหรอ",
+                "thaiSentenceSpaced": " ยัง นอนไม่หลับ อยู่ อีก เหรอ "
+            },
+            {
+                "engSentence": "One more station to go.",
+                "id": 7424,
+                "thaiSentence": "อีกสถานีเดียวก็จะถึงแล้ว",
+                "thaiSentenceSpaced": " อีก สถานี เดียว ก็ จะ ถึง แล้ว "
+            },
+            {
+                "engSentence": "There's something else ?",
+                "id": 10848,
+                "thaiSentence": "ยังมีอะไรอีกหรือ",
+                "thaiSentenceSpaced": " ยัง มี อะไร อีก หรือ "
+            }
+        ],
+        "hasSoundFile": true,
+        "legacyWordId": 1455938,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "again",
+                        "word": "again"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "once more",
+                        "word": "once more"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "more",
+                        "word": "more"
+                    }
+                ],
+                "etymology": "",
+                "examples": [
+                    {
+                        "childId": 26394,
+                        "corpusScore": 11395,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42131,
+                        "legacyWordId": 1455941,
+                        "meaning": "again ; another time",
+                        "parentId": 42131,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "อีก คฺรั้ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกครั้ง"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 6876,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 23783,
+                        "legacyWordId": 1455944,
+                        "meaning": "also ; as well",
+                        "parentId": 23783,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "อีก ด้วย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกด้วย"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 4938,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 42119,
+                        "legacyWordId": 1455953,
+                        "meaning": "anymore ; from now on",
+                        "parentId": 42119,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "อีก แล้ว",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกแล้ว"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 3643,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 2459,
+                        "legacyWordId": 1455946,
+                        "meaning": "once more ; one more time",
+                        "parentId": 2459,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "อีก ที",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกที"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 2561,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 191365,
+                        "legacyWordId": 1455960,
+                        "meaning": "another thing ; one more thing",
+                        "parentId": 191365,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อีก หฺย่าง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกอย่าง"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 1023,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41198,
+                        "legacyWordId": 1455945,
+                        "meaning": "anymore",
+                        "parentId": 41198,
+                        "partOfSpeech": "None",
+                        "t2e": "อีก ต่อ ไป",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกต่อไป"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 900,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26055,
+                        "legacyWordId": 1455955,
+                        "meaning": "a little more ; a little",
+                        "parentId": 26055,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "อีก หฺน่อย",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกหน่อย"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 830,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45238,
+                        "legacyWordId": 1455942,
+                        "meaning": "one more time",
+                        "parentId": 45238,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "อีก คฺรั้ง หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกครั้งหนึ่ง"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 717,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": "It's a particle used in statements describing what you used to think was true but know now isn't, or to imply a sense of \"even more ; even more so \"",
+                        "hasSoundFile": false,
+                        "id": 103234,
+                        "legacyWordId": 1304420,
+                        "meaning": "",
+                        "parentId": 103234,
+                        "partOfSpeech": "Particle",
+                        "t2e": "ซะ อีก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซะอีก"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 547,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45236,
+                        "legacyWordId": 1455962,
+                        "meaning": "one more thing",
+                        "parentId": 45236,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "อีก หฺย่าง หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกอย่างหนึ่ง"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 359,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 26183,
+                        "legacyWordId": 1455951,
+                        "meaning": "soon ; before long",
+                        "parentId": 26183,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "อีก ไม่ นาน",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกไม่นาน"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 250,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 395517,
+                        "legacyWordId": 1455949,
+                        "meaning": "on the other hand",
+                        "parentId": 395517,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "อีก ปฺระ-กาน หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกประการหนึ่ง"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 177,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 93415,
+                        "legacyWordId": 1274046,
+                        "meaning": "recur",
+                        "parentId": 93415,
+                        "partOfSpeech": "Noun",
+                        "t2e": "เกิด ขึ้น อีก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "เกิดขึ้นอีก"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 101,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 17306,
+                        "legacyWordId": 1455947,
+                        "meaning": "in other words",
+                        "parentId": 17306,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "อีก ไน หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกนัยหนึ่ง"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 93,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 45237,
+                        "legacyWordId": 1455952,
+                        "meaning": "another format ; another form",
+                        "parentId": 45237,
+                        "partOfSpeech": "Noun",
+                        "t2e": "อีก รูบ แบบ หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกรูปแบบหนึ่ง"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 81,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 41422,
+                        "legacyWordId": 1455948,
+                        "meaning": "a little bit more ; a little bit longer",
+                        "parentId": 41422,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "อีก นิด นึง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกนิดนึง"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 58,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 191361,
+                        "legacyWordId": 1455961,
+                        "meaning": "one more thing",
+                        "parentId": 191361,
+                        "partOfSpeech": "Phrase",
+                        "t2e": "อีก หฺย่าง นึง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกอย่างนึง"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 43,
+                        "displayOrder": 3,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 34012,
+                        "legacyWordId": 1304756,
+                        "meaning": "again and again",
+                        "parentId": 34012,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ซ้ำ แล้ว ซ้ำ อีก",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ซ้ำแล้วซ้ำอีก"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 32,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 394418,
+                        "legacyWordId": 1455940,
+                        "meaning": "on the other hand",
+                        "parentId": 394418,
+                        "partOfSpeech": "Phrase",
+                        "t2e": "อีก กอ-ระ-นี หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกกรณีหนึ่ง"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 28,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 25767,
+                        "legacyWordId": 1455950,
+                        "meaning": "soon ; before long",
+                        "parentId": 25767,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "อีก ไม่ ช้า",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกไม่ช้า"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 19,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 401205,
+                        "legacyWordId": 1455943,
+                        "meaning": "in other words",
+                        "parentId": 401205,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "อีก แง่ หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกแง่หนึ่ง"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 17,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 20154,
+                        "legacyWordId": 1455954,
+                        "meaning": "for a while",
+                        "parentId": 20154,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "อีก สัก คฺรู่",
+                        "usage": "",
+                        "verified": null,
+                        "word": "อีกสักครู่"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 14,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 14497,
+                        "legacyWordId": 1331766,
+                        "meaning": "on the other hand",
+                        "parentId": 14497,
+                        "partOfSpeech": "Adverb",
+                        "t2e": "ไน อีก ทาง หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในอีกทางหนึ่ง"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 14,
+                        "displayOrder": 2,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 24018,
+                        "legacyWordId": 1331765,
+                        "meaning": "on the other hand",
+                        "parentId": 24018,
+                        "partOfSpeech": "Conjunction",
+                        "t2e": "ไน อีก แง่ หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในอีกแง่หนึ่ง"
+                    },
+                    {
+                        "childId": 26394,
+                        "corpusScore": 2,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": false,
+                        "id": 5514,
+                        "legacyWordId": 1331764,
+                        "meaning": "on the other hand",
+                        "parentId": 5514,
+                        "partOfSpeech": "Phrase",
+                        "t2e": "ไน อีก กอ-ระ-นี หฺนึ่ง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ในอีกกรณีหนึ่ง"
+                    }
+                ],
+                "explanation": null,
+                "id": 26394,
+                "isUncommon": false,
+                "meaning": "again ; once more ; more",
+                "partOfSpeech": "Adverb",
+                "usage": "",
+                "word": "อีก"
+            }
+        ],
+        "t2e": "อีก",
+        "verified": null,
+        "word": "อีก"
+    },
+    "greenBarCount": 6,
+    "pageUrl": "",
+    "type": "thai-word"
+}

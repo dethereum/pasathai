@@ -1,0 +1,425 @@
+{
+    "commonessText": "Commonly",
+    "exampleSentences": [
+        {
+            "engSentence": "Go look in the bathroom.",
+            "id": 94545,
+            "phonetic": "เข้า ไป ดู ไน ห้อง น้าม",
+            "thaiSentence": "เข้าไปดูในห้องน้ำ",
+            "thaiSentenceSpaced": " เข้าไป ดู ใน ห้องน้ำ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] enter ; reach ; get into"
+                        }
+                    ],
+                    "phonetic": "เข้า ไป",
+                    "word": "เข้าไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] appear ; seem"
+                        },
+                        {
+                            "meaning": "[to] watch ; look ; see"
+                        }
+                    ],
+                    "phonetic": "ดู",
+                    "word": "ดู"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "in ; of"
+                        }
+                    ],
+                    "phonetic": "ไน",
+                    "word": "ใน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "toilet ; bathroom ; wash room"
+                        }
+                    ],
+                    "phonetic": "ห้อง น้าม",
+                    "word": "ห้องน้ำ"
+                }
+            ]
+        },
+        {
+            "engSentence": "Especially the bathroom.",
+            "id": 108937,
+            "phonetic": "โดย ฉะ-เพาะ ห้อง น้าม",
+            "thaiSentence": "โดยเฉพาะห้องน้ำ",
+            "thaiSentenceSpaced": " โดยเฉพาะ ห้องน้ำ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "specially ; especially ; particularly"
+                        }
+                    ],
+                    "phonetic": "โดย ฉะ-เพาะ",
+                    "word": "โดยเฉพาะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "toilet ; bathroom ; wash room"
+                        }
+                    ],
+                    "phonetic": "ห้อง น้าม",
+                    "word": "ห้องน้ำ"
+                }
+            ]
+        },
+        {
+            "engSentence": "I had to go to the bathroom.",
+            "id": 127248,
+            "phonetic": "ฉัน จะ ไป เข้า ห้อง น้าม",
+            "thaiSentence": "ฉันจะไปเข้าห้องน้ำ",
+            "thaiSentenceSpaced": " ฉัน จะ ไป เข้า ห้องน้ำ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "I ; me"
+                        }
+                    ],
+                    "phonetic": "ฉัน",
+                    "word": "ฉัน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] go ; leave ; depart"
+                        },
+                        {
+                            "meaning": "to ; off ; away ; into ; in <i>(The translation of ไป in this context depends on the primary verb, but it frequently has no direct equivalent in English and so may be untranslatable.)</i>"
+                        }
+                    ],
+                    "phonetic": "ไป",
+                    "word": "ไป"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "[to] enter ; reach ; get into"
+                        },
+                        {
+                            "meaning": "in ; into"
+                        },
+                        {
+                            "meaning": "[to] get along with ; be compatible with"
+                        }
+                    ],
+                    "phonetic": "เข้า",
+                    "word": "เข้า"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "toilet ; bathroom ; wash room"
+                        }
+                    ],
+                    "phonetic": "ห้อง น้าม",
+                    "word": "ห้องน้ำ"
+                }
+            ]
+        },
+        {
+            "engSentence": "This Is the bathroom.",
+            "id": 138471,
+            "phonetic": "นี่ นะ ห้อง น้าม",
+            "thaiSentence": "นี่นะห้องน้ำ",
+            "thaiSentenceSpaced": " นี่ นะ ห้องน้ำ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "toilet ; bathroom ; wash room"
+                        }
+                    ],
+                    "phonetic": "ห้อง น้าม",
+                    "word": "ห้องน้ำ"
+                }
+            ]
+        },
+        {
+            "engSentence": "This is the bathroom.",
+            "id": 139464,
+            "phonetic": "นี่ ห้อง น้าม นะ",
+            "thaiSentence": "นี่ห้องน้ำนะ",
+            "thaiSentenceSpaced": " นี่ ห้องน้ำ นะ ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle adding emphasis to a statement)</i>"
+                        },
+                        {
+                            "meaning": " <i>(interjection used to make a point sound serious or important)</i>"
+                        },
+                        {
+                            "meaning": "this ; these"
+                        }
+                    ],
+                    "phonetic": "นี่",
+                    "word": "นี่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "toilet ; bathroom ; wash room"
+                        }
+                    ],
+                    "phonetic": "ห้อง น้าม",
+                    "word": "ห้องน้ำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(particle used to make a sentence seem softer, more persuasive or less abrupt)</i>"
+                        }
+                    ],
+                    "phonetic": "นะ",
+                    "word": "นะ"
+                }
+            ]
+        },
+        {
+            "engSentence": "The bathroom is over there.",
+            "id": 140574,
+            "phonetic": "ห้อง น้าม จะ หฺยู่ ด้าน โน้น",
+            "thaiSentence": "ห้องน้ำจะอยู่ด้านโน้น",
+            "thaiSentenceSpaced": " ห้องน้ำ จะ อยู่ ด้าน โน้น ",
+            "words": [
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "toilet ; bathroom ; wash room"
+                        }
+                    ],
+                    "phonetic": "ห้อง น้าม",
+                    "word": "ห้องน้ำ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "will ; shall"
+                        }
+                    ],
+                    "phonetic": "จะ",
+                    "word": "จะ"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": " <i>(an auxiliary used to put the verb in the present continuous tense, that shows the action of the verb is currently taking place)</i>"
+                        },
+                        {
+                            "meaning": "[to] be at ; live at ; stay"
+                        }
+                    ],
+                    "phonetic": "หฺยู่",
+                    "word": "อยู่"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "side ; area"
+                        },
+                        {
+                            "meaning": "field ; line <i>(of research, study or work)</i>"
+                        }
+                    ],
+                    "phonetic": "ด้าน",
+                    "word": "ด้าน"
+                },
+                {
+                    "isThai": true,
+                    "meanings": [
+                        {
+                            "meaning": "that"
+                        }
+                    ],
+                    "phonetic": "โน้น",
+                    "word": "โน้น"
+                }
+            ]
+        }
+    ],
+    "firestoreWord": {
+        "corpusScore": 2668,
+        "exampleSentences": [
+            {
+                "engSentence": "Go look in the bathroom.",
+                "id": 94545,
+                "thaiSentence": "เข้าไปดูในห้องน้ำ",
+                "thaiSentenceSpaced": " เข้าไป ดู ใน ห้องน้ำ "
+            },
+            {
+                "engSentence": "Especially the bathroom.",
+                "id": 108937,
+                "thaiSentence": "โดยเฉพาะห้องน้ำ",
+                "thaiSentenceSpaced": " โดยเฉพาะ ห้องน้ำ "
+            },
+            {
+                "engSentence": "I had to go to the bathroom.",
+                "id": 127248,
+                "thaiSentence": "ฉันจะไปเข้าห้องน้ำ",
+                "thaiSentenceSpaced": " ฉัน จะ ไป เข้า ห้องน้ำ "
+            },
+            {
+                "engSentence": "This Is the bathroom.",
+                "id": 138471,
+                "thaiSentence": "นี่นะห้องน้ำ",
+                "thaiSentenceSpaced": " นี่ นะ ห้องน้ำ "
+            },
+            {
+                "engSentence": "This is the bathroom.",
+                "id": 139464,
+                "thaiSentence": "นี่ห้องน้ำนะ",
+                "thaiSentenceSpaced": " นี่ ห้องน้ำ นะ "
+            },
+            {
+                "engSentence": "The bathroom is over there.",
+                "id": 140574,
+                "thaiSentence": "ห้องน้ำจะอยู่ด้านโน้น",
+                "thaiSentenceSpaced": " ห้องน้ำ จะ อยู่ ด้าน โน้น "
+            }
+        ],
+        "hasSoundFile": false,
+        "legacyWordId": 1448247,
+        "meanings": [
+            {
+                "components": [
+                    {
+                        "childId": 102656,
+                        "corpusScore": 27228,
+                        "displayOrder": 0,
+                        "etymology": "",
+                        "explanation": "ห้อง is also the classifier for rooms.",
+                        "hasSoundFile": true,
+                        "id": 102656,
+                        "legacyWordId": 1448212,
+                        "meaning": "room",
+                        "parentId": 28122,
+                        "partOfSpeech": "Noun ; Classifier",
+                        "t2e": "ห้อง",
+                        "usage": "",
+                        "verified": null,
+                        "word": "ห้อง"
+                    },
+                    {
+                        "childId": 15486,
+                        "corpusScore": 142976,
+                        "displayOrder": 1,
+                        "etymology": "",
+                        "explanation": null,
+                        "hasSoundFile": true,
+                        "id": 15486,
+                        "legacyWordId": 1329399,
+                        "meaning": "water ; fluid ; liquid",
+                        "parentId": 28122,
+                        "partOfSpeech": "Noun",
+                        "t2e": "น้าม",
+                        "usage": "",
+                        "verified": "น้าม",
+                        "word": "น้ำ"
+                    }
+                ],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "toilet",
+                        "word": "toilet"
+                    },
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "bathroom",
+                        "word": "bathroom"
+                    },
+                    {
+                        "isEngDictionaryWord": false,
+                        "text": "wash room",
+                        "word": "wash room"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 28122,
+                "isUncommon": false,
+                "meaning": "toilet ; bathroom ; wash room",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "ห้องน้ำ"
+            }
+        ],
+        "t2e": "ห้อง น้าม",
+        "verified": null,
+        "word": "ห้องน้ำ"
+    },
+    "greenBarCount": 4,
+    "pageUrl": "",
+    "type": "thai-word"
+}

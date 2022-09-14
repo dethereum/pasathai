@@ -1,0 +1,38 @@
+{
+    "commonessText": "Rarely",
+    "exampleSentences": [],
+    "firestoreWord": {
+        "corpusScore": 128,
+        "exampleSentences": [],
+        "hasSoundFile": false,
+        "legacyWordId": 1399148,
+        "meanings": [
+            {
+                "components": [],
+                "displayOrder": 0,
+                "engTranslationWords": [
+                    {
+                        "isEngDictionaryWord": true,
+                        "text": "Thursday",
+                        "word": "Thursday"
+                    }
+                ],
+                "etymology": "",
+                "examples": [],
+                "explanation": null,
+                "id": 102777,
+                "isUncommon": false,
+                "meaning": "Thursday",
+                "partOfSpeech": "Noun",
+                "usage": "",
+                "word": "วันพฤหัส"
+            }
+        ],
+        "t2e": "วัน พะ-รึ-หัด",
+        "verified": null,
+        "word": "วันพฤหัส"
+    },
+    "greenBarCount": 1,
+    "pageUrl": "",
+    "type": "thai-word"
+}
