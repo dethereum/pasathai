@@ -11,3 +11,6 @@ The python script is used to turn natural thai, identify thai syllabes in said i
 - ❯ python3 -m pip uninstall gensim
 - ❯ python3 -m pip install gensim --no-binary gensim
 - ❯ python setup.py develop
+
+# to run model generator
+- ❯  datamodel-codegen  --input ./thaibow/schema.json --input-file-type jsonschema --output ./thaibow/model.py

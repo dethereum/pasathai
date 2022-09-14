@@ -1,0 +1,1893 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+      "commonessText": {
+        "type": "string"
+      },
+      "exampleSentences": {
+        "type": "array",
+        "items": [
+          {
+            "type": "object",
+            "properties": {
+              "engSentence": {
+                "type": "string"
+              },
+              "id": {
+                "type": "integer"
+              },
+              "phonetic": {
+                "type": "string"
+              },
+              "thaiSentence": {
+                "type": "string"
+              },
+              "thaiSentenceSpaced": {
+                "type": "string"
+              },
+              "words": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  }
+                ]
+              }
+            },
+            "required": [
+              "engSentence",
+              "id",
+              "phonetic",
+              "thaiSentence",
+              "thaiSentenceSpaced",
+              "words"
+            ]
+          },
+          {
+            "type": "object",
+            "properties": {
+              "engSentence": {
+                "type": "string"
+              },
+              "id": {
+                "type": "integer"
+              },
+              "phonetic": {
+                "type": "string"
+              },
+              "thaiSentence": {
+                "type": "string"
+              },
+              "thaiSentenceSpaced": {
+                "type": "string"
+              },
+              "words": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  }
+                ]
+              }
+            },
+            "required": [
+              "engSentence",
+              "id",
+              "phonetic",
+              "thaiSentence",
+              "thaiSentenceSpaced",
+              "words"
+            ]
+          },
+          {
+            "type": "object",
+            "properties": {
+              "engSentence": {
+                "type": "string"
+              },
+              "id": {
+                "type": "integer"
+              },
+              "phonetic": {
+                "type": "string"
+              },
+              "thaiSentence": {
+                "type": "string"
+              },
+              "thaiSentenceSpaced": {
+                "type": "string"
+              },
+              "words": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  }
+                ]
+              }
+            },
+            "required": [
+              "engSentence",
+              "id",
+              "phonetic",
+              "thaiSentence",
+              "thaiSentenceSpaced",
+              "words"
+            ]
+          },
+          {
+            "type": "object",
+            "properties": {
+              "engSentence": {
+                "type": "string"
+              },
+              "id": {
+                "type": "integer"
+              },
+              "phonetic": {
+                "type": "string"
+              },
+              "thaiSentence": {
+                "type": "string"
+              },
+              "thaiSentenceSpaced": {
+                "type": "string"
+              },
+              "words": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": {}
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  }
+                ]
+              }
+            },
+            "required": [
+              "engSentence",
+              "id",
+              "phonetic",
+              "thaiSentence",
+              "thaiSentenceSpaced",
+              "words"
+            ]
+          },
+          {
+            "type": "object",
+            "properties": {
+              "engSentence": {
+                "type": "string"
+              },
+              "id": {
+                "type": "integer"
+              },
+              "phonetic": {
+                "type": "string"
+              },
+              "thaiSentence": {
+                "type": "string"
+              },
+              "thaiSentenceSpaced": {
+                "type": "string"
+              },
+              "words": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  }
+                ]
+              }
+            },
+            "required": [
+              "engSentence",
+              "id",
+              "phonetic",
+              "thaiSentence",
+              "thaiSentenceSpaced",
+              "words"
+            ]
+          },
+          {
+            "type": "object",
+            "properties": {
+              "engSentence": {
+                "type": "string"
+              },
+              "id": {
+                "type": "integer"
+              },
+              "phonetic": {
+                "type": "string"
+              },
+              "thaiSentence": {
+                "type": "string"
+              },
+              "thaiSentenceSpaced": {
+                "type": "string"
+              },
+              "words": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "isThai": {
+                        "type": "boolean"
+                      },
+                      "meanings": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "meaning": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "meaning"
+                            ]
+                          }
+                        ]
+                      },
+                      "phonetic": {
+                        "type": "string"
+                      },
+                      "word": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "isThai",
+                      "meanings",
+                      "phonetic",
+                      "word"
+                    ]
+                  }
+                ]
+              }
+            },
+            "required": [
+              "engSentence",
+              "id",
+              "phonetic",
+              "thaiSentence",
+              "thaiSentenceSpaced",
+              "words"
+            ]
+          }
+        ]
+      },
+      "firestoreWord": {
+        "type": "object",
+        "properties": {
+          "corpusScore": {
+            "type": "integer"
+          },
+          "exampleSentences": {
+            "type": "array",
+            "items": [
+              {
+                "type": "object",
+                "properties": {
+                  "engSentence": {
+                    "type": "string"
+                  },
+                  "id": {
+                    "type": "integer"
+                  },
+                  "thaiSentence": {
+                    "type": "string"
+                  },
+                  "thaiSentenceSpaced": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "engSentence",
+                  "id",
+                  "thaiSentence",
+                  "thaiSentenceSpaced"
+                ]
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "engSentence": {
+                    "type": "string"
+                  },
+                  "id": {
+                    "type": "integer"
+                  },
+                  "thaiSentence": {
+                    "type": "string"
+                  },
+                  "thaiSentenceSpaced": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "engSentence",
+                  "id",
+                  "thaiSentence",
+                  "thaiSentenceSpaced"
+                ]
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "engSentence": {
+                    "type": "string"
+                  },
+                  "id": {
+                    "type": "integer"
+                  },
+                  "thaiSentence": {
+                    "type": "string"
+                  },
+                  "thaiSentenceSpaced": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "engSentence",
+                  "id",
+                  "thaiSentence",
+                  "thaiSentenceSpaced"
+                ]
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "engSentence": {
+                    "type": "string"
+                  },
+                  "id": {
+                    "type": "integer"
+                  },
+                  "thaiSentence": {
+                    "type": "string"
+                  },
+                  "thaiSentenceSpaced": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "engSentence",
+                  "id",
+                  "thaiSentence",
+                  "thaiSentenceSpaced"
+                ]
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "engSentence": {
+                    "type": "string"
+                  },
+                  "id": {
+                    "type": "integer"
+                  },
+                  "thaiSentence": {
+                    "type": "string"
+                  },
+                  "thaiSentenceSpaced": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "engSentence",
+                  "id",
+                  "thaiSentence",
+                  "thaiSentenceSpaced"
+                ]
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "engSentence": {
+                    "type": "string"
+                  },
+                  "id": {
+                    "type": "integer"
+                  },
+                  "thaiSentence": {
+                    "type": "string"
+                  },
+                  "thaiSentenceSpaced": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "engSentence",
+                  "id",
+                  "thaiSentence",
+                  "thaiSentenceSpaced"
+                ]
+              }
+            ]
+          },
+          "hasSoundFile": {
+            "type": "boolean"
+          },
+          "legacyWordId": {
+            "type": "integer"
+          },
+          "meanings": {
+            "type": "array",
+            "items": [
+              {
+                "type": "object",
+                "properties": {
+                  "components": {
+                    "type": "array",
+                    "items": [
+                      {
+                        "type": "object",
+                        "properties": {
+                          "childId": {
+                            "type": "integer"
+                          },
+                          "corpusScore": {
+                            "type": "integer"
+                          },
+                          "displayOrder": {
+                            "type": "integer"
+                          },
+                          "etymology": {
+                            "type": "string"
+                          },
+                          "explanation": {
+                            "type": "null"
+                          },
+                          "hasSoundFile": {
+                            "type": "boolean"
+                          },
+                          "id": {
+                            "type": "integer"
+                          },
+                          "legacyWordId": {
+                            "type": "integer"
+                          },
+                          "meaning": {
+                            "type": "string"
+                          },
+                          "parentId": {
+                            "type": "integer"
+                          },
+                          "partOfSpeech": {
+                            "type": "string"
+                          },
+                          "t2e": {
+                            "type": "string"
+                          },
+                          "usage": {
+                            "type": "string"
+                          },
+                          "verified": {
+                            "type": "null"
+                          },
+                          "word": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "childId",
+                          "corpusScore",
+                          "displayOrder",
+                          "etymology",
+                          "explanation",
+                          "hasSoundFile",
+                          "id",
+                          "legacyWordId",
+                          "meaning",
+                          "parentId",
+                          "partOfSpeech",
+                          "t2e",
+                          "usage",
+                          "verified",
+                          "word"
+                        ]
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "childId": {
+                            "type": "integer"
+                          },
+                          "corpusScore": {
+                            "type": "integer"
+                          },
+                          "displayOrder": {
+                            "type": "integer"
+                          },
+                          "etymology": {
+                            "type": "string"
+                          },
+                          "explanation": {
+                            "type": "null"
+                          },
+                          "hasSoundFile": {
+                            "type": "boolean"
+                          },
+                          "id": {
+                            "type": "integer"
+                          },
+                          "legacyWordId": {
+                            "type": "integer"
+                          },
+                          "meaning": {
+                            "type": "string"
+                          },
+                          "parentId": {
+                            "type": "integer"
+                          },
+                          "partOfSpeech": {
+                            "type": "string"
+                          },
+                          "t2e": {
+                            "type": "string"
+                          },
+                          "usage": {
+                            "type": "string"
+                          },
+                          "verified": {
+                            "type": "null"
+                          },
+                          "word": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "childId",
+                          "corpusScore",
+                          "displayOrder",
+                          "etymology",
+                          "explanation",
+                          "hasSoundFile",
+                          "id",
+                          "legacyWordId",
+                          "meaning",
+                          "parentId",
+                          "partOfSpeech",
+                          "t2e",
+                          "usage",
+                          "verified",
+                          "word"
+                        ]
+                      }
+                    ]
+                  },
+                  "displayOrder": {
+                    "type": "integer"
+                  },
+                  "engTranslationWords": {
+                    "type": "array",
+                    "items": [
+                      {
+                        "type": "object",
+                        "properties": {
+                          "isEngDictionaryWord": {
+                            "type": "boolean"
+                          },
+                          "text": {
+                            "type": "string"
+                          },
+                          "word": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "isEngDictionaryWord",
+                          "text",
+                          "word"
+                        ]
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "isEngDictionaryWord": {
+                            "type": "boolean"
+                          },
+                          "text": {
+                            "type": "string"
+                          },
+                          "word": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "isEngDictionaryWord",
+                          "text",
+                          "word"
+                        ]
+                      }
+                    ]
+                  },
+                  "etymology": {
+                    "type": "string"
+                  },
+                  "examples": {
+                    "type": "array",
+                    "items": [
+                      {
+                        "type": "object",
+                        "properties": {
+                          "childId": {
+                            "type": "integer"
+                          },
+                          "corpusScore": {
+                            "type": "integer"
+                          },
+                          "displayOrder": {
+                            "type": "integer"
+                          },
+                          "etymology": {
+                            "type": "string"
+                          },
+                          "explanation": {
+                            "type": "null"
+                          },
+                          "hasSoundFile": {
+                            "type": "boolean"
+                          },
+                          "id": {
+                            "type": "integer"
+                          },
+                          "legacyWordId": {
+                            "type": "integer"
+                          },
+                          "meaning": {
+                            "type": "string"
+                          },
+                          "parentId": {
+                            "type": "integer"
+                          },
+                          "partOfSpeech": {
+                            "type": "string"
+                          },
+                          "t2e": {
+                            "type": "string"
+                          },
+                          "usage": {
+                            "type": "string"
+                          },
+                          "verified": {
+                            "type": "null"
+                          },
+                          "word": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "childId",
+                          "corpusScore",
+                          "displayOrder",
+                          "etymology",
+                          "explanation",
+                          "hasSoundFile",
+                          "id",
+                          "legacyWordId",
+                          "meaning",
+                          "parentId",
+                          "partOfSpeech",
+                          "t2e",
+                          "usage",
+                          "verified",
+                          "word"
+                        ]
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "childId": {
+                            "type": "integer"
+                          },
+                          "corpusScore": {
+                            "type": "integer"
+                          },
+                          "displayOrder": {
+                            "type": "integer"
+                          },
+                          "etymology": {
+                            "type": "string"
+                          },
+                          "explanation": {
+                            "type": "null"
+                          },
+                          "hasSoundFile": {
+                            "type": "boolean"
+                          },
+                          "id": {
+                            "type": "integer"
+                          },
+                          "legacyWordId": {
+                            "type": "integer"
+                          },
+                          "meaning": {
+                            "type": "string"
+                          },
+                          "parentId": {
+                            "type": "integer"
+                          },
+                          "partOfSpeech": {
+                            "type": "string"
+                          },
+                          "t2e": {
+                            "type": "string"
+                          },
+                          "usage": {
+                            "type": "string"
+                          },
+                          "verified": {
+                            "type": "null"
+                          },
+                          "word": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "childId",
+                          "corpusScore",
+                          "displayOrder",
+                          "etymology",
+                          "explanation",
+                          "hasSoundFile",
+                          "id",
+                          "legacyWordId",
+                          "meaning",
+                          "parentId",
+                          "partOfSpeech",
+                          "t2e",
+                          "usage",
+                          "verified",
+                          "word"
+                        ]
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "childId": {
+                            "type": "integer"
+                          },
+                          "corpusScore": {
+                            "type": "integer"
+                          },
+                          "displayOrder": {
+                            "type": "integer"
+                          },
+                          "etymology": {
+                            "type": "string"
+                          },
+                          "explanation": {
+                            "type": "null"
+                          },
+                          "hasSoundFile": {
+                            "type": "boolean"
+                          },
+                          "id": {
+                            "type": "integer"
+                          },
+                          "legacyWordId": {
+                            "type": "integer"
+                          },
+                          "meaning": {
+                            "type": "string"
+                          },
+                          "parentId": {
+                            "type": "integer"
+                          },
+                          "partOfSpeech": {
+                            "type": "string"
+                          },
+                          "t2e": {
+                            "type": "string"
+                          },
+                          "usage": {
+                            "type": "string"
+                          },
+                          "verified": {
+                            "type": "null"
+                          },
+                          "word": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "childId",
+                          "corpusScore",
+                          "displayOrder",
+                          "etymology",
+                          "explanation",
+                          "hasSoundFile",
+                          "id",
+                          "legacyWordId",
+                          "meaning",
+                          "parentId",
+                          "partOfSpeech",
+                          "t2e",
+                          "usage",
+                          "verified",
+                          "word"
+                        ]
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "childId": {
+                            "type": "integer"
+                          },
+                          "corpusScore": {
+                            "type": "integer"
+                          },
+                          "displayOrder": {
+                            "type": "integer"
+                          },
+                          "etymology": {
+                            "type": "string"
+                          },
+                          "explanation": {
+                            "type": "null"
+                          },
+                          "hasSoundFile": {
+                            "type": "boolean"
+                          },
+                          "id": {
+                            "type": "integer"
+                          },
+                          "legacyWordId": {
+                            "type": "integer"
+                          },
+                          "meaning": {
+                            "type": "string"
+                          },
+                          "parentId": {
+                            "type": "integer"
+                          },
+                          "partOfSpeech": {
+                            "type": "string"
+                          },
+                          "t2e": {
+                            "type": "string"
+                          },
+                          "usage": {
+                            "type": "string"
+                          },
+                          "verified": {
+                            "type": "null"
+                          },
+                          "word": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "childId",
+                          "corpusScore",
+                          "displayOrder",
+                          "etymology",
+                          "explanation",
+                          "hasSoundFile",
+                          "id",
+                          "legacyWordId",
+                          "meaning",
+                          "parentId",
+                          "partOfSpeech",
+                          "t2e",
+                          "usage",
+                          "verified",
+                          "word"
+                        ]
+                      }
+                    ]
+                  },
+                  "explanation": {
+                    "type": "null"
+                  },
+                  "id": {
+                    "type": "integer"
+                  },
+                  "isUncommon": {
+                    "type": "boolean"
+                  },
+                  "meaning": {
+                    "type": "string"
+                  },
+                  "partOfSpeech": {
+                    "type": "string"
+                  },
+                  "usage": {
+                    "type": "string"
+                  },
+                  "word": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "components",
+                  "displayOrder",
+                  "engTranslationWords",
+                  "etymology",
+                  "examples",
+                  "explanation",
+                  "id",
+                  "isUncommon",
+                  "meaning",
+                  "partOfSpeech",
+                  "usage",
+                  "word"
+                ]
+              }
+            ]
+          },
+          "t2e": {
+            "type": "string"
+          },
+          "verified": {
+            "type": "null"
+          },
+          "word": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "corpusScore",
+          "exampleSentences",
+          "hasSoundFile",
+          "legacyWordId",
+          "meanings",
+          "t2e",
+          "verified",
+          "word"
+        ]
+      },
+      "greenBarCount": {
+        "type": "integer"
+      },
+      "pageUrl": {
+        "type": "string"
+      },
+      "type": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "commonessText",
+      "exampleSentences",
+      "firestoreWord",
+      "greenBarCount",
+      "pageUrl",
+      "type"
+    ]
+  }
