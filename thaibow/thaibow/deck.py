@@ -43,7 +43,7 @@ def make_phrase_notes(meaning):
         note = init_phrase_note(example.word, meaning.word, meaning.meaning)
 
         if example.etymology != "":
-            note["tags"].append(tag_prefix + "etymology::" + meaning.etymology.lower())
+            note["tags"].append(tag_prefix + "etymology::" + example.etymology.lower())
         
         for pos in meaning.partOfSpeech:
             note["tags"].append(tag_prefix + "part_of_speech::" + pos.lower())
