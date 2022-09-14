@@ -109,7 +109,7 @@ def get_notes_data():
                     note["tags"].append("pasathai::meta::part_of_speech::" + pos.lower())
 
         note["tags"].append("pasathai::meta::processed")
-        note["tags"] = unique(note["tags"])
+        note["tags"] = sorted(unique(note["tags"]), key=str.lower)
 
     anki['children'][2]["notes"] = notes
 
