@@ -119,6 +119,7 @@
                         "well... I am ok",
                         "",
                         "",
+                        "",
                         ""
                     ],
                     "guid": "B1ujnu_Wnh",
@@ -132,6 +133,7 @@
                     "fields": [
                         "เป็นยังไงบ้าง",
                         "how is everything? ",
+                        "",
                         "",
                         "",
                         ""
@@ -149,6 +151,7 @@
                         "carrot ",
                         "",
                         "",
+                        "",
                         ""
                     ],
                     "guid": "u_LRn7,_q>",
@@ -162,6 +165,7 @@
                     "fields": [
                         "ได้ไหม",
                         "can?",
+                        "",
                         "",
                         "",
                         ""
@@ -179,6 +183,7 @@
                         "enjoy yourself",
                         "",
                         "",
+                        "",
                         ""
                     ],
                     "guid": "E+l%tzO/;s",
@@ -192,6 +197,7 @@
                     "fields": [
                         "ไม่มีปัญหา",
                         "no problem",
+                        "",
                         "",
                         "",
                         ""
@@ -209,6 +215,7 @@
                         "not true",
                         "",
                         "",
+                        "",
                         ""
                     ],
                     "guid": "kCvokIB.1D",
@@ -222,6 +229,7 @@
                     "fields": [
                         "แล้วเจอกัน",
                         "see you later",
+                        "",
                         "",
                         "",
                         ""
@@ -239,6 +247,7 @@
                         "and you?",
                         "",
                         "",
+                        "",
                         ""
                     ],
                     "guid": "pKR%7UmL>9",
@@ -252,6 +261,7 @@
                     "fields": [
                         "เจอกันพรุ่งนี้",
                         "see you tommorow",
+                        "",
                         "",
                         "",
                         ""
@@ -269,6 +279,7 @@
                         "How old are you?",
                         "",
                         "",
+                        "",
                         ""
                     ],
                     "guid": "r,U^LRSK!l",
@@ -282,6 +293,7 @@
                     "fields": [
                         "ยินดีที่ได้รู้จัก",
                         "pleasure that to get to know (Nice to meet you)",
+                        "",
                         "",
                         "",
                         ""
@@ -299,6 +311,7 @@
                         "where are you from?",
                         "",
                         "",
+                        "",
                         ""
                     ],
                     "guid": "bla5`]0*A#",
@@ -312,6 +325,7 @@
                     "fields": [
                         "จริงหรอ",
                         "Really?",
+                        "",
                         "",
                         "",
                         ""
@@ -329,6 +343,7 @@
                         "What are you up to?",
                         "",
                         "",
+                        "",
                         ""
                     ],
                     "guid": "oHTAf9`i@i",
@@ -342,6 +357,7 @@
                     "fields": [
                         "ชื่ออะไร",
                         "What is your name?",
+                        "",
                         "",
                         "",
                         ""
@@ -359,6 +375,7 @@
                         "21 ",
                         "",
                         "",
+                        "",
                         ""
                     ],
                     "guid": "uPUZ9]2EA@",
@@ -372,6 +389,7 @@
                     "fields": [
                         "อาทิตย์นี้",
                         "This week",
+                        "",
                         "",
                         "",
                         ""
@@ -389,6 +407,7 @@
                         "Next week",
                         "",
                         "",
+                        "",
                         ""
                     ],
                     "guid": "hd,FKaKH7}",
@@ -402,6 +421,7 @@
                     "fields": [
                         "อาทิตย์ที่แล้ว",
                         "Last week",
+                        "",
                         "",
                         "",
                         ""
@@ -419,6 +439,7 @@
                         "Thailand",
                         "",
                         "",
+                        "",
                         ""
                     ],
                     "guid": "Kk]7dT|3%.",
@@ -434,6 +455,7 @@
                         "weekend",
                         "",
                         "",
+                        "",
                         ""
                     ],
                     "guid": "E>jAL4^c?p",
@@ -447,6 +469,7 @@
                     "fields": [
                         "รู้ค",
                         "know",
+                        "",
                         "",
                         "",
                         ""
@@ -3893,7 +3916,7 @@
                 {
                     "description": "",
                     "font": "Arial",
-                    "name": "Sentence",
+                    "name": "Phrase",
                     "ord": 0,
                     "rtl": false,
                     "size": 32,
@@ -3929,8 +3952,17 @@
                 {
                     "description": "",
                     "font": "Arial",
-                    "name": "Sentence Audio",
+                    "name": "Phrase Audio",
                     "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Phrase Meaning",
+                    "ord": 5,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
@@ -3945,7 +3977,6 @@
                     0,
                     "any",
                     [
-                        0,
                         1
                     ]
                 ],
@@ -3969,7 +4000,7 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "<div style='display: none' id=\"sentence\">{{Sentence}}</div>\n<div style='display: none' id=\"target\">{{Target}}</div>\n<div id=\"content\"></div>\n\n<script>\nvar lookup={area:!0,base:!0,br:!0,col:!0,embed:!0,hr:!0,img:!0,input:!0,link:!0,meta:!0,param:!0,source:!0,track:!0,wbr:!0};var attrRE=/\\s([^'\"/\\s><]+?)[\\s/>]|([^\\s=]+)=\\s?(\".*?\"|'.*?')/g;function parseTag(tag){var res={type:\"tag\",name:\"\",voidElement:!1,attrs:{},children:[]};var tagMatch=tag.match(/<\\/?([^\\s]+?)[/\\s>]/);if(tagMatch){res.name=tagMatch[1];if(lookup[tagMatch[1]]||tag.charAt(tag.length-2)===\"/\"){res.voidElement=!0}\nif(res.name.startsWith(\"!--\")){var endIndex=tag.indexOf(\"-->\");return{type:\"comment\",comment:endIndex!==-1?tag.slice(4,endIndex):\"\"}}}\nvar reg=new RegExp(attrRE);var result=null;for(;;){result=reg.exec(tag);if(result===null){break}\nif(!result[0].trim()){continue}\nif(result[1]){var attr=result[1].trim();var arr=[attr,\"\"];if(attr.indexOf(\"=\")>-1){arr=attr.split(\"=\")}\nres.attrs[arr[0]]=arr[1];reg.lastIndex--}else if(result[2]){res.attrs[result[2]]=result[3].trim().substring(1,result[3].length-1)}}\nreturn res}\nvar tagRE=/<[a-zA-Z0-9\\-\\!\\/](?:\"[^\"]*\"|'[^']*'|[^'\">])*>/g;var whitespaceRE=/^\\s*$/;var empty=Object.create(null);function parse(html,options){options||(options={});options.components||(options.components=empty);var result=[];var arr=[];var current;var level=-1;var inComponent=!1;if(html.indexOf(\"<\")!==0){var end=html.indexOf(\"<\");result.push({type:\"text\",content:end===-1?html:html.substring(0,end)})}\nhtml.replace(tagRE,function(tag,index){if(inComponent){if(tag!==\"</\"+current.name+\">\"){return}else{inComponent=!1}}\nvar isOpen=tag.charAt(1)!==\"/\";var isComment=tag.startsWith(\"<!--\");var start=index+tag.length;var nextChar=html.charAt(start);var parent;if(isComment){var comment=parseTag(tag);if(level<0){result.push(comment);return result}\nparent=arr[level];parent.children.push(comment);return result}\nif(isOpen){level++;current=parseTag(tag);if(current.type===\"tag\"&&options.components[current.name]){current.type=\"component\";inComponent=!0}\nif(!current.voidElement&&!inComponent&&nextChar&&nextChar!==\"<\"){current.children.push({type:\"text\",content:html.slice(start,html.indexOf(\"<\",start))})}\nif(level===0){result.push(current)}\nparent=arr[level-1];if(parent){parent.children.push(current)}\narr[level]=current}\nif(!isOpen||current.voidElement){if(level>-1&&(current.voidElement||current.name===tag.slice(2,-1))){level--;current=level===-1?result:arr[level]}\nif(!inComponent&&nextChar!==\"<\"&&nextChar){parent=level===-1?result:arr[level].children;var _end=html.indexOf(\"<\",start);var content=html.slice(start,_end===-1?undefined:_end);if(whitespaceRE.test(content)){content=\" \"}\nif((_end>-1&&level+parent.length>=0)||content!==\" \"){parent.push({type:\"text\",content:content})}}}});return result}\nfunction attrString(attrs){var buff=[];for(var key in attrs){buff.push(key+'=\"'+attrs[key]+'\"')}\nif(!buff.length){return\"\"}\nreturn\" \"+buff.join(\" \")}\nfunction innerStringify(buff,doc){switch(doc.type){case \"text\":return buff+doc.content;case \"tag\":buff+=\"<\"+doc.name+(doc.attrs?attrString(doc.attrs):\"\")+(doc.voidElement?\"/>\":\">\");if(doc.voidElement){return buff}\nreturn buff+doc.children.reduce(innerStringify,\"\")+\"</\"+doc.name+\">\";case \"comment\":buff+=\"<!--\"+doc.comment+\"-->\";return buff}}\nfunction stringify(doc){return doc.reduce(function(token,rootEl){return token+innerStringify(\"\",rootEl)},\"\")}\nfunction checkNodes(arr,target){var isWrapper=target.includes(\" ... \");for(var x=0;x<arr.length;x++){var elem=arr[x];if(elem.type==\"text\"){if(isWrapper){var targets=target.split(\" ... \");var left=targets[0];var right=targets[1];if(elem.content.includes(left)&&elem.content.includes(right)){arr[x].content=elem.content.replace(left,createTargetTag(left)).replace(right,createTargetTag(right))}}\nif(elem.content.includes(target)){arr[x].content=elem.content.replace(target,createTargetTag(target))}}\nif(elem.type==\"tag\"&&elem.children.length>0)checkNodes(elem.children,target)}}\nfunction createTargetTag(target){return stringify([{type:\"tag\",name:\"span\",voidElement:!1,attrs:{class:\"target\"},children:[{type:\"text\",content:target}]}])}\nvar words=parse(document.getElementById(\"sentence\").innerHTML);checkNodes(words,document.getElementById(\"target\").innerHTML);document.getElementById(\"content\").innerHTML=stringify(words)\n</script>\n\n"
+                    "qfmt": "<div style='display: none' id=\"sentence\">{{Phrase}}</div>\n<div style='display: none' id=\"target\">{{Target}}</div>\n<div id=\"content\"></div>\n\n<script>\nvar lookup={area:!0,base:!0,br:!0,col:!0,embed:!0,hr:!0,img:!0,input:!0,link:!0,meta:!0,param:!0,source:!0,track:!0,wbr:!0};var attrRE=/\\s([^'\"/\\s><]+?)[\\s/>]|([^\\s=]+)=\\s?(\".*?\"|'.*?')/g;function parseTag(tag){var res={type:\"tag\",name:\"\",voidElement:!1,attrs:{},children:[]};var tagMatch=tag.match(/<\\/?([^\\s]+?)[/\\s>]/);if(tagMatch){res.name=tagMatch[1];if(lookup[tagMatch[1]]||tag.charAt(tag.length-2)===\"/\"){res.voidElement=!0}\nif(res.name.startsWith(\"!--\")){var endIndex=tag.indexOf(\"-->\");return{type:\"comment\",comment:endIndex!==-1?tag.slice(4,endIndex):\"\"}}}\nvar reg=new RegExp(attrRE);var result=null;for(;;){result=reg.exec(tag);if(result===null){break}\nif(!result[0].trim()){continue}\nif(result[1]){var attr=result[1].trim();var arr=[attr,\"\"];if(attr.indexOf(\"=\")>-1){arr=attr.split(\"=\")}\nres.attrs[arr[0]]=arr[1];reg.lastIndex--}else if(result[2]){res.attrs[result[2]]=result[3].trim().substring(1,result[3].length-1)}}\nreturn res}\nvar tagRE=/<[a-zA-Z0-9\\-\\!\\/](?:\"[^\"]*\"|'[^']*'|[^'\">])*>/g;var whitespaceRE=/^\\s*$/;var empty=Object.create(null);function parse(html,options){options||(options={});options.components||(options.components=empty);var result=[];var arr=[];var current;var level=-1;var inComponent=!1;if(html.indexOf(\"<\")!==0){var end=html.indexOf(\"<\");result.push({type:\"text\",content:end===-1?html:html.substring(0,end)})}\nhtml.replace(tagRE,function(tag,index){if(inComponent){if(tag!==\"</\"+current.name+\">\"){return}else{inComponent=!1}}\nvar isOpen=tag.charAt(1)!==\"/\";var isComment=tag.startsWith(\"<!--\");var start=index+tag.length;var nextChar=html.charAt(start);var parent;if(isComment){var comment=parseTag(tag);if(level<0){result.push(comment);return result}\nparent=arr[level];parent.children.push(comment);return result}\nif(isOpen){level++;current=parseTag(tag);if(current.type===\"tag\"&&options.components[current.name]){current.type=\"component\";inComponent=!0}\nif(!current.voidElement&&!inComponent&&nextChar&&nextChar!==\"<\"){current.children.push({type:\"text\",content:html.slice(start,html.indexOf(\"<\",start))})}\nif(level===0){result.push(current)}\nparent=arr[level-1];if(parent){parent.children.push(current)}\narr[level]=current}\nif(!isOpen||current.voidElement){if(level>-1&&(current.voidElement||current.name===tag.slice(2,-1))){level--;current=level===-1?result:arr[level]}\nif(!inComponent&&nextChar!==\"<\"&&nextChar){parent=level===-1?result:arr[level].children;var _end=html.indexOf(\"<\",start);var content=html.slice(start,_end===-1?undefined:_end);if(whitespaceRE.test(content)){content=\" \"}\nif((_end>-1&&level+parent.length>=0)||content!==\" \"){parent.push({type:\"text\",content:content})}}}});return result}\nfunction attrString(attrs){var buff=[];for(var key in attrs){buff.push(key+'=\"'+attrs[key]+'\"')}\nif(!buff.length){return\"\"}\nreturn\" \"+buff.join(\" \")}\nfunction innerStringify(buff,doc){switch(doc.type){case \"text\":return buff+doc.content;case \"tag\":buff+=\"<\"+doc.name+(doc.attrs?attrString(doc.attrs):\"\")+(doc.voidElement?\"/>\":\">\");if(doc.voidElement){return buff}\nreturn buff+doc.children.reduce(innerStringify,\"\")+\"</\"+doc.name+\">\";case \"comment\":buff+=\"<!--\"+doc.comment+\"-->\";return buff}}\nfunction stringify(doc){return doc.reduce(function(token,rootEl){return token+innerStringify(\"\",rootEl)},\"\")}\nfunction checkNodes(arr,target){var isWrapper=target.includes(\" ... \");for(var x=0;x<arr.length;x++){var elem=arr[x];if(elem.type==\"text\"){if(isWrapper){var targets=target.split(\" ... \");var left=targets[0];var right=targets[1];if(elem.content.includes(left)&&elem.content.includes(right)){arr[x].content=elem.content.replace(left,createTargetTag(left)).replace(right,createTargetTag(right))}}\nif(elem.content.includes(target)){arr[x].content=elem.content.replace(target,createTargetTag(target))}}\nif(elem.type==\"tag\"&&elem.children.length>0)checkNodes(elem.children,target)}}\nfunction createTargetTag(target){return stringify([{type:\"tag\",name:\"span\",voidElement:!1,attrs:{class:\"target\"},children:[{type:\"text\",content:target}]}])}\nvar words=parse(document.getElementById(\"sentence\").innerHTML);checkNodes(words,document.getElementById(\"target\").innerHTML);document.getElementById(\"content\").innerHTML=stringify(words)\n</script>\n\n"
                 },
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n\n{{type:Target}}\n",
