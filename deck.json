@@ -5410,7 +5410,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "สระ ไอ",
+                        "สระ ไอ ไม้ มลาย",
                         "[sound:rec1663847650.mp3]"
                     ],
                     "guid": "vk`P#3x3Zb",
@@ -5423,7 +5423,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "สระ ใอ",
+                        "สระ ไอ ไม้ ม้วน",
                         "[sound:rec1663847734.mp3]"
                     ],
                     "guid": "hFobQ>`qK3",
@@ -6243,6 +6243,7 @@
                     1,
                     "any",
                     [
+                        0,
                         1
                     ]
                 ]
@@ -6256,20 +6257,20 @@
                     "bqfmt": "",
                     "bsize": 20,
                     "did": null,
-                    "name": "Card 1",
+                    "name": "Say Vowel",
                     "ord": 0,
                     "qfmt": "{{Vowel}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Vowel}}",
+                    "afmt": "{{Audio}}\n\n<hr id=answer>\n\n{{type:Vowel}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 2",
+                    "name": "Type Vowel",
                     "ord": 1,
-                    "qfmt": "{{Audio}}"
+                    "qfmt": "{{Audio}}\n{{type:Vowel}}"
                 }
             ],
             "type": 0
