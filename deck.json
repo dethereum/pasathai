@@ -5244,6 +5244,697 @@
                         "pasathai::meta::processed",
                         "pasathai::meta::usage::very_commonly"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เที่ยงคืน",
+                        "midnight",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "lA)XAht!OE",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ตีหนึ่ง",
+                        "1 AM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "v$h$%Du]$",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ตีสอง",
+                        "2 AM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "HjAEitj=j,",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ตีสาม",
+                        "3 AM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "f1pO&+~cvh",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ตีสี่",
+                        "4 AM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "yDjvYLNS4e",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ตีห้า",
+                        "5 AM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "e(+E8x$Tm",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "หกโมงเช้า",
+                        "6AM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "iq;EFvEK<{",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เจ็ดโมง",
+                        "7AM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "cFnhNKP:lx",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "แปดโมง",
+                        "8AM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "KvSPdQO{&?",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เก้าโมง",
+                        "9AM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "tv~r2&Z+QZ",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สิบโมง",
+                        "10 AM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "Pls$oBll9U",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สิบเอ็ดโมง",
+                        "11AM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "HRODP6)gxs",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เที่ยง",
+                        "noon",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "IQ$)_T{{(!",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เที่ยงวัน",
+                        "midday",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "b$V6-O_fvA",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "บ่าย",
+                        "1 PM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "s%Izby3b^O",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "บ่ายสอง",
+                        "2PM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "oa|5m?ro.1",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "บ่ายสาม",
+                        "3PM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "DV@Sq^>#1<",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "บ่ายสี่",
+                        "4PM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "i;[=01J-X%",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ห้าโมง",
+                        "5PM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "gxSr)ruaeX",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "หกโมงเย็น",
+                        "6PM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "QHdLO=*$qT",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "หนึ่งทุ่ม",
+                        "7 PM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "AH_Ds>=JwF",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สองทุ่ม",
+                        "8 PM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "LQQ@5aX;4w",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สามทุ่ม",
+                        "9PM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "d+0Jhm)(+:",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สี่ทุ่ม",
+                        "10 PM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "rC9SI^&XRT",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ห้าทุ่ม",
+                        "11 PM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "cMJhOJ=2kv",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เที่ยงครึ่ง",
+                        "12:30 PM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "m}Q2p_3:<1",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เที่ยงคืนครึ่ง",
+                        "12:30 AM",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "yWQ#,O%!/%",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ชั่วโมง",
+                        "hour",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "b}[`KTZz.A",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "นาที",
+                        "Minute",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "H7.qvA<D|$",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "วินาที",
+                        "Second",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "Mwu7&WSXcZ",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "นาฬิกา",
+                        "O’clock ",
+                        "",
+                        "Formal: 24 hours format",
+                        ""
+                    ],
+                    "guid": "z2kR`ed*p[",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "คืนนี้",
+                        "tonight",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "xUMm!#-,!p",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "กี่โมง",
+                        "what time?",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "n7>ttO_U~C",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ออก",
+                        "leave/depart ",
+                        "",
+                        "formal",
+                        ""
+                    ],
+                    "guid": "C,UBGi1y%@",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "รถไฟ",
+                        "train",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "v5pi(}42z/",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "รถไฟฟ้า",
+                        "skytrain",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "Fp}x;>9T;/",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "รถไฟใต้ดิน",
+                        "subway",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "gc^Fr[x)8Z",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ดิน",
+                        "ground",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "D>PsvNW1F>",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ใต้ ",
+                        "under/south",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "tpWm((RIv3",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เอ็มอาร์ที ",
+                        "MRT",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "yl?VGcKaW0",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "บีทีเอส",
+                        "BTS",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "f/5E+[.z.{",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ถึง",
+                        "Arrive/reach",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "Mo,LULCCNC",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "คุณเดินทางจากบ้านไปออฟฟิศนานแค่ไหน",
+                        "จาก ... ไป",
+                        "from … to … (place)",
+                        "",
+                        "",
+                        "How long do you travel from home to office?"
+                    ],
+                    "guid": "zzt6IQ]ZJ?",
+                    "note_model_uuid": "945aebac-33ec-11ed-8670-f7b6016c17e6",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สนามบิน",
+                        "Airport",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "x&dBHM{^)-",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "โรงแรม",
+                        "Hotel",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "Quq+#cO*4(",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ใช้เวลา",
+                        "spend time",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "I7&*I&(HRm",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Time"
+                    ]
                 }
             ]
         },
