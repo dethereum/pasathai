@@ -670,17 +670,34 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "rec1664026309.mp3",
+                "rec1664026471.mp3",
+                "rec1664027084.mp3",
+                "rec1664027093.mp3",
+                "rec1664027108.mp3",
+                "rec1664027117.mp3",
+                "rec1664027149.mp3",
+                "rec1664027157.mp3",
+                "rec1664027167.mp3",
+                "rec1664027173.mp3",
+                "rec1664027181.mp3",
+                "rec1664027187.mp3",
+                "rec1664027195.mp3",
+                "rec1664027202.mp3",
+                "rec1664027211.mp3",
+                "rec1664027216.mp3"
+            ],
             "name": "phrases",
             "notes": [
                 {
                     "__type__": "Note",
                     "fields": [
-                        "คุณเดินทางจากบ้านไปออฟฟิศนานแค่ไหน",
+                        "เดินทางจากบ้านไปออฟฟิศนานแค่ไหน",
                         "จาก ... ไป",
                         "from … to … (place)",
-                        "",
-                        "",
+                        "[sound:rec1664026309.mp3]",
+                        "[sound:rec1664026471.mp3]",
                         "How long do you travel from home to office?"
                     ],
                     "guid": "zzt6IQ]ZJ?",
@@ -695,8 +712,8 @@
                         "คุณตื่นนอนเมื่อไหร่",
                         "คุณ ... เมื่อไหร่",
                         "when do you ... ?",
-                        "",
-                        "",
+                        "[sound:rec1664027084.mp3]",
+                        "[sound:rec1664027093.mp3]",
                         "When do you wake up?"
                     ],
                     "guid": "b>[FB!l_Fg",
@@ -711,8 +728,8 @@
                         "programmingพูดภาษาไทยว่ายังไง",
                         "พูดภาษาไทยว่ายังไง",
                         "How to speak/say ... in Thai?",
-                        "",
-                        "",
+                        "[sound:rec1664027108.mp3]",
+                        "[sound:rec1664027117.mp3]",
                         "How to speak/say programming in Thai?"
                     ],
                     "guid": "cb:D$k1`|Y",
@@ -725,10 +742,10 @@
                     "__type__": "Note",
                     "fields": [
                         "ผมเริ่มทำงานเมื่อไหร่ก็ได้",
-                        "เมื่อไหร่",
+                        "เมื่อไหร่ก็ได้",
                         "whenever",
-                        "",
-                        "",
+                        "[sound:rec1664027149.mp3]",
+                        "[sound:rec1664027157.mp3]",
                         "I start work at anytime"
                     ],
                     "guid": "LtBOVA~1z<",
@@ -743,8 +760,8 @@
                         "พักเที่ยงเมื่อไหร่",
                         "พัก",
                         "rest;break",
-                        "",
-                        "",
+                        "[sound:rec1664027167.mp3]",
+                        "[sound:rec1664027173.mp3]",
                         "When do you have a lunch break?"
                     ],
                     "guid": "i/,IOn[c~`",
@@ -759,8 +776,8 @@
                         "คุณเลิกงานกี่โมง",
                         "เลิก",
                         "finish",
-                        "",
-                        "",
+                        "[sound:rec1664027181.mp3]",
+                        "[sound:rec1664027187.mp3]",
                         "What time do you finish work?"
                     ],
                     "guid": "j<ADoW+`Kd",
@@ -775,8 +792,8 @@
                         "ผมเลิกเช็คงาน6โมงเย็น",
                         "เช็ค",
                         "[to] check;inspect;examine",
-                        "",
-                        "",
+                        "[sound:rec1664027195.mp3]",
+                        "[sound:rec1664027202.mp3]",
                         "I stop checking the work at 6pm"
                     ],
                     "guid": "CI.8;CW{}w",
@@ -791,8 +808,8 @@
                         "น่ารักมากเลย",
                         "เลย",
                         "[particle] adds emphasis and intensity to the meaning",
-                        "",
-                        "",
+                        "[sound:rec1664027211.mp3]",
+                        "[sound:rec1664027216.mp3]",
                         "soooooo cuteee!!!!!!!"
                     ],
                     "guid": "Ph~[V]i:;O",
@@ -1011,7 +1028,92 @@
                 "rec1663760082.mp3",
                 "rec1663760087.mp3",
                 "rec1663760092.mp3",
-                "rec1663760127.mp3"
+                "rec1663760127.mp3",
+                "rec1664026559.mp3",
+                "rec1664026566.mp3",
+                "rec1664026573.mp3",
+                "rec1664026579.mp3",
+                "rec1664026584.mp3",
+                "rec1664026590.mp3",
+                "rec1664026596.mp3",
+                "rec1664026603.mp3",
+                "rec1664026608.mp3",
+                "rec1664026613.mp3",
+                "rec1664026618.mp3",
+                "rec1664026631.mp3",
+                "rec1664026636.mp3",
+                "rec1664026647.mp3",
+                "rec1664026654.mp3",
+                "rec1664026659.mp3",
+                "rec1664026664.mp3",
+                "rec1664026669.mp3",
+                "rec1664026675.mp3",
+                "rec1664026680.mp3",
+                "rec1664026684.mp3",
+                "rec1664026689.mp3",
+                "rec1664026694.mp3",
+                "rec1664026701.mp3",
+                "rec1664026707.mp3",
+                "rec1664026721.mp3",
+                "rec1664026736.mp3",
+                "rec1664026742.mp3",
+                "rec1664026747.mp3",
+                "rec1664026753.mp3",
+                "rec1664026759.mp3",
+                "rec1664026765.mp3",
+                "rec1664026770.mp3",
+                "rec1664026775.mp3",
+                "rec1664026780.mp3",
+                "rec1664026784.mp3",
+                "rec1664026790.mp3",
+                "rec1664026795.mp3",
+                "rec1664026800.mp3",
+                "rec1664026806.mp3",
+                "rec1664026812.mp3",
+                "rec1664026817.mp3",
+                "rec1664026823.mp3",
+                "rec1664026829.mp3",
+                "rec1664026834.mp3",
+                "rec1664027230.mp3",
+                "rec1664027235.mp3",
+                "rec1664027252.mp3",
+                "rec1664027260.mp3",
+                "rec1664027265.mp3",
+                "rec1664027270.mp3",
+                "rec1664027276.mp3",
+                "rec1664027281.mp3",
+                "rec1664027287.mp3",
+                "rec1664027292.mp3",
+                "rec1664027297.mp3",
+                "rec1664027302.mp3",
+                "rec1664027307.mp3",
+                "rec1664027312.mp3",
+                "rec1664027317.mp3",
+                "rec1664027322.mp3",
+                "rec1664027328.mp3",
+                "rec1664027333.mp3",
+                "rec1664027339.mp3",
+                "rec1664027344.mp3",
+                "rec1664027350.mp3",
+                "rec1664027356.mp3",
+                "rec1664027361.mp3",
+                "rec1664027367.mp3",
+                "rec1664027374.mp3",
+                "rec1664027446.mp3",
+                "rec1664027452.mp3",
+                "rec1664027457.mp3",
+                "rec1664027463.mp3",
+                "rec1664027468.mp3",
+                "rec1664027474.mp3",
+                "rec1664027479.mp3",
+                "rec1664027484.mp3",
+                "rec1664027490.mp3",
+                "rec1664027496.mp3",
+                "rec1664027501.mp3",
+                "rec1664027507.mp3",
+                "rec1664027514.mp3",
+                "rec1664027520.mp3",
+                "rec1664027526.mp3"
             ],
             "name": "vocab",
             "notes": [
@@ -4690,7 +4792,7 @@
                         "Public Places",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027446.mp3]"
                     ],
                     "guid": "mLSp5rr|P5",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -4709,7 +4811,7 @@
                         "Coffee shop",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027452.mp3]"
                     ],
                     "guid": "I4r<3XeWc*",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -4728,7 +4830,7 @@
                         "cafe",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027457.mp3]"
                     ],
                     "guid": "soe[g%cY55",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -4746,7 +4848,7 @@
                         "Restaurant",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027463.mp3]"
                     ],
                     "guid": "B?Cv4r}gM~",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -4765,7 +4867,7 @@
                         "Shopping mall",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027468.mp3]"
                     ],
                     "guid": "O;0nSeTRx&",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -4783,7 +4885,7 @@
                         "product",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027474.mp3]"
                     ],
                     "guid": "(h2SOvMi,",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -4802,7 +4904,7 @@
                         "Market",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027479.mp3]"
                     ],
                     "guid": "D)U(aH&2Cd",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -4821,7 +4923,7 @@
                         "fresh market",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027484.mp3]"
                     ],
                     "guid": "If$#fD/cka",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -4839,7 +4941,7 @@
                         "floating market",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027490.mp3]"
                     ],
                     "guid": "O@6xs3y6$)",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -4857,7 +4959,7 @@
                         "movie/film ",
                         "",
                         "formal",
-                        ""
+                        "[sound:rec1664027496.mp3]"
                     ],
                     "guid": "D!M]MwlO|o",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -4876,7 +4978,7 @@
                         "movie/film",
                         "",
                         "casual",
-                        ""
+                        "[sound:rec1664027501.mp3]"
                     ],
                     "guid": "E_5*/%xgwU",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -4894,7 +4996,7 @@
                         "Movie theater",
                         "",
                         "casual",
-                        ""
+                        "[sound:rec1664027507.mp3]"
                     ],
                     "guid": "vwJ!C8(:qz",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -4913,7 +5015,7 @@
                         "Movie theater",
                         "",
                         "formal",
-                        ""
+                        "[sound:rec1664027514.mp3]"
                     ],
                     "guid": "rq:t:8<R/R",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -4932,7 +5034,7 @@
                         "church",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027520.mp3]"
                     ],
                     "guid": "Jgot{-9/Ml",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -4951,7 +5053,7 @@
                         "Temple",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027526.mp3]"
                     ],
                     "guid": "E$.FHO@fSo",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -4987,7 +5089,7 @@
                         "midnight",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026559.mp3]"
                     ],
                     "guid": "lA)XAht!OE",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5002,7 +5104,7 @@
                         "1 AM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026566.mp3]"
                     ],
                     "guid": "v$h$%Du]$",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5017,7 +5119,7 @@
                         "2 AM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026573.mp3]"
                     ],
                     "guid": "HjAEitj=j,",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5032,7 +5134,7 @@
                         "3 AM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026579.mp3]"
                     ],
                     "guid": "f1pO&+~cvh",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5047,7 +5149,7 @@
                         "4 AM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026584.mp3]"
                     ],
                     "guid": "yDjvYLNS4e",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5062,7 +5164,7 @@
                         "5 AM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026590.mp3]"
                     ],
                     "guid": "e(+E8x$Tm",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5077,7 +5179,7 @@
                         "6AM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026596.mp3]"
                     ],
                     "guid": "iq;EFvEK<{",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5092,7 +5194,7 @@
                         "7AM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026603.mp3]"
                     ],
                     "guid": "cFnhNKP:lx",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5107,7 +5209,7 @@
                         "8AM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026608.mp3]"
                     ],
                     "guid": "KvSPdQO{&?",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5122,7 +5224,7 @@
                         "9AM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026613.mp3]"
                     ],
                     "guid": "tv~r2&Z+QZ",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5137,7 +5239,7 @@
                         "10 AM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026618.mp3]"
                     ],
                     "guid": "Pls$oBll9U",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5152,7 +5254,7 @@
                         "11AM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026631.mp3]"
                     ],
                     "guid": "HRODP6)gxs",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5167,7 +5269,7 @@
                         "noon",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026636.mp3]"
                     ],
                     "guid": "IQ$)_T{{(!",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5182,7 +5284,7 @@
                         "midday",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026647.mp3]"
                     ],
                     "guid": "b$V6-O_fvA",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5197,7 +5299,7 @@
                         "1 PM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026654.mp3]"
                     ],
                     "guid": "s%Izby3b^O",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5212,7 +5314,7 @@
                         "2PM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026659.mp3]"
                     ],
                     "guid": "oa|5m?ro.1",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5227,7 +5329,7 @@
                         "3PM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026664.mp3]"
                     ],
                     "guid": "DV@Sq^>#1<",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5242,7 +5344,7 @@
                         "4PM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026669.mp3]"
                     ],
                     "guid": "i;[=01J-X%",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5257,7 +5359,7 @@
                         "5PM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026675.mp3]"
                     ],
                     "guid": "gxSr)ruaeX",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5272,7 +5374,7 @@
                         "6PM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026680.mp3]"
                     ],
                     "guid": "QHdLO=*$qT",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5287,7 +5389,7 @@
                         "7 PM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026684.mp3]"
                     ],
                     "guid": "AH_Ds>=JwF",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5302,7 +5404,7 @@
                         "8 PM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026689.mp3]"
                     ],
                     "guid": "LQQ@5aX;4w",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5317,7 +5419,7 @@
                         "9PM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026694.mp3]"
                     ],
                     "guid": "d+0Jhm)(+:",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5332,7 +5434,7 @@
                         "10 PM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026701.mp3]"
                     ],
                     "guid": "rC9SI^&XRT",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5347,7 +5449,7 @@
                         "11 PM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026707.mp3]"
                     ],
                     "guid": "cMJhOJ=2kv",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5362,7 +5464,7 @@
                         "12:30 PM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026721.mp3]"
                     ],
                     "guid": "m}Q2p_3:<1",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5377,7 +5479,7 @@
                         "12:30 AM",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026736.mp3]"
                     ],
                     "guid": "yWQ#,O%!/%",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5392,7 +5494,7 @@
                         "hour",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026742.mp3]"
                     ],
                     "guid": "b}[`KTZz.A",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5407,7 +5509,7 @@
                         "Minute",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026747.mp3]"
                     ],
                     "guid": "H7.qvA<D|$",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5422,7 +5524,7 @@
                         "Second",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026753.mp3]"
                     ],
                     "guid": "Mwu7&WSXcZ",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5437,7 +5539,7 @@
                         "O’clock ",
                         "",
                         "Formal: 24 hours format",
-                        ""
+                        "[sound:rec1664026759.mp3]"
                     ],
                     "guid": "z2kR`ed*p[",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5452,7 +5554,7 @@
                         "tonight",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026765.mp3]"
                     ],
                     "guid": "xUMm!#-,!p",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5467,7 +5569,7 @@
                         "what time?",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026770.mp3]"
                     ],
                     "guid": "n7>ttO_U~C",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5482,7 +5584,7 @@
                         "leave/depart ",
                         "",
                         "formal",
-                        ""
+                        "[sound:rec1664026775.mp3]"
                     ],
                     "guid": "C,UBGi1y%@",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5497,7 +5599,7 @@
                         "train",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026780.mp3]"
                     ],
                     "guid": "v5pi(}42z/",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5512,7 +5614,7 @@
                         "skytrain",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026784.mp3]"
                     ],
                     "guid": "Fp}x;>9T;/",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5527,7 +5629,7 @@
                         "subway",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026790.mp3]"
                     ],
                     "guid": "gc^Fr[x)8Z",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5542,7 +5644,7 @@
                         "ground",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026795.mp3]"
                     ],
                     "guid": "D>PsvNW1F>",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5557,7 +5659,7 @@
                         "under/south",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026800.mp3]"
                     ],
                     "guid": "tpWm((RIv3",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5572,7 +5674,7 @@
                         "MRT",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026806.mp3]"
                     ],
                     "guid": "yl?VGcKaW0",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5587,7 +5689,7 @@
                         "BTS",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026812.mp3]"
                     ],
                     "guid": "f/5E+[.z.{",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5602,7 +5704,7 @@
                         "Arrive/reach",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026817.mp3]"
                     ],
                     "guid": "Mo,LULCCNC",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5617,7 +5719,7 @@
                         "Airport",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026823.mp3]"
                     ],
                     "guid": "x&dBHM{^)-",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5632,7 +5734,7 @@
                         "Hotel",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026829.mp3]"
                     ],
                     "guid": "Quq+#cO*4(",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5647,7 +5749,7 @@
                         "spend time",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664026834.mp3]"
                     ],
                     "guid": "I7&*I&(HRm",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5662,7 +5764,7 @@
                         "daily",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027230.mp3]"
                     ],
                     "guid": "KV+!jl,IiX",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5677,7 +5779,7 @@
                         "usual; fixed",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027235.mp3]"
                     ],
                     "guid": "l|(|ngz>u,",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5692,7 +5794,7 @@
                         "language learning time",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027252.mp3]"
                     ],
                     "guid": "f4$_?_6,|2",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5707,7 +5809,7 @@
                         "slow",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027260.mp3]"
                     ],
                     "guid": "jIff|EwnY6",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5722,7 +5824,7 @@
                         "morning",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027265.mp3]"
                     ],
                     "guid": "sa}e4ltXGx",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5737,7 +5839,7 @@
                         "usually",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027270.mp3]"
                     ],
                     "guid": "NOKY/xB=V:",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5752,7 +5854,7 @@
                         "wake up",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027276.mp3]"
                     ],
                     "guid": "g,z<E;>1]<",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5767,7 +5869,7 @@
                         "around",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027281.mp3]"
                     ],
                     "guid": "J;E@J+?XC5",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5782,7 +5884,7 @@
                         "vacation",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027287.mp3]"
                     ],
                     "guid": "B&Ef+_^(n9",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5797,7 +5899,7 @@
                         "stop",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027292.mp3]"
                     ],
                     "guid": "x;qn[`vl+K",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5812,7 +5914,7 @@
                         "when;during;at",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027297.mp3]"
                     ],
                     "guid": "u6QY3f94D$",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5827,7 +5929,7 @@
                         "[to] wash one's face",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027302.mp3]"
                     ],
                     "guid": "u0*`(.?+HI",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5842,7 +5944,7 @@
                         "take a shower",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027307.mp3]"
                     ],
                     "guid": "p7x~6k2}2r",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5857,7 +5959,7 @@
                         "[to] brush the teeth",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027312.mp3]"
                     ],
                     "guid": "jzeb(pn&n%",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5872,7 +5974,7 @@
                         "with",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027317.mp3]"
                     ],
                     "guid": "Q`JHJiw.l7",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5887,7 +5989,7 @@
                         "now",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027322.mp3]"
                     ],
                     "guid": "dAY>(X;sAT",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5902,7 +6004,7 @@
                         "breakfast",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027328.mp3]"
                     ],
                     "guid": "NQpR{s@p+S",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5917,7 +6019,7 @@
                         "just",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027333.mp3]"
                     ],
                     "guid": "Ah/5{F}Yg4",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5932,7 +6034,7 @@
                         "breakfast",
                         "formal",
                         "",
-                        ""
+                        "[sound:rec1664027339.mp3]"
                     ],
                     "guid": "Py:KxA|k1V",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5947,7 +6049,7 @@
                         "lunch",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027344.mp3]"
                     ],
                     "guid": "L6sqq]+e(y",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5962,7 +6064,7 @@
                         "lunch",
                         "",
                         "formal",
-                        ""
+                        "[sound:rec1664027350.mp3]"
                     ],
                     "guid": "Od|Q0flA<,",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5977,7 +6079,7 @@
                         "ever",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027356.mp3]"
                     ],
                     "guid": "t`pxfCJB/d",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -5992,7 +6094,7 @@
                         "start",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027361.mp3]"
                     ],
                     "guid": "ClB@loA++V",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -6007,7 +6109,7 @@
                         "all right;OK;fine",
                         "",
                         "unenthusiastic approval",
-                        ""
+                        "[sound:rec1664027367.mp3]"
                     ],
                     "guid": "Ll-Cm,A!]*",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -6022,7 +6124,7 @@
                         "[to] disappear;be missing;be lost",
                         "",
                         "",
-                        ""
+                        "[sound:rec1664027374.mp3]"
                     ],
                     "guid": "k]}07ypw03",
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
@@ -6053,10 +6155,32 @@
                 "rec1663847549.mp3",
                 "rec1663847594.mp3",
                 "rec1663847615.mp3",
-                "rec1663847650.mp3",
-                "rec1663847734.mp3",
                 "rec1663847754.mp3",
-                "rec1663847774.mp3"
+                "rec1663847774.mp3",
+                "rec1664025172.mp3",
+                "rec1664025188.mp3",
+                "rec1664025270.mp3",
+                "rec1664025333.mp3",
+                "rec1664025355.mp3",
+                "rec1664025370.mp3",
+                "rec1664025383.mp3",
+                "rec1664025399.mp3",
+                "rec1664025419.mp3",
+                "rec1664025437.mp3",
+                "rec1664025453.mp3",
+                "rec1664025471.mp3",
+                "rec1664025488.mp3",
+                "rec1664025505.mp3",
+                "rec1664025519.mp3",
+                "rec1664025619.mp3",
+                "rec1664025715.mp3",
+                "rec1664025973.mp3",
+                "rec1664026089.mp3",
+                "rec1664026116.mp3",
+                "rec1664026141.mp3",
+                "rec1664026166.mp3",
+                "rec1664026189.mp3",
+                "rec1664026216.mp3"
             ],
             "name": "vowels",
             "notes": [
@@ -6195,8 +6319,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "สระ ไอ ไม้ มลาย",
-                        "[sound:rec1663847650.mp3]"
+                        "สระ ไอ ไม้มลาย",
+                        "[sound:rec1664025172.mp3]"
                     ],
                     "guid": "vk`P#3x3Zb",
                     "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
@@ -6208,8 +6332,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "สระ ไอ ไม้ ม้วน",
-                        "[sound:rec1663847734.mp3]"
+                        "สระ ใอ ใม้ม้วน",
+                        "[sound:rec1664025188.mp3]"
                     ],
                     "guid": "hFobQ>`qK3",
                     "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
@@ -6240,6 +6364,270 @@
                     "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
                     "tags": [
                         "pasathai::script::long"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สระ อะ",
+                        "[sound:rec1664025270.mp3]"
+                    ],
+                    "guid": "A8/KW9_5B4",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::short"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "อั-&nbsp;ไม้หันอากาศ",
+                        "[sound:rec1664025333.mp3]"
+                    ],
+                    "guid": "Fp]Vi92X!e",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::short"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สระ อิ",
+                        "[sound:rec1664025355.mp3]"
+                    ],
+                    "guid": "bMv9u:3.6A",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::short"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สระ อุ",
+                        "[sound:rec1664025370.mp3]"
+                    ],
+                    "guid": "B$}}lA*y:}",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::short"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สระ เอะ",
+                        "[sound:rec1664025383.mp3]"
+                    ],
+                    "guid": "Hg{Szi2]Ha",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::short"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สระ แอะ",
+                        "[sound:rec1664025399.mp3]"
+                    ],
+                    "guid": "k`)8ZUT+2O",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::short"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สระ โอะ",
+                        "[sound:rec1664025419.mp3]"
+                    ],
+                    "guid": "r:@pz&)JvE",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::short"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สระ เอาะ",
+                        "[sound:rec1664025437.mp3]"
+                    ],
+                    "guid": "K-i:3zH*$6",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::short"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สระ อึ",
+                        "[sound:rec1664025453.mp3]"
+                    ],
+                    "guid": "M(dp5r^F*.",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::short"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สระ เอียะ",
+                        "[sound:rec1664025471.mp3]"
+                    ],
+                    "guid": "E5<MdYBld",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::short"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สระ เอือะ",
+                        "[sound:rec1664025488.mp3]"
+                    ],
+                    "guid": "Gl}LU($e<s",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::short"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สระ อัวะ",
+                        "[sound:rec1664025505.mp3]"
+                    ],
+                    "guid": "Q9=//0>d6c",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::short"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สระ เออะ",
+                        "[sound:rec1664025519.mp3]"
+                    ],
+                    "guid": "QMYI`e[n8d",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::short"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ตัว ฤ",
+                        "[sound:rec1664025619.mp3]"
+                    ],
+                    "guid": "z0IhItEX.g",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::short"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ตัว ฤๅ",
+                        "[sound:rec1664025715.mp3]"
+                    ],
+                    "guid": "J}UG!3|uBH",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::long"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "อ็ ไม้ไต่คู้",
+                        "[sound:rec1664025973.mp3]"
+                    ],
+                    "guid": "A7rB6wszRC",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::special"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "อ์ ไม้ทัณฑฆาต",
+                        "[sound:rec1664026089.mp3]"
+                    ],
+                    "guid": "venp./RFU2",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::special"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "อ์ ตัวการันต์",
+                        "[sound:rec1664026116.mp3]"
+                    ],
+                    "guid": "ArJ~*df1^n",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::special"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ๆ ไม้ยมก",
+                        "[sound:rec1664026141.mp3]"
+                    ],
+                    "guid": "vY4.GmUW&I",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::special"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ฯ ไปยาลน้อย",
+                        "[sound:rec1664026166.mp3]"
+                    ],
+                    "guid": "PSYokN|6MH",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::special"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ฯลฯ ไปยาลใหญ่",
+                        "[sound:rec1664026189.mp3]"
+                    ],
+                    "guid": "Hqlck/ae~[",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::special"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ฯลฯ และอื่น ๆ",
+                        "[sound:rec1664026216.mp3]"
+                    ],
+                    "guid": "xSAO)[x6pF",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::special"
                     ]
                 }
             ]
