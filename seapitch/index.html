@@ -1,0 +1,44 @@
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+</head>
+
+<body>
+    <div id="plot" style="width:1000px;height:600px;"></div>
+</body>
+<script type="text/javascript" src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script type="text/javascript">
+    const layout = {
+        title: 'Sample word',
+        xaxis: {
+            title: 'seconds',
+            showgrid: false,
+        },
+        yaxis: {
+            title: 'frequency [Hz]',
+            range: [50, 400],
+            showgrid: false,
+        }
+    };
+
+
+    const files = [
+        "[sound:rec1663759858.mp3]",
+        "[sound:rec1663439890.mp3]"
+    ]
+
+    const payload = {
+        method: "POST",
+        headers: {
+            'Content-type': 'application/json; charset=UTF-8',
+        },
+        body: JSON.stringify({ files })
+    }
+
+    fetch("http://127.0.0.1:4000/pitch_track", payload)
+        .then(res => res.json())
+        .then(function (d) {
+            const data = d.map(({ x, y }, i) => ({ x, y: y.map((datum) => datum == 0 ? undefined : datum), mode: 'markers', name: i == 0 ? 'Native' : 'Sample' }))
+
+            Plotly.newPlot("plot", data, layout);
+        })
+</script>
