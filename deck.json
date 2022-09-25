@@ -686,7 +686,23 @@
                 "rec1664027195.mp3",
                 "rec1664027202.mp3",
                 "rec1664027211.mp3",
-                "rec1664027216.mp3"
+                "rec1664027216.mp3",
+                "rec1664104021.mp3",
+                "rec1664104037.mp3",
+                "rec1664104907.mp3",
+                "rec1664104912.mp3",
+                "rec1664104982.mp3",
+                "rec1664104989.mp3",
+                "rec1664105181.mp3",
+                "rec1664105185.mp3",
+                "rec1664105236.mp3",
+                "rec1664105246.mp3",
+                "rec1664105366.mp3",
+                "rec1664105373.mp3",
+                "rec1664105432.mp3",
+                "rec1664105437.mp3",
+                "rec1664105476.mp3",
+                "rec1664105480.mp3"
             ],
             "name": "phrases",
             "notes": [
@@ -813,6 +829,134 @@
                         "soooooo cuteee!!!!!!!"
                     ],
                     "guid": "Ph~[V]i:;O",
+                    "note_model_uuid": "945aebac-33ec-11ed-8670-f7b6016c17e6",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "คุณตื่นนอนกี่โมง",
+                        "คุณ ... กี่โมง",
+                        "What time do you ... ?",
+                        "[sound:rec1664104021.mp3]",
+                        "[sound:rec1664104037.mp3]",
+                        "What time do you wake up?"
+                    ],
+                    "guid": "cd12uAUvH^",
+                    "note_model_uuid": "945aebac-33ec-11ed-8670-f7b6016c17e6",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ผมด้วย",
+                        "... ด้วย",
+                        "... too",
+                        "[sound:rec1664104907.mp3]",
+                        "[sound:rec1664104912.mp3]",
+                        "Me too."
+                    ],
+                    "guid": "sDO3,6ubxm",
+                    "note_model_uuid": "945aebac-33ec-11ed-8670-f7b6016c17e6",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ผมเรียนภาษาทั้งวันทุกวัน",
+                        "ทั้งวันทุกวัน",
+                        "all day every day",
+                        "[sound:rec1664104982.mp3]",
+                        "[sound:rec1664104989.mp3]",
+                        "I study Thai all day every day."
+                    ],
+                    "guid": "QFV^Scbocp",
+                    "note_model_uuid": "945aebac-33ec-11ed-8670-f7b6016c17e6",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "อาทิตย์ที่แล้ว",
+                        "... ที่แล้ว",
+                        "Last ...",
+                        "[sound:rec1664105181.mp3]",
+                        "[sound:rec1664105185.mp3]",
+                        "Last week"
+                    ],
+                    "guid": "O)Vr^KI4:[",
+                    "note_model_uuid": "945aebac-33ec-11ed-8670-f7b6016c17e6",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "อาทิตย์ก่อน",
+                        "... ก่อน",
+                        "Last ...",
+                        "[sound:rec1664105236.mp3]",
+                        "[sound:rec1664105246.mp3]",
+                        "Last week"
+                    ],
+                    "guid": "v3$o4^g&fl",
+                    "note_model_uuid": "945aebac-33ec-11ed-8670-f7b6016c17e6",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ผมสาย",
+                        "... สาย",
+                        "... late",
+                        "[sound:rec1664105366.mp3]",
+                        "[sound:rec1664105373.mp3]",
+                        "I am late."
+                    ],
+                    "guid": "vuM-0`S[(]",
+                    "note_model_uuid": "945aebac-33ec-11ed-8670-f7b6016c17e6",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ผมมาสาย",
+                        "มาสาย",
+                        "came late",
+                        "[sound:rec1664105432.mp3]",
+                        "[sound:rec1664105437.mp3]",
+                        "I came late."
+                    ],
+                    "guid": "O^LMbImb27",
+                    "note_model_uuid": "945aebac-33ec-11ed-8670-f7b6016c17e6",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ผมมาช้า",
+                        "มาช้า",
+                        "came late/slow",
+                        "[sound:rec1664105476.mp3]",
+                        "[sound:rec1664105480.mp3]",
+                        "I came late."
+                    ],
+                    "guid": "crT~G1a0cC",
                     "note_model_uuid": "945aebac-33ec-11ed-8670-f7b6016c17e6",
                     "tags": [
                         "pasathai::lesson::Daily_Routine"
@@ -1113,7 +1257,86 @@
                 "rec1664027507.mp3",
                 "rec1664027514.mp3",
                 "rec1664027520.mp3",
-                "rec1664027526.mp3"
+                "rec1664027526.mp3",
+                "rec1664104181.mp3",
+                "rec1664104232.mp3",
+                "rec1664104305.mp3",
+                "rec1664104340.mp3",
+                "rec1664104370.mp3",
+                "rec1664104409.mp3",
+                "rec1664104437.mp3",
+                "rec1664104462.mp3",
+                "rec1664104493.mp3",
+                "rec1664104514.mp3",
+                "rec1664104546.mp3",
+                "rec1664104576.mp3",
+                "rec1664104644.mp3",
+                "rec1664104682.mp3",
+                "rec1664104706.mp3",
+                "rec1664104734.mp3",
+                "rec1664104757.mp3",
+                "rec1664104796.mp3",
+                "rec1664104817.mp3",
+                "rec1664104837.mp3",
+                "rec1664105031.mp3",
+                "rec1664105066.mp3",
+                "rec1664105088.mp3",
+                "rec1664105299.mp3",
+                "rec1664105533.mp3",
+                "rec1664105553.mp3",
+                "rec1664105573.mp3",
+                "rec1664105596.mp3",
+                "rec1664105626.mp3",
+                "rec1664105658.mp3",
+                "rec1664105687.mp3",
+                "rec1664105704.mp3",
+                "rec1664105722.mp3",
+                "rec1664105743.mp3",
+                "rec1664105759.mp3",
+                "rec1664105949.mp3",
+                "rec1664105987.mp3",
+                "rec1664106023.mp3",
+                "rec1664106051.mp3",
+                "rec1664106074.mp3",
+                "rec1664106095.mp3",
+                "rec1664106123.mp3",
+                "rec1664106152.mp3",
+                "rec1664106178.mp3",
+                "rec1664106198.mp3",
+                "rec1664106222.mp3",
+                "rec1664106241.mp3",
+                "rec1664106266.mp3",
+                "rec1664106288.mp3",
+                "rec1664106313.mp3",
+                "rec1664106335.mp3",
+                "rec1664106356.mp3",
+                "rec1664106379.mp3",
+                "rec1664106402.mp3",
+                "rec1664106438.mp3",
+                "rec1664106476.mp3",
+                "rec1664106502.mp3",
+                "rec1664106537.mp3",
+                "rec1664106562.mp3",
+                "rec1664106585.mp3",
+                "rec1664106606.mp3",
+                "rec1664106628.mp3",
+                "rec1664106665.mp3",
+                "rec1664106687.mp3",
+                "rec1664106715.mp3",
+                "rec1664106734.mp3",
+                "rec1664106749.mp3",
+                "rec1664106779.mp3",
+                "rec1664106806.mp3",
+                "rec1664106829.mp3",
+                "rec1664106858.mp3",
+                "rec1664106880.mp3",
+                "rec1664106913.mp3",
+                "rec1664106928.mp3",
+                "rec1664106958.mp3",
+                "rec1664106987.mp3",
+                "rec1664107040.mp3",
+                "rec1664107072.mp3",
+                "rec1664107089.mp3"
             ],
             "name": "vocab",
             "notes": [
@@ -6130,6 +6353,1191 @@
                     "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
                     "tags": [
                         "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เลิก",
+                        "to end/to finish/to stop",
+                        "",
+                        "",
+                        "[sound:rec1664104181.mp3]"
+                    ],
+                    "guid": "qU1uPiQq#k",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เช็ค",
+                        "to check",
+                        "",
+                        "",
+                        "[sound:rec1664104232.mp3]"
+                    ],
+                    "guid": "t@6*JW?V1C",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ตลอด",
+                        "always",
+                        "",
+                        "",
+                        "[sound:rec1664104305.mp3]"
+                    ],
+                    "guid": "EoEmL2R$b`",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "กี่ชั่วโมง",
+                        "How many hour",
+                        "",
+                        "",
+                        "[sound:rec1664104340.mp3]"
+                    ],
+                    "guid": "d`O}m3oV}*",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "กี่นาที",
+                        "How many mins",
+                        "",
+                        "",
+                        "[sound:rec1664104370.mp3]"
+                    ],
+                    "guid": "Qgp4j|sr1",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "พี่",
+                        "big bro/sis",
+                        "",
+                        "",
+                        "[sound:rec1664104409.mp3]"
+                    ],
+                    "guid": "em=j!#%<r]",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "น้อง",
+                        "little bro/sis",
+                        "",
+                        "",
+                        "[sound:rec1664104437.mp3]"
+                    ],
+                    "guid": "Oa?eIYt[Z1",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "คุณ",
+                        "you/Mr./Ms.",
+                        "",
+                        "",
+                        "[sound:rec1664104462.mp3]"
+                    ],
+                    "guid": "M,Gh5|@DaX",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ข้าวเย็น",
+                        "dinner",
+                        "",
+                        "",
+                        "[sound:rec1664104493.mp3]"
+                    ],
+                    "guid": "nB^>nLDeI=",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "อาหารเย็น",
+                        "dinner",
+                        "",
+                        "[sound:rec1664104514.mp3]",
+                        ""
+                    ],
+                    "guid": "ds;s=]3`Z^",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ครั้ง",
+                        "... times",
+                        "",
+                        "",
+                        "[sound:rec1664104546.mp3]"
+                    ],
+                    "guid": "G%GNuQ&X#p",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ต่อวัน",
+                        "per day",
+                        "",
+                        "",
+                        "[sound:rec1664104576.mp3]"
+                    ],
+                    "guid": "jm<{pX8.Jn",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "นอน",
+                        "to sleep",
+                        "",
+                        "",
+                        "[sound:rec1664104644.mp3]"
+                    ],
+                    "guid": "G)Ic1uK)4N",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ทุกวัน",
+                        "every day",
+                        "",
+                        "",
+                        "[sound:rec1664104682.mp3]"
+                    ],
+                    "guid": "m<PIj,T%LM",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "งานอดิเรก",
+                        "hobby",
+                        "",
+                        "",
+                        "[sound:rec1664104706.mp3]"
+                    ],
+                    "guid": "Hz;cbSNzZN",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "คือ",
+                        "verb to be",
+                        "",
+                        "",
+                        "[sound:rec1664104734.mp3]"
+                    ],
+                    "guid": "lm_5~8jc0L",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เรียน",
+                        "to study",
+                        "",
+                        "",
+                        "[sound:rec1664104757.mp3]"
+                    ],
+                    "guid": "gsm1_*w+{S",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ทั้งวัน",
+                        "all day",
+                        "",
+                        "",
+                        "[sound:rec1664104796.mp3]"
+                    ],
+                    "guid": "bwq2z(`+Sw",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ตลอดวัน",
+                        "all day",
+                        "",
+                        "",
+                        "[sound:rec1664104817.mp3]"
+                    ],
+                    "guid": "JiXPO{rU]y",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ตลอดทั้งวัน",
+                        "all day",
+                        "",
+                        "",
+                        "[sound:rec1664104837.mp3]"
+                    ],
+                    "guid": "o{%7|4$I>Q",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ก่อนนอน",
+                        "before sleep",
+                        "",
+                        "",
+                        "[sound:rec1664105031.mp3]"
+                    ],
+                    "guid": "D)JTDtC/Yg",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เคลียร์",
+                        "to empty/ to clear",
+                        "",
+                        "",
+                        "[sound:rec1664105066.mp3]"
+                    ],
+                    "guid": "KjqLb=x,Iz",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สมอง",
+                        "brian",
+                        "",
+                        "",
+                        "[sound:rec1664105088.mp3]"
+                    ],
+                    "guid": "yww}%bRV`r",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ก่อน",
+                        "before",
+                        "",
+                        "",
+                        "[sound:rec1664105299.mp3]"
+                    ],
+                    "guid": "DMWUHGG[BB",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ในที่สุด",
+                        "Finally",
+                        "",
+                        "",
+                        "[sound:rec1664105533.mp3]"
+                    ],
+                    "guid": "dfnlu]5-YD",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เมื่อคืน",
+                        "last night",
+                        "",
+                        "",
+                        "[sound:rec1664105553.mp3]"
+                    ],
+                    "guid": "d+t7)vKss.",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เมื่อวาน",
+                        "Yesterday",
+                        "",
+                        "",
+                        "[sound:rec1664105573.mp3]"
+                    ],
+                    "guid": "cj<4ao0`.~",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "หลังจาก",
+                        "After",
+                        "",
+                        "",
+                        "[sound:rec1664105596.mp3]"
+                    ],
+                    "guid": "g,2XN)Q.ba",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "วันนี้",
+                        "Today",
+                        "",
+                        "",
+                        "[sound:rec1664105626.mp3]"
+                    ],
+                    "guid": "A{>9~Kwo+{",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ตื่น",
+                        "to wake up",
+                        "",
+                        "",
+                        "[sound:rec1664105658.mp3]"
+                    ],
+                    "guid": "vDMbRq[DuU",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ทำงาน",
+                        "to work",
+                        "",
+                        "",
+                        "[sound:rec1664105687.mp3]"
+                    ],
+                    "guid": "x&~)}s!`Rp",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ที่ทำงาน",
+                        "workplace",
+                        "",
+                        "",
+                        "[sound:rec1664105704.mp3]"
+                    ],
+                    "guid": "DRMQ-2:@2>",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ออฟฟิศ",
+                        "office",
+                        "",
+                        "",
+                        "[sound:rec1664105722.mp3]"
+                    ],
+                    "guid": "sz2B{?G;@4",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "พักเที่ยง",
+                        "lunch break",
+                        "",
+                        "",
+                        "[sound:rec1664105743.mp3]"
+                    ],
+                    "guid": "pg|`_i1?Jp",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "พักกลางวัน",
+                        "lunch break",
+                        "",
+                        "",
+                        "[sound:rec1664105759.mp3]"
+                    ],
+                    "guid": "xp@e$>{Y>z",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Daily_Routine"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "กรุงเทพฯ",
+                        "Bangkok",
+                        "",
+                        "",
+                        "[sound:rec1664105949.mp3]"
+                    ],
+                    "guid": "u;3PYh}o)",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ห้างสรรพสินค้า",
+                        "Shopping mall",
+                        "",
+                        "",
+                        "[sound:rec1664105987.mp3]"
+                    ],
+                    "guid": "%{r=*W(>Y",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "โรงเรียน",
+                        "school",
+                        "",
+                        "",
+                        "[sound:rec1664106023.mp3]"
+                    ],
+                    "guid": "pJ)~/FSm}V",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ห้องสมุด",
+                        "Library",
+                        "",
+                        "",
+                        "[sound:rec1664106051.mp3]"
+                    ],
+                    "guid": "EayGu?bXUZ",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ห้อง",
+                        "room",
+                        "",
+                        "",
+                        "[sound:rec1664106074.mp3]"
+                    ],
+                    "guid": "tX=bnx0Qo1",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ร้านหนังสือ",
+                        "Bookstore",
+                        "",
+                        "",
+                        "[sound:rec1664106095.mp3]"
+                    ],
+                    "guid": "C}BF:09oI-",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ธนาคาร",
+                        "bank",
+                        "",
+                        "",
+                        "[sound:rec1664106123.mp3]"
+                    ],
+                    "guid": "M~tjIEj<<z",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "แบงก์",
+                        "bank",
+                        "",
+                        "",
+                        "[sound:rec1664106152.mp3]"
+                    ],
+                    "guid": "svY/DjRkd6",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สำนักงานตรวจคนเข้าเมือง",
+                        "Immigration office",
+                        "",
+                        "",
+                        "[sound:rec1664106178.mp3]"
+                    ],
+                    "guid": "yC=_J$)1xo",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ตม.",
+                        "Immigration office",
+                        "",
+                        "",
+                        "[sound:rec1664106198.mp3]"
+                    ],
+                    "guid": "j{A~9E|WW/",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สำนักงาน",
+                        "Office",
+                        "",
+                        "",
+                        "[sound:rec1664106222.mp3]"
+                    ],
+                    "guid": "f~Afl@~?OI",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ไปรษณีย์",
+                        "Post office",
+                        "",
+                        "",
+                        "[sound:rec1664106241.mp3]"
+                    ],
+                    "guid": "z~3bS<fW)b",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ร้านขายยา",
+                        "Pharmacy ",
+                        "",
+                        "",
+                        "[sound:rec1664106266.mp3]"
+                    ],
+                    "guid": "u`b~f3sI;h",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "โรงพยาบาล",
+                        "Hospital",
+                        "",
+                        "",
+                        "[sound:rec1664106288.mp3]"
+                    ],
+                    "guid": "iXdJ0,@PHe",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "คลินิกหมอฟัน",
+                        "Dental clinic",
+                        "",
+                        "",
+                        "[sound:rec1664106313.mp3]"
+                    ],
+                    "guid": "GPe)}|i1jj",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "คลินิก",
+                        "clinic",
+                        "",
+                        "",
+                        "[sound:rec1664106335.mp3]"
+                    ],
+                    "guid": "F2NPTVCe2&",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สถานีตำรวจ",
+                        "Police station",
+                        "",
+                        "",
+                        "[sound:rec1664106356.mp3]"
+                    ],
+                    "guid": "rHCb8Oyuu/",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "โรงพัก",
+                        "Police station",
+                        "",
+                        "",
+                        "[sound:rec1664106379.mp3]"
+                    ],
+                    "guid": "z|w`-ozid;",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สถานีรถไฟฟ้า",
+                        "Skytrain station (BTS)",
+                        "",
+                        "",
+                        "[sound:rec1664106402.mp3]"
+                    ],
+                    "guid": "b[@h4%gt,3",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สถานีรถไฟใต้ดิน",
+                        "Subway station (MRT)",
+                        "",
+                        "",
+                        "[sound:rec1664106438.mp3]"
+                    ],
+                    "guid": "r2+/3S(g,$",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เอ็มอาร์ที",
+                        "MRT",
+                        "",
+                        "",
+                        "[sound:rec1664106476.mp3]"
+                    ],
+                    "guid": "gz7$YILobd",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "แถวนี้",
+                        "around here",
+                        "",
+                        "",
+                        "[sound:rec1664106502.mp3]"
+                    ],
+                    "guid": "z3Xz@D&uqq",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เลี้ยว",
+                        "to turn",
+                        "",
+                        "",
+                        "[sound:rec1664106537.mp3]"
+                    ],
+                    "guid": "u~^nj$lD2F",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ขวา",
+                        "right",
+                        "",
+                        "",
+                        "[sound:rec1664106562.mp3]"
+                    ],
+                    "guid": "lU+9x74]7|",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ซ้าย",
+                        "left",
+                        "",
+                        "",
+                        "[sound:rec1664106585.mp3]"
+                    ],
+                    "guid": "l!a6ftbWW@",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เลี้ยวขวา",
+                        "turn right",
+                        "",
+                        "",
+                        "[sound:rec1664106606.mp3]"
+                    ],
+                    "guid": "e6pO!]hNzJ",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เลี้ยวซ้าย",
+                        "turn left",
+                        "",
+                        "",
+                        "[sound:rec1664106628.mp3]"
+                    ],
+                    "guid": "F-{9DyC^^[",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ซ้ายมือ",
+                        "left-hand side",
+                        "",
+                        "",
+                        "[sound:rec1664106665.mp3]"
+                    ],
+                    "guid": "w-9z?x?L=H",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ขวามือ",
+                        "right-hand side",
+                        "",
+                        "",
+                        "[sound:rec1664106687.mp3]"
+                    ],
+                    "guid": "oAGITY:|?s",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "และ",
+                        "and",
+                        "",
+                        "",
+                        "[sound:rec1664106715.mp3]"
+                    ],
+                    "guid": "fN!oG+ik+B",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "จะอยู่",
+                        "will be",
+                        "",
+                        "",
+                        "[sound:rec1664106734.mp3]"
+                    ],
+                    "guid": "yY6WLARMP_",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "อยู่",
+                        "verb to be",
+                        "",
+                        "",
+                        "[sound:rec1664106749.mp3]"
+                    ],
+                    "guid": "m:87*o*J,>",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ตรงไป",
+                        "go straight",
+                        "",
+                        "",
+                        "[sound:rec1664106779.mp3]"
+                    ],
+                    "guid": "t@Uen67e%!",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ทางขวา",
+                        "right side",
+                        "",
+                        "",
+                        "[sound:rec1664106806.mp3]"
+                    ],
+                    "guid": "w>J~xsoSS4",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ทางซ้าย",
+                        "left side",
+                        "",
+                        "",
+                        "[sound:rec1664106829.mp3]"
+                    ],
+                    "guid": "sQ1Z<+&WF5",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "กิโลเมตร",
+                        "kilometers",
+                        "",
+                        "",
+                        "[sound:rec1664106858.mp3]"
+                    ],
+                    "guid": "bl,y9.#4S:",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "กม.",
+                        "km.",
+                        "",
+                        "",
+                        "[sound:rec1664106880.mp3]"
+                    ],
+                    "guid": "Mgv;jwu?1*",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "เมตร",
+                        "meters",
+                        "",
+                        "",
+                        "[sound:rec1664106913.mp3]"
+                    ],
+                    "guid": "g4*d:Ci#V}",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ม.",
+                        "m.",
+                        "",
+                        "",
+                        "[sound:rec1664106928.mp3]"
+                    ],
+                    "guid": "gDUU3K](A6",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "กิโลกรัม",
+                        "kilograms",
+                        "",
+                        "",
+                        "[sound:rec1664106958.mp3]"
+                    ],
+                    "guid": "OQ8qX*tf^1",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "กก.",
+                        "kg.",
+                        "",
+                        "",
+                        "[sound:rec1664106987.mp3]"
+                    ],
+                    "guid": "Ft~RJM^,7|",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ที่สุด",
+                        "the most",
+                        "",
+                        "",
+                        "[sound:rec1664107040.mp3]"
+                    ],
+                    "guid": "x$z.,F(`?p",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ใกล้",
+                        "near",
+                        "",
+                        "",
+                        "[sound:rec1664107072.mp3]"
+                    ],
+                    "guid": "pcWz4N<k2t",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ไกล",
+                        "far",
+                        "",
+                        "",
+                        "[sound:rec1664107089.mp3]"
+                    ],
+                    "guid": "v65Ov*BunD",
+                    "note_model_uuid": "c24cf23c-3372-11ed-9a4a-736a04d18ce7",
+                    "tags": [
+                        "pasathai::lesson::Community_Places"
                     ]
                 }
             ]
