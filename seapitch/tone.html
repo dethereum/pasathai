@@ -1,0 +1,34 @@
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+</head>
+
+<body>
+    <div id="audio">[sound:rec1663834044.mp3]</div>
+    <div id="card-id">1662828284566</div>
+</body>
+
+<script type="text/javascript">
+    const URL_BASE = "http://127.0.0.1:4000"
+
+    function createLoad(payload) {
+        return {
+            method: "POST",
+            headers: {
+                'Content-type': 'application/json; charset=UTF-8',
+            },
+            body: JSON.stringify(payload)
+        }
+    }
+    //const data = d.map(({ x, y }, i) => ({ x, y: y.map((datum) => datum == 0 ? undefined : datum), mode: 'markers', name: i == 0 ? 'Native' : 'Sample' }))
+    //Plotly.newPlot("plot", data, layout);
+
+    const fetchNative = fetch(`${URL_BASE}/pitch_track_by_field`, createLoad({ field: document.getElementById('audio').innerHTML })).then(res => res.json())
+    const fetchRecordings = fetch(`${URL_BASE}/pitch_tracks`, createLoad({ 'card-id': document.getElementById('card-id').innerHTML })).then(res => res.json())
+
+    const allData = Promise.all([fetchNative, fetchRecordings])
+    allData.then(([nativeData, recordingsData]) => {
+        console.log("nativeData", nativeData)
+        console.log("recordingsData", recordingsData)
+    })
+
+</script>
