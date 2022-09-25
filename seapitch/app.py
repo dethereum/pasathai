@@ -41,11 +41,9 @@ def get_pitch_track_from_rec(rec):
 
 @app.route('/pitch_track_by_field', methods=['POST'])
 def pitch_track_by_field():
-    files = json.loads(request.data)['files']
+    field = json.loads(request.data)['field']
 
-    pitch_tracks = [get_pitch_track_from_field(file) for file in files]
-
-    return jsonify(pitch_tracks)
+    return jsonify(get_pitch_track_from_field(field))
 
 
 @app.route('/pitch_tracks', methods=['POST'])
