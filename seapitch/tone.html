@@ -5,10 +5,35 @@
 <body>
     <div id="audio">[sound:rec1663834044.mp3]</div>
     <div id="card-id">1662828284566</div>
+    <div id="btn-container"></div>
+    <div id="graph-container">
+        <div id="native-plot" style="width:1000px;height:600px;"></div>
+        <div id="rec-plot" style="width:1000px;height:600px;"></div>
+    </div>
 </body>
-
+<script type="text/javascript" src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <script type="text/javascript">
     const URL_BASE = "http://127.0.0.1:4000"
+    const container = document.getElementById('btn-container');
+
+    function getContourLayout(title) {
+        return {
+            title,
+            xaxis: {
+                title: 'seconds',
+                showgrid: false,
+            },
+            yaxis: {
+                title: 'frequency [Hz]',
+                range: [50, 400],
+                showgrid: false,
+            }
+        };
+    }
+
+    function getContourData({ x, y }, name) {
+        return { x, y: y.map((datum) => datum == 0 ? undefined : datum), mode: 'markers', name }
+    }
 
     function createLoad(payload) {
         return {
@@ -19,16 +44,22 @@
             body: JSON.stringify(payload)
         }
     }
-    //const data = d.map(({ x, y }, i) => ({ x, y: y.map((datum) => datum == 0 ? undefined : datum), mode: 'markers', name: i == 0 ? 'Native' : 'Sample' }))
-    //Plotly.newPlot("plot", data, layout);
 
     const fetchNative = fetch(`${URL_BASE}/pitch_track_by_field`, createLoad({ field: document.getElementById('audio').innerHTML })).then(res => res.json())
     const fetchRecordings = fetch(`${URL_BASE}/pitch_tracks`, createLoad({ 'card-id': document.getElementById('card-id').innerHTML })).then(res => res.json())
 
     const allData = Promise.all([fetchNative, fetchRecordings])
-    allData.then(([nativeData, recordingsData]) => {
-        console.log("nativeData", nativeData)
-        console.log("recordingsData", recordingsData)
-    })
 
+    allData.then(([nativeData, { ids, recordings }]) => {
+        Plotly.newPlot("native-plot", [getContourData(nativeData, 'Native')], getContourLayout('ong'));
+
+        ids.forEach((id) => {
+            let btn = document.createElement("button");
+            btn.innerHTML = id;
+            btn.addEventListener("click", function () {
+                Plotly.newPlot("rec-plot", [getContourData(recordings[id], 'Recording')], getContourLayout(id));
+            });
+            container.appendChild(btn);
+        })
+    })
 </script>

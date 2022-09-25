@@ -50,12 +50,12 @@ def pitch_track_by_field():
 def pitch_tracks():
     card_id = json.loads(request.data)['card-id']
 
-    p_tracks = []
+    p_tracks = {}
     ids = []
     for rec_id, rec_path in get_recording_names(card_id):
         pitch_track = {rec_id: get_pitch_track_from_rec(rec_path)}
 
-        p_tracks.append(pitch_track)
+        p_tracks.update(pitch_track)
         ids.append(rec_id)
 
     return jsonify({'recordings': p_tracks, 'ids': ids})
