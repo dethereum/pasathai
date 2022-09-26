@@ -17,9 +17,7 @@ def get_recording_names(card_id):
     return [(rec, path + '/' + rec) for rec in os.listdir(path)]
 
 
-def get_pitch_track_from_field(field):
-    name = field.split(':')[1].replace("]", "")
-
+def get_pitch_track_from_name(name):
     sound = parselmouth.Sound(
         '~/Library/Application Support/Anki2/User 1/collection.media/' + name)
 
@@ -43,7 +41,7 @@ def get_pitch_track_from_rec(rec):
 def pitch_track_by_field():
     field = json.loads(request.data)['field']
 
-    return jsonify(get_pitch_track_from_field(field))
+    return jsonify(get_pitch_track_from_name(field))
 
 
 @app.route('/pitch_tracks', methods=['POST'])
