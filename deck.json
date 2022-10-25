@@ -7588,7 +7588,8 @@
                 "rec1664026141.mp3",
                 "rec1664026166.mp3",
                 "rec1664026189.mp3",
-                "rec1664026216.mp3"
+                "rec1664026216.mp3",
+                "rec1666699727.mp3"
             ],
             "name": "vowels",
             "notes": [
@@ -8036,6 +8037,18 @@
                     "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
                     "tags": [
                         "pasathai::script::special"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "สระ อู",
+                        "[sound:rec1666699727.mp3]"
+                    ],
+                    "guid": "e1sWA#h-D$",
+                    "note_model_uuid": "b20c5758-3a6d-11ed-8ca6-c3e58fa25ff2",
+                    "tags": [
+                        "pasathai::script::long"
                     ]
                 }
             ]
