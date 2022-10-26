@@ -8061,6 +8061,7 @@
             "__type__": "DeckConfig",
             "autoplay": true,
             "buryInterdayLearning": false,
+            "conf": 1,
             "crowdanki_uuid": "4ea7d936-30f8-11ed-9bbf-2f560b994ad5",
             "dyn": false,
             "interdayLearningMix": 0,
