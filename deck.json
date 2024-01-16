@@ -8207,7 +8207,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 90
+                "perDay": 13
             },
             "newGatherPriority": 0,
             "newMix": 1,
@@ -8323,7 +8323,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 15
+                "perDay": 30
             },
             "newGatherPriority": 3,
             "newMix": 2,
@@ -8399,7 +8399,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 30
+                "perDay": 10
             },
             "newGatherPriority": 0,
             "newMix": 1,
