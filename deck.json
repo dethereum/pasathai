@@ -8942,7 +8942,7 @@
             "sortf": 0,
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Audio}}\n{{Back}}",
                     "bafmt": "",
                     "bfont": "Arial",
                     "bqfmt": "",
@@ -9120,7 +9120,7 @@
                     "qfmt": "{{Front}}\n{{#Part-Of-Speech}}\n[{{Part-Of-Speech}}]\n{{/Part-Of-Speech}}\n"
                 },
                 {
-                    "afmt": "{{Back}}\n\n<hr id=answer>\n\n{{type:Front}}",
+                    "afmt": "{{Back}}\n\n<hr id=answer>\n\n{{Audio}}\n\n{{type:Front}}",
                     "bafmt": "",
                     "bfont": "Arial",
                     "bqfmt": "",
@@ -9132,7 +9132,7 @@
                     "qfmt": "{{Back}}\n{{#Context}}[{{Context}}]{{/Context}}\n{{type:Front}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Audio}}\n\n{{Back}}",
                     "bafmt": "",
                     "bfont": "Arial",
                     "bqfmt": "",
